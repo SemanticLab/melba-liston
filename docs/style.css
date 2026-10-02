@@ -132,6 +132,42 @@ a.release:hover .release-title { text-decoration: underline; text-underline-offs
 .release-title { font-size: 17px; font-weight: 600; line-height: 1.25; text-wrap: pretty; }
 .release-by { font-size: 15px; color: var(--grey-dark); margin-top: 3px; }
 
+/* ---------- roster: who was on the records */
+.roster { border-top: 1px solid var(--ink); border-bottom: 1px solid var(--ink); padding: 32px 0 36px; margin-bottom: 44px; }
+.roster h3 { font-family: var(--display); font-weight: 400; font-size: clamp(24px,2.2vw,30px); line-height: 1; margin: 0; }
+.roster .lede { max-width: 78ch; margin-bottom: 28px; }
+.roster-grid { display: grid; grid-template-columns: repeat(auto-fill,minmax(230px,1fr)); gap: 14px 24px; }
+.person { display: grid; grid-template-columns: 44px minmax(0,1fr); gap: 12px; align-items: center; text-align: left; background: none; border: 0; border-left: 3px solid transparent; padding: 6px 8px 6px 9px; margin-left: -12px; color: var(--ink); cursor: pointer; }
+.person:hover .person-name { text-decoration: underline; text-underline-offset: 3px; }
+.person[aria-pressed="true"] { border-left-color: var(--red); background: #FBF1EE; }
+.person .avatar { width: 44px; height: 44px; font-size: 17px; border-width: 1px; }
+.person-name { font-size: 16px; font-weight: 600; line-height: 1.2; }
+.person-meta { font-family: var(--mono); font-size: 10.5px; letter-spacing: 0.06em; text-transform: uppercase; color: var(--grey); margin-top: 3px; line-height: 1.4; }
+.person-meta b { font-weight: 500; color: var(--ink); }
+.tag { display: inline-block; font-family: var(--mono); font-size: 9.5px; letter-spacing: 0.06em; text-transform: uppercase; padding: 1px 6px; border-radius: 999px; margin: 4px 4px 0 0; border: 1px solid var(--red); color: var(--red); }
+.tag.she { border-color: var(--ink); color: var(--ink); }
+.roster-more { display: block; margin: 24px 0 0; font-family: var(--mono); font-size: 12px; letter-spacing: 0.06em; padding: 8px 14px; border-radius: 999px; border: 1px solid var(--ink); background: transparent; color: var(--ink); cursor: pointer; }
+.roster-more:hover { background: var(--ink); color: #FFFFFF; }
+.roster-more[hidden] { display: none; }
+.person-detail { margin-top: 28px; border-top: 2px solid var(--ink); padding-top: 20px; display: grid; grid-template-columns: minmax(220px,0.6fr) minmax(0,1.5fr); gap: 20px 40px; align-items: start; }
+.person-detail[hidden] { display: none; }
+.pd-who { display: grid; grid-template-columns: 72px minmax(0,1fr); gap: 16px; align-items: start; }
+.pd-name { font-family: var(--display); font-size: 30px; line-height: 1.05; }
+.pd-desc { font-size: 15px; color: var(--grey-dark); margin-top: 4px; line-height: 1.35; }
+.pd-facts { font-family: var(--mono); font-size: 11px; letter-spacing: 0.06em; text-transform: uppercase; color: var(--grey); margin-top: 10px; line-height: 1.7; }
+.pd-words { display: grid; gap: 24px; }
+.pd-head { font-family: var(--mono); font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--red); margin-bottom: 8px; }
+.pd-quote { font-family: var(--display); font-style: italic; font-size: 26px; line-height: 1.22; text-wrap: pretty; max-width: 34ch; }
+.pd-quote + .pd-quote { margin-top: 10px; }
+.pd-plain { font-size: 17px; line-height: 1.45; max-width: 60ch; text-wrap: pretty; }
+.pd-note { font-size: 15px; line-height: 1.4; color: var(--grey-dark); margin-top: 8px; max-width: 60ch; }
+.linkish.pd-open { font-family: var(--mono); font-size: 12px; letter-spacing: 0.04em; margin-top: 10px; display: inline-block; }
+.pd-none { font-size: 17px; color: var(--grey-dark); max-width: 60ch; line-height: 1.45; }
+.grid-filter { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; font-family: var(--mono); font-size: 12px; letter-spacing: 0.06em; text-transform: uppercase; margin-bottom: 24px; }
+.grid-filter[hidden] { display: none; }
+.grid-filter button { font: inherit; letter-spacing: inherit; text-transform: inherit; padding: 6px 12px; border-radius: 999px; border: 1px solid var(--ink); background: transparent; color: var(--ink); cursor: pointer; }
+.grid-filter button:hover { background: var(--ink); color: #FFFFFF; }
+
 /* ---------- transcript passage (popup) */
 .linkish { font: inherit; letter-spacing: inherit; text-transform: inherit; color: var(--red); background: none; border: 0; padding: 0; cursor: pointer; }
 .linkish:hover { color: var(--ink); text-decoration: underline; text-underline-offset: 3px; }
@@ -188,6 +224,9 @@ a.release:hover .release-title { text-decoration: underline; text-underline-offs
   .tl-when { flex-direction: row; align-items: flex-end; justify-content: space-between; }
   .own { padding: 56px var(--pad); }
   .own-link { margin-left: 0; }
+  .person-detail { grid-template-columns: 1fr; }
+  .roster-grid { grid-template-columns: repeat(auto-fill,minmax(160px,1fr)); }
+  .pd-quote { font-size: 23px; }
   .passage-head { padding: 16px 18px 14px; }
   .passage-head h3 { font-size: 22px; }
   .passage-body { padding: 4px 18px 18px; }

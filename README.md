@@ -316,6 +316,22 @@ dated neighbours and drawn grey. A line of hers that needs its question
 (`stands_alone: false`) is shown with the reading pass's one-sentence summary
 under it.
 
+### "Who was on the records"
+
+Inside the Discography section. Counted only on the 67 releases she played on,
+arranged or led (a composer credit is not a session): 464 named musicians, 176
+on more than one, 22 on eight or more. The page lists everyone on three or more
+plus anyone with words in either direction (123 people). Nine spoke of her
+(their card is the same vetted quote as in "What people said"); she spoke of 23
+(`her_words.json`, only `her_statement` and `her_assent`; where she only agreed,
+the reading pass's summary is shown beside or in place of a quote). The six she
+recorded with most often (Clark Terry, Jerome Richardson, Jimmy Cleveland, Ernie
+Royal, Joe Newman, Phil Woods) are in neither group, though three of them have
+oral histories in the corpus. Choosing a person filters the release grid to the
+records they share. Portraits flagged `not_commons_licence_unverified` or
+`picked_from_category_not_curated` are not used (the latter gave Oliver Nelson a
+photograph of a car).
+
 ### Sections of "In her own words"
 
 Every pull quote in `own_voice.json` (173 hers, 83 Bryant's) carries a

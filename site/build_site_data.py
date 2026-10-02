@@ -14,6 +14,8 @@ What the page shows, and from where:
                  have a verbatim lead quote; site/editorial.json for the rest
   her words      own_voice.json -> self, with the category pass's sections
   discography    discography.json, shared/cover_art.json
+  roster         discography_personnel.json: who is on the records with her more
+                 than once, and what either said of the other
   passages       docs/transcripts.json: the transcript text behind every quote,
                  opened in place by the page. Her own interview goes in whole;
                  each witness's interview as a window around the quoted turn,
@@ -61,6 +63,21 @@ FOOTER = re.compile(
     r"(?:©\s*Fillius\s+Jazz\s+Archive[^A-Za-z]*(?:-\s*\d+\s*-)?|"
     r"Fillius\s+Jazz\s+Archive,\s*Hamilton\s+College[^.]*\.?|"
     r"-\s*\d+\s*-)\s*$", re.I)
+# a release counts as working together only if she was in the room or on the chart
+PRESENT = {"sidewoman", "arranger", "leader"}
+ROSTER_MIN = 3          # shared releases to be listed (anyone with words is listed regardless)
+INSTRUMENT_ALIASES = {
+    "alto sax": "alto saxophone", "tenor sax": "tenor saxophone", "baritone sax": "baritone saxophone",
+    "sax": "saxophone", "alto saxophones": "alto saxophone", "french horns": "french horn",
+    "trumpets": "trumpet", "woodwind": "woodwinds", "string bass": "bass", "double bass": "bass",
+    "violoncello": "cello", "vibes": "vibraphone", "conga": "congas", "hammond organ": "organ",
+    "lead vocals": "vocals", "arrangement": "arranger"}
+INSTRUMENTS = {
+    "alto saxophone", "tenor saxophone", "baritone saxophone", "soprano saxophone", "saxophone",
+    "trumpet", "flugelhorn", "cornet", "trombone", "bass trombone", "french horn", "tuba",
+    "flute", "piccolo", "clarinet", "bass clarinet", "oboe", "bassoon", "reeds", "woodwinds",
+    "piano", "organ", "bass", "bass guitar", "guitar", "drums", "percussion", "congas", "bongos",
+    "vibraphone", "violin", "cello", "strings", "vocals", "arranger", "conductor", "bandleader"}
 NUMBER_WORDS = ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine",
                 "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen",
                 "seventeen", "eighteen", "nineteen", "twenty", "twenty-one", "twenty-two",
@@ -233,8 +250,9 @@ def build_voices(wit, editorial, transcripts):
 # ------------------------------------------------------------------ discography
 def build_releases(disc, covers):
     by_qid = {v["qid"]: mbid for mbid, v in covers["items"].items() if v.get("qid")}
-    out = []
+    out, index = [], {}
     for n, r in enumerate(sorted(disc["releases"], key=lambda r: (str(r["year"]), r["title"]))):
+        index[r["title"]] = n
         leader = r.get("leader")
         if not leader:
             m = re.search(r"\bby (.+)$", r.get("description") or "")
@@ -254,7 +272,93 @@ def build_releases(disc, covers):
         })
     roles = Counter(r["role"] for r in out)
     pills = [{"key": k, "label": lab, "count": roles[k]} for k, lab in ROLE_PILLS if roles[k]]
-    return out, pills
+    return out, pills, index
+
+
+# ------------------------------------------------------------------ roster
+def instrument(role):
+    r = re.sub(r"\s*[(:].*$", "", (role or "").lower()).strip()
+    r = re.sub(r"\s+(?:on|track|tracks)\b.*$", "", r)
+    r = INSTRUMENT_ALIASES.get(r, r)
+    return r if r in INSTRUMENTS else None
+
+
+def build_roster(disc, roster, images, release_index, cards, credits):
+    """Who recurs on the releases she played, arranged or led, and what either
+    said of the other. Words about her are the witness cards' own (already read
+    against their cautions); words of hers are her_words, verbatim or flagged."""
+    people = {p["person_key"]: p for p in roster["people"]}
+    card_by_qid = {c["qid"]: c for c in cards if c["qid"]}
+    shared, roles = {}, {}
+    n_present = 0
+    for r in disc["releases"]:
+        if r["subject_role"] not in PRESENT:
+            continue
+        n_present += 1
+        seen = set()
+        for m in r["personnel"]:
+            k = m["person_key"]
+            if k in seen or k not in people or m["credit_type"] != "musician":
+                continue
+            seen.add(k)
+            shared.setdefault(k, []).append(release_index[r["title"]])
+            roles.setdefault(k, Counter()).update(filter(None, map(instrument, m.get("roles") or [])))
+    shared = {k: v for k, v in shared.items()
+              if not re.fullmatch(r"Q\d+", people[k]["name"]) and " or " not in people[k]["name"]}
+
+    out = []
+    for k, rel in shared.items():
+        p = people[k]
+        card = card_by_qid.get(p["qid"]) if p["said_about_subject"] else None
+        ss = p["she_said"] if p["she_spoke_of_them"] else None
+        if ss and ss["basis"] not in ("her_statement", "her_assent"):
+            ss = None
+        if len(rel) < ROSTER_MIN and not card and not ss:
+            continue
+        img = None
+        im = (images.get(p["qid"]) or {}).get("image") if p["qid"] else None
+        # no portrait whose licence is unverified, or that was picked from a Commons
+        # category without anyone looking at it (Oliver Nelson's was a car)
+        if im and not {"not_commons_licence_unverified", "picked_from_category_not_curated"} \
+                & set(im.get("review_flags") or []) \
+                and (ROOT / "img" / "p" / f"{p['qid']}.jpg").exists():
+            img = f"img/p/{p['qid']}.jpg"
+            copy(ROOT / img, OUT / img)
+            if not any(c["name"] == p["name"] for c in credits):
+                credits.append({"name": p["name"], "attribution": im.get("attribution") or "",
+                                "page": im.get("commons_page")})
+        out.append({
+            "k": k, "name": p["name"], "desc": p.get("description") or "",
+            "inst": [i for i, _ in roles[k].most_common(2)],
+            "n": len(rel), "rel": sorted(rel), "img": img,
+            "wiki": f"https://en.wikipedia.org/wiki/{p['wikipedia'].replace(' ', '_')}" if p.get("wikipedia") else None,
+            "interviewed": bool(p["interviewed_in_corpus"]),
+            "said": {"quote": card["quote"], "second": card["second"], "note": card["note"],
+                     "doc": card["doc"], "blocks": card["blocks"]} if card else None,
+            "she": {"agreed": ss["basis"] == "her_assent", "line": ss["one_liner"],
+                    "quote": ss.get("her_quote") or None, "block": ss.get("her_quote_block_id"),
+                    "sum": ss["summary"]} if ss else None,
+        })
+    out.sort(key=lambda x: (-x["n"], x["name"]))
+
+    twice = sum(1 for v in shared.values() if len(v) >= 2)
+    eight = sum(1 for v in shared.values() if len(v) >= 8)
+    n_said = sum(1 for x in out if x["said"])
+    n_she = sum(1 for x in out if x["she"])
+    silent = []
+    for x in out:                      # the leading run with no words either way
+        if x["said"] or x["she"]:
+            break
+        silent.append(x["name"])
+    lede = (f"{len(shared)} musicians are credited on the {n_present} releases she played on, arranged "
+            f"or led. {twice} of them are there more than once, and {eight} on eight or more. "
+            f"{NUMBER_WORDS[n_said].capitalize()} spoke of her in their own oral histories; she spoke "
+            f"of {NUMBER_WORDS[n_she] if n_she < len(NUMBER_WORDS) else n_she} of them in hers.")
+    if len(silent) >= 3:
+        lede += (f" The {NUMBER_WORDS[len(silent)]} she recorded with most often, "
+                 f"{', '.join(silent[:-1])} and {silent[-1]}, are in neither group.")
+    return {"lede": lede, "min": ROSTER_MIN, "people": out,
+            "counts": {"said": n_said, "she": n_she}}
 
 
 def main():
@@ -274,7 +378,9 @@ def main():
     hero_img = load(ROOT / "shared" / "images.json")["people"][SUBJ.QID]["image"]
     credits.append({"name": "Melba Liston (cut-out at the top of the page, from)",
                     "attribution": hero_img["attribution"], "page": hero_img["commons_page"]})
-    releases, role_pills = build_releases(disc, covers)
+    releases, role_pills, release_index = build_releases(disc, covers)
+    roster = build_roster(disc, load(D / "discography_personnel.json"),
+                          load(ROOT / "shared" / "images.json")["people"], release_index, voices, credits)
     cats = {c["key"]: c for c in ov["categories"]}
     own = [{"q": i["pull_quote"], "cat": i["category"], "alone": i["stands_alone"],
             "sum": i["summary"], "b": i["block_id"], "n": i["notable"]}
@@ -317,13 +423,20 @@ def main():
                            for c in ov["categories"]],
             "items": own,
         },
-        "discography": {"count": len(releases), "roles": role_pills, "releases": releases},
+        "discography": {"count": len(releases), "roles": role_pills, "releases": releases,
+                        "roster": roster},
         "credits": {"portraits": sorted(credits, key=lambda c: c["name"]),
                     "covers": "Album covers from the Cover Art Archive, shown for identification."},
     }
     OUT.mkdir(exist_ok=True)
     (OUT / "data.json").write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")),
                                    encoding="utf-8")
+
+    # drop portraits and sleeves an earlier build copied that the page no longer shows
+    used = {c["img"] for c in voices} | {x["img"] for x in roster["people"]} | {r["cover"] for r in releases}
+    for f in list((OUT / "img" / "p").glob("*.jpg")) + list((OUT / "img" / "a").glob("*.jpg")):
+        if str(f.relative_to(OUT)) not in used:
+            f.unlink()
 
     (OUT / "transcripts.json").write_text(
         json.dumps(transcripts, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
@@ -338,6 +451,9 @@ def main():
           f"({sum(1 for e in data['timeline']['events'] if e['approx'])} undated, placed in sequence)")
     print(f"  voices {len(voices)} cards  " + "  ".join(f"{t['label']} {t['count']}" for t in tiers))
     print(f"  her words {len(own)} in {len(cats)} sections")
+    print(f"  roster {len(roster['people'])} people  spoke of her {roster['counts']['said']}  "
+          f"she spoke of {roster['counts']['she']}")
+    print("   ", roster["lede"])
     print(f"  discography {len(releases)} releases, {sum(1 for r in releases if r['cover'])} with a sleeve, "
           f"{sum(1 for r in releases if not r['url'])} with no link")
 

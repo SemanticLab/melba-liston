@@ -210,13 +210,12 @@
   // ---------------------------------------------------------------- voices
   function renderVoices(v) {
     let tier = 'all';
-    const initials = (name) => name.replace(/"[^"]*"/g, '').split(/\s+/).filter(Boolean).map((w) => w[0]).join('').slice(0, 3);
     const draw = () => {
       const cards = v.cards.filter((c) => tier === 'all' || c.tiers.includes(tier));
       $('voice-grid').replaceChildren(...cards.map((c) =>
         el('button', { type: 'button', class: 'voice', title: c.source,
             onclick: () => openPassage({ doc: c.doc, blocks: c.blocks, marks: [c.quote, c.second] }) },
-          el('div', { class: 'avatar' }, c.img ? el('img', { src: c.img, alt: '', loading: 'lazy' }) : initials(c.name)),
+          avatar(c),
           el('div', null,
             el('div', { class: 'voice-name' }, c.name),
             el('div', { class: 'voice-line' }, c.line),
@@ -253,10 +252,23 @@
   }
 
   // ---------------------------------------------------------------- discography
+  const initials = (name) => name.replace(/"[^"]*"/g, '').split(/\s+/).filter(Boolean).map((w) => w[0]).join('').slice(0, 3);
+  const avatar = (p) => el('div', { class: 'avatar' }, p.img ? el('img', { src: p.img, alt: '', loading: 'lazy' }) : initials(p.name));
+
   function renderDiscography(disc) {
-    let role = 'all';
-    const draw = () => {
-      const rs = disc.releases.filter((r) => role === 'all' || r.role === role);
+    const roster = disc.roster;
+    let role = 'all', tab = 'most', person = null, showAll = false;
+    const TOP = 24;
+
+    const drawGrid = () => {
+      const only = person && new Set(person.rel);
+      const rs = disc.releases.filter((r, i) => (role === 'all' || r.role === role) && (!only || only.has(i)));
+      const bar = $('grid-filter');
+      bar.hidden = !person;
+      if (person) {
+        bar.replaceChildren(`${rs.length} of the ${person.n} releases with ${person.name}`,
+          el('button', { type: 'button', onclick: () => pick(null) }, 'Show all releases ×'));
+      }
       $('release-grid').replaceChildren(...rs.map((r) => {
         const cover = el('div', { class: 'cover' + (r.cover ? ' has-img' : ''), style: r.cover ? null : `background:${r.bg}` },
           r.cover ? el('img', { src: r.cover, alt: '', loading: 'lazy' }) : null,
@@ -268,10 +280,83 @@
                      : el('div', { class: 'release' }, cover, text);
       }));
     };
+
+    // ---- the roster: people who recur on the records, and what was said
+    const listed = () => (tab === 'said' ? roster.people.filter((p) => p.said)
+      : tab === 'she' ? roster.people.filter((p) => p.she)
+      : roster.people.filter((p) => p.n >= roster.min));
+    const drawRoster = () => {
+      const all = listed();
+      const shown = tab === 'most' && !showAll ? all.slice(0, TOP) : all;
+      $('roster-grid').replaceChildren(...shown.map((p) =>
+        el('button', { type: 'button', class: 'person', 'aria-pressed': String(person === p), onclick: () => pick(person === p ? null : p) },
+          avatar(p),
+          el('div', null,
+            el('div', { class: 'person-name' }, p.name),
+            el('div', { class: 'person-meta' }, p.inst.length ? p.inst[0] + ' · ' : '', el('b', null, `${p.n} ${p.n === 1 ? 'record' : 'records'}`)),
+            p.said ? el('span', { class: 'tag' }, 'spoke of her') : null,
+            p.she ? el('span', { class: 'tag she' }, 'she spoke of them') : null))));
+      const more = $('roster-more');
+      more.hidden = !(tab === 'most' && all.length > TOP);
+      more.textContent = showAll ? `Show only the top ${TOP}` : `Show all ${all.length} on ${roster.min} or more`;
+    };
+
+    const drawPerson = () => {
+      const box = $('person-detail');
+      box.hidden = !person;
+      if (!person) return;
+      const p = person;
+      const years = p.rel.map((i) => parseInt(disc.releases[i].year, 10)).filter(Boolean);
+      const span = years.length ? (Math.min(...years) === Math.max(...years) ? `${years[0]}` : `${Math.min(...years)}–${Math.max(...years)}`) : '';
+      const words = [];
+      if (p.said) {
+        words.push(el('div', null,
+          el('div', { class: 'pd-head' }, `${p.name} on Liston`),
+          el('div', { class: 'pd-quote' }, `“${p.said.quote}”`),
+          p.said.second ? el('div', { class: 'pd-quote' }, `“${p.said.second}”`) : null,
+          p.said.note ? el('div', { class: 'pd-note' }, p.said.note) : null,
+          el('button', { type: 'button', class: 'linkish pd-open', onclick: () => openPassage({ doc: p.said.doc, blocks: p.said.blocks, marks: [p.said.quote, p.said.second] }) }, 'Read the passage →')));
+      }
+      if (p.she) {
+        words.push(el('div', null,
+          el('div', { class: 'pd-head' }, `Liston on ${p.name}`),
+          p.she.quote ? el('div', { class: 'pd-quote' }, `“${p.she.quote}”`) : el('div', { class: 'pd-plain' }, p.she.sum),
+          // a short line of hers is often an answer; say what it answers
+          p.she.quote && (p.she.agreed || p.she.quote.length < 60) ? el('div', { class: 'pd-note' }, p.she.sum) : null,
+          p.she.block ? el('button', { type: 'button', class: 'linkish pd-open', onclick: () => openPassage({ doc: 'own', blocks: [p.she.block], marks: [p.she.quote] }) }, 'Read the passage →') : null));
+      }
+      if (!words.length) {
+        words.push(el('div', { class: 'pd-none' }, p.interviewed
+          ? `${p.name}’s own oral history is in the collection and does not mention her; she does not speak of ${p.name} in hers.`
+          : `Neither speaks of the other on tape: ${p.name} has no oral history in the collection, and she does not mention ${p.name} in hers.`));
+      }
+      box.replaceChildren(
+        el('div', { class: 'pd-who' }, avatar(p),
+          el('div', null,
+            el('div', { class: 'pd-name' }, p.name),
+            p.desc ? el('div', { class: 'pd-desc' }, p.desc) : null,
+            el('div', { class: 'pd-facts' }, `${p.n} ${p.n === 1 ? 'release' : 'releases'} with her`, span ? ` · ${span}` : '',
+              p.inst.length ? el('div', null, p.inst.join(', ')) : null,
+              p.wiki ? el('div', null, el('a', ext({ href: p.wiki }), 'Wikipedia →')) : null))),
+        el('div', { class: 'pd-words' }, words));
+    };
+
+    function pick(p) {
+      person = p;
+      drawRoster(); drawPerson(); drawGrid();
+    }
+
+    $('roster-lede').textContent = roster.lede;
+    $('roster-more').addEventListener('click', () => { showAll = !showAll; drawRoster(); });
+    pills($('roster-pills'), [
+      { key: 'most', label: 'Most records' },
+      { key: 'said', label: `Spoke of her · ${roster.counts.said}` },
+      { key: 'she', label: `She spoke of them · ${roster.counts.she}` },
+    ], () => tab, (k) => { tab = k; showAll = false; drawRoster(); });
     pills($('role-pills'),
       [{ key: 'all', label: `All ${disc.count}` }, ...disc.roles],
-      () => role, (k) => { role = k; draw(); });
-    draw();
+      () => role, (k) => { role = k; drawGrid(); });
+    drawRoster(); drawGrid();
   }
 
   function renderCredits(c) {
