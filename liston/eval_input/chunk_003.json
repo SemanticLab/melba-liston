@@ -1,0 +1,5694 @@
+{
+ "subject": "liston",
+ "qid": "Q274146",
+ "chunk": 3,
+ "n_chunks": 3,
+ "count": 34,
+ "own_interview": true,
+ "items": [
+  {
+   "block_id": 296141,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 43,
+   "block": 7,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b43-7"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 296134,
+     "page": 43,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "",
+     "text": "like when Billy Mitchell came in on that saxophone, you had set it up. He came in, and Dizzy. Whew. He came in. And I noticed that the drums accent with the trumpet. Do you do that a lot? Do you write for the drums too?"
+    },
+    {
+     "block_id": 296135,
+     "page": 43,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah."
+    },
+    {
+     "block_id": 296136,
+     "page": 43,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "I noticed on that arrangement, that he catches all of those licks"
+    },
+    {
+     "block_id": 296137,
+     "page": 43,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah."
+    },
+    {
+     "block_id": 296138,
+     "page": 43,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Okay, we’re going to move on, and is this Little Niles? Watson: My Reverie."
+    },
+    {
+     "block_id": 296139,
+     "page": 43,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Oh yeah, My Reverie. Oh yeah, Melba, My Reverie. The first time I heard that – wow. That is – honestly, and I’ve told two or three people that, and I’m getting goose bumps just thinking about – that is one of the most beautiful things you’ve ever done – especially the haunting sound that you get on your trombone and what you write behind what you’re doing. Let’s listen – hear what I’m trying to say. [The music plays.] Hey that’s so pretty it makes you want to cry, Melba. And you know you used that [wah-wah sound], and you know where Dizzy uses the last time he played on record, on that record he did with kids up in ’Frisco? What are they called? And the last – on his favorite song that I love – He wrote the song. And he used to – when I’d go up to the club, he’d stop the band. They’d play this song. I Waited for You. Remember he did that on the end of that? I think he must have been thinking about Melba, because I – that set the whole thing for me. What were you thinking about when you . . ."
+    },
+    {
+     "block_id": 296140,
+     "page": 43,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I don’t know."
+    }
+   ],
+   "target": {
+    "block_id": 296141,
+    "page": 43,
+    "block": 7,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "Yes you do. You have to. When you are playing something like that, Melba, or you’re writing something, you’ve got to have – you’ve got to – either your old man was something or other."
+   },
+   "context_after": [
+    {
+     "block_id": 296142,
+     "page": 43,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No"
+    },
+    {
+     "block_id": 296143,
+     "page": 43,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Come on."
+    },
+    {
+     "block_id": 296144,
+     "page": 43,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No."
+    },
+    {
+     "block_id": 296145,
+     "page": 43,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You just wrote that off the top of your head like that and played that like that?"
+    },
+    {
+     "block_id": 296146,
+     "page": 44,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I played whatever . . ."
+    },
+    {
+     "block_id": 296147,
+     "page": 44,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Came in your mind?"
+    },
+    {
+     "block_id": 296148,
+     "page": 44,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah. That particular time. I don’t know if I played it the next time like that or not."
+    },
+    {
+     "block_id": 296149,
+     "page": 44,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "That’s what I’m saying."
+    }
+   ],
+   "window_chars": 1816
+  },
+  {
+   "block_id": 296151,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 44,
+   "block": 5,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b44-5"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 296143,
+     "page": 43,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Come on."
+    },
+    {
+     "block_id": 296144,
+     "page": 43,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No."
+    },
+    {
+     "block_id": 296145,
+     "page": 43,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You just wrote that off the top of your head like that and played that like that?"
+    },
+    {
+     "block_id": 296146,
+     "page": 44,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I played whatever . . ."
+    },
+    {
+     "block_id": 296147,
+     "page": 44,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Came in your mind?"
+    },
+    {
+     "block_id": 296148,
+     "page": 44,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah. That particular time. I don’t know if I played it the next time like that or not."
+    },
+    {
+     "block_id": 296149,
+     "page": 44,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "That’s what I’m saying."
+    },
+    {
+     "block_id": 296150,
+     "page": 44,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "So I don’t know. But it wasn’t about nothing."
+    }
+   ],
+   "target": {
+    "block_id": 296151,
+    "page": 44,
+    "block": 5,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "No? Melba, you can ’fess up."
+   },
+   "context_after": [
+    {
+     "block_id": 296152,
+     "page": 44,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "About nothing – about the notes. That’s about the notes. That’s about the notes. That’s all."
+    },
+    {
+     "block_id": 296153,
+     "page": 44,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Anybody plays like that, got to be thinking about something. Melba?"
+    },
+    {
+     "block_id": 296154,
+     "page": 44,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I got to be thinking about the notes, man. I got to be thinking about the notes – the notes, man."
+    },
+    {
+     "block_id": 296155,
+     "page": 44,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "And the arrangement – you set yourself up so good."
+    },
+    {
+     "block_id": 296156,
+     "page": 44,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Maybe I was arranging, I thought about something. I don’t know. But blowing, I don’t think about nothing but the notes."
+    },
+    {
+     "block_id": 296157,
+     "page": 44,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Is that right?"
+    },
+    {
+     "block_id": 296158,
+     "page": 44,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "That one, anyway."
+    },
+    {
+     "block_id": 296159,
+     "page": 44,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Okay, clean it up, Melba. And I’ve heard guys say that when they’re playing, like a ballad, they’re usually thinking about some situation or some woman or something that really makes them put a little more oomph into it, a little more edge, a little more soul. I mean, with some of those notes you were playing on there, especially on the tag – you know when you’re going out, and you kept going up [Bryant sings the trombone melody.] Something was goosing you."
+    }
+   ],
+   "window_chars": 1233
+  },
+  {
+   "block_id": 296153,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 44,
+   "block": 7,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b44-7"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 296145,
+     "page": 43,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You just wrote that off the top of your head like that and played that like that?"
+    },
+    {
+     "block_id": 296146,
+     "page": 44,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I played whatever . . ."
+    },
+    {
+     "block_id": 296147,
+     "page": 44,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Came in your mind?"
+    },
+    {
+     "block_id": 296148,
+     "page": 44,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah. That particular time. I don’t know if I played it the next time like that or not."
+    },
+    {
+     "block_id": 296149,
+     "page": 44,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "That’s what I’m saying."
+    },
+    {
+     "block_id": 296150,
+     "page": 44,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "So I don’t know. But it wasn’t about nothing."
+    },
+    {
+     "block_id": 296151,
+     "page": 44,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "No? Melba, you can ’fess up."
+    },
+    {
+     "block_id": 296152,
+     "page": 44,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "About nothing – about the notes. That’s about the notes. That’s about the notes. That’s all."
+    }
+   ],
+   "target": {
+    "block_id": 296153,
+    "page": 44,
+    "block": 7,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "Anybody plays like that, got to be thinking about something. Melba?"
+   },
+   "context_after": [
+    {
+     "block_id": 296154,
+     "page": 44,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I got to be thinking about the notes, man. I got to be thinking about the notes – the notes, man."
+    },
+    {
+     "block_id": 296155,
+     "page": 44,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "And the arrangement – you set yourself up so good."
+    },
+    {
+     "block_id": 296156,
+     "page": 44,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Maybe I was arranging, I thought about something. I don’t know. But blowing, I don’t think about nothing but the notes."
+    },
+    {
+     "block_id": 296157,
+     "page": 44,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Is that right?"
+    },
+    {
+     "block_id": 296158,
+     "page": 44,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "That one, anyway."
+    },
+    {
+     "block_id": 296159,
+     "page": 44,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Okay, clean it up, Melba. And I’ve heard guys say that when they’re playing, like a ballad, they’re usually thinking about some situation or some woman or something that really makes them put a little more oomph into it, a little more edge, a little more soul. I mean, with some of those notes you were playing on there, especially on the tag – you know when you’re going out, and you kept going up [Bryant sings the trombone melody.] Something was goosing you."
+    },
+    {
+     "block_id": 296160,
+     "page": 44,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I don’t know. I don’t know what it was."
+    },
+    {
+     "block_id": 296161,
+     "page": 44,
+     "block": 15,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Okay. I’m trying to get it out."
+    }
+   ],
+   "window_chars": 1292
+  },
+  {
+   "block_id": 296159,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 44,
+   "block": 13,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b44-13"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 296151,
+     "page": 44,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "No? Melba, you can ’fess up."
+    },
+    {
+     "block_id": 296152,
+     "page": 44,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "About nothing – about the notes. That’s about the notes. That’s about the notes. That’s all."
+    },
+    {
+     "block_id": 296153,
+     "page": 44,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Anybody plays like that, got to be thinking about something. Melba?"
+    },
+    {
+     "block_id": 296154,
+     "page": 44,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I got to be thinking about the notes, man. I got to be thinking about the notes – the notes, man."
+    },
+    {
+     "block_id": 296155,
+     "page": 44,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "And the arrangement – you set yourself up so good."
+    },
+    {
+     "block_id": 296156,
+     "page": 44,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Maybe I was arranging, I thought about something. I don’t know. But blowing, I don’t think about nothing but the notes."
+    },
+    {
+     "block_id": 296157,
+     "page": 44,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Is that right?"
+    },
+    {
+     "block_id": 296158,
+     "page": 44,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "That one, anyway."
+    }
+   ],
+   "target": {
+    "block_id": 296159,
+    "page": 44,
+    "block": 13,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "Okay, clean it up, Melba. And I’ve heard guys say that when they’re playing, like a ballad, they’re usually thinking about some situation or some woman or something that really makes them put a little more oomph into it, a little more edge, a little more soul. I mean, with some of those notes you were playing on there, especially on the tag – you know when you’re going out, and you kept going up [Bryant sings the trombone melody.] Something was goosing you."
+   },
+   "context_after": [
+    {
+     "block_id": 296160,
+     "page": 44,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I don’t know. I don’t know what it was."
+    },
+    {
+     "block_id": 296161,
+     "page": 44,
+     "block": 15,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Okay. I’m trying to get it out."
+    },
+    {
+     "block_id": 296162,
+     "page": 44,
+     "block": 16,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I don’t really – I’m just thinking about the notes. I mean, really."
+    },
+    {
+     "block_id": 296163,
+     "page": 45,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Okay. Okay. All right. Well, you’re one in a million."
+    },
+    {
+     "block_id": 296164,
+     "page": 45,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Oh, boy. If I could do that that now."
+    },
+    {
+     "block_id": 296165,
+     "page": 45,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Yeah. Wouldn’t that be something?"
+    },
+    {
+     "block_id": 296166,
+     "page": 45,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yes indeed."
+    },
+    {
+     "block_id": 296167,
+     "page": 45,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Don’t you miss it?"
+    }
+   ],
+   "window_chars": 1234
+  },
+  {
+   "block_id": 296171,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 45,
+   "block": 8,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b45-8"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 296163,
+     "page": 45,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Okay. Okay. All right. Well, you’re one in a million."
+    },
+    {
+     "block_id": 296164,
+     "page": 45,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Oh, boy. If I could do that that now."
+    },
+    {
+     "block_id": 296165,
+     "page": 45,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Yeah. Wouldn’t that be something?"
+    },
+    {
+     "block_id": 296166,
+     "page": 45,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yes indeed."
+    },
+    {
+     "block_id": 296167,
+     "page": 45,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Don’t you miss it?"
+    },
+    {
+     "block_id": 296168,
+     "page": 45,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I’m going to blow it two or three years from now, I guess, or something, but I’m going to blow it."
+    },
+    {
+     "block_id": 296169,
+     "page": 45,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Okay. That’s a promise?"
+    },
+    {
+     "block_id": 296170,
+     "page": 45,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah, that’s a promise."
+    }
+   ],
+   "target": {
+    "block_id": 296171,
+    "page": 45,
+    "block": 8,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "Because I want to hear you again Melba."
+   },
+   "context_after": [
+    {
+     "block_id": 296172,
+     "page": 45,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I’m blowing it every now and then, but I can’t get but two or three notes on the thing."
+    },
+    {
+     "block_id": 296173,
+     "page": 45,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Those two or three notes, you can take them and do something magical with them."
+    },
+    {
+     "block_id": 296174,
+     "page": 45,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah, but I got to – I have this arm. I don’t know what to do with this. I tried to turn the thing around and blow it like Slide Hampton, and I can’t . . ."
+    },
+    {
+     "block_id": 296175,
+     "page": 45,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You can’t do nothing."
+    },
+    {
+     "block_id": 296176,
+     "page": 45,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No, man. The thing comes off. It just – I can’t do nothing. Oh, man. So I had to turn it back around, because I don’t want to . . ."
+    },
+    {
+     "block_id": 296177,
+     "page": 45,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Is this the hand you hold it with or slide it?"
+    },
+    {
+     "block_id": 296178,
+     "page": 45,
+     "block": 15,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No. Sliding."
+    },
+    {
+     "block_id": 296179,
+     "page": 45,
+     "block": 16,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Oh, man. Are you exercising it every day?"
+    }
+   ],
+   "window_chars": 907
+  },
+  {
+   "block_id": 296185,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 46,
+   "block": 3,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b46-3"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 296177,
+     "page": 45,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Is this the hand you hold it with or slide it?"
+    },
+    {
+     "block_id": 296178,
+     "page": 45,
+     "block": 15,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No. Sliding."
+    },
+    {
+     "block_id": 296179,
+     "page": 45,
+     "block": 16,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Oh, man. Are you exercising it every day?"
+    },
+    {
+     "block_id": 296180,
+     "page": 45,
+     "block": 17,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Oh yeah."
+    },
+    {
+     "block_id": 296181,
+     "page": 45,
+     "block": 18,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You’re doing more than you were doing."
+    },
+    {
+     "block_id": 296182,
+     "page": 46,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "But I don’t know – I think I’m doing . . ."
+    },
+    {
+     "block_id": 296183,
+     "page": 46,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You are doing more than you were doing. I know you are. Definitely."
+    },
+    {
+     "block_id": 296184,
+     "page": 46,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah, so maybe . . ."
+    }
+   ],
+   "target": {
+    "block_id": 296185,
+    "page": 46,
+    "block": 3,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "In less than in two years. Coming up right now, we’re going to do one of Randy Weston’s tunes, a song that was recorded for the first time I think in 1956. It’s called Little Niles, and it’s Melba Liston’s arrangement of it, and this is another one of the styles and different ways that Melba writes. We want to hear this. Little Niles. [The music plays.] I like the way the bass comes in."
+   },
+   "context_after": [
+    {
+     "block_id": 296186,
+     "page": 46,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah, that was featuring the bass."
+    },
+    {
+     "block_id": 296187,
+     "page": 46,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "And the – it had a flavor of . . ."
+    },
+    {
+     "block_id": 296188,
+     "page": 46,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Of Monk?"
+    },
+    {
+     "block_id": 296189,
+     "page": 46,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Yes."
+    },
+    {
+     "block_id": 296190,
+     "page": 46,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Randy likes Thelonious much."
+    },
+    {
+     "block_id": 296191,
+     "page": 46,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "He does [Bryant vocalizes]."
+    },
+    {
+     "block_id": 296192,
+     "page": 46,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah. He does that."
+    },
+    {
+     "block_id": 296193,
+     "page": 46,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "I don’t get to hear Randy’s work that often. That a 1956 version of that."
+    }
+   ],
+   "window_chars": 890
+  },
+  {
+   "block_id": 296203,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 47,
+   "block": 3,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b47-3"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 296195,
+     "page": 46,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Oh yeah, because I haven’t heard you do strings arrangement."
+    },
+    {
+     "block_id": 296196,
+     "page": 46,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Or else I can do the one that I’m featured on."
+    },
+    {
+     "block_id": 296197,
+     "page": 46,
+     "block": 15,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Yeah. You said that was next."
+    },
+    {
+     "block_id": 296198,
+     "page": 46,
+     "block": 16,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I think it was next."
+    },
+    {
+     "block_id": 296199,
+     "page": 46,
+     "block": 17,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Can you cue that up for us? But you were on this one too."
+    },
+    {
+     "block_id": 296200,
+     "page": 47,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah, but I didn’t know. I forgot. The other one is more ballad and it’s easier."
+    },
+    {
+     "block_id": 296201,
+     "page": 47,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You don’t know the name of it."
+    },
+    {
+     "block_id": 296202,
+     "page": 47,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "[cannot recall.] I think it’s the next one on the box there."
+    }
+   ],
+   "target": {
+    "block_id": 296203,
+    "page": 47,
+    "block": 3,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "This is another one of Randy Weston’s tunes. It features Melba on this one, and we’ve searched and searched, and we can’t find the title of it, but maybe later on we can cue Matt as to what it is, and he can put it – fill it in, but let’s hear – I think it’s a ballad. [The music plays.]"
+   },
+   "context_after": [
+    {
+     "block_id": 296204,
+     "page": 47,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "[while the music plays] So that – don’t stop it, but that’s about all that I can say, that I’m featured on it. That little bit. But it’s nice."
+    },
+    {
+     "block_id": 296205,
+     "page": 47,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "That was – he seems to 3/4 time or 6/8 time."
+    },
+    {
+     "block_id": 296206,
+     "page": 47,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah, 3/4. All the waltz – that album was all 3/4."
+    },
+    {
+     "block_id": 296207,
+     "page": 47,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Oh, okay. You kind of wove in and out of the [?]. It was – [Bryant hums to herself] I’m trying to think. It reminds me of something. That’s your arrangement?"
+    },
+    {
+     "block_id": 296208,
+     "page": 47,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "You always thinking who or where or something."
+    },
+    {
+     "block_id": 296209,
+     "page": 47,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Yeah, I do. I really do, because I’ve been – I get programmed like that from the radio shows that they usually mess up, so I start thinking ahead of them. But anyway, this one, we don’t have a name to, but do you know how your solo – was it – because it didn’t feature Ray. It was – was it written with you in mind?"
+    },
+    {
+     "block_id": 296210,
+     "page": 47,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah. I wrote it."
+    },
+    {
+     "block_id": 296211,
+     "page": 47,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Oh, okay. Because that was a beautiful solo, Melba."
+    }
+   ],
+   "window_chars": 1491
+  },
+  {
+   "block_id": 296211,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 47,
+   "block": 11,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b47-11"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 296203,
+     "page": 47,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "This is another one of Randy Weston’s tunes. It features Melba on this one, and we’ve searched and searched, and we can’t find the title of it, but maybe later on we can cue Matt as to what it is, and he can put it – fill it in, but let’s hear – I think it’s a ballad. [The music plays.]"
+    },
+    {
+     "block_id": 296204,
+     "page": 47,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "[while the music plays] So that – don’t stop it, but that’s about all that I can say, that I’m featured on it. That little bit. But it’s nice."
+    },
+    {
+     "block_id": 296205,
+     "page": 47,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "That was – he seems to 3/4 time or 6/8 time."
+    },
+    {
+     "block_id": 296206,
+     "page": 47,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah, 3/4. All the waltz – that album was all 3/4."
+    },
+    {
+     "block_id": 296207,
+     "page": 47,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Oh, okay. You kind of wove in and out of the [?]. It was – [Bryant hums to herself] I’m trying to think. It reminds me of something. That’s your arrangement?"
+    },
+    {
+     "block_id": 296208,
+     "page": 47,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "You always thinking who or where or something."
+    },
+    {
+     "block_id": 296209,
+     "page": 47,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Yeah, I do. I really do, because I’ve been – I get programmed like that from the radio shows that they usually mess up, so I start thinking ahead of them. But anyway, this one, we don’t have a name to, but do you know how your solo – was it – because it didn’t feature Ray. It was – was it written with you in mind?"
+    },
+    {
+     "block_id": 296210,
+     "page": 47,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah. I wrote it."
+    }
+   ],
+   "target": {
+    "block_id": 296211,
+    "page": 47,
+    "block": 11,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "Oh, okay. Because that was a beautiful solo, Melba."
+   },
+   "context_after": [
+    {
+     "block_id": 296212,
+     "page": 47,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Thank you. I was – we were in Baltimore – no, Canada. What’s the name of the town?"
+    },
+    {
+     "block_id": 296213,
+     "page": 47,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Montreal."
+    },
+    {
+     "block_id": 296214,
+     "page": 47,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah, Montreal. I wrote it here in L.A., and I did some things outside of New York. I can’t think, but the record was done in Montreal and they were all Montreal strings, but Randy and bass and drums are from New York. Paul . . ."
+    },
+    {
+     "block_id": 296215,
+     "page": 48,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Who was that?"
+    },
+    {
+     "block_id": 296216,
+     "page": 48,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "The conductor. He was conducting. He was playing bass on the records that – with Dizzy he was playing bass, but on . . ."
+    },
+    {
+     "block_id": 296217,
+     "page": 48,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Paul West, you mean?"
+    },
+    {
+     "block_id": 296218,
+     "page": 48,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah, but on that he was conducting. He was conducting quite well."
+    },
+    {
+     "block_id": 296219,
+     "page": 48,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You wrote this in a different style. It is Little Niles, but it has a classical flavor. You think so? It sounds great."
+    }
+   ],
+   "window_chars": 1766
+  },
+  {
+   "block_id": 296227,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 48,
+   "block": 12,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b48-12"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 296219,
+     "page": 48,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You wrote this in a different style. It is Little Niles, but it has a classical flavor. You think so? It sounds great."
+    },
+    {
+     "block_id": 296220,
+     "page": 48,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I don’t know."
+    },
+    {
+     "block_id": 296221,
+     "page": 48,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Let’s listen to it and see what you think, 40 years later."
+    },
+    {
+     "block_id": 296222,
+     "page": 48,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "But it’s not that much different. It’s the same thing as far as I’m concerned."
+    },
+    {
+     "block_id": 296223,
+     "page": 48,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But strings – to me that makes a difference. [Little Niles plays, in a version for strings and jazz combo.] That was beautiful."
+    },
+    {
+     "block_id": 296224,
+     "page": 48,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Randy tells me how many choruses he’s going to take and where violins come in, but nothing else."
+    },
+    {
+     "block_id": 296225,
+     "page": 48,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "That’s all he tells you?"
+    },
+    {
+     "block_id": 296226,
+     "page": 48,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Um-hmm."
+    }
+   ],
+   "target": {
+    "block_id": 296227,
+    "page": 48,
+    "block": 12,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "You sure knew what to do. And your voicings on those strings. That’s beautiful. It’s the first time I heard you write for strings, Melba. That’s beautiful. And I’ve heard a lot of people try to write for strings, and it doesn’t have that kind of sound."
+   },
+   "context_after": [
+    {
+     "block_id": 296228,
+     "page": 48,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "You heard Gloria Lynne?"
+    },
+    {
+     "block_id": 296229,
+     "page": 48,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "She had strings on it too? I’ve heard it. Is that later – a late one too?"
+    },
+    {
+     "block_id": 296230,
+     "page": 48,
+     "block": 15,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No, it was way back there."
+    },
+    {
+     "block_id": 296231,
+     "page": 48,
+     "block": 16,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "I don’t hear it."
+    },
+    {
+     "block_id": 296232,
+     "page": 48,
+     "block": 17,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "It’s not up there. It’s over here in the . . ."
+    },
+    {
+     "block_id": 296233,
+     "page": 49,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "That treatment of Little Niles is very unique. It’s different and it’s good. It’s bad. It’s bad, Melba. Very good. I like that. I’ve never it heard it done like that."
+    },
+    {
+     "block_id": 296234,
+     "page": 49,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I didn’t hear anything different than . . ."
+    },
+    {
+     "block_id": 296235,
+     "page": 49,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You have to."
+    }
+   ],
+   "window_chars": 1178
+  },
+  {
+   "block_id": 296233,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 49,
+   "block": 0,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b49-0"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 296225,
+     "page": 48,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "That’s all he tells you?"
+    },
+    {
+     "block_id": 296226,
+     "page": 48,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Um-hmm."
+    },
+    {
+     "block_id": 296227,
+     "page": 48,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You sure knew what to do. And your voicings on those strings. That’s beautiful. It’s the first time I heard you write for strings, Melba. That’s beautiful. And I’ve heard a lot of people try to write for strings, and it doesn’t have that kind of sound."
+    },
+    {
+     "block_id": 296228,
+     "page": 48,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "You heard Gloria Lynne?"
+    },
+    {
+     "block_id": 296229,
+     "page": 48,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "She had strings on it too? I’ve heard it. Is that later – a late one too?"
+    },
+    {
+     "block_id": 296230,
+     "page": 48,
+     "block": 15,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No, it was way back there."
+    },
+    {
+     "block_id": 296231,
+     "page": 48,
+     "block": 16,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "I don’t hear it."
+    },
+    {
+     "block_id": 296232,
+     "page": 48,
+     "block": 17,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "It’s not up there. It’s over here in the . . ."
+    }
+   ],
+   "target": {
+    "block_id": 296233,
+    "page": 49,
+    "block": 0,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "That treatment of Little Niles is very unique. It’s different and it’s good. It’s bad. It’s bad, Melba. Very good. I like that. I’ve never it heard it done like that."
+   },
+   "context_after": [
+    {
+     "block_id": 296234,
+     "page": 49,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I didn’t hear anything different than . . ."
+    },
+    {
+     "block_id": 296235,
+     "page": 49,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You have to."
+    },
+    {
+     "block_id": 296236,
+     "page": 49,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "The horn parts and the string parts are the same. The horns played what the strings are playing there."
+    },
+    {
+     "block_id": 296237,
+     "page": 49,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But wasn’t most of that just the rhythm and strings, on this?"
+    },
+    {
+     "block_id": 296238,
+     "page": 49,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No."
+    },
+    {
+     "block_id": 296239,
+     "page": 49,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "On the other version . . ."
+    },
+    {
+     "block_id": 296240,
+     "page": 49,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "But I had horns, and they are playing the same thing as the strings are on this thing."
+    },
+    {
+     "block_id": 296241,
+     "page": 49,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "I see what you’re saying. On the other record the horns are playing what the strings are playing on this. I get that. But it’s just the sound, and like you say, the voicing was the same on the horns, but the voicing on the strings made it a completely different thing, to me. The last version of Randy Weston’s Little Niles that we just heard, with strings, was from a new CD that hasn’t been released yet. It’s called Earth Birth, and of course the arrangement was by Melba Liston and the strings were out of sight. Wasn’t that beautiful. Okay. We going to jump back in time and hear another version of Little Niles by Randy in Melba’s arrangement. We’re going back to a 1973 version from a CD called Tanjah. Melba, you want to say anything about this before we start?"
+    }
+   ],
+   "window_chars": 1735
+  },
+  {
+   "block_id": 296241,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 49,
+   "block": 8,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b49-8"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 296233,
+     "page": 49,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "That treatment of Little Niles is very unique. It’s different and it’s good. It’s bad. It’s bad, Melba. Very good. I like that. I’ve never it heard it done like that."
+    },
+    {
+     "block_id": 296234,
+     "page": 49,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I didn’t hear anything different than . . ."
+    },
+    {
+     "block_id": 296235,
+     "page": 49,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You have to."
+    },
+    {
+     "block_id": 296236,
+     "page": 49,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "The horn parts and the string parts are the same. The horns played what the strings are playing there."
+    },
+    {
+     "block_id": 296237,
+     "page": 49,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But wasn’t most of that just the rhythm and strings, on this?"
+    },
+    {
+     "block_id": 296238,
+     "page": 49,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No."
+    },
+    {
+     "block_id": 296239,
+     "page": 49,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "On the other version . . ."
+    },
+    {
+     "block_id": 296240,
+     "page": 49,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "But I had horns, and they are playing the same thing as the strings are on this thing."
+    }
+   ],
+   "target": {
+    "block_id": 296241,
+    "page": 49,
+    "block": 8,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "I see what you’re saying. On the other record the horns are playing what the strings are playing on this. I get that. But it’s just the sound, and like you say, the voicing was the same on the horns, but the voicing on the strings made it a completely different thing, to me. The last version of Randy Weston’s Little Niles that we just heard, with strings, was from a new CD that hasn’t been released yet. It’s called Earth Birth, and of course the arrangement was by Melba Liston and the strings were out of sight. Wasn’t that beautiful. Okay. We going to jump back in time and hear another version of Little Niles by Randy in Melba’s arrangement. We’re going back to a 1973 version from a CD called Tanjah. Melba, you want to say anything about this before we start?"
+   },
+   "context_after": [
+    {
+     "block_id": 296242,
+     "page": 49,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No. I’ll say it afterwards. [The music plays.]"
+    },
+    {
+     "block_id": 296243,
+     "page": 49,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "That’s what you call percussion for days. Yeah, that is a different version."
+    },
+    {
+     "block_id": 296244,
+     "page": 49,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Today they could program it much better than it was on that, but you could hear it, but if they were to do it now . . ."
+    },
+    {
+     "block_id": 296245,
+     "page": 49,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You mean they would re-mix it a little different?"
+    },
+    {
+     "block_id": 296246,
+     "page": 49,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah. That would be . . ."
+    },
+    {
+     "block_id": 296247,
+     "page": 50,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "It had that Indian – East Indian flavor to me, with a little African thrown in some of the phrases that you had there. And then, what was that on top? A piccolo?"
+    },
+    {
+     "block_id": 296248,
+     "page": 50,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No."
+    },
+    {
+     "block_id": 296249,
+     "page": 50,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Or a whistle? Way up there."
+    }
+   ],
+   "window_chars": 1774
+  },
+  {
+   "block_id": 296267,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 51,
+   "block": 2,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b51-2"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 296259,
+     "page": 50,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "We heard the original, and the strings, and this one, and they’re all completely different. You arranged all of them."
+    },
+    {
+     "block_id": 296260,
+     "page": 50,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Not quite different."
+    },
+    {
+     "block_id": 296261,
+     "page": 50,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "To me, they’re different."
+    },
+    {
+     "block_id": 296262,
+     "page": 50,
+     "block": 15,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I think there’s some more, but I won’t mention those. I can’t remember where they were anyway, so we’ll go on to . . ."
+    },
+    {
+     "block_id": 296263,
+     "page": 50,
+     "block": 16,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But he – but Randy uses his song Little Niles in all these different versions kind of like Dizzy used Manteca and like you did. He changes it up, but it’s still the same song, in different clothing. And that’s great."
+    },
+    {
+     "block_id": 296264,
+     "page": 50,
+     "block": 17,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "But Pam’s Waltz and Little Niles, he goes – every time he record, we’ll do those things. So anyway . . ."
+    },
+    {
+     "block_id": 296265,
+     "page": 51,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Yeah. All right, then. That’s what a lot of people do. That keeps the money rolling in too."
+    },
+    {
+     "block_id": 296266,
+     "page": 51,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Oh yeah."
+    }
+   ],
+   "target": {
+    "block_id": 296267,
+    "page": 51,
+    "block": 2,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "You’re getting royalties and all – air play and stuff. That’s great. So that was 1973. Fantastic. Right now we’re going to a little bit more of comparing two of Randy’s tunes at different eras to – this first one we’re going to play would be – is that 1973? – and the tune is called Hi-Fly – h, i, fly. And then we’re going to listen to – just an excerpt of that – then we’re going to listen to the 1996 version of Hi-Fly with Melba’s arrangement, on a new CD that’s not out yet. It’s called Earth Birth. Right now it’s 1973 again. [The music plays, during which Bryant queries the identity of the trumpeter whose solo follows the statement of the theme.]"
+   },
+   "context_after": [
+    {
+     "block_id": 296268,
+     "page": 51,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "[does not recall.] Okay. You can stop it now. [A slow version of Hi-Fly commences.]"
+    },
+    {
+     "block_id": 296269,
+     "page": 51,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "I never heard it done like that. It’s beautiful, with the strings and everything, and then I see Randy likes fourths and seconds. I do too. You write a lot of [?] fourths in the harmony, but that – I like the way you wove in and out with the strings – that’s the last one, but Randy was doing so much stuff with the – I mean he was creating so much stuff, but the strings is really a completely huge dimension to your writing that I’d never heard before, Melba. How long have you been writing? This is ’76? No, this is ’96."
+    },
+    {
+     "block_id": 296270,
+     "page": 51,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah, but I’ve been writing for strings as long as I’ve been – not as long, but once a year . . ."
+    },
+    {
+     "block_id": 296271,
+     "page": 51,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Gloria?"
+    },
+    {
+     "block_id": 296272,
+     "page": 51,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Gloria Lynne’s thing."
+    },
+    {
+     "block_id": 296273,
+     "page": 51,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "And that was ’59."
+    },
+    {
+     "block_id": 296274,
+     "page": 51,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "So I’ve been writing for strings as long as I’ve been writing for horns."
+    },
+    {
+     "block_id": 296275,
+     "page": 51,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "I heard it. I just didn’t know that was you writing it then."
+    }
+   ],
+   "window_chars": 2234
+  },
+  {
+   "block_id": 296269,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 51,
+   "block": 4,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b51-4"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 296262,
+     "page": 50,
+     "block": 15,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I think there’s some more, but I won’t mention those. I can’t remember where they were anyway, so we’ll go on to . . ."
+    },
+    {
+     "block_id": 296263,
+     "page": 50,
+     "block": 16,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But he – but Randy uses his song Little Niles in all these different versions kind of like Dizzy used Manteca and like you did. He changes it up, but it’s still the same song, in different clothing. And that’s great."
+    },
+    {
+     "block_id": 296264,
+     "page": 50,
+     "block": 17,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "But Pam’s Waltz and Little Niles, he goes – every time he record, we’ll do those things. So anyway . . ."
+    },
+    {
+     "block_id": 296265,
+     "page": 51,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Yeah. All right, then. That’s what a lot of people do. That keeps the money rolling in too."
+    },
+    {
+     "block_id": 296266,
+     "page": 51,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Oh yeah."
+    },
+    {
+     "block_id": 296267,
+     "page": 51,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You’re getting royalties and all – air play and stuff. That’s great. So that was 1973. Fantastic. Right now we’re going to a little bit more of comparing two of Randy’s tunes at different eras to – this first one we’re going to play would be – is that 1973? – and the tune is called Hi-Fly – h, i, fly. And then we’re going to listen to – just an excerpt of that – then we’re going to listen to the 1996 version of Hi-Fly with Melba’s arrangement, on a new CD that’s not out yet. It’s called Earth Birth. Right now it’s 1973 again. [The music plays, during which Bryant queries the identity of the trumpeter whose solo follows the statement of the theme.]"
+    },
+    {
+     "block_id": 296268,
+     "page": 51,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "[does not recall.] Okay. You can stop it now. [A slow version of Hi-Fly commences.]"
+    }
+   ],
+   "target": {
+    "block_id": 296269,
+    "page": 51,
+    "block": 4,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "I never heard it done like that. It’s beautiful, with the strings and everything, and then I see Randy likes fourths and seconds. I do too. You write a lot of [?] fourths in the harmony, but that – I like the way you wove in and out with the strings – that’s the last one, but Randy was doing so much stuff with the – I mean he was creating so much stuff, but the strings is really a completely huge dimension to your writing that I’d never heard before, Melba. How long have you been writing? This is ’76? No, this is ’96."
+   },
+   "context_after": [
+    {
+     "block_id": 296270,
+     "page": 51,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah, but I’ve been writing for strings as long as I’ve been – not as long, but once a year . . ."
+    },
+    {
+     "block_id": 296271,
+     "page": 51,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Gloria?"
+    },
+    {
+     "block_id": 296272,
+     "page": 51,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Gloria Lynne’s thing."
+    },
+    {
+     "block_id": 296273,
+     "page": 51,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "And that was ’59."
+    },
+    {
+     "block_id": 296274,
+     "page": 51,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "So I’ve been writing for strings as long as I’ve been writing for horns."
+    },
+    {
+     "block_id": 296275,
+     "page": 51,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "I heard it. I just didn’t know that was you writing it then."
+    },
+    {
+     "block_id": 296276,
+     "page": 51,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah. I guess not."
+    },
+    {
+     "block_id": 296277,
+     "page": 52,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But that Hi-Fly version – see, that’s two completely different versions of Hi- Fly. One’s with all that Latin – with all that rhythm, and it sounds like Eastern here and then African rhythms in there, and then we come up with the strings and the beauty, and then he gets raunchy a little bit. How did he tell you to do with this one? He said to you, “I’m going to solo so many choruses.”"
+    }
+   ],
+   "window_chars": 2477
+  },
+  {
+   "block_id": 296283,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 52,
+   "block": 6,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b52-6"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 296275,
+     "page": 51,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "I heard it. I just didn’t know that was you writing it then."
+    },
+    {
+     "block_id": 296276,
+     "page": 51,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah. I guess not."
+    },
+    {
+     "block_id": 296277,
+     "page": 52,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But that Hi-Fly version – see, that’s two completely different versions of Hi- Fly. One’s with all that Latin – with all that rhythm, and it sounds like Eastern here and then African rhythms in there, and then we come up with the strings and the beauty, and then he gets raunchy a little bit. How did he tell you to do with this one? He said to you, “I’m going to solo so many choruses.”"
+    },
+    {
+     "block_id": 296278,
+     "page": 52,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "He doesn’t say nothing about the soloing and all that. He wanted it long, and he said, “This chorus I’ll take by myself. This chorus you can do some backgrounds or something.”"
+    },
+    {
+     "block_id": 296279,
+     "page": 52,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Okay. You guys are so in tune to each other, you don’t need – he doesn’t have to tell you anything anyway."
+    },
+    {
+     "block_id": 296280,
+     "page": 52,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I don’t think so."
+    },
+    {
+     "block_id": 296281,
+     "page": 52,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "That’s like the [?]. That’s understood. He doesn’t have to spell it out. But that’s really unique, that version of it, and that’s from the – that one is from the new album, right? Earth Birth. And the one we heard before was from Tanyah, and that was 1973. Now we’re going to hear something else from . . ."
+    },
+    {
+     "block_id": 296282,
+     "page": 52,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No. Let’s leave Randy alone now and listen to Gloria Lynne’s Hi-Fly."
+    }
+   ],
+   "target": {
+    "block_id": 296283,
+    "page": 52,
+    "block": 6,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "What we’re going to hear now is one of Melba’s original tunes, a beautiful ballad that she did – Gloria Lynne sang it in 1959. The title of the ballad is Love, I Found You. I or I’ve?"
+   },
+   "context_after": [
+    {
+     "block_id": 296284,
+     "page": 52,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I’ve."
+    },
+    {
+     "block_id": 296285,
+     "page": 52,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "I’ve Found You. And it’s strings. It’s beautiful. Just give it a listen. [The music plays.] That’s beautiful. Love, I’ve Found You. I won’t even go there. But Melba, do you find it different to write for voice and for – with strings, or just regular instruments – just for band with strings?"
+    },
+    {
+     "block_id": 296286,
+     "page": 52,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah. I guess so. Not really, but really."
+    },
+    {
+     "block_id": 296287,
+     "page": 52,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But you do have to think a little about it."
+    },
+    {
+     "block_id": 296288,
+     "page": 52,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "A high voice or a low voice or a in-between voice and all of those things, but then you just go on and write."
+    },
+    {
+     "block_id": 296289,
+     "page": 52,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Dig deep down and write. That’s a beautiful tune, Melba."
+    },
+    {
+     "block_id": 296290,
+     "page": 53,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Thank you."
+    },
+    {
+     "block_id": 296291,
+     "page": 53,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Did you do an album with strings with Dinah [Washington]? What did you do with Dinah?"
+    }
+   ],
+   "window_chars": 1960
+  },
+  {
+   "block_id": 296285,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 52,
+   "block": 8,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b52-8"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 296277,
+     "page": 52,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But that Hi-Fly version – see, that’s two completely different versions of Hi- Fly. One’s with all that Latin – with all that rhythm, and it sounds like Eastern here and then African rhythms in there, and then we come up with the strings and the beauty, and then he gets raunchy a little bit. How did he tell you to do with this one? He said to you, “I’m going to solo so many choruses.”"
+    },
+    {
+     "block_id": 296278,
+     "page": 52,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "He doesn’t say nothing about the soloing and all that. He wanted it long, and he said, “This chorus I’ll take by myself. This chorus you can do some backgrounds or something.”"
+    },
+    {
+     "block_id": 296279,
+     "page": 52,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Okay. You guys are so in tune to each other, you don’t need – he doesn’t have to tell you anything anyway."
+    },
+    {
+     "block_id": 296280,
+     "page": 52,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I don’t think so."
+    },
+    {
+     "block_id": 296281,
+     "page": 52,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "That’s like the [?]. That’s understood. He doesn’t have to spell it out. But that’s really unique, that version of it, and that’s from the – that one is from the new album, right? Earth Birth. And the one we heard before was from Tanyah, and that was 1973. Now we’re going to hear something else from . . ."
+    },
+    {
+     "block_id": 296282,
+     "page": 52,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No. Let’s leave Randy alone now and listen to Gloria Lynne’s Hi-Fly."
+    },
+    {
+     "block_id": 296283,
+     "page": 52,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "What we’re going to hear now is one of Melba’s original tunes, a beautiful ballad that she did – Gloria Lynne sang it in 1959. The title of the ballad is Love, I Found You. I or I’ve?"
+    },
+    {
+     "block_id": 296284,
+     "page": 52,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I’ve."
+    }
+   ],
+   "target": {
+    "block_id": 296285,
+    "page": 52,
+    "block": 8,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "I’ve Found You. And it’s strings. It’s beautiful. Just give it a listen. [The music plays.] That’s beautiful. Love, I’ve Found You. I won’t even go there. But Melba, do you find it different to write for voice and for – with strings, or just regular instruments – just for band with strings?"
+   },
+   "context_after": [
+    {
+     "block_id": 296286,
+     "page": 52,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah. I guess so. Not really, but really."
+    },
+    {
+     "block_id": 296287,
+     "page": 52,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But you do have to think a little about it."
+    },
+    {
+     "block_id": 296288,
+     "page": 52,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "A high voice or a low voice or a in-between voice and all of those things, but then you just go on and write."
+    },
+    {
+     "block_id": 296289,
+     "page": 52,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Dig deep down and write. That’s a beautiful tune, Melba."
+    },
+    {
+     "block_id": 296290,
+     "page": 53,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Thank you."
+    },
+    {
+     "block_id": 296291,
+     "page": 53,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Did you do an album with strings with Dinah [Washington]? What did you do with Dinah?"
+    },
+    {
+     "block_id": 296292,
+     "page": 53,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "[cannot recall. She does not have the recordings.]"
+    },
+    {
+     "block_id": 296293,
+     "page": 53,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "That flavor of your writing for strings sounds like something I’ve heard on one of her albums, and you have written for Dinah. What – Gloria approached you about writing?"
+    }
+   ],
+   "window_chars": 2102
+  },
+  {
+   "block_id": 296289,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 52,
+   "block": 12,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b52-12"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 296281,
+     "page": 52,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "That’s like the [?]. That’s understood. He doesn’t have to spell it out. But that’s really unique, that version of it, and that’s from the – that one is from the new album, right? Earth Birth. And the one we heard before was from Tanyah, and that was 1973. Now we’re going to hear something else from . . ."
+    },
+    {
+     "block_id": 296282,
+     "page": 52,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No. Let’s leave Randy alone now and listen to Gloria Lynne’s Hi-Fly."
+    },
+    {
+     "block_id": 296283,
+     "page": 52,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "What we’re going to hear now is one of Melba’s original tunes, a beautiful ballad that she did – Gloria Lynne sang it in 1959. The title of the ballad is Love, I Found You. I or I’ve?"
+    },
+    {
+     "block_id": 296284,
+     "page": 52,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I’ve."
+    },
+    {
+     "block_id": 296285,
+     "page": 52,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "I’ve Found You. And it’s strings. It’s beautiful. Just give it a listen. [The music plays.] That’s beautiful. Love, I’ve Found You. I won’t even go there. But Melba, do you find it different to write for voice and for – with strings, or just regular instruments – just for band with strings?"
+    },
+    {
+     "block_id": 296286,
+     "page": 52,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah. I guess so. Not really, but really."
+    },
+    {
+     "block_id": 296287,
+     "page": 52,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But you do have to think a little about it."
+    },
+    {
+     "block_id": 296288,
+     "page": 52,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "A high voice or a low voice or a in-between voice and all of those things, but then you just go on and write."
+    }
+   ],
+   "target": {
+    "block_id": 296289,
+    "page": 52,
+    "block": 12,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "Dig deep down and write. That’s a beautiful tune, Melba."
+   },
+   "context_after": [
+    {
+     "block_id": 296290,
+     "page": 53,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Thank you."
+    },
+    {
+     "block_id": 296291,
+     "page": 53,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Did you do an album with strings with Dinah [Washington]? What did you do with Dinah?"
+    },
+    {
+     "block_id": 296292,
+     "page": 53,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "[cannot recall. She does not have the recordings.]"
+    },
+    {
+     "block_id": 296293,
+     "page": 53,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "That flavor of your writing for strings sounds like something I’ve heard on one of her albums, and you have written for Dinah. What – Gloria approached you about writing?"
+    },
+    {
+     "block_id": 296294,
+     "page": 53,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah, and I was sick, and the day of the recording date, I was out of it, so I called Quincy [Jones] and he conducted for me, but all of the arrangements are mine – almost all of them."
+    },
+    {
+     "block_id": 296295,
+     "page": 53,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Okay. That was 1959."
+    },
+    {
+     "block_id": 296296,
+     "page": 53,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "You want to [?] or more of hers?"
+    },
+    {
+     "block_id": 296297,
+     "page": 53,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "What else is on there? Or did you mean another CD?"
+    }
+   ],
+   "window_chars": 1703
+  },
+  {
+   "block_id": 296303,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 53,
+   "block": 13,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b53-13"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 296295,
+     "page": 53,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Okay. That was 1959."
+    },
+    {
+     "block_id": 296296,
+     "page": 53,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "You want to [?] or more of hers?"
+    },
+    {
+     "block_id": 296297,
+     "page": 53,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "What else is on there? Or did you mean another CD?"
+    },
+    {
+     "block_id": 296298,
+     "page": 53,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "[cannot recall.]"
+    },
+    {
+     "block_id": 296299,
+     "page": 53,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "We’re discussing Gloria Lynne’s record, and you – he was asking you, how did she come to get the – you said you brought it to her and you taught her some of the songs."
+    },
+    {
+     "block_id": 296300,
+     "page": 53,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah."
+    },
+    {
+     "block_id": 296301,
+     "page": 53,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Because that’s what we want to get through first. Then we’ll get into the difference between the two. Okay?"
+    },
+    {
+     "block_id": 296302,
+     "page": 53,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Dinah – soul, soul, soul, but Gloria’s soul too, but it’s a different way. They come after me differently. I don’t know how to say it. When I write for Dinah – uh. And when I write for Gloria – it’s oo. Or something like that."
+    }
+   ],
+   "target": {
+    "block_id": 296303,
+    "page": 53,
+    "block": 13,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "That tells the difference right there. Right now we’re going to listen to a tune by Gloria Lynne that Melba wrote – an original tune with strings. It’s called We Never Kissed. Ain’t That a Shame? [Actually We Never Kissed, What a Shame; the music plays.]"
+   },
+   "context_after": [
+    {
+     "block_id": 296304,
+     "page": 54,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "The difference is who picks what songs. Dinah picks some soul songs. Gloria picks some . . ."
+    },
+    {
+     "block_id": 296305,
+     "page": 54,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "That’s strictly a ballad."
+    },
+    {
+     "block_id": 296306,
+     "page": 54,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": ". . . ballads. Soulful, but not the way Dinah does. Still, writing for them demands what tunes you are going to write. I would write the same way for Gloria Lynne – if I wrote for Dinah – one of those arrangements for Dinah, I would write the same way for Gloria Lynne, but she would sing it differently."
+    },
+    {
+     "block_id": 296307,
+     "page": 54,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Would interpret. Their interpretations would be different. I see what you’re saying."
+    },
+    {
+     "block_id": 296308,
+     "page": 54,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I guess. I don’t know."
+    },
+    {
+     "block_id": 296309,
+     "page": 54,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "I know they would. Dinah wouldn’t sing that like that."
+    },
+    {
+     "block_id": 296310,
+     "page": 54,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No, but I don’t know if Gloria – I’m saying now I would write the same, but I don’t, when I get to the piano or get to writing, it’ll be different. I feel like it’s the song, not the singer, makes the difference."
+    },
+    {
+     "block_id": 296311,
+     "page": 54,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Yeah, because they’re going to put their own flavor into your arrangement anyway. We have some pictures here that Melba’s going to be looking at, from her childhood, that she’s never seen before. Who do you see on there that you recognize, Melba?"
+    }
+   ],
+   "window_chars": 1916
+  },
+  {
+   "block_id": 296311,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 54,
+   "block": 7,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b54-7"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 296303,
+     "page": 53,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "That tells the difference right there. Right now we’re going to listen to a tune by Gloria Lynne that Melba wrote – an original tune with strings. It’s called We Never Kissed. Ain’t That a Shame? [Actually We Never Kissed, What a Shame; the music plays.]"
+    },
+    {
+     "block_id": 296304,
+     "page": 54,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "The difference is who picks what songs. Dinah picks some soul songs. Gloria picks some . . ."
+    },
+    {
+     "block_id": 296305,
+     "page": 54,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "That’s strictly a ballad."
+    },
+    {
+     "block_id": 296306,
+     "page": 54,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": ". . . ballads. Soulful, but not the way Dinah does. Still, writing for them demands what tunes you are going to write. I would write the same way for Gloria Lynne – if I wrote for Dinah – one of those arrangements for Dinah, I would write the same way for Gloria Lynne, but she would sing it differently."
+    },
+    {
+     "block_id": 296307,
+     "page": 54,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Would interpret. Their interpretations would be different. I see what you’re saying."
+    },
+    {
+     "block_id": 296308,
+     "page": 54,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I guess. I don’t know."
+    },
+    {
+     "block_id": 296309,
+     "page": 54,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "I know they would. Dinah wouldn’t sing that like that."
+    },
+    {
+     "block_id": 296310,
+     "page": 54,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No, but I don’t know if Gloria – I’m saying now I would write the same, but I don’t, when I get to the piano or get to writing, it’ll be different. I feel like it’s the song, not the singer, makes the difference."
+    }
+   ],
+   "target": {
+    "block_id": 296311,
+    "page": 54,
+    "block": 7,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "Yeah, because they’re going to put their own flavor into your arrangement anyway. We have some pictures here that Melba’s going to be looking at, from her childhood, that she’s never seen before. Who do you see on there that you recognize, Melba?"
+   },
+   "context_after": [
+    {
+     "block_id": 296312,
+     "page": 54,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Everybody except the drummer, and I don’t know who the tall saxophonist is, but the rest of them I know. That’s me. Minnie – Minnie [?Moore ?Morris]."
+    },
+    {
+     "block_id": 296313,
+     "page": 54,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "That’s Prince."
+    },
+    {
+     "block_id": 296314,
+     "page": 54,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah, there’s Prince."
+    },
+    {
+     "block_id": 296315,
+     "page": 54,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Prince Harris."
+    },
+    {
+     "block_id": 296316,
+     "page": 54,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "And Elvira. [Liston cannot recall a trumpeter’s name.]"
+    },
+    {
+     "block_id": 296317,
+     "page": 54,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But he was a trumpet player?"
+    },
+    {
+     "block_id": 296318,
+     "page": 54,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Uh-huh. His mother and my mother used to be friends. [They fail to identify another trumpeter in the photo.]"
+    },
+    {
+     "block_id": 296319,
+     "page": 55,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[They identify Melba and Buddy Redd.] Elvira – Vi Redd’s brother. Do you know about when this was?"
+    }
+   ],
+   "window_chars": 1779
+  },
+  {
+   "block_id": 296319,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 55,
+   "block": 0,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b55-0"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 296311,
+     "page": 54,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Yeah, because they’re going to put their own flavor into your arrangement anyway. We have some pictures here that Melba’s going to be looking at, from her childhood, that she’s never seen before. Who do you see on there that you recognize, Melba?"
+    },
+    {
+     "block_id": 296312,
+     "page": 54,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Everybody except the drummer, and I don’t know who the tall saxophonist is, but the rest of them I know. That’s me. Minnie – Minnie [?Moore ?Morris]."
+    },
+    {
+     "block_id": 296313,
+     "page": 54,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "That’s Prince."
+    },
+    {
+     "block_id": 296314,
+     "page": 54,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah, there’s Prince."
+    },
+    {
+     "block_id": 296315,
+     "page": 54,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Prince Harris."
+    },
+    {
+     "block_id": 296316,
+     "page": 54,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "And Elvira. [Liston cannot recall a trumpeter’s name.]"
+    },
+    {
+     "block_id": 296317,
+     "page": 54,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But he was a trumpet player?"
+    },
+    {
+     "block_id": 296318,
+     "page": 54,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Uh-huh. His mother and my mother used to be friends. [They fail to identify another trumpeter in the photo.]"
+    }
+   ],
+   "target": {
+    "block_id": 296319,
+    "page": 55,
+    "block": 0,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "[They identify Melba and Buddy Redd.] Elvira – Vi Redd’s brother. Do you know about when this was?"
+   },
+   "context_after": [
+    {
+     "block_id": 296320,
+     "page": 55,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "That was 1930-something?"
+    },
+    {
+     "block_id": 296321,
+     "page": 55,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Yeah, probably was ’38 maybe? No, ’39 or ’40, maybe, because you came out here in ’37, right?"
+    },
+    {
+     "block_id": 296322,
+     "page": 55,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah. It was ’38 or something like that. [Liston fails to identify another man in the photo.]"
+    },
+    {
+     "block_id": 296323,
+     "page": 55,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[asks if it was in a picture studio.]"
+    },
+    {
+     "block_id": 296324,
+     "page": 55,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "[cannot recall.]"
+    },
+    {
+     "block_id": 296325,
+     "page": 55,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[shows Liston a second photograph.]"
+    },
+    {
+     "block_id": 296326,
+     "page": 55,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "This is Ross Snyder. [Liston tries to identify a second man.] I liked him. Not then. Maybe 15 years later. I can’t remember his name."
+    },
+    {
+     "block_id": 296327,
+     "page": 55,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[identifies Lorenzo.] Do you remember how he played trumpet? Because he’s a saxophone player. He’s playing trumpet."
+    }
+   ],
+   "window_chars": 1278
+  },
+  {
+   "block_id": 296322,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 55,
+   "block": 3,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b55-3"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewee",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 296314,
+     "page": 54,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah, there’s Prince."
+    },
+    {
+     "block_id": 296315,
+     "page": 54,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Prince Harris."
+    },
+    {
+     "block_id": 296316,
+     "page": 54,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "And Elvira. [Liston cannot recall a trumpeter’s name.]"
+    },
+    {
+     "block_id": 296317,
+     "page": 54,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But he was a trumpet player?"
+    },
+    {
+     "block_id": 296318,
+     "page": 54,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Uh-huh. His mother and my mother used to be friends. [They fail to identify another trumpeter in the photo.]"
+    },
+    {
+     "block_id": 296319,
+     "page": 55,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[They identify Melba and Buddy Redd.] Elvira – Vi Redd’s brother. Do you know about when this was?"
+    },
+    {
+     "block_id": 296320,
+     "page": 55,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "That was 1930-something?"
+    },
+    {
+     "block_id": 296321,
+     "page": 55,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Yeah, probably was ’38 maybe? No, ’39 or ’40, maybe, because you came out here in ’37, right?"
+    }
+   ],
+   "target": {
+    "block_id": 296322,
+    "page": 55,
+    "block": 3,
+    "type": "dialogue",
+    "speaker": "Liston",
+    "text": "Yeah. It was ’38 or something like that. [Liston fails to identify another man in the photo.]"
+   },
+   "context_after": [
+    {
+     "block_id": 296323,
+     "page": 55,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[asks if it was in a picture studio.]"
+    },
+    {
+     "block_id": 296324,
+     "page": 55,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "[cannot recall.]"
+    },
+    {
+     "block_id": 296325,
+     "page": 55,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[shows Liston a second photograph.]"
+    },
+    {
+     "block_id": 296326,
+     "page": 55,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "This is Ross Snyder. [Liston tries to identify a second man.] I liked him. Not then. Maybe 15 years later. I can’t remember his name."
+    }
+   ],
+   "window_chars": 754
+  },
+  {
+   "block_id": 296332,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 55,
+   "block": 13,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b55-13"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewee",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 296324,
+     "page": 55,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "[cannot recall.]"
+    },
+    {
+     "block_id": 296325,
+     "page": 55,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[shows Liston a second photograph.]"
+    },
+    {
+     "block_id": 296326,
+     "page": 55,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "This is Ross Snyder. [Liston tries to identify a second man.] I liked him. Not then. Maybe 15 years later. I can’t remember his name."
+    },
+    {
+     "block_id": 296327,
+     "page": 55,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[identifies Lorenzo.] Do you remember how he played trumpet? Because he’s a saxophone player. He’s playing trumpet."
+    },
+    {
+     "block_id": 296328,
+     "page": 55,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah, I know. I don’t know how he’s playing saxophone, because I know him as a trumpet player."
+    },
+    {
+     "block_id": 296329,
+     "page": 55,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Really? He’s a darned good saxophone player."
+    },
+    {
+     "block_id": 296330,
+     "page": 55,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah?"
+    },
+    {
+     "block_id": 296331,
+     "page": 55,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Yeah. Alice worked with him all the time. Alice Young. Up until he died, she was his piano player."
+    }
+   ],
+   "target": {
+    "block_id": 296332,
+    "page": 55,
+    "block": 13,
+    "type": "dialogue",
+    "speaker": "Liston",
+    "text": "I didn’t know that. [Liston and Bryant identify, in this photograph, Minnie Hightower, her mother Miss Hightower, Vi Redd, Liston. They fail to identify a man in the photograph. Liston thinks it is Robert Ross, but Bryant pulls out a photo of a different man whom she identifies as Ross.]"
+   },
+   "context_after": [
+    {
+     "block_id": 296333,
+     "page": 55,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You know Clifford Burden, right?"
+    },
+    {
+     "block_id": 296334,
+     "page": 55,
+     "block": 15,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Oh yeah. He and Minnie both dead, huh?"
+    },
+    {
+     "block_id": 296335,
+     "page": 56,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Yeah, that’s who Minnie married."
+    },
+    {
+     "block_id": 296336,
+     "page": 56,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I know."
+    }
+   ],
+   "window_chars": 937
+  },
+  {
+   "block_id": 296337,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 56,
+   "block": 2,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b56-2"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 296329,
+     "page": 55,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Really? He’s a darned good saxophone player."
+    },
+    {
+     "block_id": 296330,
+     "page": 55,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah?"
+    },
+    {
+     "block_id": 296331,
+     "page": 55,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Yeah. Alice worked with him all the time. Alice Young. Up until he died, she was his piano player."
+    },
+    {
+     "block_id": 296332,
+     "page": 55,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I didn’t know that. [Liston and Bryant identify, in this photograph, Minnie Hightower, her mother Miss Hightower, Vi Redd, Liston. They fail to identify a man in the photograph. Liston thinks it is Robert Ross, but Bryant pulls out a photo of a different man whom she identifies as Ross.]"
+    },
+    {
+     "block_id": 296333,
+     "page": 55,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You know Clifford Burden, right?"
+    },
+    {
+     "block_id": 296334,
+     "page": 55,
+     "block": 15,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Oh yeah. He and Minnie both dead, huh?"
+    },
+    {
+     "block_id": 296335,
+     "page": 56,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Yeah, that’s who Minnie married."
+    },
+    {
+     "block_id": 296336,
+     "page": 56,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I know."
+    }
+   ],
+   "target": {
+    "block_id": 296337,
+    "page": 56,
+    "block": 2,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "Her son – their son, Clifford, Jr., is a preacher now, and he’s the one that had the pictures in that box from Minnie’s ex-husband – widow. [They discuss getting copies made for Liston. In a third photograph they identify South Park, Minnie, Alice, Robert Ross, and Clifford in a pseudo-Hawaiian setting. Bryant implies that Matt Watson is photographing or videotaping this portion of the interview, and she states that she intends to use these three photographs in her own book.] Melba, looking around the walls here and seeing some of the many things – many awards and tributes that people have given you, have you reached the goals that you set? Or did you set any goals for yourself when you were coming up?"
+   },
+   "context_after": [
+    {
+     "block_id": 296338,
+     "page": 56,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No. I just went on and did whatever they told me to do. But I would like to – I haven’t written for films – just films that doesn’t say anything."
+    },
+    {
+     "block_id": 296339,
+     "page": 56,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "It’s not political. Just a beautiful film."
+    },
+    {
+     "block_id": 296340,
+     "page": 56,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah. I would like to do that."
+    },
+    {
+     "block_id": 296341,
+     "page": 56,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Would you say that would be your heart’s goal right now?"
+    },
+    {
+     "block_id": 296342,
+     "page": 56,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "It doesn’t matter if I do or if I don’t. I think maybe something in New York is waiting on me now."
+    },
+    {
+     "block_id": 296343,
+     "page": 56,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "When you were coming up, you never said, “I want to be the best” or whatever?"
+    },
+    {
+     "block_id": 296344,
+     "page": 56,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No."
+    },
+    {
+     "block_id": 296345,
+     "page": 56,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You never had that kind of . . ."
+    }
+   ],
+   "window_chars": 1738
+  },
+  {
+   "block_id": 296351,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 57,
+   "block": 1,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b57-1"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 296343,
+     "page": 56,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "When you were coming up, you never said, “I want to be the best” or whatever?"
+    },
+    {
+     "block_id": 296344,
+     "page": 56,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No."
+    },
+    {
+     "block_id": 296345,
+     "page": 56,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You never had that kind of . . ."
+    },
+    {
+     "block_id": 296346,
+     "page": 56,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No"
+    },
+    {
+     "block_id": 296347,
+     "page": 56,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You just knew that you were going to be the best. You didn’t have to say it, right?"
+    },
+    {
+     "block_id": 296348,
+     "page": 56,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I didn’t know."
+    },
+    {
+     "block_id": 296349,
+     "page": 56,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Yes you did."
+    },
+    {
+     "block_id": 296350,
+     "page": 57,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "But I have to be the best that I can do. I don’t know if it’s the best."
+    }
+   ],
+   "target": {
+    "block_id": 296351,
+    "page": 57,
+    "block": 1,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "I’ll say for you: you have been the best, Melba. You’ve been a guiding light for a lot of people, including me, and I want to ask you what advice you would have for some of the young girls coming along who are musicians? What advice would you give them?"
+   },
+   "context_after": [
+    {
+     "block_id": 296352,
+     "page": 57,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Study. Go to school and learn everything that you can in school, and don’t stop there. Get what you can out of school, jamming and everything. It’s about learning and about doing. It’s hard now. It’s still hard for girls, but . . ."
+    },
+    {
+     "block_id": 296353,
+     "page": 57,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But they still won’t have it as hard as you did."
+    },
+    {
+     "block_id": 296354,
+     "page": 57,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Oh no."
+    },
+    {
+     "block_id": 296355,
+     "page": 57,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Was there any particular school that you think that they could go to that would really qualify to do what you said, go and learn, not just . . ."
+    },
+    {
+     "block_id": 296356,
+     "page": 57,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "[cannot recall any school to recommend.] But wherever they go to school, college and stuff, make them teach you as much as they know how. And go on, like we did at nighttime – go to other places and get some knowledge there."
+    },
+    {
+     "block_id": 296357,
+     "page": 57,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "And do you think that they should pick someone as their model – not particularly role model, but as a model that they would listen to, like I’ve heard Charli Persip say he went to whatever the college was that he went to, but he finished from the Gillespie University. You know what I’m saying?"
+    },
+    {
+     "block_id": 296358,
+     "page": 57,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah, I would say that. Yes indeed. Get someone that you like to have. Horn players, get someone to take a pattern off of. Everything that’s out there, they can have somebody older to pattern off of . . ."
+    },
+    {
+     "block_id": 296359,
+     "page": 57,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Yeah, they need someone to latch onto."
+    }
+   ],
+   "window_chars": 1736
+  },
+  {
+   "block_id": 296368,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 58,
+   "block": 6,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b58-6"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 296360,
+     "page": 57,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": ". . . and maybe after so many years of that, you can go and get someone else to . . ."
+    },
+    {
+     "block_id": 296361,
+     "page": 57,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Yeah, right. Move on up to the modern day, or whatever. Do you find that they’re more – the children and young kids coming up, male and female, on the East Coast, seem to be the ones who reach back in – I mean who reach up and take a role model’s hand and try to pattern themselves at the beginning, until they get where they can walk on their – in their own shoes, and then they still want to"
+    },
+    {
+     "block_id": 296362,
+     "page": 58,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "",
+     "text": "recognize where they came from? Because out here on the West Coast I don’t seem to find that."
+    },
+    {
+     "block_id": 296363,
+     "page": 58,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I don’t see where that’s happening out here."
+    },
+    {
+     "block_id": 296364,
+     "page": 58,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "No, I don’t either."
+    },
+    {
+     "block_id": 296365,
+     "page": 58,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "But East Coast . . ."
+    },
+    {
+     "block_id": 296366,
+     "page": 58,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "I wonder why that is."
+    },
+    {
+     "block_id": 296367,
+     "page": 58,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I don’t know, because you know better than me. I don’t get around too much, and I wouldn’t get around if I was able to. I would be back in New York."
+    }
+   ],
+   "target": {
+    "block_id": 296368,
+    "page": 58,
+    "block": 6,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "You wouldn’t even be here, Melba."
+   },
+   "context_after": [
+    {
+     "block_id": 296369,
+     "page": 58,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I would come here on occasions."
+    },
+    {
+     "block_id": 296370,
+     "page": 58,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But that bothers me, that the kids – they’re not – you know what. It seems like they think the music starts and ends with them, that they – nobody was here before them, so they don’t have to recognize – I really don’t hear kids doing that."
+    },
+    {
+     "block_id": 296371,
+     "page": 58,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I don’t know what these kids are doing."
+    },
+    {
+     "block_id": 296372,
+     "page": 58,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But those schools that you helped organize and stuff like that, the kids wanted to learn, and they came there to learn, and they did learn, because you guys were teaching them."
+    },
+    {
+     "block_id": 296373,
+     "page": 58,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah. Back there. In the West Indies, St. Lucia, everywhere but here."
+    },
+    {
+     "block_id": 296374,
+     "page": 58,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Right. Isn’t that funny? In Japan, in Europe. But it’s so funny that we – on this Coast, we cannot get it together, as far as I can see. And you’re not going to stick around and try and help us get it together."
+    },
+    {
+     "block_id": 296375,
+     "page": 58,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I’ve been here six, seven years or something. I’m going to go back there and get a new start or something."
+    },
+    {
+     "block_id": 296376,
+     "page": 58,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "“I’m going to change my way of living. If that ain’t enough, I’m going to change the way I strut my stuff.” Because Melba you’ve really overcome the stroke that you had. I think you’ve made a long stride, bettering yourself to overcome that, and I think when you go back East, you’ll do even greater, because like you said, those people back – they recognize you for who you are back there."
+    }
+   ],
+   "window_chars": 2116
+  },
+  {
+   "block_id": 296376,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 58,
+   "block": 14,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b58-14"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 296368,
+     "page": 58,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You wouldn’t even be here, Melba."
+    },
+    {
+     "block_id": 296369,
+     "page": 58,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I would come here on occasions."
+    },
+    {
+     "block_id": 296370,
+     "page": 58,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But that bothers me, that the kids – they’re not – you know what. It seems like they think the music starts and ends with them, that they – nobody was here before them, so they don’t have to recognize – I really don’t hear kids doing that."
+    },
+    {
+     "block_id": 296371,
+     "page": 58,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I don’t know what these kids are doing."
+    },
+    {
+     "block_id": 296372,
+     "page": 58,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But those schools that you helped organize and stuff like that, the kids wanted to learn, and they came there to learn, and they did learn, because you guys were teaching them."
+    },
+    {
+     "block_id": 296373,
+     "page": 58,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah. Back there. In the West Indies, St. Lucia, everywhere but here."
+    },
+    {
+     "block_id": 296374,
+     "page": 58,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Right. Isn’t that funny? In Japan, in Europe. But it’s so funny that we – on this Coast, we cannot get it together, as far as I can see. And you’re not going to stick around and try and help us get it together."
+    },
+    {
+     "block_id": 296375,
+     "page": 58,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I’ve been here six, seven years or something. I’m going to go back there and get a new start or something."
+    }
+   ],
+   "target": {
+    "block_id": 296376,
+    "page": 58,
+    "block": 14,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "“I’m going to change my way of living. If that ain’t enough, I’m going to change the way I strut my stuff.” Because Melba you’ve really overcome the stroke that you had. I think you’ve made a long stride, bettering yourself to overcome that, and I think when you go back East, you’ll do even greater, because like you said, those people back – they recognize you for who you are back there."
+   },
+   "context_after": [
+    {
+     "block_id": 296377,
+     "page": 59,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I was afraid to go out and see everybody – anybody, until six months ago or something like that, because . . ."
+    },
+    {
+     "block_id": 296378,
+     "page": 59,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You’d sit in this room."
+    },
+    {
+     "block_id": 296379,
+     "page": 59,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": ". . . I didn’t want them to gloat over me or something."
+    },
+    {
+     "block_id": 296380,
+     "page": 59,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Feel sorry for you and then pity you and all those kinds of things."
+    },
+    {
+     "block_id": 296381,
+     "page": 59,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah, but it’s not like that."
+    },
+    {
+     "block_id": 296382,
+     "page": 59,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But see it’s your attitude that keeps it from being that way. You don’t have that kind of attitude so you not going to get . . ."
+    },
+    {
+     "block_id": 296383,
+     "page": 59,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No."
+    },
+    {
+     "block_id": 296384,
+     "page": 59,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": ". . . so you won’t get that kind of a treatment from people."
+    }
+   ],
+   "window_chars": 1768
+  },
+  {
+   "block_id": 296398,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 60,
+   "block": 3,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b60-3"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 296390,
+     "page": 59,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You got to turn [?] loose. But what did you think after you had your stroke? What did you think? Did you think you would be able to play again? What?"
+    },
+    {
+     "block_id": 296391,
+     "page": 59,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "You don’t think. It’s a long time before you can think. You learn how to eat with . . ."
+    },
+    {
+     "block_id": 296392,
+     "page": 59,
+     "block": 15,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "It’s the learning process all over?"
+    },
+    {
+     "block_id": 296393,
+     "page": 59,
+     "block": 16,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah, but I think Randy pushed me along."
+    },
+    {
+     "block_id": 296394,
+     "page": 59,
+     "block": 17,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Before you even – before you came out here?"
+    },
+    {
+     "block_id": 296395,
+     "page": 60,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Oh yeah."
+    },
+    {
+     "block_id": 296396,
+     "page": 60,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But when you got here, your mother was still alive. Did she push you too?"
+    },
+    {
+     "block_id": 296397,
+     "page": 60,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Oh yeah, but Randy helped me to get started writing, and so I’m doing it. I’m not writing as fast and all of that as I . . ."
+    }
+   ],
+   "target": {
+    "block_id": 296398,
+    "page": 60,
+    "block": 3,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "The quality is there though, Melba."
+   },
+   "context_after": [
+    {
+     "block_id": 296399,
+     "page": 60,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": ". . . I used to, but maybe I’ll get that back in New York, but I don’t have to go as fast, anyway."
+    },
+    {
+     "block_id": 296400,
+     "page": 60,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "If they want you to write fast, say, “You better get somebody else. If you want something good, then you take me.” What about after your stroke and then you begin to move around and so forth? What did you think about not being able to play your horn? Or did you think about it?"
+    },
+    {
+     "block_id": 296401,
+     "page": 60,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No. The horn was stolen."
+    },
+    {
+     "block_id": 296402,
+     "page": 60,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Oh, that’s right."
+    },
+    {
+     "block_id": 296403,
+     "page": 60,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "So I didn’t think about it, because . . ."
+    },
+    {
+     "block_id": 296404,
+     "page": 60,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Because it wasn’t there."
+    },
+    {
+     "block_id": 296405,
+     "page": 60,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Susan . . ."
+    },
+    {
+     "block_id": 296406,
+     "page": 60,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Susan Slaughter?"
+    }
+   ],
+   "window_chars": 1102
+  },
+  {
+   "block_id": 296464,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 64,
+   "block": 0,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b64-0"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 296456,
+     "page": 63,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "That’s not the issue."
+    },
+    {
+     "block_id": 296457,
+     "page": 63,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "It’s not the thing. It’s getting them out as fast and varied."
+    },
+    {
+     "block_id": 296458,
+     "page": 63,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Like you said, she’s – if they’re not musicians, they do not understand. There’s no way they could understand. And you know what? There’s no way the young girls today can understand the way we understand either."
+    },
+    {
+     "block_id": 296459,
+     "page": 63,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I don’t think they want to. But anyway, I may be wrong."
+    },
+    {
+     "block_id": 296460,
+     "page": 63,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "No, because, see, they’re in a position where they don’t feel like they have to go – they know they don’t have to. They’re not going to go through what we went through to get – because there’s almost – we almost put it in their laps."
+    },
+    {
+     "block_id": 296461,
+     "page": 63,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "There are some girls that are very good. The bass player . . ."
+    },
+    {
+     "block_id": 296462,
+     "page": 63,
+     "block": 15,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Oh yeah. What’s her name? She played with the Harper brothers and [?] when she was much younger."
+    },
+    {
+     "block_id": 296463,
+     "page": 63,
+     "block": 16,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Now and then a girl comes along."
+    }
+   ],
+   "target": {
+    "block_id": 296464,
+    "page": 64,
+    "block": 0,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "Right. That’s true. I have two young girls coming along that’s come to me for private things, and the main thing is to tell them what’s what, who was there, [?], and they understand. So you’re leaving us when now Melba?"
+   },
+   "context_after": [
+    {
+     "block_id": 296465,
+     "page": 64,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I’ll be back in New York for Christmas."
+    },
+    {
+     "block_id": 296466,
+     "page": 64,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Oh my goodness."
+    },
+    {
+     "block_id": 296467,
+     "page": 64,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I’m hoping that I’ll be back there, but I might not. I might be here for Christmas. I don’t know."
+    },
+    {
+     "block_id": 296468,
+     "page": 64,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But you would like to be there for Christmas. You want all that snow and ice, right?"
+    },
+    {
+     "block_id": 296469,
+     "page": 64,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yep. That’s all right with me."
+    },
+    {
+     "block_id": 296470,
+     "page": 64,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You’ve got your friends back there to keep you warm. You have some dedicated friends back there, Melba. No jive. I know I’m dedicated, but you’ve got a whole big bunch of them out – back there."
+    },
+    {
+     "block_id": 296471,
+     "page": 64,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "That’s wonderful."
+    },
+    {
+     "block_id": 296472,
+     "page": 64,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You know what to me, Melba, is people worry about having critical acclaim and all that kind of stuff, but to have my peers recognize me means more to me. I don’t know about you, but it’s always meant more to me than the critics, because I know my peers understand more than the critics do."
+    }
+   ],
+   "window_chars": 1754
+  },
+  {
+   "block_id": 296470,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 64,
+   "block": 6,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b64-6"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 296462,
+     "page": 63,
+     "block": 15,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Oh yeah. What’s her name? She played with the Harper brothers and [?] when she was much younger."
+    },
+    {
+     "block_id": 296463,
+     "page": 63,
+     "block": 16,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Now and then a girl comes along."
+    },
+    {
+     "block_id": 296464,
+     "page": 64,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Right. That’s true. I have two young girls coming along that’s come to me for private things, and the main thing is to tell them what’s what, who was there, [?], and they understand. So you’re leaving us when now Melba?"
+    },
+    {
+     "block_id": 296465,
+     "page": 64,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I’ll be back in New York for Christmas."
+    },
+    {
+     "block_id": 296466,
+     "page": 64,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Oh my goodness."
+    },
+    {
+     "block_id": 296467,
+     "page": 64,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I’m hoping that I’ll be back there, but I might not. I might be here for Christmas. I don’t know."
+    },
+    {
+     "block_id": 296468,
+     "page": 64,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But you would like to be there for Christmas. You want all that snow and ice, right?"
+    },
+    {
+     "block_id": 296469,
+     "page": 64,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yep. That’s all right with me."
+    }
+   ],
+   "target": {
+    "block_id": 296470,
+    "page": 64,
+    "block": 6,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "You’ve got your friends back there to keep you warm. You have some dedicated friends back there, Melba. No jive. I know I’m dedicated, but you’ve got a whole big bunch of them out – back there."
+   },
+   "context_after": [
+    {
+     "block_id": 296471,
+     "page": 64,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "That’s wonderful."
+    },
+    {
+     "block_id": 296472,
+     "page": 64,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You know what to me, Melba, is people worry about having critical acclaim and all that kind of stuff, but to have my peers recognize me means more to me. I don’t know about you, but it’s always meant more to me than the critics, because I know my peers understand more than the critics do."
+    },
+    {
+     "block_id": 296473,
+     "page": 64,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Definitely."
+    },
+    {
+     "block_id": 296474,
+     "page": 64,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "I wanted to get your idea about that."
+    },
+    {
+     "block_id": 296475,
+     "page": 64,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Your peers – the critics . . ."
+    },
+    {
+     "block_id": 296476,
+     "page": 64,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Because your peers are not going to leave you like critics will. They’ll praise you one day and the next day, if they’re not feeling too good, they’ll dump you or dump on you or whatever."
+    },
+    {
+     "block_id": 296477,
+     "page": 64,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I don’t care about the – what do you call them? Peers or something. But my friends – all the guys are my friends. And the girls . . ."
+    },
+    {
+     "block_id": 296478,
+     "page": 65,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "That’s what I mean. I call them my peers, because we’re doing it in the same business. We’re dedicated just like they are, even though we’re female."
+    }
+   ],
+   "window_chars": 1657
+  },
+  {
+   "block_id": 296472,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 64,
+   "block": 8,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b64-8"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 296464,
+     "page": 64,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Right. That’s true. I have two young girls coming along that’s come to me for private things, and the main thing is to tell them what’s what, who was there, [?], and they understand. So you’re leaving us when now Melba?"
+    },
+    {
+     "block_id": 296465,
+     "page": 64,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I’ll be back in New York for Christmas."
+    },
+    {
+     "block_id": 296466,
+     "page": 64,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Oh my goodness."
+    },
+    {
+     "block_id": 296467,
+     "page": 64,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I’m hoping that I’ll be back there, but I might not. I might be here for Christmas. I don’t know."
+    },
+    {
+     "block_id": 296468,
+     "page": 64,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But you would like to be there for Christmas. You want all that snow and ice, right?"
+    },
+    {
+     "block_id": 296469,
+     "page": 64,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yep. That’s all right with me."
+    },
+    {
+     "block_id": 296470,
+     "page": 64,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You’ve got your friends back there to keep you warm. You have some dedicated friends back there, Melba. No jive. I know I’m dedicated, but you’ve got a whole big bunch of them out – back there."
+    },
+    {
+     "block_id": 296471,
+     "page": 64,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "That’s wonderful."
+    }
+   ],
+   "target": {
+    "block_id": 296472,
+    "page": 64,
+    "block": 8,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "You know what to me, Melba, is people worry about having critical acclaim and all that kind of stuff, but to have my peers recognize me means more to me. I don’t know about you, but it’s always meant more to me than the critics, because I know my peers understand more than the critics do."
+   },
+   "context_after": [
+    {
+     "block_id": 296473,
+     "page": 64,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Definitely."
+    },
+    {
+     "block_id": 296474,
+     "page": 64,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "I wanted to get your idea about that."
+    },
+    {
+     "block_id": 296475,
+     "page": 64,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Your peers – the critics . . ."
+    },
+    {
+     "block_id": 296476,
+     "page": 64,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Because your peers are not going to leave you like critics will. They’ll praise you one day and the next day, if they’re not feeling too good, they’ll dump you or dump on you or whatever."
+    },
+    {
+     "block_id": 296477,
+     "page": 64,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I don’t care about the – what do you call them? Peers or something. But my friends – all the guys are my friends. And the girls . . ."
+    },
+    {
+     "block_id": 296478,
+     "page": 65,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "That’s what I mean. I call them my peers, because we’re doing it in the same business. We’re dedicated just like they are, even though we’re female."
+    },
+    {
+     "block_id": 296479,
+     "page": 65,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "The girls now – Bu?"
+    },
+    {
+     "block_id": 296480,
+     "page": 65,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Pleasant?"
+    }
+   ],
+   "window_chars": 1557
+  },
+  {
+   "block_id": 296493,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 66,
+   "block": 0,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b66-0"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 296485,
+     "page": 65,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah. All them. They’re – we got to get – they’re having a bitch of a time. We got to get something together for the girls. I don’t know how, but we got to get two or three girls here and two or three girls there and things and work it out that they’re out front sometimes and all of that stuff. But I don’t know, because here, it’s not happening, but they might be doing it in New York, Chicago, and places like that. But the girl bass player . . ."
+    },
+    {
+     "block_id": 296486,
+     "page": 65,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Out here? The one we were talking about?"
+    },
+    {
+     "block_id": 296487,
+     "page": 65,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Um-hmm. And a drummer . . ."
+    },
+    {
+     "block_id": 296488,
+     "page": 65,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Teri?"
+    },
+    {
+     "block_id": 296489,
+     "page": 65,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah."
+    },
+    {
+     "block_id": 296490,
+     "page": 65,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Teri Lyne Carrington?"
+    },
+    {
+     "block_id": 296491,
+     "page": 65,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "And who else? I know they got to get out and go back East."
+    },
+    {
+     "block_id": 296492,
+     "page": 65,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But Teri left back East. She was there, and she left, and she lives out here now. And I don’t think – I can’t think of the bass player’s name. I don’t know if she’s quite ready to leave her mother. She’s old enough to, but there’s a bond there. Saxophone players? Hmm. Trumpet players: Stacey Rowles. Jimmie’s daughter. And what’s-her­ name that has the big band? [Ann Patterson]. The reed person that has the – what do you call them? It was Roz [?Crans] band first, and then this girl took over the band. She had been doing pretty good with it, because they went to Japan a couple of times. She plays all the reeds, and she’s working somewhere this weekend with that group called the Bandleaders group, or something like that. Everybody in it is a bandleader – Maiden"
+    }
+   ],
+   "target": {
+    "block_id": 296493,
+    "page": 66,
+    "block": 0,
+    "type": "dialogue",
+    "speaker": "",
+    "text": "Voyage – that group. I don’t know any trombone players, [inaudible], but she’s not from out here, you said. Piano players? Young ones? I don’t know. You know, it’s a shame. But really, Melba, it wasn’t that many when we were coming along either, out here. Are there any last remarks that you’d like to give to the young – not just the young girls, but mainly the young girls that are coming along, and young male musicians. I think they have their act kind of together. What do you think?"
+   },
+   "context_after": [
+    {
+     "block_id": 296494,
+     "page": 66,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "If they’re going to study and do it, do it."
+    },
+    {
+     "block_id": 296495,
+     "page": 66,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Most of them are."
+    },
+    {
+     "block_id": 296496,
+     "page": 66,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "And if not, don’t do it."
+    },
+    {
+     "block_id": 296497,
+     "page": 66,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Don’t even go there."
+    },
+    {
+     "block_id": 296498,
+     "page": 66,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "That’s all I can say. Don’t get all hung up with nobody other than your music"
+    },
+    {
+     "block_id": 296499,
+     "page": 66,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Let that be your old man or your old woman or whatever."
+    },
+    {
+     "block_id": 296500,
+     "page": 66,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Until you know that somebody that’s going to be yours and you’re going to be his, and you’re going to be lifetime or something together."
+    },
+    {
+     "block_id": 296501,
+     "page": 66,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "And that is a hard nut to crack, learning the difference between lust and love. I have to go through that with my kids, my son. It’s hard. Especially being in show business. You know how everybody’s – we’ve been there."
+    }
+   ],
+   "window_chars": 2451
+  },
+  {
+   "block_id": 296503,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 66,
+   "block": 10,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b66-10"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": true,
+   "context_before": [
+    {
+     "block_id": 296495,
+     "page": 66,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Most of them are."
+    },
+    {
+     "block_id": 296496,
+     "page": 66,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "And if not, don’t do it."
+    },
+    {
+     "block_id": 296497,
+     "page": 66,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Don’t even go there."
+    },
+    {
+     "block_id": 296498,
+     "page": 66,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "That’s all I can say. Don’t get all hung up with nobody other than your music"
+    },
+    {
+     "block_id": 296499,
+     "page": 66,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Let that be your old man or your old woman or whatever."
+    },
+    {
+     "block_id": 296500,
+     "page": 66,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Until you know that somebody that’s going to be yours and you’re going to be his, and you’re going to be lifetime or something together."
+    },
+    {
+     "block_id": 296501,
+     "page": 66,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "And that is a hard nut to crack, learning the difference between lust and love. I have to go through that with my kids, my son. It’s hard. Especially being in show business. You know how everybody’s – we’ve been there."
+    },
+    {
+     "block_id": 296502,
+     "page": 66,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "But I didn’t do a lot of things. Two guys are kind of [?], but other than that, I was not being low or something, and we made it for years, or something like that."
+    }
+   ],
+   "target": {
+    "block_id": 296503,
+    "page": 66,
+    "block": 10,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "Because the other night at the concert, my alumni, I kept talking about I had a crush on this one and a crush on that one, and another guy in the audience say, “Looks like you had a crush on everybody.” I said, as long as I just had a crush, that was cool. You can look, but don’t touch. But that is what I try to tell my kids that I’m teaching now. You can admire, but you don’t have to fall for, or whatever, and that is really a big part of being a female in this business, because it’s rough out there. Melba, we’re going to wrap it up, girl. It has been two fantastic days that I’m so glad that I was a part of, because I’ve been wanting to see a complete thing done on you. Maybe we didn’t do it completely, but we almost made it. And I want to thank Smithsonian for giving me a chance to be the one to interview you, because you’ve been such a major part of my life, really, and I’ve just – goose-bump time, your whole"
+   },
+   "context_after": [
+    {
+     "block_id": 296504,
+     "page": 67,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "",
+     "text": "thing. Then when I start to think about how much I have admired you from afar – because you really didn’t know how much until of late. Maybe in the last year we became bonded, but I’ve been bonded to you a long time, and I want – and I really appreciate the chance to sit here and tell you this and be a part of this, what I think has been a fantastic interview, from all the others that I’ve seen. Especially, since you’ve had your stroke, this is just fantastic, Melba, really, and I want you to go back East and get ’em, girl. You go, girl."
+    },
+    {
+     "block_id": 296505,
+     "page": 67,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I’m sorry that I couldn’t talk more."
+    },
+    {
+     "block_id": 296506,
+     "page": 67,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "I know, but you’ve done – you’ve done it. You hear. You’ve done it to death. And I want to say thank you to Matt also for you and I."
+    },
+    {
+     "block_id": 296507,
+     "page": 67,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "What’s your last name? Watson: Watson."
+    },
+    {
+     "block_id": 296508,
+     "page": 67,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Oh. Matt Watson."
+    },
+    {
+     "block_id": 296509,
+     "page": 67,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Yes. Tell Smithsonian we want to thank them for sending a young, handsome man out here, and such a talented one as far as trying to get us to get this interview together, and whatever we’ve done, we owe some of our thanks to Matt for helping us get it together. Melba, you can take over from here. But this – my name is Clora Bryant, and I want to say thank you, Melba Liston."
+    },
+    {
+     "block_id": 296510,
+     "page": 67,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Okay. And we’ll close with a tune dedicated to my mom and her man, her husband, Ben Loves Lu. [The music plays.] I think maybe this song will be my theme song all over – big band, little band, whatever – if I get everybody to play it like that."
+    },
+    {
+     "block_id": 296511,
+     "page": 67,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Stay well, Melba."
+    }
+   ],
+   "window_chars": 3037
+  },
+  {
+   "block_id": 296504,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 67,
+   "block": 0,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b67-0"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": true,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 296500,
+     "page": 66,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Until you know that somebody that’s going to be yours and you’re going to be his, and you’re going to be lifetime or something together."
+    },
+    {
+     "block_id": 296501,
+     "page": 66,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "And that is a hard nut to crack, learning the difference between lust and love. I have to go through that with my kids, my son. It’s hard. Especially being in show business. You know how everybody’s – we’ve been there."
+    },
+    {
+     "block_id": 296502,
+     "page": 66,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "But I didn’t do a lot of things. Two guys are kind of [?], but other than that, I was not being low or something, and we made it for years, or something like that."
+    },
+    {
+     "block_id": 296503,
+     "page": 66,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Because the other night at the concert, my alumni, I kept talking about I had a crush on this one and a crush on that one, and another guy in the audience say, “Looks like you had a crush on everybody.” I said, as long as I just had a crush, that was cool. You can look, but don’t touch. But that is what I try to tell my kids that I’m teaching now. You can admire, but you don’t have to fall for, or whatever, and that is really a big part of being a female in this business, because it’s rough out there. Melba, we’re going to wrap it up, girl. It has been two fantastic days that I’m so glad that I was a part of, because I’ve been wanting to see a complete thing done on you. Maybe we didn’t do it completely, but we almost made it. And I want to thank Smithsonian for giving me a chance to be the one to interview you, because you’ve been such a major part of my life, really, and I’ve just – goose-bump time, your whole"
+    }
+   ],
+   "target": {
+    "block_id": 296504,
+    "page": 67,
+    "block": 0,
+    "type": "dialogue",
+    "speaker": "",
+    "text": "thing. Then when I start to think about how much I have admired you from afar – because you really didn’t know how much until of late. Maybe in the last year we became bonded, but I’ve been bonded to you a long time, and I want – and I really appreciate the chance to sit here and tell you this and be a part of this, what I think has been a fantastic interview, from all the others that I’ve seen. Especially, since you’ve had your stroke, this is just fantastic, Melba, really, and I want you to go back East and get ’em, girl. You go, girl."
+   },
+   "context_after": [
+    {
+     "block_id": 296505,
+     "page": 67,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I’m sorry that I couldn’t talk more."
+    },
+    {
+     "block_id": 296506,
+     "page": 67,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "I know, but you’ve done – you’ve done it. You hear. You’ve done it to death. And I want to say thank you to Matt also for you and I."
+    },
+    {
+     "block_id": 296507,
+     "page": 67,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "What’s your last name? Watson: Watson."
+    },
+    {
+     "block_id": 296508,
+     "page": 67,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Oh. Matt Watson."
+    },
+    {
+     "block_id": 296509,
+     "page": 67,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Yes. Tell Smithsonian we want to thank them for sending a young, handsome man out here, and such a talented one as far as trying to get us to get this interview together, and whatever we’ve done, we owe some of our thanks to Matt for helping us get it together. Melba, you can take over from here. But this – my name is Clora Bryant, and I want to say thank you, Melba Liston."
+    },
+    {
+     "block_id": 296510,
+     "page": 67,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Okay. And we’ll close with a tune dedicated to my mom and her man, her husband, Ben Loves Lu. [The music plays.] I think maybe this song will be my theme song all over – big band, little band, whatever – if I get everybody to play it like that."
+    },
+    {
+     "block_id": 296511,
+     "page": 67,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Stay well, Melba."
+    },
+    {
+     "block_id": 296512,
+     "page": 67,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Thank you."
+    }
+   ],
+   "window_chars": 2854
+  },
+  {
+   "block_id": 296509,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 67,
+   "block": 5,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b67-5"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 296503,
+     "page": 66,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Because the other night at the concert, my alumni, I kept talking about I had a crush on this one and a crush on that one, and another guy in the audience say, “Looks like you had a crush on everybody.” I said, as long as I just had a crush, that was cool. You can look, but don’t touch. But that is what I try to tell my kids that I’m teaching now. You can admire, but you don’t have to fall for, or whatever, and that is really a big part of being a female in this business, because it’s rough out there. Melba, we’re going to wrap it up, girl. It has been two fantastic days that I’m so glad that I was a part of, because I’ve been wanting to see a complete thing done on you. Maybe we didn’t do it completely, but we almost made it. And I want to thank Smithsonian for giving me a chance to be the one to interview you, because you’ve been such a major part of my life, really, and I’ve just – goose-bump time, your whole"
+    },
+    {
+     "block_id": 296504,
+     "page": 67,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "",
+     "text": "thing. Then when I start to think about how much I have admired you from afar – because you really didn’t know how much until of late. Maybe in the last year we became bonded, but I’ve been bonded to you a long time, and I want – and I really appreciate the chance to sit here and tell you this and be a part of this, what I think has been a fantastic interview, from all the others that I’ve seen. Especially, since you’ve had your stroke, this is just fantastic, Melba, really, and I want you to go back East and get ’em, girl. You go, girl."
+    },
+    {
+     "block_id": 296505,
+     "page": 67,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I’m sorry that I couldn’t talk more."
+    },
+    {
+     "block_id": 296506,
+     "page": 67,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "I know, but you’ve done – you’ve done it. You hear. You’ve done it to death. And I want to say thank you to Matt also for you and I."
+    },
+    {
+     "block_id": 296507,
+     "page": 67,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "What’s your last name? Watson: Watson."
+    },
+    {
+     "block_id": 296508,
+     "page": 67,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Oh. Matt Watson."
+    }
+   ],
+   "target": {
+    "block_id": 296509,
+    "page": 67,
+    "block": 5,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "Yes. Tell Smithsonian we want to thank them for sending a young, handsome man out here, and such a talented one as far as trying to get us to get this interview together, and whatever we’ve done, we owe some of our thanks to Matt for helping us get it together. Melba, you can take over from here. But this – my name is Clora Bryant, and I want to say thank you, Melba Liston."
+   },
+   "context_after": [
+    {
+     "block_id": 296510,
+     "page": 67,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Okay. And we’ll close with a tune dedicated to my mom and her man, her husband, Ben Loves Lu. [The music plays.] I think maybe this song will be my theme song all over – big band, little band, whatever – if I get everybody to play it like that."
+    },
+    {
+     "block_id": 296511,
+     "page": 67,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Stay well, Melba."
+    },
+    {
+     "block_id": 296512,
+     "page": 67,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Thank you."
+    }
+   ],
+   "window_chars": 2337
+  },
+  {
+   "block_id": 296511,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 67,
+   "block": 7,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b67-7"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 296504,
+     "page": 67,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "",
+     "text": "thing. Then when I start to think about how much I have admired you from afar – because you really didn’t know how much until of late. Maybe in the last year we became bonded, but I’ve been bonded to you a long time, and I want – and I really appreciate the chance to sit here and tell you this and be a part of this, what I think has been a fantastic interview, from all the others that I’ve seen. Especially, since you’ve had your stroke, this is just fantastic, Melba, really, and I want you to go back East and get ’em, girl. You go, girl."
+    },
+    {
+     "block_id": 296505,
+     "page": 67,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I’m sorry that I couldn’t talk more."
+    },
+    {
+     "block_id": 296506,
+     "page": 67,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "I know, but you’ve done – you’ve done it. You hear. You’ve done it to death. And I want to say thank you to Matt also for you and I."
+    },
+    {
+     "block_id": 296507,
+     "page": 67,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "What’s your last name? Watson: Watson."
+    },
+    {
+     "block_id": 296508,
+     "page": 67,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Oh. Matt Watson."
+    },
+    {
+     "block_id": 296509,
+     "page": 67,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Yes. Tell Smithsonian we want to thank them for sending a young, handsome man out here, and such a talented one as far as trying to get us to get this interview together, and whatever we’ve done, we owe some of our thanks to Matt for helping us get it together. Melba, you can take over from here. But this – my name is Clora Bryant, and I want to say thank you, Melba Liston."
+    },
+    {
+     "block_id": 296510,
+     "page": 67,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Okay. And we’ll close with a tune dedicated to my mom and her man, her husband, Ben Loves Lu. [The music plays.] I think maybe this song will be my theme song all over – big band, little band, whatever – if I get everybody to play it like that."
+    }
+   ],
+   "target": {
+    "block_id": 296511,
+    "page": 67,
+    "block": 7,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "Stay well, Melba."
+   },
+   "context_after": [
+    {
+     "block_id": 296512,
+     "page": 67,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Thank you."
+    }
+   ],
+   "window_chars": 1412
+  }
+ ]
+}

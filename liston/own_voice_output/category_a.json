@@ -1,0 +1,1807 @@
+{
+ "items": [
+  {
+   "block_id": 295466,
+   "category": "beginnings",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295467,
+   "category": "beginnings",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295468,
+   "category": "beginnings",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295469,
+   "category": "beginnings",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295473,
+   "category": "beginnings",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295476,
+   "category": "beginnings",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295478,
+   "category": "beginnings",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295503,
+   "category": "beginnings",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Childhood trombone (getting her first horn) is beginnings by rule."
+  },
+  {
+   "block_id": 295504,
+   "category": "beginnings",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Childhood ear and number system is beginnings by rule."
+  },
+  {
+   "block_id": 295505,
+   "category": "beginnings",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Childhood ear and number system is beginnings by rule."
+  },
+  {
+   "block_id": 295507,
+   "category": "beginnings",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295510,
+   "category": "beginnings",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Reaching the far positions as a child is beginnings by rule."
+  },
+  {
+   "block_id": 295511,
+   "category": "beginnings",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Reaching the far positions as a child is beginnings by rule."
+  },
+  {
+   "block_id": 295515,
+   "category": "beginnings",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295516,
+   "category": "beginnings",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295522,
+   "category": "beginnings",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295533,
+   "category": "beginnings",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295541,
+   "category": "beginnings",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295547,
+   "category": "beginnings",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295549,
+   "category": "beginnings",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295553,
+   "category": "beginnings",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Trip with the Hightower youth band; 'first time on the road' is still the youth band, so beginnings."
+  },
+  {
+   "block_id": 295555,
+   "category": "beginnings",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295559,
+   "category": "beginnings",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295565,
+   "category": "beginnings",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295568,
+   "category": "beginnings",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Bryant on Hightower's regard for her is beginnings by its includes."
+  },
+  {
+   "block_id": 295569,
+   "category": "beginnings",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Deflection of Hightower's praise goes where the praise goes (notes)."
+  },
+  {
+   "block_id": 295571,
+   "category": "big_bands",
+   "secondary": "beginnings",
+   "confidence": "high",
+   "reason": "Leaving Hightower at 16 for the union and the Lincoln is big_bands by rule; Hightower's annoyance gives it a foot in beginnings."
+  },
+  {
+   "block_id": 295575,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Writing for acts at the Lincoln as the start of her writing is arranging by rule."
+  },
+  {
+   "block_id": 295577,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "'Start of my writing career' at the Lincoln is arranging by rule."
+  },
+  {
+   "block_id": 295582,
+   "category": "big_bands",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295583,
+   "category": "big_bands",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Lincoln Theater skits; the Hightower mention is incidental."
+  },
+  {
+   "block_id": 295590,
+   "category": "big_bands",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295597,
+   "category": "big_bands",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Segregation in the Lincoln years goes to big_bands (notes)."
+  },
+  {
+   "block_id": 295599,
+   "category": "big_bands",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295601,
+   "category": "big_bands",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295603,
+   "category": "big_bands",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Copyist role in Wilson's band is big_bands by rule."
+  },
+  {
+   "block_id": 295605,
+   "category": "big_bands",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295606,
+   "category": "big_bands",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295613,
+   "category": "big_bands",
+   "secondary": "after_the_stroke",
+   "confidence": "medium",
+   "reason": "CA vs NY jazz scene in the band years is big_bands by rule even with the joke; but 'I'm going back to New York' is literally her 1996 plan."
+  },
+  {
+   "block_id": 295619,
+   "category": "big_bands",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295623,
+   "category": "being_a_woman",
+   "secondary": "big_bands",
+   "confidence": "medium",
+   "reason": "'Let the girl do something' = leader featuring the girl because audiences expected it (being_a_woman rule); also about her job in Wilson's band and writing her feature."
+  },
+  {
+   "block_id": 295629,
+   "category": "big_bands",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295630,
+   "category": "big_bands",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Being stranded on tour is big_bands by rule."
+  },
+  {
+   "block_id": 295633,
+   "category": "big_bands",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Being stranded on tour is big_bands by rule."
+  },
+  {
+   "block_id": 295637,
+   "category": "being_a_woman",
+   "secondary": "the_trombone",
+   "confidence": "medium",
+   "reason": "Ends on 'the girl has to do something' (featuring the girl, being_a_woman rule), but much of the line is about her section playing vs solos."
+  },
+  {
+   "block_id": 295640,
+   "category": "big_bands",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Bryant passing on the Basie recording is big_bands by rule."
+  },
+  {
+   "block_id": 295643,
+   "category": "big_bands",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295645,
+   "category": "big_bands",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295664,
+   "category": "life_offstage",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295669,
+   "category": "life_offstage",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Through with the road, taking the exam: life_offstage by rule."
+  },
+  {
+   "block_id": 295677,
+   "category": "life_offstage",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295681,
+   "category": "life_offstage",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295689,
+   "category": "the_trombone",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "First time playing without music is the_trombone by rule."
+  },
+  {
+   "block_id": 295690,
+   "category": "the_trombone",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295693,
+   "category": "life_offstage",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Returning to music from a day job is life_offstage by rule."
+  },
+  {
+   "block_id": 295695,
+   "category": "big_bands",
+   "secondary": "life_offstage",
+   "confidence": "medium",
+   "reason": "Short line; in the exchange it is about Gillespie sending for her again (big_bands), but it is also the end of the day-job interlude."
+  },
+  {
+   "block_id": 295697,
+   "category": "being_a_woman",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295699,
+   "category": "being_a_woman",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295700,
+   "category": "being_a_woman",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295701,
+   "category": "being_a_woman",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Wilson presenting her as a woman who wrote, played and sang is being_a_woman by rule."
+  },
+  {
+   "block_id": 295704,
+   "category": "being_a_woman",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295705,
+   "category": "being_a_woman",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295706,
+   "category": "being_a_woman",
+   "secondary": "big_bands",
+   "confidence": "medium",
+   "reason": "Part of the 'sent for a woman' exchange, but Gillespie's stated reason (men wanted the chair for friends) is not gendered; could be read as hiring history."
+  },
+  {
+   "block_id": 295707,
+   "category": "being_a_woman",
+   "secondary": "big_bands",
+   "confidence": "high",
+   "reason": "Gillespie silencing the men with her chart is being_a_woman by rule."
+  },
+  {
+   "block_id": 295708,
+   "category": "big_bands",
+   "secondary": "being_a_woman",
+   "confidence": "medium",
+   "reason": "Praise of Gillespie's faith in her goes to big_bands by rule, though the story it confirms is the being_a_woman episode."
+  },
+  {
+   "block_id": 295709,
+   "category": "big_bands",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295710,
+   "category": "big_bands",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295711,
+   "category": "big_bands",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295713,
+   "category": "randy_weston",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Weston taking her to Jamaica is randy_weston by rule."
+  },
+  {
+   "block_id": 295714,
+   "category": "teaching",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295717,
+   "category": "teaching",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295721,
+   "category": "teaching",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295725,
+   "category": "teaching",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295729,
+   "category": "teaching",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295749,
+   "category": "life_offstage",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295755,
+   "category": "life_offstage",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295759,
+   "category": "life_offstage",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295761,
+   "category": "life_offstage",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295763,
+   "category": "life_offstage",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295765,
+   "category": "life_offstage",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Husband calling her in LA and sorrow at his death is life_offstage by rule."
+  },
+  {
+   "block_id": 295768,
+   "category": "life_offstage",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295769,
+   "category": "life_offstage",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295771,
+   "category": "being_a_woman",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Bandmate's advance on tour is being_a_woman by rule though it arose from a husband question."
+  },
+  {
+   "block_id": 295773,
+   "category": "being_a_woman",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295774,
+   "category": "being_a_woman",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295777,
+   "category": "life_offstage",
+   "secondary": "arranging",
+   "confidence": "medium",
+   "reason": "Prompted by her husband's name: the tune is named for him (life_offstage rule), but she also judges the tune and plans to perform it."
+  },
+  {
+   "block_id": 295783,
+   "category": "own_bands",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "All-women group history is own_bands by rule."
+  },
+  {
+   "block_id": 295784,
+   "category": "own_bands",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "How the all-women group started is own_bands by rule."
+  },
+  {
+   "block_id": 295787,
+   "category": "own_bands",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295793,
+   "category": "own_bands",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295800,
+   "category": "own_bands",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295808,
+   "category": "after_the_stroke",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295810,
+   "category": "the_trombone",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Conducting more than playing, carrying horns she did not play: the_trombone includes."
+  },
+  {
+   "block_id": 295814,
+   "category": "life_offstage",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Shrug about films goes to films (notes)."
+  },
+  {
+   "block_id": 295815,
+   "category": "life_offstage",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295816,
+   "category": "life_offstage",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295822,
+   "category": "life_offstage",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295824,
+   "category": "life_offstage",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295832,
+   "category": "life_offstage",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295836,
+   "category": "randy_weston",
+   "secondary": "after_the_stroke",
+   "confidence": "high",
+   "reason": "Thanking Weston for sticking with her is randy_weston by rule."
+  },
+  {
+   "block_id": 295841,
+   "category": "after_the_stroke",
+   "secondary": null,
+   "confidence": "low",
+   "reason": "Bryant on her friendship with Major Holley; no category for musician friendships as such. Placed with friends who helped after the stroke because the exchange leads to Holley buying her computer after the stroke."
+  },
+  {
+   "block_id": 295842,
+   "category": "after_the_stroke",
+   "secondary": null,
+   "confidence": "medium",
+   "reason": "Holley bought her first computer after the stroke (confirmed next turn): friend who helped after the stroke."
+  },
+  {
+   "block_id": 295848,
+   "category": "after_the_stroke",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295854,
+   "category": "the_trombone",
+   "secondary": "beginnings",
+   "confidence": "medium",
+   "reason": "Trombone influences and loving the instrument are the_trombone includes, but the question is about when she started (childhood), which the beginnings/the_trombone rule would send to beginnings."
+  },
+  {
+   "block_id": 295855,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295856,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295864,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295870,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295876,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295877,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295878,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295895,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295897,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295899,
+   "category": "arranging",
+   "secondary": "randy_weston",
+   "confidence": "medium",
+   "reason": "Mostly about clients' criteria vs freedom in general (arranging); ends on her freedom with Randy, which the randy_weston rule names."
+  },
+  {
+   "block_id": 295901,
+   "category": "randy_weston",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295902,
+   "category": "randy_weston",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295903,
+   "category": "randy_weston",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "'He says I write like he writes' is randy_weston by rule."
+  },
+  {
+   "block_id": 295905,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Her method; the Randy prompt is incidental."
+  },
+  {
+   "block_id": 295911,
+   "category": "arranging",
+   "secondary": "the_trombone",
+   "confidence": "high",
+   "reason": "Piece for the person who gave her the horn is arranging by the_trombone excludes."
+  },
+  {
+   "block_id": 295915,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295916,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295917,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295919,
+   "category": "randy_weston",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295921,
+   "category": "randy_weston",
+   "secondary": "arranging",
+   "confidence": "high",
+   "reason": "Weston asking her to arrange the first album is randy_weston."
+  },
+  {
+   "block_id": 295925,
+   "category": "randy_weston",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "How much of his work she arranged is randy_weston."
+  },
+  {
+   "block_id": 295934,
+   "category": "after_the_stroke",
+   "secondary": "arranging",
+   "confidence": "medium",
+   "reason": "People waiting for her in New York (after_the_stroke include); what they wait for is her writing."
+  },
+  {
+   "block_id": 295937,
+   "category": "randy_weston",
+   "secondary": "after_the_stroke",
+   "confidence": "high",
+   "reason": "Weston pulled her out of the stroke: randy_weston by rule."
+  },
+  {
+   "block_id": 295938,
+   "category": "randy_weston",
+   "secondary": "after_the_stroke",
+   "confidence": "medium",
+   "reason": "Weston as what lifts her after the stroke; also touches the horn. Weston is the subject."
+  },
+  {
+   "block_id": 295939,
+   "category": "own_bands",
+   "secondary": "after_the_stroke",
+   "confidence": "high",
+   "reason": "Money not made and hoped for is own_bands by rule, though prompted by the goals question."
+  },
+  {
+   "block_id": 295940,
+   "category": "own_bands",
+   "secondary": "after_the_stroke",
+   "confidence": "high",
+   "reason": "Money she hopes to make in New York is own_bands by after_the_stroke excludes."
+  },
+  {
+   "block_id": 295941,
+   "category": "teaching",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295945,
+   "category": "teaching",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295950,
+   "category": "teaching",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295954,
+   "category": "teaching",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295956,
+   "category": "teaching",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295967,
+   "category": "teaching",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Musicians who visited Jamaica to play for her students: teaching includes."
+  },
+  {
+   "block_id": 295968,
+   "category": "teaching",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295969,
+   "category": "teaching",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295972,
+   "category": "own_bands",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295975,
+   "category": "own_bands",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295985,
+   "category": "own_bands",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Verdict on her own leader record is own_bands by rule."
+  },
+  {
+   "block_id": 295990,
+   "category": "own_bands",
+   "secondary": "being_a_woman",
+   "confidence": "medium",
+   "reason": "Pull quote is about never being signed (own_bands); the cut-off end of Bryant's turn asks whether it is gender."
+  },
+  {
+   "block_id": 295991,
+   "category": "being_a_woman",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "'I'm a woman' answer is being_a_woman by rule."
+  },
+  {
+   "block_id": 295995,
+   "category": "own_bands",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 295997,
+   "category": "own_bands",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "'Not ready' line is own_bands by rule."
+  },
+  {
+   "block_id": 295998,
+   "category": "being_a_woman",
+   "secondary": "big_bands",
+   "confidence": "high",
+   "reason": "Women abroad on the State Dept tour is being_a_woman by rule."
+  },
+  {
+   "block_id": 295999,
+   "category": "being_a_woman",
+   "secondary": "big_bands",
+   "confidence": "high",
+   "reason": "Acceptance abroad is being_a_woman by rule."
+  },
+  {
+   "block_id": 296001,
+   "category": "being_a_woman",
+   "secondary": "big_bands",
+   "confidence": "high",
+   "reason": "Whether she talked to women abroad is being_a_woman by rule."
+  },
+  {
+   "block_id": 296005,
+   "category": "being_a_woman",
+   "secondary": "own_bands",
+   "confidence": "medium",
+   "reason": "Reception abroad is being_a_woman by rule, but this line (better received everywhere except the US, next turn about jazz) has no gender in it and reads as recognition."
+  },
+  {
+   "block_id": 296016,
+   "category": "arranging",
+   "secondary": "big_bands",
+   "confidence": "medium",
+   "reason": "How her Annie's Dance arrangement went over on the State Dept tour: the music is the point; tour is the setting."
+  },
+  {
+   "block_id": 296021,
+   "category": "big_bands",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Tour politics is big_bands by rule."
+  },
+  {
+   "block_id": 296023,
+   "category": "big_bands",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296024,
+   "category": "arranging",
+   "secondary": "big_bands",
+   "confidence": "medium",
+   "reason": "Bryant describes the content of the tour medley (arranging); rule sends 'assignment she was given' to big_bands."
+  },
+  {
+   "block_id": 296025,
+   "category": "arranging",
+   "secondary": "big_bands",
+   "confidence": "medium",
+   "reason": "How she made the medley (a bit of this and that from bands she played with) is the writing; but she frames it as no big deal."
+  },
+  {
+   "block_id": 296031,
+   "category": "big_bands",
+   "secondary": "arranging",
+   "confidence": "high",
+   "reason": "'Just another job they told me to do' is big_bands by rule."
+  },
+  {
+   "block_id": 296039,
+   "category": "life_offstage",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296043,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Whether stars gave her trouble is arranging by rule."
+  },
+  {
+   "block_id": 296048,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296050,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296054,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296055,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Listening-session reaction to her writing is arranging by rule."
+  },
+  {
+   "block_id": 296056,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296057,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296058,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296061,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296068,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296071,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296075,
+   "category": "teaching",
+   "secondary": "arranging",
+   "confidence": "high",
+   "reason": "Teaching shadings to Jamaican students last: what she taught and in what order."
+  },
+  {
+   "block_id": 296076,
+   "category": "beginnings",
+   "secondary": "teaching",
+   "confidence": "high",
+   "reason": "Bryant tracing her craft to Hightower's teaching is beginnings by rule."
+  },
+  {
+   "block_id": 296077,
+   "category": "teaching",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "General maxim 'start from scratch' is teaching by rule."
+  },
+  {
+   "block_id": 296086,
+   "category": "the_trombone",
+   "secondary": "arranging",
+   "confidence": "medium",
+   "reason": "Who decided she would sing her own tune; singing her own song is the_trombone by rule, but her answer is 'I wrote it'."
+  },
+  {
+   "block_id": 296093,
+   "category": "the_trombone",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296095,
+   "category": "the_trombone",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296097,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Praise of fill-ins behind the vocal is arranging by rule."
+  },
+  {
+   "block_id": 296102,
+   "category": "arranging",
+   "secondary": "after_the_stroke",
+   "confidence": "medium",
+   "reason": "How fast she used to write is arranging by rule; 'I can't write like that no more' is the post-stroke loss."
+  },
+  {
+   "block_id": 296103,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296104,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296123,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296126,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296130,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296133,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296139,
+   "category": "the_trombone",
+   "secondary": "arranging",
+   "confidence": "medium",
+   "reason": "Praises both her trombone sound and what she wrote behind it; rule splits these. 'Especially the haunting sound on your trombone' leads."
+  },
+  {
+   "block_id": 296153,
+   "category": "the_trombone",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296154,
+   "category": "the_trombone",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296155,
+   "category": "arranging",
+   "secondary": "the_trombone",
+   "confidence": "high",
+   "reason": "Praise of the arrangement around her solo is arranging by rule."
+  },
+  {
+   "block_id": 296156,
+   "category": "the_trombone",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296163,
+   "category": "the_trombone",
+   "secondary": null,
+   "confidence": "medium",
+   "reason": "Generic praise ('one in a million') after pressing her on her playing; reads as praise of her playing."
+  },
+  {
+   "block_id": 296164,
+   "category": "the_trombone",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Wishing she could play like that now is the_trombone by rule."
+  },
+  {
+   "block_id": 296168,
+   "category": "the_trombone",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296171,
+   "category": "the_trombone",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296172,
+   "category": "the_trombone",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296173,
+   "category": "the_trombone",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296174,
+   "category": "the_trombone",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296208,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Teasing Bryant about what a piece reminds her of is arranging by rule."
+  },
+  {
+   "block_id": 296211,
+   "category": "the_trombone",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Praise of her solo is the_trombone by rule."
+  },
+  {
+   "block_id": 296222,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Strings version vs original is arranging by rule."
+  },
+  {
+   "block_id": 296224,
+   "category": "randy_weston",
+   "secondary": "arranging",
+   "confidence": "high",
+   "reason": "What Weston tells her when she writes for him is randy_weston."
+  },
+  {
+   "block_id": 296227,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296233,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296259,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296267,
+   "category": "own_bands",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Royalties are own_bands by rule."
+  },
+  {
+   "block_id": 296269,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296274,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296275,
+   "category": "own_bands",
+   "secondary": "arranging",
+   "confidence": "medium",
+   "reason": "Hearing her string writing without knowing it was hers: credit (own_bands) per its framing, though it is a remark from the listening session."
+  },
+  {
+   "block_id": 296279,
+   "category": "randy_weston",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296286,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296288,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296289,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296294,
+   "category": "arranging",
+   "secondary": "own_bands",
+   "confidence": "medium",
+   "reason": "Writing for Gloria Lynne; 'all of the arrangements are mine' while Quincy conducted edges toward credit."
+  },
+  {
+   "block_id": 296302,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296310,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296337,
+   "category": "own_bands",
+   "secondary": "after_the_stroke",
+   "confidence": "medium",
+   "reason": "Pull quote stops at the awards and tributes on the wall (own_bands as recognition); the question it introduces is about goals (after_the_stroke)."
+  },
+  {
+   "block_id": 296338,
+   "category": "after_the_stroke",
+   "secondary": "arranging",
+   "confidence": "medium",
+   "reason": "Answer to the goals question (taking stock); the wish to write for films is also arranging."
+  },
+  {
+   "block_id": 296342,
+   "category": "after_the_stroke",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296347,
+   "category": "after_the_stroke",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Being the best is taking stock by rule."
+  },
+  {
+   "block_id": 296350,
+   "category": "after_the_stroke",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Her standard of doing her best is after_the_stroke by rule."
+  },
+  {
+   "block_id": 296351,
+   "category": "after_the_stroke",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Bryant's tribute is after_the_stroke by rule."
+  },
+  {
+   "block_id": 296352,
+   "category": "teaching",
+   "secondary": "being_a_woman",
+   "confidence": "medium",
+   "reason": "Advice to study is teaching even when asked about girls (rule); ends 'still hard for girls'."
+  },
+  {
+   "block_id": 296353,
+   "category": "being_a_woman",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296356,
+   "category": "teaching",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296358,
+   "category": "teaching",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296367,
+   "category": "after_the_stroke",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Her LA life, prompted by West Coast youth, is after_the_stroke by rule."
+  },
+  {
+   "block_id": 296372,
+   "category": "teaching",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296373,
+   "category": "teaching",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Where students want to learn is teaching by rule."
+  },
+  {
+   "block_id": 296375,
+   "category": "after_the_stroke",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296376,
+   "category": "after_the_stroke",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296377,
+   "category": "after_the_stroke",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296379,
+   "category": "after_the_stroke",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296382,
+   "category": "after_the_stroke",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296386,
+   "category": "after_the_stroke",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296389,
+   "category": "after_the_stroke",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296391,
+   "category": "after_the_stroke",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296397,
+   "category": "after_the_stroke",
+   "secondary": "randy_weston",
+   "confidence": "high",
+   "reason": "Her own writing again, Weston in passing, is after_the_stroke by rule."
+  },
+  {
+   "block_id": 296398,
+   "category": "after_the_stroke",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296399,
+   "category": "after_the_stroke",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Regaining speed is after_the_stroke by rule."
+  },
+  {
+   "block_id": 296401,
+   "category": "the_trombone",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Stolen horn is the_trombone by rule."
+  },
+  {
+   "block_id": 296415,
+   "category": "the_trombone",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296417,
+   "category": "the_trombone",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296433,
+   "category": "the_trombone",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296437,
+   "category": "after_the_stroke",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296442,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "medium",
+   "reason": "Pieces she wrote for Bryant awaiting transcription; her writing is the subject, though thinly."
+  },
+  {
+   "block_id": 296455,
+   "category": "own_bands",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Getting paid vs getting the music out is own_bands."
+  },
+  {
+   "block_id": 296458,
+   "category": "being_a_woman",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296459,
+   "category": "being_a_woman",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296460,
+   "category": "being_a_woman",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296463,
+   "category": "being_a_woman",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296470,
+   "category": "after_the_stroke",
+   "secondary": null,
+   "confidence": "medium",
+   "reason": "Friends waiting in New York: people waiting for her there."
+  },
+  {
+   "block_id": 296477,
+   "category": "own_bands",
+   "secondary": null,
+   "confidence": "medium",
+   "reason": "Peers vs critics is own_bands by rule, but her point is that all the musicians are her friends."
+  },
+  {
+   "block_id": 296485,
+   "category": "being_a_woman",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296494,
+   "category": "teaching",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296498,
+   "category": "teaching",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296503,
+   "category": "after_the_stroke",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Bryant's closing tribute is after_the_stroke by rule."
+  },
+  {
+   "block_id": 296504,
+   "category": "after_the_stroke",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296505,
+   "category": "after_the_stroke",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Apology at the end is after_the_stroke by rule."
+  },
+  {
+   "block_id": 296506,
+   "category": "after_the_stroke",
+   "secondary": null,
+   "confidence": "high",
+   "reason": ""
+  },
+  {
+   "block_id": 296510,
+   "category": "arranging",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "A tune she hopes will be her theme is arranging; the dedication is not the point of the quote."
+  }
+ ],
+ "scheme_problems": [
+  "Friendships with musicians that do not bear on a body of work (Bryant on Major Holley 'talking about you the whole time') have no home: life_offstage excludes 'friendships with musicians that bear on her work', and nothing takes the ones that don't. I put the Holley lines in after_the_stroke because the exchange is about him buying her computer after the stroke (295841 low).",
+  "Reception abroad: the big_bands/being_a_woman State Department rule sends 'her acceptance or reception abroad' to being_a_woman, but the line 'Everywhere except here, the United States' (296005) has no gender in it and the follow-up is about jazz; read alone it is recognition (own_bands). The rule decides it but against the line's content.",
+  "Childhood trombone influence: the_trombone includes 'loving the instrument; trombone influences', while the beginnings/the_trombone rule sends any line about the trombone as a child to beginnings. 'I just loved the instrument' answering 'who was your influence when you started' (295854) sits on both.",
+  "Single lines that praise both her solo and her writing (Bryant on My Reverie, 296139): the the_trombone/arranging rule splits solo praise from arrangement praise but gives no tiebreak when one sentence does both.",
+  "Bryant's turn pointing at awards on the wall then asking about goals (296337): the pull quote is cut at the awards (own_bands as recognition) but the turn's question is the goals question (after_the_stroke). Which half governs depends on where the quote was cut.",
+  "Gillespie hiring episode: the rule sends 'men resenting a woman being sent for' and Gillespie having them read her chart to being_a_woman, but 'praise of Gillespie's faith in her' to big_bands. Bryant's 'he relished telling that story... the faith he had in you' (295708) is the punchline of the gender story and is sent the other way; Bryant's report that the men wanted the chair for friends (295706) is not gendered in itself.",
+  "Taking-stock answers that name a wish (writing for films, 296338) or money (295939) fall between after_the_stroke (goals) and arranging/own_bands; the rules handle money explicitly but not the film-scoring wish.",
+  "'Leaders featuring the girl' (being_a_woman) overlaps with lines whose bulk is about her job or playing in the band (295623, 295637); the rule turns on a phrase rather than the line's main subject.",
+  "295613 'I'm going back to New York': the rule sends it to big_bands as a CA-vs-NY band-years remark, but the sentence itself is about 1996 plans (after_the_stroke)."
+ ]
+}

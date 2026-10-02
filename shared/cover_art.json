@@ -1,0 +1,464 @@
+{
+ "source": "Cover Art Archive, keyed on the MusicBrainz release-group id carried in Wikidata P436",
+ "licence": "Cover art is copyrighted and supplied by MusicBrainz for identification. Not freely licensed — unlike shared/images.json, these must not be treated as reusable media.",
+ "release_groups_probed": 41,
+ "with_cover": 38,
+ "items": {
+  "9f4d1225-204a-460b-8b94-6b842f8b5051": {
+   "title": "World Statesman",
+   "kind": "album",
+   "released": "1956",
+   "qid": "Q8036265",
+   "subjects": [
+    "liston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/9f4d1225-204a-460b-8b94-6b842f8b5051/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/9f4d1225-204a-460b-8b94-6b842f8b5051/front-500",
+   "resolved": "https://ia801509.us.archive.org/1/items/mbid-df4cf560-098d-40d7-9bd2-8dc620009ccd/mbid-df4cf560-098d-40d7-9bd2-8dc620009ccd-33860641104_thumb250.jpg"
+  },
+  "21ef9afe-a6d5-4afa-a12e-f725376e2eb3": {
+   "title": "Art Blakey Big Band",
+   "kind": "album",
+   "released": "Last week of January 1959",
+   "qid": "Q16242591",
+   "subjects": [
+    "liston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/21ef9afe-a6d5-4afa-a12e-f725376e2eb3/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/21ef9afe-a6d5-4afa-a12e-f725376e2eb3/front-500",
+   "resolved": "https://dn721802.ca.archive.org/0/items/mbid-1d2e70c3-699e-4e58-a147-f8ded2f19f0c/mbid-1d2e70c3-699e-4e58-a147-f8ded2f19f0c-26658691016_thumb250.jpg"
+  },
+  "e7dfd8de-c018-4c66-a0f4-b67047813593": {
+   "title": "Birks' Works",
+   "kind": "album",
+   "released": "1958",
+   "qid": "Q4916504",
+   "subjects": [
+    "liston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/e7dfd8de-c018-4c66-a0f4-b67047813593/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/e7dfd8de-c018-4c66-a0f4-b67047813593/front-500",
+   "resolved": "https://dn711007.ca.archive.org/0/items/mbid-52bc1d71-dc83-4471-9fa6-383487f2cfad/mbid-52bc1d71-dc83-4471-9fa6-383487f2cfad-2670477820_thumb250.jpg"
+  },
+  "d9277c7a-e617-46d4-950b-02f3daddbea5": {
+   "title": "Dinah Washington Sings Fats Waller",
+   "kind": "album",
+   "released": "1957",
+   "qid": "Q5277912",
+   "subjects": [
+    "liston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/d9277c7a-e617-46d4-950b-02f3daddbea5/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/d9277c7a-e617-46d4-950b-02f3daddbea5/front-500",
+   "resolved": "https://dn721500.ca.archive.org/0/items/mbid-1bb12502-00e4-4702-ab90-ae9e7067d8e3/mbid-1bb12502-00e4-4702-ab90-ae9e7067d8e3-44954157623_thumb250.jpg"
+  },
+  "ccd6e68a-d9c8-4fa5-9fce-981ac3831f27": {
+   "title": "Jazz Sahib",
+   "kind": "album",
+   "released": "1957",
+   "qid": "Q24078115",
+   "subjects": [
+    "liston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/ccd6e68a-d9c8-4fa5-9fce-981ac3831f27/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/ccd6e68a-d9c8-4fa5-9fce-981ac3831f27/front-500",
+   "resolved": "https://dn711009.ca.archive.org/0/items/mbid-deef72ba-904d-425a-84d1-ef9db7ade967/mbid-deef72ba-904d-425a-84d1-ef9db7ade967-18349912669_thumb250.jpg"
+  },
+  "9b1b18ba-97be-38e2-bbce-ef5599d08dc8": {
+   "title": "Last Chorus",
+   "kind": "album",
+   "released": "1958",
+   "qid": "Q6494243",
+   "subjects": [
+    "liston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/9b1b18ba-97be-38e2-bbce-ef5599d08dc8/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/9b1b18ba-97be-38e2-bbce-ef5599d08dc8/front-500",
+   "resolved": "https://dn721909.ca.archive.org/0/items/mbid-dc444c80-de4e-454e-82c8-39911e5ea6d4/mbid-dc444c80-de4e-454e-82c8-39911e5ea6d4-39966966740_thumb250.jpg"
+  },
+  "69218ced-43bb-4d25-9466-42b924d861c3": {
+   "title": "Back on the Scene",
+   "kind": "album",
+   "released": "1958",
+   "qid": "Q4839357",
+   "subjects": [
+    "liston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/69218ced-43bb-4d25-9466-42b924d861c3/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/69218ced-43bb-4d25-9466-42b924d861c3/front-500",
+   "resolved": "https://dn710407.ca.archive.org/0/items/mbid-8df239e8-aabe-4bc7-9b7a-ab1353ca33d0/mbid-8df239e8-aabe-4bc7-9b7a-ab1353ca33d0-1937625615_thumb250.jpg"
+  },
+  "0c0dce77-0668-4882-8ea5-cdd05c989fd4": {
+   "title": "Little Niles",
+   "kind": "album",
+   "released": "1959",
+   "qid": "Q6651167",
+   "subjects": [
+    "liston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/0c0dce77-0668-4882-8ea5-cdd05c989fd4/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/0c0dce77-0668-4882-8ea5-cdd05c989fd4/front-500",
+   "resolved": "https://dn710808.ca.archive.org/0/items/mbid-d106b78e-1b84-40fb-ad31-014b72ce8637/mbid-d106b78e-1b84-40fb-ad31-014b72ce8637-16959173294_thumb250.jpg"
+  },
+  "983daf0d-f0e7-4df8-b6a8-5e4edb101b2d": {
+   "title": "Out There (Betty Carter album)",
+   "kind": "album",
+   "released": "1958 ( 1958 )",
+   "qid": "Q7111471",
+   "subjects": [
+    "liston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/983daf0d-f0e7-4df8-b6a8-5e4edb101b2d/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/983daf0d-f0e7-4df8-b6a8-5e4edb101b2d/front-500",
+   "resolved": "https://ia600605.us.archive.org/18/items/mbid-b5d2738b-9474-4f15-bdb0-579d035471de/mbid-b5d2738b-9474-4f15-bdb0-579d035471de-4713147753_thumb250.jpg"
+  },
+  "26ea6822-538d-3781-ac19-fd3575aa2688": {
+   "title": "The Genius of Ray Charles",
+   "kind": "album",
+   "released": "October 1959",
+   "qid": "Q846519",
+   "subjects": [
+    "liston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/26ea6822-538d-3781-ac19-fd3575aa2688/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/26ea6822-538d-3781-ac19-fd3575aa2688/front-500",
+   "resolved": "https://dn710900.ca.archive.org/0/items/mbid-2f1fa63b-6a09-49de-9cf5-0078c7204b70/mbid-2f1fa63b-6a09-49de-9cf5-0078c7204b70-23062544365_thumb250.jpg"
+  },
+  "7b005281-dba3-4c88-a61b-faa2c4d6ef0b": {
+   "title": "I Dig Dancers",
+   "kind": "album",
+   "released": "1961",
+   "qid": "Q24076722",
+   "subjects": [
+    "liston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/7b005281-dba3-4c88-a61b-faa2c4d6ef0b/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/7b005281-dba3-4c88-a61b-faa2c4d6ef0b/front-500",
+   "resolved": "https://dn710004.ca.archive.org/0/items/mbid-5f8bd196-d90f-4cd4-881d-85c1052a02e9/mbid-5f8bd196-d90f-4cd4-881d-85c1052a02e9-34225745889_thumb250.jpg"
+  },
+  "f24c7056-d7d5-47b0-ad79-5afa1225c379": {
+   "title": "Trane Whistle",
+   "kind": "album",
+   "released": "1960",
+   "qid": "Q7833402",
+   "subjects": [
+    "liston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/f24c7056-d7d5-47b0-ad79-5afa1225c379/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/f24c7056-d7d5-47b0-ad79-5afa1225c379/front-500",
+   "resolved": "https://dn710703.ca.archive.org/0/items/mbid-c4f1f06c-866e-4679-b877-ddcc6acdf5fb/mbid-c4f1f06c-866e-4679-b877-ddcc6acdf5fb-23620478343_thumb250.jpg"
+  },
+  "556dc477-9e23-3008-8b57-627f29d94770": {
+   "title": "African Waltz",
+   "kind": "album",
+   "released": "1961",
+   "qid": "Q4689953",
+   "subjects": [
+    "liston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/556dc477-9e23-3008-8b57-627f29d94770/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/556dc477-9e23-3008-8b57-627f29d94770/front-500",
+   "resolved": "https://dn711202.ca.archive.org/0/items/mbid-adf54261-2616-46d9-8cdb-2438892333b9/mbid-adf54261-2616-46d9-8cdb-2438892333b9-15905267498_thumb250.jpg"
+  },
+  "952cd2d7-53bc-34e4-9002-56ac659fbf34": {
+   "title": "Hub Cap (album)",
+   "kind": "album",
+   "released": "October 1961",
+   "qid": "Q5926650",
+   "subjects": [
+    "liston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/952cd2d7-53bc-34e4-9002-56ac659fbf34/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/952cd2d7-53bc-34e4-9002-56ac659fbf34/front-500",
+   "resolved": "https://dn710702.ca.archive.org/0/items/mbid-8b52cb06-1825-4f32-8fdb-650121ad818b/mbid-8b52cb06-1825-4f32-8fdb-650121ad818b-8051316762_thumb250.jpg"
+  },
+  "f1bd5bc3-c475-3c1b-ac82-d6f8a1ff742e": {
+   "title": "I Can't Help It (album)",
+   "kind": "compilation",
+   "released": "1992",
+   "qid": "Q5976430",
+   "subjects": [
+    "liston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/f1bd5bc3-c475-3c1b-ac82-d6f8a1ff742e/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/f1bd5bc3-c475-3c1b-ac82-d6f8a1ff742e/front-500",
+   "resolved": "https://dn710200.ca.archive.org/0/items/mbid-89dfcbb1-1304-4ac4-9a19-c80f686c8837/mbid-89dfcbb1-1304-4ac4-9a19-c80f686c8837-28710923273_thumb250.jpg"
+  },
+  "9e406bf7-153f-3629-8de5-ec596f77770d": {
+   "title": "Rah (Mark Murphy album)",
+   "kind": "studio",
+   "released": "1961",
+   "qid": "Q3417543",
+   "subjects": [
+    "liston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/9e406bf7-153f-3629-8de5-ec596f77770d/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/9e406bf7-153f-3629-8de5-ec596f77770d/front-500",
+   "resolved": "https://dn721807.ca.archive.org/0/items/mbid-fc128e58-070f-4908-b652-9dd85a08677b/mbid-fc128e58-070f-4908-b652-9dd85a08677b-29190539661_thumb250.jpg"
+  },
+  "a7f541d4-8eb3-4833-bdbc-2be2736ae0fb": {
+   "title": "The Soul of Hollywood",
+   "kind": "album",
+   "released": "1962",
+   "qid": "Q7765364",
+   "subjects": [
+    "liston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/a7f541d4-8eb3-4833-bdbc-2be2736ae0fb/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/a7f541d4-8eb3-4833-bdbc-2be2736ae0fb/front-500",
+   "resolved": "https://dn711102.ca.archive.org/0/items/mbid-0ee93766-6734-4575-88e5-55b22df488d1/mbid-0ee93766-6734-4575-88e5-55b22df488d1-22779309433_thumb250.jpg"
+  },
+  "a9bdb2a2-7b0d-45b5-a5f0-80aa3f6b2fbe": {
+   "title": "Afro/American Sketches",
+   "kind": "album",
+   "released": "February 1962",
+   "qid": "Q4690202",
+   "subjects": [
+    "liston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/a9bdb2a2-7b0d-45b5-a5f0-80aa3f6b2fbe/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/a9bdb2a2-7b0d-45b5-a5f0-80aa3f6b2fbe/front-500",
+   "resolved": "https://dn710703.ca.archive.org/0/items/mbid-e9d7fb14-b9fb-4497-8087-6a7b759d7aac/mbid-e9d7fb14-b9fb-4497-8087-6a7b759d7aac-9233101382_thumb250.jpg"
+  },
+  "f4f6e869-058b-3b93-aa6d-2bb02a92d39c": {
+   "title": "Bursting Out with the All-Star Big Band!",
+   "kind": "album",
+   "released": "1962",
+   "qid": "Q5000654",
+   "subjects": [
+    "liston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/f4f6e869-058b-3b93-aa6d-2bb02a92d39c/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/f4f6e869-058b-3b93-aa6d-2bb02a92d39c/front-500",
+   "resolved": "https://dn711206.ca.archive.org/0/items/mbid-f16988fd-e1ab-42ad-8f35-e38905004a7f/mbid-f16988fd-e1ab-42ad-8f35-e38905004a7f-15914361818_thumb250.jpg"
+  },
+  "435a51f8-faa0-3daf-81eb-3c33489e6d3a": {
+   "title": "Rhythm Is My Business",
+   "kind": "album",
+   "released": "1962",
+   "qid": "Q1763825",
+   "subjects": [
+    "liston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/435a51f8-faa0-3daf-81eb-3c33489e6d3a/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/435a51f8-faa0-3daf-81eb-3c33489e6d3a/front-500",
+   "resolved": "https://dn710701.ca.archive.org/0/items/mbid-57858ce5-f313-4056-9247-e2f9021cc93c/mbid-57858ce5-f313-4056-9247-e2f9021cc93c-14101283847_thumb250.jpg"
+  },
+  "2b572f26-de2e-3ebc-b721-712a1733afb8": {
+   "title": "The Complete Town Hall Concert",
+   "kind": "live",
+   "released": "1962 1994 CD reissue with bonus tracks",
+   "qid": "Q7727198",
+   "subjects": [
+    "liston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/2b572f26-de2e-3ebc-b721-712a1733afb8/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/2b572f26-de2e-3ebc-b721-712a1733afb8/front-500",
+   "resolved": "https://ia800704.us.archive.org/23/items/mbid-491530bc-464e-41e2-abe0-68d272fc6ca3/mbid-491530bc-464e-41e2-abe0-68d272fc6ca3-28706559737_thumb250.jpg"
+  },
+  "45a5aebd-4082-3b03-9740-9b8672ab2ed8": {
+   "title": "The Quintessence",
+   "kind": "album",
+   "released": "February 1962",
+   "qid": "Q7759122",
+   "subjects": [
+    "liston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/45a5aebd-4082-3b03-9740-9b8672ab2ed8/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/45a5aebd-4082-3b03-9740-9b8672ab2ed8/front-500",
+   "resolved": "https://dn720800.ca.archive.org/0/items/mbid-92521911-abf5-4735-869d-1b23660e30b1/mbid-92521911-abf5-4735-869d-1b23660e30b1-4103535917_thumb250.jpg"
+  },
+  "f13bf4ca-db3b-38a6-bf3b-ab18d7481b61": {
+   "title": "Any Number Can Win (album)",
+   "kind": "album",
+   "released": "1963",
+   "qid": "Q19872404",
+   "subjects": [
+    "liston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/f13bf4ca-db3b-38a6-bf3b-ab18d7481b61/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/f13bf4ca-db3b-38a6-bf3b-ab18d7481b61/front-500",
+   "resolved": "https://dn711001.ca.archive.org/0/items/mbid-b293b455-dba7-481c-9d2b-d29420013662/mbid-b293b455-dba7-481c-9d2b-d29420013662-13513556962_thumb250.jpg"
+  },
+  "355bca5a-956b-4325-86ab-fd0c8dd64624": {
+   "title": "Quincy Jones Plays Hip Hits",
+   "kind": "album",
+   "released": "1963",
+   "qid": "Q48802021",
+   "subjects": [
+    "liston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/355bca5a-956b-4325-86ab-fd0c8dd64624/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/355bca5a-956b-4325-86ab-fd0c8dd64624/front-500",
+   "resolved": "https://dn710706.ca.archive.org/0/items/mbid-d084f1c8-833e-4b2d-917a-1ad85f1673f7/mbid-d084f1c8-833e-4b2d-917a-1ad85f1673f7-16842634147_thumb250.jpg"
+  },
+  "15d10d7d-0d4e-3a68-bf3d-c11df2bff75e": {
+   "title": "The Body & the Soul",
+   "kind": "album",
+   "released": "July 1964",
+   "qid": "Q7718977",
+   "subjects": [
+    "liston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/15d10d7d-0d4e-3a68-bf3d-c11df2bff75e/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/15d10d7d-0d4e-3a68-bf3d-c11df2bff75e/front-500",
+   "resolved": "https://dn711109.ca.archive.org/0/items/mbid-965eb0b3-dfe5-39c1-892a-353d1b2d288f/mbid-965eb0b3-dfe5-39c1-892a-353d1b2d288f-4522126633_thumb250.jpg"
+  },
+  "1bce2ad1-f883-39a2-93d0-0d75867be578": {
+   "title": "Mary Lou Williams (album)",
+   "kind": "studio",
+   "released": "1964",
+   "qid": "Q111913280",
+   "subjects": [
+    "liston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/1bce2ad1-f883-39a2-93d0-0d75867be578/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/1bce2ad1-f883-39a2-93d0-0d75867be578/front-500",
+   "resolved": "https://dn710209.ca.archive.org/0/items/mbid-aa6f0845-0598-41e4-98ee-1b7a53794022/mbid-aa6f0845-0598-41e4-98ee-1b7a53794022-34187928293_thumb250.jpg"
+  },
+  "debbe38b-fbed-30bb-adbc-daa370037f8c": {
+   "title": "When I'm Alone I Cry",
+   "kind": "album",
+   "released": "April 1, 1964",
+   "qid": "Q3512627",
+   "subjects": [
+    "liston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/debbe38b-fbed-30bb-adbc-daa370037f8c/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/debbe38b-fbed-30bb-adbc-daa370037f8c/front-500",
+   "resolved": "https://dn710204.ca.archive.org/0/items/mbid-c5e3e1ea-0d15-4b2e-a5b2-fe2ed8d20a3f/mbid-c5e3e1ea-0d15-4b2e-a5b2-fe2ed8d20a3f-34684965881_thumb250.jpg"
+  },
+  "95fafef9-d1bb-4db7-8adb-706f6e69738c": {
+   "title": "Hold On, I'm Coming (Art Blakey album)",
+   "kind": "album",
+   "released": "September 1966",
+   "qid": "Q28872297",
+   "subjects": [
+    "liston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/95fafef9-d1bb-4db7-8adb-706f6e69738c/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/95fafef9-d1bb-4db7-8adb-706f6e69738c/front-500",
+   "resolved": "https://dn721803.ca.archive.org/0/items/mbid-aea9a9ac-896b-418f-9264-6b9d4254df9d/mbid-aea9a9ac-896b-418f-9264-6b9d4254df9d-37372647579_thumb250.jpg"
+  },
+  "7845e581-5466-3925-8f61-4d8fe929fc26": {
+   "title": "Quincy Plays for Pussycats",
+   "kind": "album",
+   "released": "1965",
+   "qid": "Q48815097",
+   "subjects": [
+    "liston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/7845e581-5466-3925-8f61-4d8fe929fc26/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/7845e581-5466-3925-8f61-4d8fe929fc26/front-500",
+   "resolved": "https://ia601500.us.archive.org/26/items/mbid-4879fe84-180d-41be-81cb-466f1cb922ca/mbid-4879fe84-180d-41be-81cb-466f1cb922ca-34225800273_thumb250.jpg"
+  },
+  "968cdaa1-565d-3209-96e0-47e6ffc44fb0": {
+   "title": "Further Adventures of Jimmy and Wes",
+   "kind": "album",
+   "released": "1968",
+   "qid": "Q5509742",
+   "subjects": [
+    "liston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/968cdaa1-565d-3209-96e0-47e6ffc44fb0/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/968cdaa1-565d-3209-96e0-47e6ffc44fb0/front-500",
+   "resolved": "https://dn711105.ca.archive.org/0/items/mbid-8401ab98-7d89-4840-9527-286bdb3b1c4a/mbid-8401ab98-7d89-4840-9527-286bdb3b1c4a-5099722775_thumb250.jpg"
+  },
+  "30e0ef83-9272-3728-9195-219b43308844": {
+   "title": "Jimmy & Wes: The Dynamic Duo",
+   "kind": "album",
+   "released": "1966",
+   "qid": "Q6199463",
+   "subjects": [
+    "liston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/30e0ef83-9272-3728-9195-219b43308844/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/30e0ef83-9272-3728-9195-219b43308844/front-500",
+   "resolved": "https://dn710008.ca.archive.org/0/items/mbid-d8ef0710-6eb9-4634-a5c4-b1fd38bf8ee5/mbid-d8ef0710-6eb9-4634-a5c4-b1fd38bf8ee5-37488219173_thumb250.jpg"
+  },
+  "f66effd5-df34-431a-babe-7b79ec79fc50": {
+   "title": "A Mann & a Woman",
+   "kind": "studio",
+   "released": "1967",
+   "qid": "Q20979326",
+   "subjects": [
+    "liston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/f66effd5-df34-431a-babe-7b79ec79fc50/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/f66effd5-df34-431a-babe-7b79ec79fc50/front-500",
+   "resolved": "https://dn721803.ca.archive.org/0/items/mbid-14a4fbc7-03dd-4837-a6ba-db864d8df760/mbid-14a4fbc7-03dd-4837-a6ba-db864d8df760-26504494027_thumb250.jpg"
+  },
+  "60142b37-b19a-4d26-a43c-907f9f6ac369": {
+   "title": "Heads Up! (Blue Mitchell album)",
+   "kind": "album",
+   "released": "December 8, 1968",
+   "qid": "Q5689963",
+   "subjects": [
+    "liston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/60142b37-b19a-4d26-a43c-907f9f6ac369/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/60142b37-b19a-4d26-a43c-907f9f6ac369/front-500",
+   "resolved": "https://ia601606.us.archive.org/21/items/mbid-c83895c2-3e41-44fe-8ef9-7222013f1ae6/mbid-c83895c2-3e41-44fe-8ef9-7222013f1ae6-9731796130_thumb250.jpg"
+  },
+  "9898d5d2-a5f3-3a11-8f3b-2a90f3680118": {
+   "title": "Tanjah (album)",
+   "kind": "album",
+   "released": "May 1974",
+   "qid": "Q17041415",
+   "subjects": [
+    "liston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/9898d5d2-a5f3-3a11-8f3b-2a90f3680118/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/9898d5d2-a5f3-3a11-8f3b-2a90f3680118/front-500",
+   "resolved": "https://dn710304.ca.archive.org/0/items/mbid-2f5de1b8-b173-45fe-963a-2f6f3a8df0ef/mbid-2f5de1b8-b173-45fe-963a-2f6f3a8df0ef-3783227213_thumb250.jpg"
+  },
+  "549f63a0-10ba-3350-92b6-6b176606aeaa": {
+   "title": "Survival (Bob Marley and the Wailers album)",
+   "kind": "album",
+   "released": "2 October 1979 ( 1979-10-02 )",
+   "qid": "Q570303",
+   "subjects": [
+    "liston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/549f63a0-10ba-3350-92b6-6b176606aeaa/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/549f63a0-10ba-3350-92b6-6b176606aeaa/front-500",
+   "resolved": "https://dn711104.ca.archive.org/0/items/mbid-2992a022-7f04-46d5-9fc4-7ccb454ef86d/mbid-2992a022-7f04-46d5-9fc4-7ccb454ef86d-5478145698_thumb250.jpg"
+  },
+  "ac0a6938-3871-3f55-a07f-c21f398d0c9a": {
+   "title": "Devil's Got Your Tongue",
+   "kind": "studio",
+   "released": "October 13, 1992 ( 1992-10-13 )",
+   "qid": "Q106201534",
+   "subjects": [
+    "liston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/ac0a6938-3871-3f55-a07f-c21f398d0c9a/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/ac0a6938-3871-3f55-a07f-c21f398d0c9a/front-500",
+   "resolved": "https://dn710302.ca.archive.org/0/items/mbid-09b391cf-9d49-3da7-9e46-8214fcc62d63/mbid-09b391cf-9d49-3da7-9e46-8214fcc62d63-4670563246_thumb250.jpg"
+  },
+  "a3a4e82b-b76c-4986-8afa-4ae6456c17f1": {
+   "title": "The Spirits of Our Ancestors",
+   "kind": "album",
+   "released": "1992 ( 1992 )",
+   "qid": "Q7765953",
+   "subjects": [
+    "liston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/a3a4e82b-b76c-4986-8afa-4ae6456c17f1/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/a3a4e82b-b76c-4986-8afa-4ae6456c17f1/front-500",
+   "resolved": "https://dn710609.ca.archive.org/0/items/mbid-f7e164e6-1db2-305c-986b-bbf0c5a9471e/mbid-f7e164e6-1db2-305c-986b-bbf0c5a9471e-40705847619_thumb250.jpg"
+  },
+  "bfc7f577-3515-36f2-a626-4382f4206ce8": {
+   "title": "Khepera (album)",
+   "kind": "studio",
+   "released": "1998",
+   "qid": "Q112701906",
+   "subjects": [
+    "liston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/bfc7f577-3515-36f2-a626-4382f4206ce8/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/bfc7f577-3515-36f2-a626-4382f4206ce8/front-500",
+   "resolved": "https://dn721809.ca.archive.org/0/items/mbid-43ec23d4-76a6-44ed-8685-630a0cd427d6/mbid-43ec23d4-76a6-44ed-8685-630a0cd427d6-30230270003_thumb250.jpg"
+  }
+ }
+}

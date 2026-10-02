@@ -1,0 +1,3350 @@
+{
+ "subject": "liston",
+ "qid": "Q274146",
+ "generated_from": "linked_jazz.sqlite + Opus subagent judgement (extract/WITNESS_SPEC.md)",
+ "direction_of_this_file": "FROM the witness TO Melba Liston",
+ "count": 25,
+ "method": "One row per interview document, other than her own, in which at least one block was judged to be about her -- plus Clora Bryant, whose testimony is inside Liston's own interview. A reader saw all of a witness's blocks at once and judged the relation, the lead quote and the caption phrase. spoke_themselves=false means her name is only in the interviewer's mouth or an editor's bracket: not a witness. Quotes re-verified verbatim here; grounded=false flags a caption word the testimony never contains. A person interviewed twice (Slide Hampton) has two rows -- people.json folds them.",
+ "read_this_first": "Read `caution` on every row before displaying its quote.",
+ "relation_weights": {
+  "in music group with": 3.0,
+  "collaborated with": 2.5,
+  "played with": 2.5,
+  "toured with": 2.5,
+  "played under": 2.2,
+  "mentor of": 2.2,
+  "influenced by": 2.0,
+  "friend of": 1.8,
+  "acquaintance of": 1.2,
+  "has met": 1.0,
+  "knows of": 0.4,
+  "none": 0.0
+ },
+ "tiers": {
+  "in music group with": "band",
+  "collaborated with": "band",
+  "played with": "band",
+  "toured with": "band",
+  "played under": "learned",
+  "mentor of": "learned",
+  "influenced by": "learned",
+  "friend of": "social",
+  "acquaintance of": "social",
+  "has met": "social",
+  "knows of": "knew_of",
+  "none": "none"
+ },
+ "stats": {
+  "witness_documents": 25,
+  "spoke_themselves": 21,
+  "name_only_in_interviewer_words": 4,
+  "distinct_people": 20,
+  "by_relation": {
+   "in music group with": 7,
+   "knows of": 5,
+   "collaborated with": 2,
+   "has met": 2,
+   "played with": 2,
+   "played under": 1,
+   "friend of": 1,
+   "acquaintance of": 1
+  },
+  "by_tier": {
+   "band": 11,
+   "knew_of": 5,
+   "social": 4,
+   "learned": 1
+  },
+  "by_contact_level": {
+   "worked_together": 10,
+   "same_scene": 4,
+   "met_briefly": 3,
+   "knew_personally": 2,
+   "unclear": 2
+  },
+  "by_stance": {
+   "positive": 16,
+   "neutral": 4,
+   "mixed": 1
+  },
+  "by_notable": {
+   "3": 4,
+   "2": 8,
+   "1": 9,
+   "0": 4
+  },
+  "with_lead_quote": 19,
+  "one_liners": 21,
+  "one_liners_grounded": 18,
+  "with_caution": 25,
+  "also_on_her_records": 11,
+  "she_also_spoke_of_them": [
+   "Abbey Lincoln",
+   "Al Grey",
+   "Benny Powell",
+   "Clora Bryant",
+   "Gerald Wilson",
+   "Randy Weston",
+   "Slide Hampton",
+   "Vi Redd"
+  ],
+  "upstream_relation_wrong": 8,
+  "upstream_relation_judged": 19,
+  "quotes_dropped_on_verification": {}
+ },
+ "items": [
+  {
+   "witness_key": "Randy-Weston-Transcription-2020_0",
+   "name": "Randy Weston",
+   "qid": "Q1371187",
+   "qid_source": "doc_interviewees",
+   "description": "American jazz pianist (1926–2018)",
+   "born": "1926",
+   "died": "2018",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q1371187",
+   "is_her_interviewer": false,
+   "spoke_themselves": true,
+   "relation": "collaborated with",
+   "relation_weight": 2.5,
+   "tier": "band",
+   "direction": "mutual",
+   "contact_level": "worked_together",
+   "basis": [
+    "direct_contact"
+   ],
+   "context": "Liston as arranger of Weston's music: Five Spot date with Coleman Hawkins (c.1959), Montreal Jazz Festival 1985 and later residency, 'Spirit of Our Ancestors', 'Khepera'",
+   "one_liner": "relied on her arrangements, even after her stroke",
+   "grounded": true,
+   "ungrounded_words": [],
+   "summary": "Weston said only Liston could arrange 'Spirit of Our Ancestors', told how he goaded her back to work after the stroke that left her unable to play, after which she learned to write music by computer with her left hand, and praised her genius and spiritual strength through years of illness.",
+   "stance": "positive",
+   "stance_strength": 3,
+   "notable": 3,
+   "caution": "The stroke anecdote includes 'I insulted her as only musicians can do. I called her all kinds of names' and 'She cried a little bit' -- affectionate goading in context, but harsh if excerpted; avoid quoting those lines alone. Dates are Weston's recollection: he places the Hawkins Five Spot date in 1959 and the Montreal festival concert in 1985, while the interviewer dates the Montreal residency to '97 -- check against the discography. The interviewer's 'long partnership' phrase is hers, not his.",
+   "confidence": "high",
+   "notes": "Upstream's evidence was the interviewer's words, but the relation is amply supported by Weston's own account. Weston: 'We did, I think, three recordings after she had that stroke'. Block 309840: 'Melba did the arrangements for that' (Khepera).",
+   "lead_quote": "Then I realized that only Melba Liston could do this.",
+   "lead_block_id": 309830,
+   "lead_page": 3,
+   "lead_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b3-2",
+   "second_quote": "Unfortunately, she has had problems with illness. But, her spiritual strength is so powerful.",
+   "second_block_id": 309837,
+   "second_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b4-0",
+   "more_quotes": [
+    {
+     "block_id": 309824,
+     "quote": "Melba Liston did all the arrangements, by the way.",
+     "notable": 1,
+     "summary": "Weston noted in passing that Liston did all the arrangements for the African night of his Montreal Jazz Festival residency.",
+     "kind": "mention",
+     "page": 2,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b2-3"
+    },
+    {
+     "block_id": 309840,
+     "quote": "Melba did the arrangements for that.",
+     "notable": 0,
+     "summary": "Weston mentioned that Liston did the arrangements for his 'Khepera' recording.",
+     "kind": "mention",
+     "page": 5,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b5-0"
+    }
+   ],
+   "n_blocks": 5,
+   "block_ids": [
+    309824,
+    309829,
+    309830,
+    309837,
+    309840
+   ],
+   "doc": {
+    "doc_id": "Randy-Weston-Transcription-2020_0",
+    "collection": "si",
+    "title": "Randy Weston — Smithsonian Jazz Oral History",
+    "interviewee": "Randy Weston",
+    "interviewer": null,
+    "year": 2020,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0",
+    "source_url": "https://americanhistory.si.edu/sites/default/files/file-uploader/Randy-Weston-Transcription-2020_0.pdf",
+    "collection_label": "Smithsonian Jazz Oral History Program"
+   },
+   "upstream": {
+    "relations": [
+     {
+      "relation": "collaborated with",
+      "direction": "mutual",
+      "evidence": "you and Melba Liston had such a long partnership",
+      "said_by": "Randy Weston"
+     }
+    ],
+    "relation_ok": true
+   },
+   "on_her_records": true,
+   "albums_with_her": 8,
+   "instruments_on_her_records": [
+    "arranger",
+    "liner notes",
+    "piano",
+    "producer"
+   ],
+   "she_spoke_of_them": true,
+   "she_said": {
+    "relation": "collaborated with",
+    "basis": "her_statement",
+    "one_liner": "arranged his music for 40 years",
+    "summary": "Liston said she met Randy Weston while playing with Dizzy Gillespie at Birdland, arranged his music (including Little Niles) for some forty years with complete freedom, and credited him with pulling her through after her stroke when nobody else stuck with her.",
+    "her_quote": "I’ve been writing for Randy. I’m still writing for Randy. I wrote for him up until I had the stroke. After I had the stroke and got over a little bit, I’m writing for him again. I think he pulled me out of it – helped anyway. I thank him very much for sticking with me, because nobody else did.",
+    "her_quote_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b23-4",
+    "notable": 3
+   },
+   "image": {
+    "source": "wikidata_p18",
+    "file": "File:Randy Weston.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Randy_Weston.jpg",
+    "url_full": "https://commons.wikimedia.org/wiki/Special:FilePath/Randy_Weston.jpg",
+    "url_800": "https://commons.wikimedia.org/wiki/Special:FilePath/Randy_Weston.jpg?width=800",
+    "url_400": "https://commons.wikimedia.org/wiki/Special:FilePath/Randy_Weston.jpg?width=400",
+    "url_200": "https://commons.wikimedia.org/wiki/Special:FilePath/Randy_Weston.jpg?width=200",
+    "width": 1944,
+    "height": 2592,
+    "mime": "image/jpeg",
+    "hosted_on_commons": true,
+    "license": {
+     "short": "CC BY-SA 2.0",
+     "usage_terms": "Creative Commons Attribution-Share Alike 2.0",
+     "url": "https://creativecommons.org/licenses/by-sa/2.0",
+     "public_domain": false,
+     "attribution_required": true,
+     "artist": "Bob Travis Casco, Maine, USA",
+     "credit": "Randy Weston African Rhythms Trio -- Randy Weston",
+     "restrictions": null,
+     "date": "2007"
+    },
+    "attribution": "Bob Travis Casco, Maine, USA (CC BY-SA 2.0), via Wikimedia Commons",
+    "also_pictured": [],
+    "review_flags": []
+   }
+  },
+  {
+   "witness_key": "53571",
+   "name": "Mary Lou Williams",
+   "qid": "Q126677",
+   "qid_source": "doc_interviewees",
+   "description": "American jazz pianist and composer (1910–1981)",
+   "born": "1910",
+   "died": "1981",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q126677",
+   "is_her_interviewer": false,
+   "spoke_themselves": true,
+   "relation": "collaborated with",
+   "relation_weight": 2.5,
+   "tier": "band",
+   "direction": "mutual",
+   "contact_level": "worked_together",
+   "basis": [
+    "direct_contact",
+    "shared_associates"
+   ],
+   "context": "Dizzy Gillespie's band at the Newport Jazz Festival; Williams's return to performing",
+   "one_liner": "was urged by her to play again",
+   "grounded": true,
+   "ungrounded_words": [],
+   "summary": "Williams told how Gillespie sent Liston to hear her play, how Liston reported back on her chords, and how Liston, who had taken down Williams's arrangements for Gillespie's Newport set, insisted they were Williams's own, part of the musicians' campaign to coax her back.",
+   "stance": "positive",
+   "stance_strength": 1,
+   "notable": 3,
+   "caution": "Only the first name 'Melba' is used; identification with Liston rests on context (working for Gillespie, arranging for his Newport set) and is high but not explicit. Liston's quoted words are reported second-hand ('I understand') -- present them as Williams's account, not Liston's verbatim speech. The second quote is cut mid-quotation (the sentence continues 'I was in the room and I just sat down and took the music down').",
+   "confidence": "medium",
+   "notes": "The lead line shows Liston praising Williams rather than Williams describing Liston; it is still the most vivid thing in the testimony. Block 367027: 'Dizzy called and Melba and all the musicians were trying to get me out.'",
+   "lead_quote": "Melba, I understand, would go back and say, \"Man, Lou played some chords and you ought to hear them. They're really great.\"",
+   "lead_block_id": 367018,
+   "lead_page": 149,
+   "lead_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=53571#b149-4",
+   "second_quote": "She said, \"I didn't do them. That was Lou's arrangement.",
+   "second_block_id": 367018,
+   "second_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=53571#b149-4",
+   "more_quotes": [
+    {
+     "block_id": 367027,
+     "quote": "Dizzy called and Melba and all the musicians were trying to get me out.",
+     "notable": 1,
+     "summary": "Williams said Gillespie, Liston and other musicians were all trying to coax her back to performing.",
+     "kind": "mention",
+     "page": 151,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=53571#b151-1"
+    }
+   ],
+   "n_blocks": 2,
+   "block_ids": [
+    367018,
+    367027
+   ],
+   "doc": {
+    "doc_id": "53571",
+    "collection": "rutgers",
+    "title": "53571_Mary Lou Williams oral history interview",
+    "interviewee": "Mary Lou Williams",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=53571",
+    "source_url": null,
+    "collection_label": null
+   },
+   "upstream": {
+    "relations": [],
+    "relation_ok": null
+   },
+   "on_her_records": true,
+   "albums_with_her": 1,
+   "instruments_on_her_records": [
+    "piano"
+   ],
+   "she_spoke_of_them": false,
+   "she_said": null,
+   "image": {
+    "source": "wikidata_p18",
+    "file": "File:Mary Lou Williams (Gottlieb 09231).jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Mary_Lou_Williams_(Gottlieb_09231).jpg",
+    "url_full": "https://commons.wikimedia.org/wiki/Special:FilePath/Mary_Lou_Williams_%28Gottlieb_09231%29.jpg",
+    "url_800": "https://commons.wikimedia.org/wiki/Special:FilePath/Mary_Lou_Williams_%28Gottlieb_09231%29.jpg?width=800",
+    "url_400": "https://commons.wikimedia.org/wiki/Special:FilePath/Mary_Lou_Williams_%28Gottlieb_09231%29.jpg?width=400",
+    "url_200": "https://commons.wikimedia.org/wiki/Special:FilePath/Mary_Lou_Williams_%28Gottlieb_09231%29.jpg?width=200",
+    "width": 3669,
+    "height": 4887,
+    "mime": "image/jpeg",
+    "hosted_on_commons": true,
+    "license": {
+     "short": "Public domain",
+     "usage_terms": "Public domain",
+     "url": null,
+     "public_domain": true,
+     "attribution_required": false,
+     "artist": "William P. Gottlieb / Adam Cuerden",
+     "credit": "This audio fragment is available from the United States Library of Congress 's Music Division under the digital ID gottlieb.09231 . This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing .",
+     "restrictions": null,
+     "date": "circa 1946 date QS:P571,+1946-00-00T00:00:00Z/9,P1480,Q5727902"
+    },
+    "attribution": "William P. Gottlieb / Adam Cuerden (Public domain), via Wikimedia Commons",
+    "also_pictured": [],
+    "review_flags": []
+   }
+  },
+  {
+   "witness_key": "Hampton_Slide_Transcript",
+   "name": "Slide Hampton",
+   "qid": "Q1369035",
+   "qid_source": "doc_interviewees",
+   "description": "American trombonist (1932–2021)",
+   "born": "1932",
+   "died": "2021",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q1369035",
+   "is_her_interviewer": false,
+   "spoke_themselves": true,
+   "relation": "played under",
+   "relation_weight": 2.2,
+   "tier": "learned",
+   "direction": "liston_leads",
+   "contact_level": "worked_together",
+   "basis": [
+    "direct_contact"
+   ],
+   "context": "Dizzy Gillespie big band (trombone section; Liston musical director and main arranger)",
+   "one_liner": "learned in dizzy's band how heavy she was",
+   "grounded": true,
+   "ungrounded_words": [],
+   "summary": "Hampton said he first met Liston in Gillespie's big band, where she sat in his trombone section and was, in substance, the musical director and main arranger, writing music 'that weighs as much as this building' beside which the men's arrangements sounded small.",
+   "stance": "positive",
+   "stance_strength": 3,
+   "notable": 3,
+   "caution": "Pronoun trap in block 275470: the middle sentences ('the principal trombone player was a woman... we all aspired to the things that she could do, Janice Robinson') are about Janice Robinson in the World of Trombones; only 'Melba was the same way' onward is Liston. The quotes chosen are after that point. The claim that Hampton 'did stuff with Melba Liston' on trombone-choir records is the interviewer's (Brower), not confirmed by Hampton. 'Peep, peep, peep' could read as a slight on the band's other (male) arrangers.",
+   "confidence": "high",
+   "notes": "Hampton presents her explicitly as leading the band's musicians ('Over all those guys that were there, she was the musical director'), so 'played under' / liston_leads; he was also her section-mate. Upstream 'collaborated with' rested on the interviewer's words. Same person as Hamilton witness 275930; this is the stronger row. Also: 'Musically, she was heavy.' (275466).",
+   "lead_quote": "She played really good, and she wrote music that weighs as much as this building.",
+   "lead_block_id": 275470,
+   "lead_page": 49,
+   "lead_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Hampton_Slide_Transcript#b49-2",
+   "second_quote": "The men’s arrangements would sound little peep, peep, peep, around her.",
+   "second_block_id": 275470,
+   "second_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Hampton_Slide_Transcript#b49-2",
+   "more_quotes": [
+    {
+     "block_id": 275385,
+     "quote": "Melba Liston was the musical director. I had to go there. I had to go there and get kicked, kicked and beat-up on. I did it. They taught me a lot in there.",
+     "notable": 2,
+     "summary": "Hampton recalled that Liston was musical director of Gillespie's big band when he joined, a band 'way over my head' where he was 'kicked and beat-up on' and taught a lot.",
+     "kind": "mention",
+     "page": 42,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Hampton_Slide_Transcript#b42-13"
+    },
+    {
+     "block_id": 275466,
+     "quote": "I didn’t know that she was as heavy musically as she was. I got in that band. I learned it real fast. Musically, she was heavy.",
+     "notable": 2,
+     "summary": "Hampton said he first worked with Liston in Dizzy Gillespie's band and quickly learned how musically heavy she was.",
+     "kind": "recovered_answer",
+     "page": null,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Hampton_Slide_Transcript#b48-10"
+    },
+    {
+     "block_id": 275397,
+     "quote": "It was Melba, and Chuck Connors, who played with Duke’s band, and another trombone player.",
+     "notable": 1,
+     "summary": "Hampton named Liston in the trombone section of Gillespie's band with Chuck Connors and a 'Willie', calling them all very good players.",
+     "kind": "mention",
+     "page": 43,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Hampton_Slide_Transcript#b43-11"
+    },
+    {
+     "block_id": 275970,
+     "quote": "Melba, being the arranger that she was, she definitely was going to write something for a trombone choir.",
+     "notable": 1,
+     "summary": "In a long account of trombone choirs, Hampton remarked that Liston, 'being the arranger that she was', was certain to write for one.",
+     "kind": "mention",
+     "page": 98,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Hampton_Slide_Transcript#b98-0"
+    }
+   ],
+   "n_blocks": 7,
+   "block_ids": [
+    275385,
+    275397,
+    275465,
+    275470,
+    275969,
+    275970,
+    275466
+   ],
+   "doc": {
+    "doc_id": "Hampton_Slide_Transcript",
+    "collection": "si",
+    "title": "Slide Hampton — Smithsonian Jazz Oral History",
+    "interviewee": "Slide Hampton",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Hampton_Slide_Transcript",
+    "source_url": "https://amhistory.si.edu/jazz/Hampton-Slide/Hampton_Slide_Transcript.pdf",
+    "collection_label": "Smithsonian Jazz Oral History Program"
+   },
+   "upstream": {
+    "relations": [
+     {
+      "relation": "collaborated with",
+      "direction": "mutual",
+      "evidence": "Melba Liston was the musical director... It was Melba, and Chuck Connors... She was the one that was the main arranger in the band... you did stuff with Melba Liston",
+      "said_by": "Slide Hampton"
+     }
+    ],
+    "relation_ok": false
+   },
+   "on_her_records": true,
+   "albums_with_her": 5,
+   "instruments_on_her_records": [
+    "Personnel",
+    "arranger",
+    "trombone",
+    "tuba"
+   ],
+   "she_spoke_of_them": true,
+   "she_said": {
+    "relation": "played under",
+    "basis": "her_assent",
+    "one_liner": "had him in her trombone section on record",
+    "summary": "Bryant recalled that Slide Hampton was in the trombone section on one of Liston's own record dates, which Liston acknowledged as 'a different Company altogether'; after her stroke Liston said she had tried turning her trombone around to blow it like Slide Hampton, without success.",
+    "her_quote": "I tried to turn the thing around and blow it like Slide Hampton, and I can’t",
+    "her_quote_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b45-11",
+    "notable": 2
+   },
+   "image": {
+    "source": "wikidata_p18",
+    "file": "File:SlideHampton.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:SlideHampton.jpg",
+    "url_full": "https://commons.wikimedia.org/wiki/Special:FilePath/SlideHampton.jpg",
+    "url_800": "https://commons.wikimedia.org/wiki/Special:FilePath/SlideHampton.jpg?width=800",
+    "url_400": "https://commons.wikimedia.org/wiki/Special:FilePath/SlideHampton.jpg?width=400",
+    "url_200": "https://commons.wikimedia.org/wiki/Special:FilePath/SlideHampton.jpg?width=200",
+    "width": 512,
+    "height": 384,
+    "mime": "image/jpeg",
+    "hosted_on_commons": true,
+    "license": {
+     "short": "Public domain",
+     "usage_terms": "Public domain",
+     "url": null,
+     "public_domain": true,
+     "attribution_required": false,
+     "artist": "Dugsalmon",
+     "credit": "http://en.wikipedia.org/wiki/File:SlideHampton.jpg",
+     "restrictions": null,
+     "date": null
+    },
+    "attribution": "Dugsalmon (Public domain), via Wikimedia Commons",
+    "also_pictured": [],
+    "review_flags": []
+   }
+  },
+  {
+   "witness_key": "Liston_Melba_Interview_Transcription#bryant",
+   "name": "Clora Bryant",
+   "qid": "Q1102326",
+   "qid_source": "doc_interviewees",
+   "description": "American musician (1927–2019)",
+   "born": "1927",
+   "died": "2019",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q1102326",
+   "is_her_interviewer": true,
+   "spoke_themselves": true,
+   "relation": "friend of",
+   "relation_weight": 1.8,
+   "tier": "social",
+   "direction": "mutual",
+   "contact_level": "knew_personally",
+   "basis": [
+    "direct_contact",
+    "recordings",
+    "reputation",
+    "press_or_study",
+    "shared_associates"
+   ],
+   "context": "Smithsonian oral history interview of Liston, conducted by Bryant over two days (1996), before Liston's move back East",
+   "one_liner": "interviewed her for the smithsonian",
+   "grounded": true,
+   "ungrounded_words": [],
+   "summary": "Bryant, interviewing Liston, praised her arranging (the shadings, the string voicings, 'My Reverie' as one of the most beautiful things she had done), her trombone sound and her resilience after her stroke, and told her she had admired her from afar for years, had lately become bonded to her, and counted her a guiding light for many women, Bryant included.",
+   "stance": "positive",
+   "stance_strength": 3,
+   "notable": 3,
+   "caution": "Bryant is the interviewer: her lines are addressed to Liston in the second person, and many are leading questions or hearsay that Liston did not confirm or corrected -- e.g. Gerald Wilson's claim that Liston recorded with Basie (Liston did not remember it), 'how you got the school systems down there' (Liston: 'I didn't get the school systems'), the Pittsburgh Jazz Orchestra/Harlem Backstreet/Pratt Institute list (Bryant says 'I'd never heard of these', i.e. read from a source), the Ellington-influence suggestion (Liston: 'I do it all from my soul'), and the State Department 'it's been said' reports. Do not present these as established facts. Bracketed passages in her blocks are transcriber summaries, not her words. 'Maybe in the last year we became bonded' means their close friendship was recent; the long admiration was 'from afar'. Second quote is about 'My Reverie' -- name the piece when displaying.",
+   "confidence": "high",
+   "notes": "Relation chosen as 'friend of' from her own words ('Maybe in the last year we became bonded, but I've been bonded to you a long time'; 'I know I'm dedicated'). Also supported: 'influenced by' (liston_leads) -- 'a guiding light for a lot of people, including me'; and some collaboration -- 'you did five things for me that I haven't been able to see' (pieces Liston wrote for Bryant). Other strong lines: 'Yeah. You broke the ice. You were the innovator.' (295700); 'Well, you're one in a million.' (296163); 'I liked the way you do your shadings... a lost art in arrangement' (296068); 'Randy is your horn right now' (295938).",
+   "lead_quote": "you have been the best, Melba. You’ve been a guiding light for a lot of people, including me",
+   "lead_block_id": 296351,
+   "lead_page": 57,
+   "lead_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b57-1",
+   "second_quote": "that is one of the most beautiful things you’ve ever done – especially the haunting sound that you get on your trombone and what you write behind what you’re doing.",
+   "second_block_id": 296139,
+   "second_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b43-5",
+   "more_quotes": [
+    {
+     "block_id": 295700,
+     "quote": "Yeah. You broke the ice. You were the innovator.",
+     "notable": 3,
+     "summary": "Bryant told Liston she had broken the ice as a woman trombonist and was the innovator.",
+     "kind": "bryant_testimony",
+     "page": 15,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b15-4"
+    },
+    {
+     "block_id": 295938,
+     "quote": "Because you used to say, whenever you would be sad or something, you’re horn would bring you out of it, but now you can’t depend on that, so Randy is your horn right now.",
+     "notable": 3,
+     "summary": "Bryant recalled Liston saying her horn used to lift her out of sadness, and said that after the stroke Randy Weston had become her horn.",
+     "kind": "bryant_testimony",
+     "page": 30,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b30-0"
+    },
+    {
+     "block_id": 296068,
+     "quote": "But I liked the way you do your shadings. The trumpets blare out and you drop it down and the reeds are under, and then the trumpets are – that’s – to me that’s kind of a lost art in arrangement.",
+     "notable": 3,
+     "summary": "Bryant praised Liston's dynamic shadings, trumpets blaring then dropping under the reeds, as a lost art in arranging.",
+     "kind": "bryant_testimony",
+     "page": 38,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b38-12"
+    },
+    {
+     "block_id": 296095,
+     "quote": "And then one phrase there you really sounded like Billie Holiday.",
+     "notable": 3,
+     "summary": "Bryant told Liston that one phrase of her singing on You'll Be Sorry sounded like Billie Holiday.",
+     "kind": "bryant_testimony",
+     "page": 40,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b40-10"
+    },
+    {
+     "block_id": 296227,
+     "quote": "You sure knew what to do. And your voicings on those strings. That’s beautiful. It’s the first time I heard you write for strings, Melba. That’s beautiful. And I’ve heard a lot of people try to write for strings, and it doesn’t have that kind of sound.",
+     "notable": 3,
+     "summary": "Bryant praised Liston's string voicings on the Earth Birth Little Niles, saying others who write for strings do not get that sound.",
+     "kind": "bryant_testimony",
+     "page": 48,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b48-12"
+    },
+    {
+     "block_id": 296504,
+     "quote": "how much I have admired you from afar – because you really didn’t know how much until of late. Maybe in the last year we became bonded, but I’ve been bonded to you a long time",
+     "notable": 3,
+     "summary": "Bryant told Liston she had long admired her from afar and had felt bonded to her well before they became close.",
+     "kind": "bryant_testimony",
+     "page": 67,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b67-0"
+    },
+    {
+     "block_id": 295504,
+     "quote": "your teachers thought you were a genius, and the church members too thought you were a genius, because you could do that. But it’s something that your little mind told you – which was great.",
+     "notable": 2,
+     "summary": "Bryant recalled that Liston's childhood system for picking out melodies by scale number had made her teachers and church members think her a genius.",
+     "kind": "bryant_testimony",
+     "page": 3,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b3-2"
+    },
+    {
+     "block_id": 295510,
+     "quote": "You found that you couldn’t reach the sixth and the seventh position on it, but you overcame that by . . .",
+     "notable": 2,
+     "summary": "Bryant set up the story of the child Liston being too small to reach the sixth and seventh slide positions, and Liston finished the sentence.",
+     "kind": "bryant_testimony",
+     "page": 3,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b3-8"
+    },
+    {
+     "block_id": 295568,
+     "quote": "Miss Hightower seemed to have had quite an attachment. She thought you were just the greatest.",
+     "notable": 2,
+     "summary": "Bryant told Liston that her teacher Miss Hightower had been attached to her and thought her the greatest.",
+     "kind": "bryant_testimony",
+     "page": 7,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b7-1"
+    },
+    {
+     "block_id": 295630,
+     "quote": "Oh that’s where – you got stranded there.",
+     "notable": 2,
+     "summary": "Bryant recalled that the band backing Billie Holiday was stranded in the South.",
+     "kind": "bryant_testimony",
+     "page": 10,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b10-15"
+    },
+    {
+     "block_id": 295640,
+     "quote": "Gerald said that you recorded with Basie and that the record is out now, on CD.",
+     "notable": 2,
+     "summary": "Bryant passed on Gerald Wilson's statement that Liston had recorded with Count Basie and that the record was out on CD.",
+     "kind": "bryant_testimony",
+     "page": 11,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b11-8"
+    },
+    {
+     "block_id": 295690,
+     "quote": "You sounded good.",
+     "notable": 2,
+     "summary": "Bryant told Liston she sounded good on her 1947 recording date with Dexter Gordon.",
+     "kind": "bryant_testimony",
+     "page": 14,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b14-12"
+    },
+    {
+     "block_id": 295704,
+     "quote": "was that the ’56 band with Dizzy, where the guys were saying, why’d you send across to the West Coast to get a you-know-what?",
+     "notable": 2,
+     "summary": "Bryant recalled the 1956 Gillespie band members grumbling about Dizzy sending to the West Coast for a woman.",
+     "kind": "bryant_testimony",
+     "page": 15,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b15-8"
+    },
+    {
+     "block_id": 295706,
+     "quote": "Dizzy said it was because some of them had friends that they wanted to play, to take that spot, and he sent and got you.",
+     "notable": 2,
+     "summary": "Bryant reported Dizzy Gillespie's account that band members wanted the chair for their friends but he sent for Liston.",
+     "kind": "bryant_testimony",
+     "page": 15,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b15-10"
+    },
+    {
+     "block_id": 295708,
+     "quote": "he relished telling that story, because it confirmed what he felt about – the faith that he had in you.",
+     "notable": 2,
+     "summary": "Bryant said Dizzy Gillespie relished telling how Liston's arrangement silenced the band, because it confirmed his faith in her.",
+     "kind": "bryant_testimony",
+     "page": 15,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b15-12"
+    },
+    {
+     "block_id": 295714,
+     "quote": "I heard how you got the kids to start to read music, to become interested in jazz, and how you got the school systems down there . . .",
+     "notable": 2,
+     "summary": "Bryant praised what she had heard of Liston's work in Jamaica getting children reading music and interested in jazz.",
+     "kind": "bryant_testimony",
+     "page": 16,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b16-2"
+    },
+    {
+     "block_id": 295774,
+     "quote": "because I know that’s what we went through.",
+     "notable": 2,
+     "summary": "Bryant identified with Liston's story of harassment on the road as what women musicians of their generation went through.",
+     "kind": "bryant_testimony",
+     "page": 19,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b19-5"
+    },
+    {
+     "block_id": 295784,
+     "quote": "That was after Dizzy’s – somebody’s band broke up and this agent said, “You don’t have to be without work. You take a girl’s group” to wherever, and that’s the way that started.",
+     "notable": 2,
+     "summary": "Bryant told how an agent suggested Liston take a women's group after a band broke up, which began her all-women group.",
+     "kind": "bryant_testimony",
+     "page": 20,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b20-2"
+    },
+    {
+     "block_id": 295815,
+     "quote": "I know, but it was an important something.",
+     "notable": 2,
+     "summary": "Bryant insisted that Liston's film work mattered after Liston dismissed it as 'just something'.",
+     "kind": "bryant_testimony",
+     "page": 22,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b22-2"
+    },
+    {
+     "block_id": 295841,
+     "quote": "Yeah, Major Holley. You’re always talking about him. He talked about you the whole time . . .",
+     "notable": 2,
+     "summary": "Bryant recalled that bassist Major Holley, whom Liston always talked about, talked about her the whole time too.",
+     "kind": "bryant_testimony",
+     "page": 23,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b23-9"
+    },
+    {
+     "block_id": 295855,
+     "quote": "A lot of your arrangements, are they Ellington-inspired? I get some nuances in some of your stuff, the way you lay it out.",
+     "notable": 2,
+     "summary": "Bryant said she heard Ellington-like nuances in the way Liston laid out her arrangements.",
+     "kind": "bryant_testimony",
+     "page": 24,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b24-7"
+    },
+    {
+     "block_id": 295902,
+     "quote": "Because you probably already know before he says it, after 40 years.",
+     "notable": 2,
+     "summary": "Bryant suggested that after forty years Liston knew what Randy Weston wanted before he said it.",
+     "kind": "bryant_testimony",
+     "page": 27,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b27-6"
+    },
+    {
+     "block_id": 295916,
+     "quote": "You’re really reaching down.",
+     "notable": 2,
+     "summary": "Bryant said Liston was really reaching down in writing her first piece for trombone and strings.",
+     "kind": "bryant_testimony",
+     "page": 28,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b28-7"
+    },
+    {
+     "block_id": 295934,
+     "quote": "That was obvious at the rehearsals for the Groove Festival. They would be waiting for you.",
+     "notable": 2,
+     "summary": "Bryant recalled seeing at the Groove Festival rehearsals how many musicians were waiting for Liston to write for them.",
+     "kind": "bryant_testimony",
+     "page": 29,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b29-11"
+    },
+    {
+     "block_id": 295968,
+     "quote": "You helped establish the Pittsburgh Jazz Orchestra in Pennsylvania in 1964, and then you – the Harlem Backstreet Tour Orchestra.",
+     "notable": 2,
+     "summary": "Bryant credited Liston with helping establish the Pittsburgh Jazz Orchestra in 1964 and the Harlem Backstreet Tour Orchestra.",
+     "kind": "bryant_testimony",
+     "page": 32,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b32-2"
+    },
+    {
+     "block_id": 295990,
+     "quote": "does it strike you funny, with all your experiences and your writing, technique, and expertise in doing so many – on your horn and everything – does it strike you funny or kind of sad that a large record company has never signed you to a contract?",
+     "notable": 2,
+     "summary": "Bryant asked whether it struck Liston as sad that, for all her expertise, no large record company had ever signed her.",
+     "kind": "bryant_testimony",
+     "page": 33,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b33-12"
+    },
+    {
+     "block_id": 295998,
+     "quote": "I think I read where you said that the women were amazed that you could be up there doing what you were doing, and they weren’t allowed the freedom.",
+     "notable": 2,
+     "summary": "Bryant recalled reading that women in the Middle East on the State Department tour were amazed to see Liston on the bandstand.",
+     "kind": "bryant_testimony",
+     "page": 34,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b34-5"
+    },
+    {
+     "block_id": 296016,
+     "quote": "that your arrangement on My Reverie – no, Anitra’s Dance – Annie’s Dance would break the ice, because there was – they recognized the theme and they liked your arrangement – treatment of it.",
+     "notable": 2,
+     "summary": "Bryant reported that on the State Department tour Liston's Annie's Dance broke the ice with audiences who recognised the theme.",
+     "kind": "bryant_testimony",
+     "page": 35,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b35-8"
+    },
+    {
+     "block_id": 296024,
+     "quote": "you wrote a compilation of music for this tour that included excerpts from Duke and Basie and all those people.",
+     "notable": 2,
+     "summary": "Bryant stated that Liston wrote the compilation of Ellington and Basie excerpts for the State Department tour.",
+     "kind": "bryant_testimony",
+     "page": 36,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b36-0"
+    },
+    {
+     "block_id": 296048,
+     "quote": "They had a lot of respect for you then.",
+     "notable": 2,
+     "summary": "Bryant said the stars Liston worked for must have had a lot of respect for her.",
+     "kind": "bryant_testimony",
+     "page": 37,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b37-8"
+    },
+    {
+     "block_id": 296054,
+     "quote": "Austin Cromer sings your arrangement of If You Could See Me Now. That was great.",
+     "notable": 2,
+     "summary": "Bryant introduced Austin Cromer's recording of Liston's If You Could See Me Now arrangement and called it great.",
+     "kind": "bryant_testimony",
+     "page": 37,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b37-14"
+    },
+    {
+     "block_id": 296056,
+     "quote": "Just sometimes? This should have been one of the times.",
+     "notable": 2,
+     "summary": "Bryant insisted that the If You Could See Me Now arrangement should have thrilled Liston.",
+     "kind": "bryant_testimony",
+     "page": 38,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b38-0"
+    },
+    {
+     "block_id": 296093,
+     "quote": "And boy, you had your wind power there. You get a long stretch without a breath there. I kept waiting for you to breathe.",
+     "notable": 2,
+     "summary": "Bryant marvelled at Liston's breath control singing You'll Be Sorry.",
+     "kind": "bryant_testimony",
+     "page": 40,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b40-8"
+    },
+    {
+     "block_id": 296097,
+     "quote": "the fill-ins behind the phrases of the words and then behind Dizzy when he’s playing, that’s perfect. Just beautiful.",
+     "notable": 2,
+     "summary": "Bryant called the fill-ins in Liston's You'll Be Sorry arrangement, behind the vocal and behind Dizzy's solo, perfect.",
+     "kind": "bryant_testimony",
+     "page": 40,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b40-12"
+    },
+    {
+     "block_id": 296103,
+     "quote": "That is really a beautiful arrangement on that.",
+     "notable": 2,
+     "summary": "Bryant called Liston's Annie's Dance arrangement for Gillespie's band really beautiful.",
+     "kind": "bryant_testimony",
+     "page": 41,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b41-1"
+    },
+    {
+     "block_id": 296123,
+     "quote": "we’ve heard three different styles of your writing, because everybody refers to you as a ballad-type person, melodic and all that stuff, but you’ve thrown in the blues, and then you’ve thrown in this production.",
+     "notable": 2,
+     "summary": "Bryant said the recordings showed three styles of Liston's writing, against her reputation as only a ballad writer.",
+     "kind": "bryant_testimony",
+     "page": 42,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b42-4"
+    },
+    {
+     "block_id": 296133,
+     "quote": "When you edit it down, boy, it’s together. Whatever you take out, I don’t think it belongs in there. Whatever you leave in, it goes.",
+     "notable": 2,
+     "summary": "Bryant praised how tight Liston's arrangements were after editing.",
+     "kind": "bryant_testimony",
+     "page": 42,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b42-14"
+    },
+    {
+     "block_id": 296153,
+     "quote": "Anybody plays like that, got to be thinking about something.",
+     "notable": 2,
+     "summary": "Bryant insisted that anyone who played like Liston on My Reverie had to be thinking about something.",
+     "kind": "bryant_testimony",
+     "page": 44,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b44-7"
+    },
+    {
+     "block_id": 296155,
+     "quote": "And the arrangement – you set yourself up so good.",
+     "notable": 2,
+     "summary": "Bryant said Liston's My Reverie arrangement set up her own solo perfectly.",
+     "kind": "bryant_testimony",
+     "page": 44,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b44-9"
+    },
+    {
+     "block_id": 296163,
+     "quote": "Well, you’re one in a million.",
+     "notable": 2,
+     "summary": "Bryant gave up pressing and told Liston she was one in a million.",
+     "kind": "bryant_testimony",
+     "page": 45,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b45-0"
+    },
+    {
+     "block_id": 296171,
+     "quote": "Because I want to hear you again Melba.",
+     "notable": 2,
+     "summary": "Bryant told Liston she wanted to hear her play again.",
+     "kind": "bryant_testimony",
+     "page": 45,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b45-8"
+    },
+    {
+     "block_id": 296173,
+     "quote": "Those two or three notes, you can take them and do something magical with them.",
+     "notable": 2,
+     "summary": "Bryant said Liston could make something magical of the two or three notes she could still play after the stroke.",
+     "kind": "bryant_testimony",
+     "page": 45,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b45-10"
+    },
+    {
+     "block_id": 296211,
+     "quote": "Because that was a beautiful solo, Melba.",
+     "notable": 2,
+     "summary": "Bryant praised Liston's trombone solo on a Randy Weston waltz recorded in Montreal.",
+     "kind": "bryant_testimony",
+     "page": 47,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b47-11"
+    },
+    {
+     "block_id": 296233,
+     "quote": "That treatment of Little Niles is very unique. It’s different and it’s good. It’s bad. It’s bad, Melba. Very good.",
+     "notable": 2,
+     "summary": "Bryant called Liston's strings treatment of Little Niles unique and 'bad' in the jazz sense.",
+     "kind": "bryant_testimony",
+     "page": 49,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b49-0"
+    },
+    {
+     "block_id": 296259,
+     "quote": "We heard the original, and the strings, and this one, and they’re all completely different. You arranged all of them.",
+     "notable": 2,
+     "summary": "Bryant said the three versions of Little Niles Liston arranged were all completely different.",
+     "kind": "bryant_testimony",
+     "page": 50,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b50-12"
+    },
+    {
+     "block_id": 296269,
+     "quote": "the strings is really a completely huge dimension to your writing that I’d never heard before, Melba.",
+     "notable": 2,
+     "summary": "Bryant said the 1996 Hi-Fly showed string writing as a huge dimension of Liston's work she had never heard before.",
+     "kind": "bryant_testimony",
+     "page": 51,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b51-4"
+    },
+    {
+     "block_id": 296275,
+     "quote": "I heard it. I just didn’t know that was you writing it then.",
+     "notable": 2,
+     "summary": "Bryant admitted she had heard Liston's 1959 Gloria Lynne string writing without knowing it was Liston's.",
+     "kind": "bryant_testimony",
+     "page": 51,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b51-10"
+    },
+    {
+     "block_id": 296279,
+     "quote": "You guys are so in tune to each other, you don’t need – he doesn’t have to tell you anything anyway.",
+     "notable": 2,
+     "summary": "Bryant said Liston and Randy Weston were so in tune that he never had to tell her anything.",
+     "kind": "bryant_testimony",
+     "page": 52,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b52-2"
+    },
+    {
+     "block_id": 296289,
+     "quote": "Dig deep down and write. That’s a beautiful tune, Melba.",
+     "notable": 2,
+     "summary": "Bryant called Liston's song Love, I've Found You a beautiful tune.",
+     "kind": "bryant_testimony",
+     "page": 52,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b52-12"
+    },
+    {
+     "block_id": 296347,
+     "quote": "You just knew that you were going to be the best. You didn’t have to say it, right?",
+     "notable": 2,
+     "summary": "Bryant suggested Liston had always known she would be the best without needing to say it.",
+     "kind": "bryant_testimony",
+     "page": 56,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b56-12"
+    },
+    {
+     "block_id": 296353,
+     "quote": "But they still won’t have it as hard as you did.",
+     "notable": 2,
+     "summary": "Bryant said young women musicians would not have it as hard as Liston had.",
+     "kind": "bryant_testimony",
+     "page": 57,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b57-3"
+    },
+    {
+     "block_id": 296372,
+     "quote": "But those schools that you helped organize and stuff like that, the kids wanted to learn, and they came there to learn, and they did learn, because you guys were teaching them.",
+     "notable": 2,
+     "summary": "Bryant credited the schools Liston helped organise with children who wanted to learn and did.",
+     "kind": "bryant_testimony",
+     "page": 58,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b58-10"
+    },
+    {
+     "block_id": 296376,
+     "quote": "Because Melba you’ve really overcome the stroke that you had. I think you’ve made a long stride, bettering yourself to overcome that",
+     "notable": 2,
+     "summary": "Bryant told Liston she had really overcome her stroke and would do even greater things back East.",
+     "kind": "bryant_testimony",
+     "page": 58,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b58-14"
+    },
+    {
+     "block_id": 296382,
+     "quote": "But see it’s your attitude that keeps it from being that way.",
+     "notable": 2,
+     "summary": "Bryant said Liston's own attitude kept people from pitying her after the stroke.",
+     "kind": "bryant_testimony",
+     "page": 59,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b59-5"
+    },
+    {
+     "block_id": 296386,
+     "quote": "you’ve taken it – your stroke in stride. I know a lot of people who’ve had it, and they’ve had that attitude, “Oh, woe is me.”",
+     "notable": 2,
+     "summary": "Bryant said Liston had taken her stroke in stride, unlike others who fell into self-pity.",
+     "kind": "bryant_testimony",
+     "page": 59,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b59-9"
+    },
+    {
+     "block_id": 296398,
+     "quote": "The quality is there though, Melba.",
+     "notable": 2,
+     "summary": "Bryant told Liston that though she now wrote slowly the quality was still there.",
+     "kind": "bryant_testimony",
+     "page": 60,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b60-3"
+    },
+    {
+     "block_id": 296442,
+     "quote": "But you did five things for me that I haven’t been able to see.",
+     "notable": 2,
+     "summary": "Bryant mentioned five pieces Liston had written for her that she had not yet seen transcribed.",
+     "kind": "bryant_testimony",
+     "page": 62,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b62-14"
+    },
+    {
+     "block_id": 296460,
+     "quote": "They’re not going to go through what we went through to get – because there’s almost – we almost put it in their laps.",
+     "notable": 2,
+     "summary": "Bryant said her and Liston's generation had almost put opportunity in the laps of today's young women.",
+     "kind": "bryant_testimony",
+     "page": 63,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b63-13"
+    },
+    {
+     "block_id": 296470,
+     "quote": "You have some dedicated friends back there, Melba. No jive. I know I’m dedicated, but you’ve got a whole big bunch of them out – back there.",
+     "notable": 2,
+     "summary": "Bryant assured Liston that she had a big group of dedicated friends waiting in New York.",
+     "kind": "bryant_testimony",
+     "page": 64,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b64-6"
+    },
+    {
+     "block_id": 296503,
+     "quote": "because you’ve been such a major part of my life, really, and I’ve just – goose-bump time, your whole",
+     "notable": 2,
+     "summary": "Bryant thanked the Smithsonian for letting her interview Liston, who had been a major part of her life.",
+     "kind": "bryant_testimony",
+     "page": 66,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b66-10"
+    },
+    {
+     "block_id": 296506,
+     "quote": "I know, but you’ve done – you’ve done it. You hear. You’ve done it to death.",
+     "notable": 2,
+     "summary": "Bryant answered Liston's apology for not talking more by telling her she had done it to death.",
+     "kind": "bryant_testimony",
+     "page": 67,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b67-2"
+    }
+   ],
+   "n_blocks": 63,
+   "block_ids": [
+    295504,
+    295510,
+    295568,
+    295630,
+    295640,
+    295690,
+    295700,
+    295704,
+    295706,
+    295708,
+    295714,
+    295774,
+    295784,
+    295815,
+    295841,
+    295855,
+    295902,
+    295916,
+    295934,
+    295938,
+    295968,
+    295990,
+    295998,
+    296016,
+    296024,
+    296048,
+    296054,
+    296056,
+    296068,
+    296093,
+    296095,
+    296097,
+    296103,
+    296123,
+    296133,
+    296139,
+    296153,
+    296155,
+    296163,
+    296171,
+    296173,
+    296211,
+    296227,
+    296233,
+    296259,
+    296269,
+    296275,
+    296279,
+    296289,
+    296347,
+    296351,
+    296353,
+    296372,
+    296376,
+    296382,
+    296386,
+    296398,
+    296442,
+    296460,
+    296470,
+    296503,
+    296504,
+    296506
+   ],
+   "doc": {
+    "doc_id": "Liston_Melba_Interview_Transcription",
+    "collection": "si",
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "interviewee": "Melba Liston",
+    "interviewer": "Clora Bryant",
+    "year": 1996,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription",
+    "source_url": "https://amhistory.si.edu/jazz/Liston-Melba/Liston_Melba_Interview_Transcription.pdf",
+    "collection_label": "Smithsonian Jazz Oral History Program"
+   },
+   "upstream": {
+    "relations": [],
+    "relation_ok": null
+   },
+   "on_her_records": false,
+   "albums_with_her": 0,
+   "instruments_on_her_records": [],
+   "she_spoke_of_them": true,
+   "she_said": {
+    "relation": "collaborated with",
+    "basis": "her_assent",
+    "one_liner": "wrote five arrangements for her",
+    "summary": "Clora Bryant conducted the interview; she said Liston had written five arrangements for her that still needed transcribing, and Liston replied that someone was already doing them.",
+    "her_quote": "I watch you getting thrilled, and then I get a thrill from that.",
+    "her_quote_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b38-1",
+    "notable": 2
+   },
+   "image": {
+    "source": "wikidata_p18",
+    "file": "File:Clora Bryant.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Clora_Bryant.jpg",
+    "url_full": "https://commons.wikimedia.org/wiki/Special:FilePath/Clora_Bryant.jpg",
+    "url_800": "https://commons.wikimedia.org/wiki/Special:FilePath/Clora_Bryant.jpg?width=800",
+    "url_400": "https://commons.wikimedia.org/wiki/Special:FilePath/Clora_Bryant.jpg?width=400",
+    "url_200": "https://commons.wikimedia.org/wiki/Special:FilePath/Clora_Bryant.jpg?width=200",
+    "width": 1964,
+    "height": 2940,
+    "mime": "image/jpeg",
+    "hosted_on_commons": true,
+    "license": {
+     "short": "CC BY 4.0",
+     "usage_terms": "Creative Commons Attribution 4.0",
+     "url": "https://creativecommons.org/licenses/by/4.0",
+     "public_domain": false,
+     "attribution_required": true,
+     "artist": "Los Angeles Times",
+     "credit": "https://digital.library.ucla.edu/catalog/ark:/13030/hb138nb0t5",
+     "restrictions": null,
+     "date": "1982-05-10"
+    },
+    "attribution": "Los Angeles Times (CC BY 4.0), via Wikimedia Commons",
+    "also_pictured": [],
+    "review_flags": []
+   }
+  },
+  {
+   "witness_key": "Fuller_Curtis_Transcript",
+   "name": "Curtis Fuller",
+   "qid": "Q1145565",
+   "qid_source": "doc_interviewees",
+   "description": "American jazz musician (1932–2021)",
+   "born": "1934",
+   "died": "2021",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q1145565",
+   "is_her_interviewer": false,
+   "spoke_themselves": true,
+   "relation": "in music group with",
+   "relation_weight": 3.0,
+   "tier": "band",
+   "direction": "mutual",
+   "contact_level": "worked_together",
+   "basis": [
+    "direct_contact"
+   ],
+   "context": "Quincy Jones band (with Patti Bown); also Dizzy Gillespie's band",
+   "one_liner": "in quincy's and dizzy's bands with her",
+   "grounded": true,
+   "ungrounded_words": [],
+   "summary": "Fuller called his relationship with Liston in Quincy Jones's band a beautiful one, said she had also been in Gillespie's band with him, and said he loved every moment he had with her.",
+   "stance": "positive",
+   "stance_strength": 2,
+   "notable": 2,
+   "caution": "Fuller says 'when I first met her I didn't know Gerald Wilson was her husband' -- probably wrong: standard accounts have Wilson as the bandleader she worked for, not her husband; do not repeat it. 'I've seen her sit on the bandstand and cry' (same block as the lead) is unexplained and could read misleadingly out of context -- left out of the quotes deliberately. Transcript is garbled ('Dizzy's bandwidth me' = 'band with me'; 'had to women and it' = 'had two women in it'), and the second quote is cut from a run-on sentence that continues into his students ('Patty Bowen and I have some young kids').",
+   "confidence": "medium",
+   "notes": "Upstream 'collaborated with' is not supported -- no joint musical work is described beyond being in the same bands. The interviewer (Brower) introduces 'that relationship'; Fuller's answers confirm it.",
+   "lead_quote": "Oh yeah, that was a beautiful relationship.",
+   "lead_block_id": 272798,
+   "lead_page": null,
+   "lead_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Fuller_Curtis_Transcript#b79-2",
+   "second_quote": "But, I love every moment that I had with Melba",
+   "second_block_id": 272807,
+   "second_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Fuller_Curtis_Transcript#b80-4",
+   "more_quotes": [
+    {
+     "block_id": 272805,
+     "quote": "Oh, I loved every moment of it",
+     "notable": 1,
+     "summary": "Fuller said he loved every moment of working with Liston and that when he first met her he did not know Gerald Wilson was her husband.",
+     "kind": "recovered_answer",
+     "page": null,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Fuller_Curtis_Transcript#b80-2"
+    }
+   ],
+   "n_blocks": 6,
+   "block_ids": [
+    272797,
+    272800,
+    272804,
+    272807,
+    272798,
+    272805
+   ],
+   "doc": {
+    "doc_id": "Fuller_Curtis_Transcript",
+    "collection": "si",
+    "title": "Curtis Fuller — Smithsonian Jazz Oral History",
+    "interviewee": "Curtis Fuller",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Fuller_Curtis_Transcript",
+    "source_url": "https://amhistory.si.edu/jazz/Fuller-Curtis/Fuller_Curtis_Transcript.pdf",
+    "collection_label": "Smithsonian Jazz Oral History Program"
+   },
+   "upstream": {
+    "relations": [
+     {
+      "relation": "collaborated with",
+      "direction": "mutual",
+      "evidence": "Melba was also in Dizzy’s bandwidth me... I love every moment that I had with Melba... Oh yeah, that was a beautiful relationship.",
+      "said_by": "Curtis Fuller"
+     }
+    ],
+    "relation_ok": false
+   },
+   "on_her_records": true,
+   "albums_with_her": 6,
+   "instruments_on_her_records": [
+    "trombone"
+   ],
+   "she_spoke_of_them": false,
+   "she_said": null,
+   "image": {
+    "source": "wikidata_p18",
+    "file": "File:Curtis Fuller.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Curtis_Fuller.jpg",
+    "url_full": "https://commons.wikimedia.org/wiki/Special:FilePath/Curtis_Fuller.jpg",
+    "url_800": "https://commons.wikimedia.org/wiki/Special:FilePath/Curtis_Fuller.jpg?width=800",
+    "url_400": "https://commons.wikimedia.org/wiki/Special:FilePath/Curtis_Fuller.jpg?width=400",
+    "url_200": "https://commons.wikimedia.org/wiki/Special:FilePath/Curtis_Fuller.jpg?width=200",
+    "width": 250,
+    "height": 342,
+    "mime": "image/jpeg",
+    "hosted_on_commons": true,
+    "license": {
+     "short": "Public domain",
+     "usage_terms": "Public domain",
+     "url": null,
+     "public_domain": true,
+     "attribution_required": false,
+     "artist": "Photo by Tom Pich",
+     "credit": "http://www.nea.gov/about/NEARTS/2008_v1/story.php?id=p13_fuller Transferred from en.wikipedia to Commons by Stanmar using CommonsHelper .",
+     "restrictions": null,
+     "date": "2008-06-29"
+    },
+    "attribution": "Photo by Tom Pich (Public domain), via Wikimedia Commons",
+    "also_pictured": [],
+    "review_flags": []
+   }
+  },
+  {
+   "witness_key": "61539",
+   "name": "Quentin \"Butter\" Jackson",
+   "qid": "Q720707",
+   "qid_source": "exact unique label match in wd_people",
+   "description": "American musician (1909–1976)",
+   "born": "1909",
+   "died": "1976",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q720707",
+   "is_her_interviewer": false,
+   "spoke_themselves": true,
+   "relation": "in music group with",
+   "relation_weight": 3.0,
+   "tier": "band",
+   "direction": "mutual",
+   "contact_level": "worked_together",
+   "basis": [
+    "direct_contact"
+   ],
+   "context": "Quincy Jones band, Europe (rehearsed in Brussels); also Liston's band for Kim Weston, Atlantic City",
+   "one_liner": "played in her band for kim weston",
+   "grounded": true,
+   "ungrounded_words": [],
+   "summary": "Jackson recalled playing in the band Liston led for singer Kim Weston in Atlantic City, called her a great trombonist, and named her in the trombone section of Quincy Jones's European touring band.",
+   "stance": "positive",
+   "stance_strength": 1,
+   "notable": 2,
+   "caution": "Archive label is 'Butter Jackson' (doc interviewee 'Quentin Jackson'); no QID in input -- do not invent one. The second quote contains an editorial insertion ('AAKE PERSSON') and a phonetic spelling ('Okie Pearson'); use the lead only, or drop the second. His praise 'Yeah, a great trombonist, too.' is in an adjacent turn, not in a block, so it is not quotable here.",
+   "confidence": "high",
+   "notes": "Two contexts: section-mates in Quincy Jones's band, and played under her in Atlantic City ('played under', liston_leads, would also be supported). Interviewer is Milt Hinton.",
+   "lead_quote": "So I went to Atlantic City and played with Melba Liston. She had a band up there, for Kim Weston.",
+   "lead_block_id": 430479,
+   "lead_page": 370,
+   "lead_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=61539#b370-4",
+   "second_quote": "the trombones, rather, was Melba Liston, Jimmy Cleveland, and we picked up AAKE PERSSON Okie Pearson, a Swedish trombone player.",
+   "second_block_id": 430809,
+   "second_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=61539#b398-5",
+   "more_quotes": [
+    {
+     "block_id": 430483,
+     "quote": "And Kim Weston, she -- so Melba had the band for Kim Weston.",
+     "notable": 0,
+     "summary": "Jackson repeated that Liston had the band for Kim Weston that he went up to play in.",
+     "kind": "mention",
+     "page": 370,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=61539#b370-8"
+    }
+   ],
+   "n_blocks": 4,
+   "block_ids": [
+    430479,
+    430483,
+    430809,
+    430822
+   ],
+   "doc": {
+    "doc_id": "61539",
+    "collection": "rutgers",
+    "title": "61539_Butter Jackson oral history interview",
+    "interviewee": "Quentin Jackson",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=61539",
+    "source_url": "https://rucore.libraries.rutgers.edu/rutgers-lib/61539/",
+    "collection_label": "Rutgers — Institute of Jazz Studies"
+   },
+   "upstream": {
+    "relations": [
+     {
+      "relation": "played with",
+      "direction": "mutual",
+      "evidence": "So I went to Atlantic City and played with Melba Liston. She had a band up there, for Kim Weston.",
+      "said_by": "Butter Jackson"
+     }
+    ],
+    "relation_ok": true
+   },
+   "on_her_records": true,
+   "albums_with_her": 13,
+   "instruments_on_her_records": [
+    "trombone"
+   ],
+   "she_spoke_of_them": false,
+   "she_said": null,
+   "image": {
+    "source": "wikidata_p18",
+    "file": "File:Quincy Jones Orchestra 1960 (JOKAHBL3E A05-10).tif",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Quincy_Jones_Orchestra_1960_(JOKAHBL3E_A05-10).tif",
+    "url_full": "https://commons.wikimedia.org/wiki/Special:FilePath/Quincy_Jones_Orchestra_1960_%28JOKAHBL3E_A05-10%29.tif",
+    "url_800": "https://commons.wikimedia.org/wiki/Special:FilePath/Quincy_Jones_Orchestra_1960_%28JOKAHBL3E_A05-10%29.tif?width=800",
+    "url_400": "https://commons.wikimedia.org/wiki/Special:FilePath/Quincy_Jones_Orchestra_1960_%28JOKAHBL3E_A05-10%29.tif?width=400",
+    "url_200": "https://commons.wikimedia.org/wiki/Special:FilePath/Quincy_Jones_Orchestra_1960_%28JOKAHBL3E_A05-10%29.tif?width=200",
+    "width": 4676,
+    "height": 4702,
+    "mime": "image/tiff",
+    "hosted_on_commons": true,
+    "license": {
+     "short": "CC BY 4.0",
+     "usage_terms": "Creative Commons Attribution 4.0",
+     "url": "https://creativecommons.org/licenses/by/4.0",
+     "public_domain": false,
+     "attribution_required": true,
+     "artist": null,
+     "credit": "https://finna.fi/Record/museovirasto.4c419b0d-4697-4b38-bb32-e1fe8af3b2e6",
+     "restrictions": null,
+     "date": "29 August 1960 date QS:P571,+1960-08-29T00:00:00Z/11"
+    },
+    "attribution": "https://finna.fi/Record/museovirasto.4c419b0d-4697-4b38-bb32-e1fe8af3b2e6 (CC BY 4.0), via Wikimedia Commons",
+    "also_pictured": [
+     "quincy jones"
+    ],
+    "review_flags": [
+     "may_be_a_group_photo",
+     "attribution_required_but_author_unknown"
+    ]
+   }
+  },
+  {
+   "witness_key": "275855",
+   "name": "Benny Powell",
+   "qid": "Q599429",
+   "qid_source": "doc_interviewees",
+   "description": "American jazz trombonist (1930–2010)",
+   "born": "1930",
+   "died": "2010",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q599429",
+   "is_her_interviewer": false,
+   "spoke_themselves": true,
+   "relation": "in music group with",
+   "relation_weight": 3.0,
+   "tier": "band",
+   "direction": "mutual",
+   "contact_level": "knew_personally",
+   "basis": [
+    "direct_contact",
+    "shared_associates"
+   ],
+   "context": "Randy Weston's band, late 1990s (interview January 1999)",
+   "one_liner": "played her arrangements in randy's band",
+   "grounded": true,
+   "ungrounded_words": [],
+   "summary": "Powell said Liston wrote the sparse, solo-centred arrangements for the Randy Weston band he played in, called her a wonderful woman, and noted she was now living in New York, wheelchair-bound and very close to Weston.",
+   "stance": "positive",
+   "stance_strength": 2,
+   "notable": 2,
+   "caution": "Powell's statement that she had lived in New York 'about two or three years' and was wheelchair-bound is his recollection; Randy Weston's interviewer places her in California with her aunt in 1997 -- the dates may not square. 'Two days ago' birthday: interview dated 16 January 1999, her birthday is 13 January, so it is approximate.",
+   "confidence": "medium",
+   "notes": "He knows her birthday, residence and health, so personal acquaintance is implied, but he does not describe working with her directly; the link is playing her charts in Weston's band. 'collaborated with' (upstream) is also defensible.",
+   "lead_quote": "Oh, she had a birthday two days ago, Melba Liston. Wonderful woman.",
+   "lead_block_id": 216723,
+   "lead_page": 7,
+   "lead_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275855#b7-10",
+   "second_quote": "Melba Liston is responsible for the arrangements.",
+   "second_block_id": 216721,
+   "second_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275855#b7-8",
+   "more_quotes": [
+    {
+     "block_id": 216727,
+     "quote": "She’s been here for about two or three years. She’s been wheelchair bound for a little while, but she and Randy are very close",
+     "notable": 1,
+     "summary": "Powell said Liston had moved to New York two or three years earlier, had been wheelchair-bound for a while, and was very close to Randy Weston.",
+     "kind": "recovered_continuation",
+     "page": null,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275855#b7-14"
+    }
+   ],
+   "n_blocks": 3,
+   "block_ids": [
+    216721,
+    216723,
+    216727
+   ],
+   "doc": {
+    "doc_id": "275855",
+    "collection": "hamilton",
+    "title": "Benny Powell interviewed by Monk Rowe, New York City, New York, January 16, 1999 [interview 2 of 2]",
+    "interviewee": "Benny Powell",
+    "interviewer": null,
+    "year": 1999,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275855",
+    "source_url": "https://litsdigital.hamilton.edu/collections/object/benny-powell-interviewed-monk-rowe-new-york-city-new-york-january-16-1999",
+    "collection_label": "Hamilton College — Fillius Jazz Archive"
+   },
+   "upstream": {
+    "relations": [
+     {
+      "relation": "collaborated with",
+      "direction": "mutual",
+      "evidence": "Melba Liston is responsible for the arrangements.",
+      "said_by": "Benny Powell"
+     }
+    ],
+    "relation_ok": true
+   },
+   "on_her_records": true,
+   "albums_with_her": 3,
+   "instruments_on_her_records": [
+    "trombone"
+   ],
+   "she_spoke_of_them": true,
+   "she_said": {
+    "relation": "collaborated with",
+    "basis": "bryant_only",
+    "one_liner": "",
+    "summary": "Bryant said Powell was one of the trombonists on Liston's first 'Melba and her 'Bones' record date; Liston answered that she had girls first and did not confirm him.",
+    "her_quote": null,
+    "her_quote_url": null,
+    "notable": 1
+   },
+   "image": {
+    "source": "wikidata_p18",
+    "file": "File:Count Basie and His Orchestra performs in Helsinki 1962 (JOKAHBL3E C04-11).tif",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Count_Basie_and_His_Orchestra_performs_in_Helsinki_1962_(JOKAHBL3E_C04-11).tif",
+    "url_full": "https://commons.wikimedia.org/wiki/Special:FilePath/Count_Basie_and_His_Orchestra_performs_in_Helsinki_1962_%28JOKAHBL3E_C04-11%29.tif",
+    "url_800": "https://commons.wikimedia.org/wiki/Special:FilePath/Count_Basie_and_His_Orchestra_performs_in_Helsinki_1962_%28JOKAHBL3E_C04-11%29.tif?width=800",
+    "url_400": "https://commons.wikimedia.org/wiki/Special:FilePath/Count_Basie_and_His_Orchestra_performs_in_Helsinki_1962_%28JOKAHBL3E_C04-11%29.tif?width=400",
+    "url_200": "https://commons.wikimedia.org/wiki/Special:FilePath/Count_Basie_and_His_Orchestra_performs_in_Helsinki_1962_%28JOKAHBL3E_C04-11%29.tif?width=200",
+    "width": 4673,
+    "height": 4705,
+    "mime": "image/tiff",
+    "hosted_on_commons": true,
+    "license": {
+     "short": "CC BY 4.0",
+     "usage_terms": "Creative Commons Attribution 4.0",
+     "url": "https://creativecommons.org/licenses/by/4.0",
+     "public_domain": false,
+     "attribution_required": true,
+     "artist": null,
+     "credit": "https://finna.fi/Record/museovirasto.8ff907ca-2cb2-4031-8a98-3136a010183f",
+     "restrictions": null,
+     "date": "25 April 1962 date QS:P571,+1962-04-25T00:00:00Z/11"
+    },
+    "attribution": "https://finna.fi/Record/museovirasto.8ff907ca-2cb2-4031-8a98-3136a010183f (CC BY 4.0), via Wikimedia Commons",
+    "also_pictured": [
+     "count basie"
+    ],
+    "review_flags": [
+     "may_be_a_group_photo",
+     "attribution_required_but_author_unknown"
+    ]
+   }
+  },
+  {
+   "witness_key": "275930",
+   "name": "Slide Hampton",
+   "qid": "Q1369035",
+   "qid_source": "doc_interviewees",
+   "description": "American trombonist (1932–2021)",
+   "born": "1932",
+   "died": "2021",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q1369035",
+   "is_her_interviewer": false,
+   "spoke_themselves": true,
+   "relation": "in music group with",
+   "relation_weight": 3.0,
+   "tier": "band",
+   "direction": "mutual",
+   "contact_level": "worked_together",
+   "basis": [
+    "direct_contact"
+   ],
+   "context": "Dizzy Gillespie big band, 'late fifties or early sixties'",
+   "one_liner": "joined dizzy's band when she was musical director",
+   "grounded": true,
+   "ungrounded_words": [],
+   "summary": "Hampton recalled joining Gillespie's band when Liston was its musical director and said its arrangements, hers among them, were so good that he did not dare write for it.",
+   "stance": "positive",
+   "stance_strength": 2,
+   "notable": 2,
+   "caution": "Hampton dates his joining loosely ('either the late fifties or the early sixties'). The praise of the arrangements is collective (several arrangers), not hers alone.",
+   "confidence": "high",
+   "notes": "Same person as the Smithsonian Hampton_Slide_Transcript witness, which is richer; the page may want to merge or choose one row.",
+   "lead_quote": "And the band that I joined was the band with Lee Morgan, Benny Golson, Wynton Kelly, Melba Liston was the musical director, and they were playing so much music man, my head was just — they had my head spinning.",
+   "lead_block_id": 185313,
+   "lead_page": 14,
+   "lead_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275930#b14-4",
+   "second_quote": "I remember when I played with the Dizzy Gillespie group and I was playing arrangements by Quincy Jones, by Dizzy himself, Ernie Wilkins, Melba Liston, Benny Golson.",
+   "second_block_id": 185163,
+   "second_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275930#b2-4",
+   "more_quotes": [],
+   "n_blocks": 2,
+   "block_ids": [
+    185163,
+    185313
+   ],
+   "doc": {
+    "doc_id": "275930",
+    "collection": "hamilton",
+    "title": "Slide Hampton interviewed by Monk Rowe, West Orange, New Jersey, July 30, 2003",
+    "interviewee": "Slide Hampton",
+    "interviewer": null,
+    "year": 2003,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275930",
+    "source_url": "https://litsdigital.hamilton.edu/collections/object/slide-hampton-interviewed-monk-rowe-west-orange-new-jersey-july-30-2003",
+    "collection_label": "Hamilton College — Fillius Jazz Archive"
+   },
+   "upstream": {
+    "relations": [
+     {
+      "relation": "in music group with",
+      "direction": "mutual",
+      "evidence": "And the band that I joined was the band with Lee Morgan, Benny Golson, Wynton Kelly, Melba Liston was the musical director",
+      "said_by": "Slide Hampton"
+     }
+    ],
+    "relation_ok": true
+   },
+   "on_her_records": true,
+   "albums_with_her": 5,
+   "instruments_on_her_records": [
+    "Personnel",
+    "arranger",
+    "trombone",
+    "tuba"
+   ],
+   "she_spoke_of_them": true,
+   "she_said": {
+    "relation": "played under",
+    "basis": "her_assent",
+    "one_liner": "had him in her trombone section on record",
+    "summary": "Bryant recalled that Slide Hampton was in the trombone section on one of Liston's own record dates, which Liston acknowledged as 'a different Company altogether'; after her stroke Liston said she had tried turning her trombone around to blow it like Slide Hampton, without success.",
+    "her_quote": "I tried to turn the thing around and blow it like Slide Hampton, and I can’t",
+    "her_quote_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b45-11",
+    "notable": 2
+   },
+   "image": {
+    "source": "wikidata_p18",
+    "file": "File:SlideHampton.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:SlideHampton.jpg",
+    "url_full": "https://commons.wikimedia.org/wiki/Special:FilePath/SlideHampton.jpg",
+    "url_800": "https://commons.wikimedia.org/wiki/Special:FilePath/SlideHampton.jpg?width=800",
+    "url_400": "https://commons.wikimedia.org/wiki/Special:FilePath/SlideHampton.jpg?width=400",
+    "url_200": "https://commons.wikimedia.org/wiki/Special:FilePath/SlideHampton.jpg?width=200",
+    "width": 512,
+    "height": 384,
+    "mime": "image/jpeg",
+    "hosted_on_commons": true,
+    "license": {
+     "short": "Public domain",
+     "usage_terms": "Public domain",
+     "url": null,
+     "public_domain": true,
+     "attribution_required": false,
+     "artist": "Dugsalmon",
+     "credit": "http://en.wikipedia.org/wiki/File:SlideHampton.jpg",
+     "restrictions": null,
+     "date": null
+    },
+    "attribution": "Dugsalmon (Public domain), via Wikimedia Commons",
+    "also_pictured": [],
+    "review_flags": []
+   }
+  },
+  {
+   "witness_key": "David N. Baker SI-NEA oral history (2)",
+   "name": "David N. Baker",
+   "qid": "Q1173633",
+   "qid_source": "doc_interviewees",
+   "description": "American jazz composer, trombonist, professor of music and author (1931-2016)",
+   "born": "1931",
+   "died": "2016",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q1173633",
+   "is_her_interviewer": false,
+   "spoke_themselves": true,
+   "relation": "in music group with",
+   "relation_weight": 3.0,
+   "tier": "band",
+   "direction": "mutual",
+   "contact_level": "worked_together",
+   "basis": [
+    "direct_contact"
+   ],
+   "context": "Quincy Jones band, European tour, 'probably 1960 or so'",
+   "one_liner": "in quincy's trombone section with her",
+   "grounded": true,
+   "ungrounded_words": [],
+   "summary": "Baker named Liston in the 'very, very good' trombone section of the Quincy Jones band he joined for a European tour around 1960.",
+   "stance": "positive",
+   "stance_strength": 1,
+   "notable": 2,
+   "caution": "The 'plus one other trombone' bootleg-credit joke in the same block is about Baker himself, not Liston. Date is his estimate.",
+   "confidence": "high",
+   "notes": "Section-mate testimony only; nothing personal about her.",
+   "lead_quote": "The trombone section was a very, very good section with Åke Persson playing lead, Melba Liston, Curtis Fuller, and myself.",
+   "lead_block_id": 262096,
+   "lead_page": 90,
+   "lead_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=David%20N.%20Baker%20SI-NEA%20oral%20history%20%282%29#b90-2",
+   "second_quote": null,
+   "second_block_id": null,
+   "second_url": null,
+   "more_quotes": [],
+   "n_blocks": 1,
+   "block_ids": [
+    262096
+   ],
+   "doc": {
+    "doc_id": "David N. Baker SI-NEA oral history (2)",
+    "collection": "si",
+    "title": "David N. Baker — Smithsonian Jazz Oral History",
+    "interviewee": "David N. Baker",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=David%20N.%20Baker%20SI-NEA%20oral%20history%20%282%29",
+    "source_url": "https://americanhistory.si.edu/sites/default/files/file-uploader/David%20N.%20Baker%20SI-NEA%20oral%20history%20%282%29.pdf",
+    "collection_label": "Smithsonian Jazz Oral History Program"
+   },
+   "upstream": {
+    "relations": [
+     {
+      "relation": "in music group with",
+      "direction": "mutual",
+      "evidence": "The trombone section was a very, very good section with Åke Persson playing lead, Melba Liston, Curtis Fuller, and myself.",
+      "said_by": "David N. Baker"
+     }
+    ],
+    "relation_ok": true
+   },
+   "on_her_records": false,
+   "albums_with_her": 0,
+   "instruments_on_her_records": [],
+   "she_spoke_of_them": false,
+   "she_said": null,
+   "image": {
+    "source": "wikidata_p18",
+    "file": "File:David Baker (far left) leading the Smithsonian Jazz Masterworks Orchestra (cropped).jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:David_Baker_(far_left)_leading_the_Smithsonian_Jazz_Masterworks_Orchestra_(cropped).jpg",
+    "url_full": "https://commons.wikimedia.org/wiki/Special:FilePath/David_Baker_%28far_left%29_leading_the_Smithsonian_Jazz_Masterworks_Orchestra_%28cropped%29.jpg",
+    "url_800": "https://commons.wikimedia.org/wiki/Special:FilePath/David_Baker_%28far_left%29_leading_the_Smithsonian_Jazz_Masterworks_Orchestra_%28cropped%29.jpg?width=800",
+    "url_400": "https://commons.wikimedia.org/wiki/Special:FilePath/David_Baker_%28far_left%29_leading_the_Smithsonian_Jazz_Masterworks_Orchestra_%28cropped%29.jpg?width=400",
+    "url_200": "https://commons.wikimedia.org/wiki/Special:FilePath/David_Baker_%28far_left%29_leading_the_Smithsonian_Jazz_Masterworks_Orchestra_%28cropped%29.jpg?width=200",
+    "width": 160,
+    "height": 273,
+    "mime": "image/jpeg",
+    "hosted_on_commons": true,
+    "license": {
+     "short": "Public domain",
+     "usage_terms": "Public domain",
+     "url": null,
+     "public_domain": true,
+     "attribution_required": false,
+     "artist": "Photo by Tom Pich.",
+     "credit": "http://www.nea.gov/about/NEARTS/2008_v1/story.php?id=p03_toronto",
+     "restrictions": null,
+     "date": "2008"
+    },
+    "attribution": "Photo by Tom Pich. (Public domain), via Wikimedia Commons",
+    "also_pictured": [],
+    "review_flags": [
+     "may_be_a_group_photo"
+    ]
+   }
+  },
+  {
+   "witness_key": "61520",
+   "name": "Teddy Edwards",
+   "qid": "Q322308",
+   "qid_source": "doc_interviewees",
+   "description": "American jazz tenor saxophonist",
+   "born": "1924",
+   "died": "2003",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q322308",
+   "is_her_interviewer": false,
+   "spoke_themselves": true,
+   "relation": "has met",
+   "relation_weight": 1.0,
+   "tier": "social",
+   "direction": "mutual",
+   "contact_level": "met_briefly",
+   "basis": [
+    "saw_live",
+    "direct_contact"
+   ],
+   "context": "Gerald Wilson's band at Shepp's Playhouse, Los Angeles (Central Avenue era)",
+   "one_liner": "first met her at shepp's playhouse",
+   "grounded": true,
+   "ungrounded_words": [],
+   "summary": "Edwards recalled catching Gerald Wilson's band at Shepp's Playhouse, where Liston was writing for the band and playing trombone, and where he first met that whole crowd.",
+   "stance": "positive",
+   "stance_strength": 1,
+   "notable": 2,
+   "caution": "Archive metadata names the interviewee as Patricia Willard (the interviewer); the speaker is Teddy Edwards. 'Met all of that gang' is collective -- it does not single her out. Edwards went to hear the band; he does not say he played in it.",
+   "confidence": "medium",
+   "notes": "Upstream said 'in music group with'; Edwards was a listener, not a band member, per this testimony.",
+   "lead_quote": "Melba Liston was with the band. She was writing and playing her trombone with the band.",
+   "lead_block_id": 414223,
+   "lead_page": 107,
+   "lead_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=61520#b107-1",
+   "second_quote": "That's where I first met all of that gang, you know.",
+   "second_block_id": 414223,
+   "second_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=61520#b107-1",
+   "more_quotes": [],
+   "n_blocks": 1,
+   "block_ids": [
+    414223
+   ],
+   "doc": {
+    "doc_id": "61520",
+    "collection": "rutgers",
+    "title": "61520_Teddy Edwards oral history interview",
+    "interviewee": "Patricia Willard",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=61520",
+    "source_url": "https://rucore.libraries.rutgers.edu/rutgers-lib/61520/",
+    "collection_label": "Rutgers — Institute of Jazz Studies"
+   },
+   "upstream": {
+    "relations": [
+     {
+      "relation": "in music group with",
+      "direction": "mutual",
+      "evidence": "Melba Liston was with the band. She was writing and playing her trombone with the band. That's where I first met all of that gang",
+      "said_by": "Teddy Edwards"
+     }
+    ],
+    "relation_ok": false
+   },
+   "on_her_records": true,
+   "albums_with_her": 1,
+   "instruments_on_her_records": [
+    "tenor saxophone"
+   ],
+   "she_spoke_of_them": false,
+   "she_said": null,
+   "image": {
+    "source": "wikidata_p18",
+    "file": "File:Teddy Edwards.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Teddy_Edwards.jpg",
+    "url_full": "https://commons.wikimedia.org/wiki/Special:FilePath/Teddy_Edwards.jpg",
+    "url_800": "https://commons.wikimedia.org/wiki/Special:FilePath/Teddy_Edwards.jpg?width=800",
+    "url_400": "https://commons.wikimedia.org/wiki/Special:FilePath/Teddy_Edwards.jpg?width=400",
+    "url_200": "https://commons.wikimedia.org/wiki/Special:FilePath/Teddy_Edwards.jpg?width=200",
+    "width": 465,
+    "height": 684,
+    "mime": "image/jpeg",
+    "hosted_on_commons": true,
+    "license": {
+     "short": "CC BY-SA 4.0",
+     "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+     "url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "public_domain": false,
+     "attribution_required": true,
+     "artist": "Brianmcmillen",
+     "credit": "Own work",
+     "restrictions": null,
+     "date": "2010-07-22 21:02:28"
+    },
+    "attribution": "Brianmcmillen (CC BY-SA 4.0), via Wikimedia Commons",
+    "also_pictured": [],
+    "review_flags": []
+   }
+  },
+  {
+   "witness_key": "Shirley_Horn_Interview_Transcription",
+   "name": "Shirley Horn",
+   "qid": "Q270893",
+   "qid_source": "doc_interviewees",
+   "description": "American singer (1934–2005)",
+   "born": "1934",
+   "died": "2005",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q270893",
+   "is_her_interviewer": false,
+   "spoke_themselves": true,
+   "relation": "knows of",
+   "relation_weight": 0.4,
+   "tier": "knew_of",
+   "direction": "na",
+   "contact_level": "same_scene",
+   "basis": [
+    "saw_live"
+   ],
+   "context": "",
+   "one_liner": "saw her and her band",
+   "grounded": true,
+   "ungrounded_words": [],
+   "summary": "Horn called Liston a great jazz artist whose good band she had seen, but said some instruments are beyond a woman's strength, the band's woodwinds were weak and she disliked female drummers, so it left something to be desired.",
+   "stance": "mixed",
+   "stance_strength": 1,
+   "notable": 2,
+   "caution": "The praise is immediately followed by reservations that some readers will find offensive ('there are certain instruments I think a woman does not have the strength to play', 'I don't like female drummers'). Quoting only 'a great jazz artist' would misrepresent a mixed judgement; the criticism is of the band (apparently with women players), not of Liston personally. Block 315148 is the transcript's back-matter index, not speech.",
+   "confidence": "high",
+   "notes": "'I told you I saw her' refers to an earlier mention not in the input.",
+   "lead_quote": "Melba, she was a great jazz artist.",
+   "lead_block_id": 315136,
+   "lead_page": 94,
+   "lead_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Shirley_Horn_Interview_Transcription#b94-12",
+   "second_quote": "Oh, it was swinging, but it left a little something to be desired, for me.",
+   "second_block_id": 315136,
+   "second_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Shirley_Horn_Interview_Transcription#b94-12",
+   "more_quotes": [],
+   "n_blocks": 3,
+   "block_ids": [
+    315135,
+    315136,
+    315148
+   ],
+   "doc": {
+    "doc_id": "Shirley_Horn_Interview_Transcription",
+    "collection": "si",
+    "title": "Horn Shirley — Smithsonian Jazz Oral History",
+    "interviewee": "Horn Shirley",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Shirley_Horn_Interview_Transcription",
+    "source_url": null,
+    "collection_label": null
+   },
+   "upstream": {
+    "relations": [],
+    "relation_ok": null
+   },
+   "on_her_records": false,
+   "albums_with_her": 0,
+   "instruments_on_her_records": [],
+   "she_spoke_of_them": false,
+   "she_said": null,
+   "image": {
+    "source": "wikidata_p18",
+    "file": "File:Shirley Horn (1981).jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Shirley_Horn_(1981).jpg",
+    "url_full": "https://commons.wikimedia.org/wiki/Special:FilePath/Shirley_Horn_%281981%29.jpg",
+    "url_800": "https://commons.wikimedia.org/wiki/Special:FilePath/Shirley_Horn_%281981%29.jpg?width=800",
+    "url_400": "https://commons.wikimedia.org/wiki/Special:FilePath/Shirley_Horn_%281981%29.jpg?width=400",
+    "url_200": "https://commons.wikimedia.org/wiki/Special:FilePath/Shirley_Horn_%281981%29.jpg?width=200",
+    "width": 2087,
+    "height": 2783,
+    "mime": "image/jpeg",
+    "hosted_on_commons": true,
+    "license": {
+     "short": "CC0",
+     "usage_terms": "Creative Commons Zero, Public Domain Dedication",
+     "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "public_domain": true,
+     "attribution_required": false,
+     "artist": "Rob Bogaerts for Anefo",
+     "credit": "Nationaal Archief",
+     "restrictions": null,
+     "date": "1981-12-07"
+    },
+    "attribution": "Rob Bogaerts for Anefo (CC0), via Wikimedia Commons",
+    "also_pictured": [],
+    "review_flags": []
+   }
+  },
+  {
+   "witness_key": "Abbey-Lincoln-Transcription-2020",
+   "name": "Abbey Lincoln",
+   "qid": "Q231071",
+   "qid_source": "doc_interviewees",
+   "description": "American singer (1930–2010)",
+   "born": "1930",
+   "died": "2010",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q231071",
+   "is_her_interviewer": false,
+   "spoke_themselves": true,
+   "relation": "knows of",
+   "relation_weight": 0.4,
+   "tier": "knew_of",
+   "direction": "na",
+   "contact_level": "unclear",
+   "basis": [
+    "reputation"
+   ],
+   "context": "",
+   "one_liner": "held her up as a rare exception",
+   "grounded": false,
+   "ungrounded_words": [
+    "exception"
+   ],
+   "summary": "Lincoln, dismissing the idea of a women's history in jazz, singled Liston out as the rare woman who comes to the music for the music.",
+   "stance": "positive",
+   "stance_strength": 2,
+   "notable": 2,
+   "caution": "The line is set inside a strongly anti-feminist passage ('Women don't have a history in jazz. That's just a lot of garbage the feminists have brought to us... They don't bring music. They bring babies.'). Shown alone it reads as a tribute; in context Liston is praised as the exception to a disparaging generalisation about women. A reader who finds the source could object; consider a note on context.",
+   "confidence": "high",
+   "notes": "No contact with Liston stated in this block, so 'knows of' despite the strong line. Lincoln also names Hazel Scott right after.",
+   "lead_quote": "It's a rare woman, like Melba Liston, who comes to the music for the music. Rare.",
+   "lead_block_id": 242103,
+   "lead_page": 64,
+   "lead_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Abbey-Lincoln-Transcription-2020#b64-4",
+   "second_quote": null,
+   "second_block_id": null,
+   "second_url": null,
+   "more_quotes": [],
+   "n_blocks": 1,
+   "block_ids": [
+    242103
+   ],
+   "doc": {
+    "doc_id": "Abbey-Lincoln-Transcription-2020",
+    "collection": "si",
+    "title": "Abbey Lincoln — Smithsonian Jazz Oral History",
+    "interviewee": "Abbey Lincoln",
+    "interviewer": null,
+    "year": 2020,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Abbey-Lincoln-Transcription-2020",
+    "source_url": "https://americanhistory.si.edu/sites/default/files/file-uploader/Abbey-Lincoln-Transcription-2020.pdf",
+    "collection_label": "Smithsonian Jazz Oral History Program"
+   },
+   "upstream": {
+    "relations": [
+     {
+      "relation": "knows of",
+      "direction": "na",
+      "evidence": "It's a rare woman, like Melba Liston, who comes to the music for the music.",
+      "said_by": "Abbey Lincoln"
+     }
+    ],
+    "relation_ok": true
+   },
+   "on_her_records": true,
+   "albums_with_her": 3,
+   "instruments_on_her_records": [
+    "Cast",
+    "vocals"
+   ],
+   "she_spoke_of_them": true,
+   "she_said": {
+    "relation": "collaborated with",
+    "basis": "her_statement",
+    "one_liner": "singer she still wrote for",
+    "summary": "Asked about Abbey Lincoln, Liston said she was fine and that she still wrote for her now and then.",
+    "her_quote": "Oh, she’s fine. I write for her now and then.",
+    "her_quote_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b26-3",
+    "notable": 2
+   },
+   "image": {
+    "source": "wikidata_p18",
+    "file": "File:Abbey Lincoln in 1966.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Abbey_Lincoln_in_1966.jpg",
+    "url_full": "https://commons.wikimedia.org/wiki/Special:FilePath/Abbey_Lincoln_in_1966.jpg",
+    "url_800": "https://commons.wikimedia.org/wiki/Special:FilePath/Abbey_Lincoln_in_1966.jpg?width=800",
+    "url_400": "https://commons.wikimedia.org/wiki/Special:FilePath/Abbey_Lincoln_in_1966.jpg?width=400",
+    "url_200": "https://commons.wikimedia.org/wiki/Special:FilePath/Abbey_Lincoln_in_1966.jpg?width=200",
+    "width": 2385,
+    "height": 3648,
+    "mime": "image/jpeg",
+    "hosted_on_commons": true,
+    "license": {
+     "short": "CC0",
+     "usage_terms": "Creative Commons Zero, Public Domain Dedication",
+     "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "public_domain": true,
+     "attribution_required": false,
+     "artist": "Jack de Nijs for Anefo / Anefo; Restoration by User:Adam Cuerden",
+     "credit": "Nationaal Archief",
+     "restrictions": null,
+     "date": "1966-07-13"
+    },
+    "attribution": "Jack de Nijs for Anefo / Anefo; Restoration by User:Adam Cuerden (CC0), via Wikimedia Commons",
+    "also_pictured": [],
+    "review_flags": []
+   }
+  },
+  {
+   "witness_key": "275782",
+   "name": "Al Grey",
+   "qid": "Q715687",
+   "qid_source": "doc_interviewees",
+   "description": "American jazz musician (1925–2000)",
+   "born": "1925",
+   "died": "2000",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q715687",
+   "is_her_interviewer": false,
+   "spoke_themselves": true,
+   "relation": "in music group with",
+   "relation_weight": 3.0,
+   "tier": "band",
+   "direction": "mutual",
+   "contact_level": "worked_together",
+   "basis": [
+    "direct_contact"
+   ],
+   "context": "Dizzy Gillespie big band, before Grey joined Count Basie",
+   "one_liner": "in dizzy gillespie's big band with her",
+   "grounded": true,
+   "ungrounded_words": [],
+   "summary": "Grey named Liston among the members of Dizzy Gillespie's 'tremendous' big band, all of whom he said went on to become stars.",
+   "stance": "positive",
+   "stance_strength": 1,
+   "notable": 1,
+   "caution": "Liston is one name in a roll-call; the praise is for the band collectively. The sentence continues 'and Billy Mitchell, who I brought into Count Basie's band' -- that clause is about Mitchell, so the quote must stop at 'Melba Liston' as given.",
+   "confidence": "high",
+   "notes": "Grey says 'we had such a tremendous band', placing himself in it with her. Nothing personal about Liston.",
+   "lead_quote": "But we had such a tremendous band that every one of those guys who came out of there are stars today, the ones that are left and all like that, and that was like Lee Morgan, Wynton Kelly, and Phil Woods and Melba Liston",
+   "lead_block_id": 184154,
+   "lead_page": 5,
+   "lead_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275782#b5-4",
+   "second_quote": null,
+   "second_block_id": null,
+   "second_url": null,
+   "more_quotes": [],
+   "n_blocks": 1,
+   "block_ids": [
+    184154
+   ],
+   "doc": {
+    "doc_id": "275782",
+    "collection": "hamilton",
+    "title": "Al Grey interviewed by Michael Woods, Scottsdale, Arizona, March 3, 1995",
+    "interviewee": "Al Grey",
+    "interviewer": null,
+    "year": 1995,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275782",
+    "source_url": "https://litsdigital.hamilton.edu/collections/object/al-grey-interviewed-michael-woods-scottsdale-arizona-march-3-1995",
+    "collection_label": "Hamilton College — Fillius Jazz Archive"
+   },
+   "upstream": {
+    "relations": [
+     {
+      "relation": "in music group with",
+      "direction": "mutual",
+      "evidence": "Dizzy was bringing his big band back down to small combinations... every one of those guys who came out of there are stars today... Melba Liston",
+      "said_by": "Al Grey"
+     }
+    ],
+    "relation_ok": true
+   },
+   "on_her_records": true,
+   "albums_with_her": 8,
+   "instruments_on_her_records": [
+    "baritone saxophone",
+    "trombone"
+   ],
+   "she_spoke_of_them": true,
+   "she_said": {
+    "relation": "played under",
+    "basis": "her_statement",
+    "one_liner": "had him on trombone in her group",
+    "summary": "Liston said Al Grey played trombone in her group Melba Liston and Company and had 'been everywhere I've been'.",
+    "her_quote": "Then I had trombone – Al Grey. He played trombone with me. He’d been everywhere I’ve been. He comes in there once in a while.",
+    "her_quote_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b20-7",
+    "notable": 2
+   },
+   "image": {
+    "source": "wikidata_p18",
+    "file": "File:Al Grey (Gottlieb).jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Al_Grey_(Gottlieb).jpg",
+    "url_full": "https://commons.wikimedia.org/wiki/Special:FilePath/Al_Grey_%28Gottlieb%29.jpg",
+    "url_800": "https://commons.wikimedia.org/wiki/Special:FilePath/Al_Grey_%28Gottlieb%29.jpg?width=800",
+    "url_400": "https://commons.wikimedia.org/wiki/Special:FilePath/Al_Grey_%28Gottlieb%29.jpg?width=400",
+    "url_200": "https://commons.wikimedia.org/wiki/Special:FilePath/Al_Grey_%28Gottlieb%29.jpg?width=200",
+    "width": 2898,
+    "height": 3700,
+    "mime": "image/jpeg",
+    "hosted_on_commons": true,
+    "license": {
+     "short": "Public domain",
+     "usage_terms": "Public domain",
+     "url": null,
+     "public_domain": true,
+     "attribution_required": false,
+     "artist": "William P. Gottlieb / Adam Cuerden",
+     "credit": "This image is available from the United States Library of Congress 's Music Division under the digital ID gottlieb.16221 . This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing .",
+     "restrictions": null,
+     "date": "1980s date QS:P,+1980-00-00T00:00:00Z/8"
+    },
+    "attribution": "William P. Gottlieb / Adam Cuerden (Public domain), via Wikimedia Commons",
+    "also_pictured": [],
+    "review_flags": []
+   }
+  },
+  {
+   "witness_key": "Gerald-Wilson_transcription",
+   "name": "Gerald Wilson",
+   "qid": "Q201500",
+   "qid_source": "doc_interviewees",
+   "description": "American trumpetist (1918–2014)",
+   "born": "1918",
+   "died": "2014",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q201500",
+   "is_her_interviewer": false,
+   "spoke_themselves": true,
+   "relation": "in music group with",
+   "relation_weight": 3.0,
+   "tier": "band",
+   "direction": "mutual",
+   "contact_level": "worked_together",
+   "basis": [
+    "direct_contact"
+   ],
+   "context": "Dizzy Gillespie big band, 1950 tour",
+   "one_liner": "in dizzy's 1950 big band with her",
+   "grounded": true,
+   "ungrounded_words": [],
+   "summary": "Wilson listed Liston in the trombone section of Gillespie's 1950 big band, in which he played trumpet and which he called 'frightening'.",
+   "stance": "positive",
+   "stance_strength": 1,
+   "notable": 1,
+   "caution": "Roll-call only; 'frightening' praise is for the band as a whole. The lead quote is a disfluent transcript line.",
+   "confidence": "high",
+   "notes": "In this excerpt Wilson says nothing about his own band with Liston or any closer relationship; only the Gillespie 1950 band is testified to.",
+   "lead_quote": "That was that and then they had Melba Liston, they had, um Matthew Gee, another trombone player.",
+   "lead_block_id": 273095,
+   "lead_page": 16,
+   "lead_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Gerald-Wilson_transcription#b16-4",
+   "second_quote": null,
+   "second_block_id": null,
+   "second_url": null,
+   "more_quotes": [],
+   "n_blocks": 1,
+   "block_ids": [
+    273095
+   ],
+   "doc": {
+    "doc_id": "Gerald-Wilson_transcription",
+    "collection": "si",
+    "title": "Gerald Wilson — Smithsonian Jazz Oral History",
+    "interviewee": "Gerald Wilson",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Gerald-Wilson_transcription",
+    "source_url": "https://amhistory.si.edu/jazz/Wilson-Gerald/Gerald-Wilson_transcription.pdf",
+    "collection_label": "Smithsonian Jazz Oral History Program"
+   },
+   "upstream": {
+    "relations": [
+     {
+      "relation": "in music group with",
+      "direction": "mutual",
+      "evidence": "And then they had Melba Liston, they had, um Matthew Gee, another trombone player. ... And myself, that was the trumpet section",
+      "said_by": "Gerald Wilson"
+     }
+    ],
+    "relation_ok": true
+   },
+   "on_her_records": false,
+   "albums_with_her": 0,
+   "instruments_on_her_records": [],
+   "she_spoke_of_them": true,
+   "she_said": {
+    "relation": "played under",
+    "basis": "her_statement",
+    "one_liner": "copyist and arranger in his band",
+    "summary": "Liston said Gerald Wilson 'stole me out of the band', that she worked for him for years as copyist and sometime arranger across Chicago and New York, that he featured her singing and playing and told audiences she wrote the arrangements, and that he gave the band's money to the men when they were stranded on the Billie Holiday tour.",
+    "her_quote": "So I guess he did. I worked with him. I was saying 5 or 6, but he said 8 years. That’s a long time. We worked everywhere. We worked Chicago, New York, and everything. I was the copyist and sometime I would do the arrangements.",
+    "her_quote_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b9-6",
+    "notable": 3
+   },
+   "image": {
+    "source": "wikidata_p18",
+    "file": "File:Gerald S. Wilson.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Gerald_S._Wilson.jpg",
+    "url_full": "https://commons.wikimedia.org/wiki/Special:FilePath/Gerald_S._Wilson.jpg",
+    "url_800": "https://commons.wikimedia.org/wiki/Special:FilePath/Gerald_S._Wilson.jpg?width=800",
+    "url_400": "https://commons.wikimedia.org/wiki/Special:FilePath/Gerald_S._Wilson.jpg?width=400",
+    "url_200": "https://commons.wikimedia.org/wiki/Special:FilePath/Gerald_S._Wilson.jpg?width=200",
+    "width": 450,
+    "height": 637,
+    "mime": "image/jpeg",
+    "hosted_on_commons": true,
+    "license": {
+     "short": "CC BY-SA 3.0",
+     "usage_terms": "Creative Commons Attribution-Share Alike 3.0",
+     "url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "public_domain": false,
+     "attribution_required": true,
+     "artist": "Brianmcmillen",
+     "credit": "Own work",
+     "restrictions": null,
+     "date": "2010-07-01 15:06:02"
+    },
+    "attribution": "Brianmcmillen (CC BY-SA 3.0), via Wikimedia Commons",
+    "also_pictured": [],
+    "review_flags": []
+   }
+  },
+  {
+   "witness_key": "61529",
+   "name": "Maxine Sullivan",
+   "qid": "Q281341",
+   "qid_source": "doc_interviewees",
+   "description": "American blues and jazz singer (1911-1987)",
+   "born": "1911",
+   "died": "1987",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q281341",
+   "is_her_interviewer": false,
+   "spoke_themselves": true,
+   "relation": "played with",
+   "relation_weight": 2.5,
+   "tier": "band",
+   "direction": "mutual",
+   "contact_level": "worked_together",
+   "basis": [
+    "direct_contact"
+   ],
+   "context": "'Salute to Women in Jazz' concert, Symphony Space, June",
+   "one_liner": "shared a concert at symphony space with her",
+   "grounded": true,
+   "ungrounded_words": [],
+   "summary": "Asked by a guest whether she remembered Liston, Sullivan said Liston had taken part in the 'Salute to Women in Jazz' concert they did at Symphony Space.",
+   "stance": "neutral",
+   "stance_strength": 0,
+   "notable": 1,
+   "caution": "Sullivan's own line ('She did the \"Salute to Women in Jazz\" at the concert we did in June down at the Symphony Space.') sits in the turn after the block, not in the block text, so it cannot be used as lead_quote under the substring rule; the block itself is a question by Mr. Campbell (a guest) carrying the transcriber's '(phonetic spelling)'. 'Living in Jamaica' is Mr. Hughes's remark and the Ernie Wilkins/Carnegie Hall sighting is Mr. Campbell's -- neither is Sullivan's. 'Played with' is inferred from 'the concert we did'; it may have been a shared bill rather than playing together.",
+   "confidence": "low",
+   "notes": "If a human wants a quote, the context turn above is Sullivan's only remark about her.",
+   "lead_quote": null,
+   "lead_block_id": null,
+   "lead_page": null,
+   "lead_url": null,
+   "second_quote": null,
+   "second_block_id": null,
+   "second_url": null,
+   "more_quotes": [
+    {
+     "block_id": 419819,
+     "quote": "Now, do you remember Melba Liston (phonetic spelling) the trombone player?",
+     "notable": 1,
+     "summary": "Asked whether they remembered Liston, Hughes said she was back on the scene and living in Jamaica, Sullivan said Liston had done the 'Salute to Women in Jazz' concert with them at Symphony Space, and Campbell recalled seeing her play with Ernie Wilkins's big band at Carnegie Hall.",
+     "kind": "mention",
+     "page": 422,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=61529#b422-4"
+    }
+   ],
+   "n_blocks": 1,
+   "block_ids": [
+    419819
+   ],
+   "doc": {
+    "doc_id": "61529",
+    "collection": "rutgers",
+    "title": "61529_Maxine Sullivan oral history interview",
+    "interviewee": "Maxine Sullivan",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=61529",
+    "source_url": "https://rucore.libraries.rutgers.edu/rutgers-lib/61529/",
+    "collection_label": "Rutgers — Institute of Jazz Studies"
+   },
+   "upstream": {
+    "relations": [
+     {
+      "relation": "knows of",
+      "direction": "na",
+      "evidence": "[INTERVIEWER] Now, do you remember Melba Liston (phonetic spelling) the trombone player?",
+      "said_by": "Maxine Sullivan"
+     }
+    ],
+    "relation_ok": false
+   },
+   "on_her_records": false,
+   "albums_with_her": 0,
+   "instruments_on_her_records": [],
+   "she_spoke_of_them": false,
+   "she_said": null,
+   "image": {
+    "source": "wikidata_p18",
+    "file": "File:Maxine Sullivan Village vanguard ca. 19478.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Maxine_Sullivan_Village_vanguard_ca._19478.jpg",
+    "url_full": "https://commons.wikimedia.org/wiki/Special:FilePath/Maxine_Sullivan_Village_vanguard_ca._19478.jpg",
+    "url_800": "https://commons.wikimedia.org/wiki/Special:FilePath/Maxine_Sullivan_Village_vanguard_ca._19478.jpg?width=800",
+    "url_400": "https://commons.wikimedia.org/wiki/Special:FilePath/Maxine_Sullivan_Village_vanguard_ca._19478.jpg?width=400",
+    "url_200": "https://commons.wikimedia.org/wiki/Special:FilePath/Maxine_Sullivan_Village_vanguard_ca._19478.jpg?width=200",
+    "width": 4924,
+    "height": 5147,
+    "mime": "image/jpeg",
+    "hosted_on_commons": true,
+    "license": {
+     "short": "Public domain",
+     "usage_terms": "Public domain",
+     "url": null,
+     "public_domain": true,
+     "attribution_required": false,
+     "artist": "William P. Gottlieb",
+     "credit": "This image is available from the United States Library of Congress 's Music Division under the digital ID gottlieb.08261 . This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing .",
+     "restrictions": "personality",
+     "date": "1947-03"
+    },
+    "attribution": "William P. Gottlieb (Public domain), via Wikimedia Commons",
+    "also_pictured": [],
+    "review_flags": [
+     "has_restrictions"
+    ]
+   }
+  },
+  {
+   "witness_key": "Toshiko_Akiyoshi_Transcript",
+   "name": "Toshiko Akiyoshi",
+   "qid": "Q437117",
+   "qid_source": "doc_interviewees",
+   "description": "Japanese American jazz pianist, composer, arranger, band master",
+   "born": "1929",
+   "died": null,
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q437117",
+   "is_her_interviewer": false,
+   "spoke_themselves": true,
+   "relation": "played with",
+   "relation_weight": 2.5,
+   "tier": "band",
+   "direction": "mutual",
+   "contact_level": "same_scene",
+   "basis": [
+    "saw_live",
+    "direct_contact"
+   ],
+   "context": "sitting in with Dizzy Gillespie's big band, Boston (her Berklee years)",
+   "one_liner": "sat in with dizzy's band including her",
+   "grounded": false,
+   "ungrounded_words": [
+    "dizzy"
+   ],
+   "summary": "Akiyoshi recalled that Liston was playing trombone in Gillespie's big band on the occasion she sat in with it in Boston, the night she was hailed as 'Bud Powell' and resolved to find her own voice.",
+   "stance": "neutral",
+   "stance_strength": 0,
+   "notable": 1,
+   "caution": "Akiyoshi says nothing about Liston herself; she is named only as part of the band's personnel. 'Played with' is inferred from Akiyoshi sitting in with that band -- she does not state any contact with Liston.",
+   "confidence": "medium",
+   "notes": "Name order fixed from archive's 'Akiyoshi Toshiko'. A conservative reading would be 'knows of' (upstream's answer).",
+   "lead_quote": "Diz had a big band in those days, and Phil Woods was, I think, lead alto, and uh, Melba Liston was playing trombone.",
+   "lead_block_id": 319297,
+   "lead_page": 44,
+   "lead_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Toshiko_Akiyoshi_Transcript#b44-5",
+   "second_quote": null,
+   "second_block_id": null,
+   "second_url": null,
+   "more_quotes": [],
+   "n_blocks": 1,
+   "block_ids": [
+    319297
+   ],
+   "doc": {
+    "doc_id": "Toshiko_Akiyoshi_Transcript",
+    "collection": "si",
+    "title": "Akiyoshi Toshiko — Smithsonian Jazz Oral History",
+    "interviewee": "Akiyoshi Toshiko",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Toshiko_Akiyoshi_Transcript",
+    "source_url": "https://amhistory.si.edu/jazz/Akiyoshi-Toshiko/Toshiko_Akiyoshi_Transcript.pdf",
+    "collection_label": "Smithsonian Jazz Oral History Program"
+   },
+   "upstream": {
+    "relations": [
+     {
+      "relation": "knows of",
+      "direction": "na",
+      "evidence": "Diz had a big band in those days, and Phil Woods was, I think, lead alto, and uh, Melba Liston was playing trombone. Anyway, uh, I was sitting in, playing, and I heard, “Powell! Powell!”",
+      "said_by": "Akiyoshi Toshiko"
+     }
+    ],
+    "relation_ok": false
+   },
+   "on_her_records": true,
+   "albums_with_her": 1,
+   "instruments_on_her_records": [
+    "piano"
+   ],
+   "she_spoke_of_them": false,
+   "she_said": null,
+   "image": {
+    "source": "wikidata_p18",
+    "file": "File:Toshiko Akiyoshi 1978(by Brian McMillen).jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Toshiko_Akiyoshi_1978(by_Brian_McMillen).jpg",
+    "url_full": "https://commons.wikimedia.org/wiki/Special:FilePath/Toshiko_Akiyoshi_1978%28by_Brian_McMillen%29.jpg",
+    "url_800": "https://commons.wikimedia.org/wiki/Special:FilePath/Toshiko_Akiyoshi_1978%28by_Brian_McMillen%29.jpg?width=800",
+    "url_400": "https://commons.wikimedia.org/wiki/Special:FilePath/Toshiko_Akiyoshi_1978%28by_Brian_McMillen%29.jpg?width=400",
+    "url_200": "https://commons.wikimedia.org/wiki/Special:FilePath/Toshiko_Akiyoshi_1978%28by_Brian_McMillen%29.jpg?width=200",
+    "width": 682,
+    "height": 495,
+    "mime": "image/jpeg",
+    "hosted_on_commons": true,
+    "license": {
+     "short": "CC0",
+     "usage_terms": "Creative Commons Zero, Public Domain Dedication",
+     "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "public_domain": true,
+     "attribution_required": false,
+     "artist": "McOleo",
+     "credit": "Own work Toshiko Akiyoshi.jpg",
+     "restrictions": null,
+     "date": null
+    },
+    "attribution": "McOleo (CC0), via Wikimedia Commons",
+    "also_pictured": [],
+    "review_flags": []
+   }
+  },
+  {
+   "witness_key": "275883",
+   "name": "Joe Williams",
+   "qid": "Q1691660",
+   "qid_source": "exact unique label match in wd_people",
+   "description": "American jazz singer (1918–1999)",
+   "born": "1918",
+   "died": "1999",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q1691660",
+   "is_her_interviewer": false,
+   "spoke_themselves": true,
+   "relation": "acquaintance of",
+   "relation_weight": 1.2,
+   "tier": "social",
+   "direction": "mutual",
+   "contact_level": "met_briefly",
+   "basis": [
+    "direct_contact"
+   ],
+   "context": "on the road after Williams joined the Count Basie band; St. Louis, rooming with Snooky Young",
+   "one_liner": "shared a bathroom with her in st. louis",
+   "grounded": true,
+   "ungrounded_words": [],
+   "summary": "Williams recalled that when he roomed with Snooky Young in St. Louis after joining Basie, they shared a bathroom with Liston, who had the adjoining room.",
+   "stance": "neutral",
+   "stance_strength": 0,
+   "notable": 1,
+   "caution": "SPEAKER IS NOT THE INTERVIEWEE: this is the Clark Terry interview, but the only Liston testimony is from singer Joe Williams, who was co-interviewing Terry and told his own memory. Clark Terry says nothing about her. speaker_qid left null (none in input) -- a human should add Joe Williams's QID if this row is kept, or drop the row. Williams does not say Liston was in the Basie band; she may simply have had the adjoining room. The chronology (Williams joining Basie vs. Liston's whereabouts) is unverified.",
+   "confidence": "medium",
+   "notes": "Chose to name the actual speaker (spec: speaker_name = who is actually talking about her). If the page must key rows to the archive interviewee, the alternative is speaker_name 'Clark Terry', spoke_themselves false, relation none, notable 0. Upstream attributed the relation to Clark Terry, which is wrong.",
+   "lead_quote": "Snooky and I were roommates and we shared a bathroom with Melba Liston, who had the next, she had like the adjoining door and the bathroom on her side and on our side.",
+   "lead_block_id": 231704,
+   "lead_page": 12,
+   "lead_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275883#b12-7",
+   "second_quote": null,
+   "second_block_id": null,
+   "second_url": null,
+   "more_quotes": [],
+   "n_blocks": 1,
+   "block_ids": [
+    231704
+   ],
+   "doc": {
+    "doc_id": "275883",
+    "collection": "hamilton",
+    "title": "Clark Terry interviewed by Joe Williams and Michael Woods, Clinton, New York, May 19, 1995",
+    "interviewee": "Clark Terry",
+    "interviewer": null,
+    "year": 1995,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275883",
+    "source_url": "https://litsdigital.hamilton.edu/collections/object/clark-terry-interviewed-joe-williams-and-michael-woods-clinton-new-york-may-19",
+    "collection_label": "Hamilton College — Fillius Jazz Archive"
+   },
+   "upstream": {
+    "relations": [
+     {
+      "relation": "acquaintance of",
+      "direction": "na",
+      "evidence": "Snooky and I were roommates and we shared a bathroom with Melba Liston",
+      "said_by": "Clark Terry"
+     }
+    ],
+    "relation_ok": false
+   },
+   "on_her_records": false,
+   "albums_with_her": 0,
+   "instruments_on_her_records": [],
+   "she_spoke_of_them": false,
+   "she_said": null,
+   "image": {
+    "source": "wikidata_p18",
+    "file": "File:Joe Williams.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Joe_Williams.jpg",
+    "url_full": "https://commons.wikimedia.org/wiki/Special:FilePath/Joe_Williams.jpg",
+    "url_800": "https://commons.wikimedia.org/wiki/Special:FilePath/Joe_Williams.jpg?width=800",
+    "url_400": "https://commons.wikimedia.org/wiki/Special:FilePath/Joe_Williams.jpg?width=400",
+    "url_200": "https://commons.wikimedia.org/wiki/Special:FilePath/Joe_Williams.jpg?width=200",
+    "width": 1000,
+    "height": 1000,
+    "mime": "image/jpeg",
+    "hosted_on_commons": true,
+    "license": {
+     "short": "CC BY-SA 2.0",
+     "usage_terms": "Creative Commons Attribution-Share Alike 2.0",
+     "url": "https://creativecommons.org/licenses/by-sa/2.0",
+     "public_domain": false,
+     "attribution_required": true,
+     "artist": "Richard Newhouse Marina, USA",
+     "credit": "Joe Williams",
+     "restrictions": null,
+     "date": "2010-09"
+    },
+    "attribution": "Richard Newhouse Marina, USA (CC BY-SA 2.0), via Wikimedia Commons",
+    "also_pictured": [],
+    "review_flags": []
+   }
+  },
+  {
+   "witness_key": "67247",
+   "name": "J. C. Higginbotham",
+   "qid": "Q601523",
+   "qid_source": "doc_interviewees",
+   "description": "Jazz trombonist (1906-1973)",
+   "born": "1906",
+   "died": "1973",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q601523",
+   "is_her_interviewer": false,
+   "spoke_themselves": true,
+   "relation": "has met",
+   "relation_weight": 1.0,
+   "tier": "social",
+   "direction": "mutual",
+   "contact_level": "met_briefly",
+   "basis": [
+    "direct_contact",
+    "saw_live"
+   ],
+   "context": "a Sunday afternoon session (place garbled; interviewer suggests Esplanade Gardens)",
+   "one_liner": "praised her trombone playing",
+   "grounded": true,
+   "ungrounded_words": [],
+   "summary": "Shown a photograph of himself with Liston, Higginbotham said she could really play trombone and recalled her grabbing him at a Sunday afternoon session.",
+   "stance": "positive",
+   "stance_strength": 2,
+   "notable": 1,
+   "caution": "The interviewer calls her 'Melvin Liston' -- almost certainly a mistranscription of Melba (Higginbotham answers 'She can play, too'). '(That boy)' is an uncertain transcription and reads oddly about a woman; display with care or not at all. The text is fragmentary. His cleaner line 'Oh, yeah. She can play, too, boy.' is in a context turn, not a block, so it is not quotable here.",
+   "confidence": "low",
+   "notes": "The photograph of the two together is the interviewer's statement. 'She grabbed me Sunday afternoon' suggests she pulled him into a session; meaning not certain.",
+   "lead_quote": "(That boy) can play some trombone!",
+   "lead_block_id": 458536,
+   "lead_page": null,
+   "lead_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=67247#b221-5",
+   "second_quote": null,
+   "second_block_id": null,
+   "second_url": null,
+   "more_quotes": [
+    {
+     "block_id": 458533,
+     "quote": "I see you have a picture there with Melvin Liston.",
+     "notable": 1,
+     "summary": "Shown a photograph of himself with 'Melvin Liston', Higginbotham said 'She can play, too, boy' and that she could 'play some trombone', recalling that she grabbed him at a Sunday afternoon session.",
+     "kind": "mention",
+     "page": 221,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=67247#b221-2"
+    }
+   ],
+   "n_blocks": 2,
+   "block_ids": [
+    458533,
+    458536
+   ],
+   "doc": {
+    "doc_id": "67247",
+    "collection": "rutgers",
+    "title": "67247_J.C. Higginbotham oral history interview",
+    "interviewee": "J. C. Higginbotham",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=67247",
+    "source_url": null,
+    "collection_label": null
+   },
+   "upstream": {
+    "relations": [],
+    "relation_ok": null
+   },
+   "on_her_records": false,
+   "albums_with_her": 0,
+   "instruments_on_her_records": [],
+   "she_spoke_of_them": false,
+   "she_said": null,
+   "image": {
+    "source": "wikidata_p18",
+    "file": "File:Jay Higginbotham, between 1938 and 1948 (William P. Gottlieb 12481).jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Jay_Higginbotham,_between_1938_and_1948_(William_P._Gottlieb_12481).jpg",
+    "url_full": "https://commons.wikimedia.org/wiki/Special:FilePath/Jay_Higginbotham%2C_between_1938_and_1948_%28William_P._Gottlieb_12481%29.jpg",
+    "url_800": "https://commons.wikimedia.org/wiki/Special:FilePath/Jay_Higginbotham%2C_between_1938_and_1948_%28William_P._Gottlieb_12481%29.jpg?width=800",
+    "url_400": "https://commons.wikimedia.org/wiki/Special:FilePath/Jay_Higginbotham%2C_between_1938_and_1948_%28William_P._Gottlieb_12481%29.jpg?width=400",
+    "url_200": "https://commons.wikimedia.org/wiki/Special:FilePath/Jay_Higginbotham%2C_between_1938_and_1948_%28William_P._Gottlieb_12481%29.jpg?width=200",
+    "width": 1024,
+    "height": 1327,
+    "mime": "image/jpeg",
+    "hosted_on_commons": true,
+    "license": {
+     "short": "Public domain",
+     "usage_terms": "Public domain",
+     "url": null,
+     "public_domain": true,
+     "attribution_required": false,
+     "artist": "William P. Gottlieb",
+     "credit": "http://lcweb2.loc.gov/diglib/ihas/loc.natlib.gottlieb.12481/enlarge.html?page=1&section=ver01&size=1024&from=",
+     "restrictions": null,
+     "date": null
+    },
+    "attribution": "William P. Gottlieb (Public domain), via Wikimedia Commons",
+    "also_pictured": [],
+    "review_flags": []
+   }
+  },
+  {
+   "witness_key": "Jones_Quincy_Transcript",
+   "name": "Quincy Jones",
+   "qid": "Q193645",
+   "qid_source": "doc_interviewees",
+   "description": "American record producer and composer (1933–2024)",
+   "born": "1933",
+   "died": "2024",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q193645",
+   "is_her_interviewer": false,
+   "spoke_themselves": false,
+   "relation": "knows of",
+   "relation_weight": 0.4,
+   "tier": "knew_of",
+   "direction": "na",
+   "contact_level": "unclear",
+   "basis": [
+    "none_evident"
+   ],
+   "context": "Quincy Jones band (per the interviewer)",
+   "one_liner": "",
+   "grounded": true,
+   "ungrounded_words": [],
+   "summary": "When interviewer David Baker praised him for featuring Patti Bown and Liston in his band, Jones answered generally that he never thought twice about hiring women ('Can she play? That's all I care.') and agreed that she had arranged 'Reverie'.",
+   "stance": "neutral",
+   "stance_strength": 0,
+   "notable": 1,
+   "caution": "Every specific statement about Liston (in his band, writing 'Reverie', inspiring Ellen Seeling and Diva) is the interviewer's; Jones's replies ('The women.', 'Can she play? That's all I care.', 'Yeah. That's by Debussy, right?') are generic or assent and sit in context turns, not in any block text. Do not present the legacy claims as Jones's testimony.",
+   "confidence": "medium",
+   "notes": "spoke_themselves false because he says nothing specific to her; he does implicitly accept that she was in his band. 'Knows of' is the minimum; outside knowledge would say far more, but the testimony does not. A human may want to look for other Quincy Jones interviews where he speaks of her directly.",
+   "lead_quote": null,
+   "lead_block_id": null,
+   "lead_page": null,
+   "lead_url": null,
+   "second_quote": null,
+   "second_block_id": null,
+   "second_url": null,
+   "more_quotes": [],
+   "n_blocks": 2,
+   "block_ids": [
+    289013,
+    289017
+   ],
+   "doc": {
+    "doc_id": "Jones_Quincy_Transcript",
+    "collection": "si",
+    "title": "Quincy Jones — Smithsonian Jazz Oral History",
+    "interviewee": "Quincy Jones",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Jones_Quincy_Transcript",
+    "source_url": null,
+    "collection_label": null
+   },
+   "upstream": {
+    "relations": [],
+    "relation_ok": null
+   },
+   "on_her_records": true,
+   "albums_with_her": 11,
+   "instruments_on_her_records": [
+    "10",
+    "2",
+    "4",
+    "6",
+    "7",
+    "9"
+   ],
+   "she_spoke_of_them": true,
+   "she_said": {
+    "relation": "collaborated with",
+    "basis": "her_statement",
+    "one_liner": "conducted her arrangements when she was ill",
+    "summary": "Liston said that when she was sick on the day of the Gloria Lynne session she called Quincy Jones, who conducted for her, though almost all the arrangements were hers.",
+    "her_quote": "Yeah, and I was sick, and the day of the recording date, I was out of it, so I called Quincy",
+    "her_quote_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b53-4",
+    "notable": 3
+   },
+   "image": {
+    "source": "wikidata_p18",
+    "file": "File:Quincy Jones May 2014.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Quincy_Jones_May_2014.jpg",
+    "url_full": "https://commons.wikimedia.org/wiki/Special:FilePath/Quincy_Jones_May_2014.jpg",
+    "url_800": "https://commons.wikimedia.org/wiki/Special:FilePath/Quincy_Jones_May_2014.jpg?width=800",
+    "url_400": "https://commons.wikimedia.org/wiki/Special:FilePath/Quincy_Jones_May_2014.jpg?width=400",
+    "url_200": "https://commons.wikimedia.org/wiki/Special:FilePath/Quincy_Jones_May_2014.jpg?width=200",
+    "width": 1846,
+    "height": 2598,
+    "mime": "image/jpeg",
+    "hosted_on_commons": true,
+    "license": {
+     "short": "CC BY 2.0",
+     "usage_terms": "Creative Commons Attribution 2.0",
+     "url": "https://creativecommons.org/licenses/by/2.0",
+     "public_domain": false,
+     "attribution_required": true,
+     "artist": "Canadian Film Centre",
+     "credit": "https://www.flickr.com/photos/cfccreates/14167860592/",
+     "restrictions": null,
+     "date": "2014-05-10 20:00:46"
+    },
+    "attribution": "Canadian Film Centre (CC BY 2.0), via Wikimedia Commons",
+    "also_pictured": [],
+    "review_flags": []
+   }
+  },
+  {
+   "witness_key": "Freeman_Von_Transcript",
+   "name": "Von Freeman",
+   "qid": "Q739948",
+   "qid_source": "doc_interviewees",
+   "description": "American jazz saxophonist (1923–2012)",
+   "born": "1923",
+   "died": "2012",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q739948",
+   "is_her_interviewer": false,
+   "spoke_themselves": true,
+   "relation": "knows of",
+   "relation_weight": 0.4,
+   "tier": "knew_of",
+   "direction": "na",
+   "contact_level": "unclear",
+   "basis": [
+    "reputation"
+   ],
+   "context": "",
+   "one_liner": "cited her among jazz's early women players",
+   "grounded": true,
+   "ungrounded_words": [],
+   "summary": "Freeman cited Liston on trombone as one of the few early women in jazz, who he said had to be 'great, great, great, great' before men would accept them.",
+   "stance": "positive",
+   "stance_strength": 1,
+   "notable": 1,
+   "caution": "Freeman says only 'Melba'; the surname '[Liston]' is a Smithsonian editorial bracket (identification is very likely). The second quote is about women generally, not Liston specifically. Block 271162 is the interviewer's question.",
+   "confidence": "medium",
+   "notes": "Context before 271162 has 'She used to come down to the Trocadero, where I was' -- the referent is not shown and is probably another woman (trumpeter talk), so not used.",
+   "lead_quote": "And then Melba [Liston] plays the trombone.",
+   "lead_block_id": 271151,
+   "lead_page": 31,
+   "lead_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Freeman_Von_Transcript#b31-8",
+   "second_quote": "So it’s always been some ladies in there, but they had to just be great, great, great, great, before the guys would accept them.",
+   "second_block_id": 271151,
+   "second_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Freeman_Von_Transcript#b31-8",
+   "more_quotes": [],
+   "n_blocks": 2,
+   "block_ids": [
+    271151,
+    271162
+   ],
+   "doc": {
+    "doc_id": "Freeman_Von_Transcript",
+    "collection": "si",
+    "title": "Von Freeman — Smithsonian Jazz Oral History",
+    "interviewee": "Von Freeman",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Freeman_Von_Transcript",
+    "source_url": null,
+    "collection_label": null
+   },
+   "upstream": {
+    "relations": [],
+    "relation_ok": null
+   },
+   "on_her_records": false,
+   "albums_with_her": 0,
+   "instruments_on_her_records": [],
+   "she_spoke_of_them": false,
+   "she_said": null,
+   "image": {
+    "source": "wikidata_p18",
+    "file": "File:Von Freeman (1923-2012).jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Von_Freeman_(1923-2012).jpg",
+    "url_full": "https://commons.wikimedia.org/wiki/Special:FilePath/Von_Freeman_%281923-2012%29.jpg",
+    "url_800": "https://commons.wikimedia.org/wiki/Special:FilePath/Von_Freeman_%281923-2012%29.jpg?width=800",
+    "url_400": "https://commons.wikimedia.org/wiki/Special:FilePath/Von_Freeman_%281923-2012%29.jpg?width=400",
+    "url_200": "https://commons.wikimedia.org/wiki/Special:FilePath/Von_Freeman_%281923-2012%29.jpg?width=200",
+    "width": 227,
+    "height": 293,
+    "mime": "image/jpeg",
+    "hosted_on_commons": true,
+    "license": {
+     "short": "CC BY-SA 4.0",
+     "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+     "url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "public_domain": false,
+     "attribution_required": true,
+     "artist": "Jazzfann at English Wikipedia",
+     "credit": "Own work ( Original text: self-made ) – cropped from Von Freeman & Catherine Whitney.jpg",
+     "restrictions": null,
+     "date": "2025"
+    },
+    "attribution": "Jazzfann at English Wikipedia (CC BY-SA 4.0), via Wikimedia Commons",
+    "also_pictured": [],
+    "review_flags": []
+   }
+  },
+  {
+   "witness_key": "275859",
+   "name": "Vi Redd",
+   "qid": "Q513985",
+   "qid_source": "doc_interviewees",
+   "description": "American jazz altosaxophonist, singer and educator (1928–2022)",
+   "born": "1928",
+   "died": "2022",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q513985",
+   "is_her_interviewer": false,
+   "spoke_themselves": true,
+   "relation": "knows of",
+   "relation_weight": 0.4,
+   "tier": "knew_of",
+   "direction": "na",
+   "contact_level": "same_scene",
+   "basis": [
+    "shared_associates"
+   ],
+   "context": "pupils of Alma Hightower (Redd's aunt), Los Angeles",
+   "one_liner": "named her among aunt alma's pupils",
+   "grounded": false,
+   "ungrounded_words": [
+    "pupils"
+   ],
+   "summary": "Redd listed Liston, alongside Dexter Gordon, among the pupils of her aunt Alma Hightower.",
+   "stance": "neutral",
+   "stance_strength": 0,
+   "notable": 1,
+   "caution": "Pronoun trap: the praise later in the same block ('the greatest teacher in the world', 'a phenomenal woman') is about Alma Hightower, not Liston -- do not extend the quote.",
+   "confidence": "high",
+   "notes": "No personal contact with Liston stated, though both were Hightower pupils.",
+   "lead_quote": "Melba — Melba Liston, Dexter Gordon took lessons from Aunt Alma.",
+   "lead_block_id": 218220,
+   "lead_page": 3,
+   "lead_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275859#b3-8",
+   "second_quote": null,
+   "second_block_id": null,
+   "second_url": null,
+   "more_quotes": [],
+   "n_blocks": 1,
+   "block_ids": [
+    218220
+   ],
+   "doc": {
+    "doc_id": "275859",
+    "collection": "hamilton",
+    "title": "Vi Redd interviewed by Monk Rowe, Los Angeles, California, February 13, 1999",
+    "interviewee": "Vi Redd",
+    "interviewer": null,
+    "year": 1999,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275859",
+    "source_url": "https://litsdigital.hamilton.edu/collections/object/vi-redd-interviewed-monk-rowe-los-angeles-california-february-13-1999",
+    "collection_label": "Hamilton College — Fillius Jazz Archive"
+   },
+   "upstream": {
+    "relations": [
+     {
+      "relation": "knows of",
+      "direction": "na",
+      "evidence": "Right, right. Melba — Melba Liston, Dexter Gordon took lessons from Aunt Alma.",
+      "said_by": "Vi Redd"
+     }
+    ],
+    "relation_ok": true
+   },
+   "on_her_records": false,
+   "albums_with_her": 0,
+   "instruments_on_her_records": [],
+   "she_spoke_of_them": true,
+   "she_said": {
+    "relation": "in music group with",
+    "basis": "her_statement",
+    "one_liner": "was close with her in the melodic dots",
+    "summary": "Asked about the girls in Miss Hightower's band besides Minnie and Vi Redd, Liston added Alice Young and said the three of them were close and the only girls in the group.",
+    "her_quote": "Those three, we were close. I don’t think no other girls were in there at the time.",
+    "her_quote_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b5-17",
+    "notable": 2
+   },
+   "image": {
+    "source": "wikidata_p18",
+    "file": "File:Vi-Redd-rochester-ny-june-1977.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Vi-Redd-rochester-ny-june-1977.jpg",
+    "url_full": "https://commons.wikimedia.org/wiki/Special:FilePath/Vi-Redd-rochester-ny-june-1977.jpg",
+    "url_800": "https://commons.wikimedia.org/wiki/Special:FilePath/Vi-Redd-rochester-ny-june-1977.jpg?width=800",
+    "url_400": "https://commons.wikimedia.org/wiki/Special:FilePath/Vi-Redd-rochester-ny-june-1977.jpg?width=400",
+    "url_200": "https://commons.wikimedia.org/wiki/Special:FilePath/Vi-Redd-rochester-ny-june-1977.jpg?width=200",
+    "width": 513,
+    "height": 770,
+    "mime": "image/jpeg",
+    "hosted_on_commons": true,
+    "license": {
+     "short": "CC BY-SA 2.0",
+     "usage_terms": "Creative Commons Attribution-Share Alike 2.0",
+     "url": "https://creativecommons.org/licenses/by-sa/2.0",
+     "public_domain": false,
+     "attribution_required": true,
+     "artist": "Tom Marcello",
+     "credit": "https://www.flickr.com/photos/tommarcello/416142549/",
+     "restrictions": null,
+     "date": "2007-03-09 23:53:16"
+    },
+    "attribution": "Tom Marcello (CC BY-SA 2.0), via Wikimedia Commons",
+    "also_pictured": [],
+    "review_flags": []
+   }
+  },
+  {
+   "witness_key": "67256",
+   "name": "Paul L. Howard",
+   "qid": null,
+   "qid_source": null,
+   "description": null,
+   "born": null,
+   "died": null,
+   "network_url": null,
+   "is_her_interviewer": false,
+   "spoke_themselves": false,
+   "relation": "knows of",
+   "relation_weight": 0.4,
+   "tier": "knew_of",
+   "direction": "na",
+   "contact_level": "unclear",
+   "basis": [
+    "shared_associates"
+   ],
+   "context": "pupils of Alma Hightower, Los Angeles",
+   "one_liner": "",
+   "grounded": true,
+   "ungrounded_words": [],
+   "summary": "Prompted by Buddy Collette about Alma Hightower's pupils, Howard echoed Liston's name and assented that he remembered her, adding nothing of his own.",
+   "stance": "neutral",
+   "stance_strength": 0,
+   "notable": 0,
+   "caution": "Archive metadata names the interviewee as Patricia Willard (an interviewer); the interviewee is Paul L. Howard. All substantive mentions are Collette's or Willard's questions; Howard only says 'Oh, Melba Liston?' and 'Yeah.'",
+   "confidence": "high",
+   "notes": "Not really a witness.",
+   "lead_quote": null,
+   "lead_block_id": null,
+   "lead_page": null,
+   "lead_url": null,
+   "second_quote": null,
+   "second_block_id": null,
+   "second_url": null,
+   "more_quotes": [],
+   "n_blocks": 4,
+   "block_ids": [
+    467911,
+    467912,
+    467923,
+    470105
+   ],
+   "doc": {
+    "doc_id": "67256",
+    "collection": "rutgers",
+    "title": "67256_Paul L. Howard oral history interview",
+    "interviewee": "Patricia Willard",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=67256",
+    "source_url": "https://rucore.libraries.rutgers.edu/rutgers-lib/67256/",
+    "collection_label": "Rutgers — Institute of Jazz Studies"
+   },
+   "upstream": {
+    "relations": [
+     {
+      "relation": "knows of",
+      "direction": "na",
+      "evidence": "[INTERVIEWER] But you remember Melba Liston and Redd and that gang. [INTERVIEWEE] Yeah.",
+      "said_by": "Paul L. Howard"
+     }
+    ],
+    "relation_ok": true
+   },
+   "on_her_records": false,
+   "albums_with_her": 0,
+   "instruments_on_her_records": [],
+   "she_spoke_of_them": false,
+   "she_said": null,
+   "image": null
+  },
+  {
+   "witness_key": "67426",
+   "name": "Hayes Pillars",
+   "qid": "Q15485294",
+   "qid_source": "doc_interviewees",
+   "description": "American musician",
+   "born": "1906",
+   "died": "1992",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q15485294",
+   "is_her_interviewer": false,
+   "spoke_themselves": true,
+   "relation": "knows of",
+   "relation_weight": 0.4,
+   "tier": "knew_of",
+   "direction": "na",
+   "contact_level": "same_scene",
+   "basis": [
+    "saw_live"
+   ],
+   "context": "Billy Eckstine band (with Art Blakey, Benny Green) playing a venue Pillars was involved with",
+   "one_liner": "heard her play trombone in eckstine's band",
+   "grounded": true,
+   "ungrounded_words": [],
+   "summary": "Prompted by a relative about 'the girl playing trombone' who came in with the Eckstine band, Pillars said she played nice trombone before moving on to the band itself.",
+   "stance": "positive",
+   "stance_strength": 1,
+   "notable": 0,
+   "caution": "Neither speaker names her: the identification is the Rutgers editor's bracket '[Melba Liston]-ed'. 'Came in here with Redd Foxx' in the prompt is odd (Redd Foxx was a comedian) and may be garbled. Pillars's only words about her ('She played trombone, nice trombone.') are in a context turn, not a block, so there is no quotable line.",
+   "confidence": "low",
+   "notes": "Questioner is C. Pillars, a family member. That Liston was in the Eckstine band is plausible but rests on the editorial identification.",
+   "lead_quote": null,
+   "lead_block_id": null,
+   "lead_page": null,
+   "lead_url": null,
+   "second_quote": null,
+   "second_block_id": null,
+   "second_url": null,
+   "more_quotes": [
+    {
+     "block_id": 483122,
+     "quote": "And the girl playing trombone, too, that came in here, that came in here with Redd Foxx?",
+     "notable": 1,
+     "summary": "Prompted about 'the girl playing trombone' who came with Redd Foxx, Hayes Pillars said she played 'nice trombone' and went on to describe the Eckstine band she was in.",
+     "kind": "mention",
+     "page": 139,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=67426#b139-8"
+    }
+   ],
+   "n_blocks": 1,
+   "block_ids": [
+    483122
+   ],
+   "doc": {
+    "doc_id": "67426",
+    "collection": "rutgers",
+    "title": "67426_Hayes Pillars oral history interview",
+    "interviewee": "Hayes Pillars",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=67426",
+    "source_url": "https://rucore.libraries.rutgers.edu/rutgers-lib/67426/",
+    "collection_label": "Rutgers — Institute of Jazz Studies"
+   },
+   "upstream": {
+    "relations": [
+     {
+      "relation": "knows of",
+      "direction": "na",
+      "evidence": "[INTERVIEWER] And the girl playing trombone, too, that came in here, that came in here with Redd Foxx? [Melba Liston]-ed",
+      "said_by": "Hayes Pillars"
+     }
+    ],
+    "relation_ok": true
+   },
+   "on_her_records": false,
+   "albums_with_her": 0,
+   "instruments_on_her_records": [],
+   "she_spoke_of_them": false,
+   "she_said": null,
+   "image": null
+  },
+  {
+   "witness_key": "Hank_Jones_Transcript",
+   "name": "Hank Jones",
+   "qid": "Q447907",
+   "qid_source": "doc_interviewees",
+   "description": "American jazz pianist, bandleader, arranger and composer (1918-2010)",
+   "born": "1918",
+   "died": "2010",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q447907",
+   "is_her_interviewer": false,
+   "spoke_themselves": false,
+   "relation": "none",
+   "relation_weight": 0.0,
+   "tier": "none",
+   "direction": "na",
+   "contact_level": "unclear",
+   "basis": [
+    "none_evident"
+   ],
+   "context": "",
+   "one_liner": "",
+   "grounded": true,
+   "ungrounded_words": [],
+   "summary": "When the interviewer mentioned a Milt Jackson date involving Tadd Dameron and Liston, Jones said he could not remember all his dates and said nothing about her.",
+   "stance": "neutral",
+   "stance_strength": 0,
+   "notable": 0,
+   "caution": "The only mention is the interviewer's (Brauer); the recording-date claim is his, not Jones's.",
+   "confidence": "high",
+   "notes": "Not a witness. Upstream 'knows of' is not established by anything Jones says.",
+   "lead_quote": null,
+   "lead_block_id": null,
+   "lead_page": null,
+   "lead_url": null,
+   "second_quote": null,
+   "second_block_id": null,
+   "second_url": null,
+   "more_quotes": [],
+   "n_blocks": 1,
+   "block_ids": [
+    277029
+   ],
+   "doc": {
+    "doc_id": "Hank_Jones_Transcript",
+    "collection": "si",
+    "title": "Jones Hank — Smithsonian Jazz Oral History",
+    "interviewee": "Jones Hank",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Hank_Jones_Transcript",
+    "source_url": "https://amhistory.si.edu/jazz/Jones-Hank/Hank_Jones_Transcript.pdf",
+    "collection_label": "Smithsonian Jazz Oral History Program"
+   },
+   "upstream": {
+    "relations": [
+     {
+      "relation": "knows of",
+      "direction": "na",
+      "evidence": "I didn't do any big band dates with him. ... There’s a date that Tad Dameron and Melba Liston were involved with. Was it his date? Really?",
+      "said_by": "Hank Jones"
+     }
+    ],
+    "relation_ok": false
+   },
+   "on_her_records": true,
+   "albums_with_her": 6,
+   "instruments_on_her_records": [
+    "piano"
+   ],
+   "she_spoke_of_them": false,
+   "she_said": null,
+   "image": {
+    "source": "wikidata_p18",
+    "file": "File:Hank Jones.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Hank_Jones.jpg",
+    "url_full": "https://commons.wikimedia.org/wiki/Special:FilePath/Hank_Jones.jpg",
+    "url_800": "https://commons.wikimedia.org/wiki/Special:FilePath/Hank_Jones.jpg?width=800",
+    "url_400": "https://commons.wikimedia.org/wiki/Special:FilePath/Hank_Jones.jpg?width=400",
+    "url_200": "https://commons.wikimedia.org/wiki/Special:FilePath/Hank_Jones.jpg?width=200",
+    "width": 1777,
+    "height": 1313,
+    "mime": "image/jpeg",
+    "hosted_on_commons": true,
+    "license": {
+     "short": "CC BY 2.0",
+     "usage_terms": "Creative Commons Attribution 2.0",
+     "url": "https://creativecommons.org/licenses/by/2.0",
+     "public_domain": false,
+     "attribution_required": true,
+     "artist": "Ed Newman",
+     "credit": "Hank Jones at Newport",
+     "restrictions": null,
+     "date": "2005"
+    },
+    "attribution": "Ed Newman (CC BY 2.0), via Wikimedia Commons",
+    "also_pictured": [],
+    "review_flags": []
+   }
+  },
+  {
+   "witness_key": "275907",
+   "name": "Snooky Young",
+   "qid": "Q2004076",
+   "qid_source": "doc_interviewees",
+   "description": "American musician (1919–2011)",
+   "born": "1919",
+   "died": "2011",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q2004076",
+   "is_her_interviewer": false,
+   "spoke_themselves": false,
+   "relation": "none",
+   "relation_weight": 0.0,
+   "tier": "none",
+   "direction": "na",
+   "contact_level": "unclear",
+   "basis": [
+    "none_evident"
+   ],
+   "context": "",
+   "one_liner": "",
+   "grounded": true,
+   "ungrounded_words": [],
+   "summary": "Neither Young nor Wilson mentioned Liston in this interview; she appears only in the archive's front-matter biography of Wilson.",
+   "stance": "neutral",
+   "stance_strength": 0,
+   "notable": 0,
+   "caution": "The only mention is the Fillius Jazz Archive's front matter ('he led his first big band from 1944-47 with Snooky Young and Melba Liston as notable members'). That is archive text, not testimony, and should not be quoted as either man's words.",
+   "confidence": "high",
+   "notes": "Joint interview; neither interviewee speaks of her, so per spec the first interviewee (Snooky Young) is used. The front matter concerns Gerald Wilson's band. Gerald Wilson has his own Smithsonian witness row.",
+   "lead_quote": null,
+   "lead_block_id": null,
+   "lead_page": null,
+   "lead_url": null,
+   "second_quote": null,
+   "second_block_id": null,
+   "second_url": null,
+   "more_quotes": [],
+   "n_blocks": 1,
+   "block_ids": [
+    240560
+   ],
+   "doc": {
+    "doc_id": "275907",
+    "collection": "hamilton",
+    "title": "Snooky Young and Gerald Wilson interviewed by Monk Rowe, Los Angeles, California, September 3, 1995",
+    "interviewee": "Snooky Young and Gerald Wilson",
+    "interviewer": null,
+    "year": 1995,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275907",
+    "source_url": "https://litsdigital.hamilton.edu/collections/object/snooky-young-and-gerald-wilson-interviewed-monk-rowe-los-angeles-california",
+    "collection_label": "Hamilton College — Fillius Jazz Archive"
+   },
+   "upstream": {
+    "relations": [
+     {
+      "relation": "knows of",
+      "direction": "na",
+      "evidence": "The transcript mentions Melba Liston only in a biographical note about Gerald Wilson ('Gerald’s composing and arranging skills began to gain attention and he led his first big band from 1944-47 with Snooky Young and Melba Liston as notable members'). The interviewee does not speak about a personal r",
+      "said_by": "Snooky Young and Gerald Wilson"
+     }
+    ],
+    "relation_ok": false
+   },
+   "on_her_records": true,
+   "albums_with_her": 9,
+   "instruments_on_her_records": [
+    "Personnel",
+    "trumpet"
+   ],
+   "she_spoke_of_them": false,
+   "she_said": null,
+   "image": {
+    "source": "wikidata_p18",
+    "file": "File:SnookyYoungFinalPhoto40.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:SnookyYoungFinalPhoto40.jpg",
+    "url_full": "https://commons.wikimedia.org/wiki/Special:FilePath/SnookyYoungFinalPhoto40.jpg",
+    "url_800": "https://commons.wikimedia.org/wiki/Special:FilePath/SnookyYoungFinalPhoto40.jpg?width=800",
+    "url_400": "https://commons.wikimedia.org/wiki/Special:FilePath/SnookyYoungFinalPhoto40.jpg?width=400",
+    "url_200": "https://commons.wikimedia.org/wiki/Special:FilePath/SnookyYoungFinalPhoto40.jpg?width=200",
+    "width": 600,
+    "height": 903,
+    "mime": "image/jpeg",
+    "hosted_on_commons": true,
+    "license": {
+     "short": "Public domain",
+     "usage_terms": "Public domain",
+     "url": null,
+     "public_domain": true,
+     "attribution_required": false,
+     "artist": "Tom Pich",
+     "credit": "Snooky Young , arts.gov",
+     "restrictions": null,
+     "date": null
+    },
+    "attribution": "Tom Pich (Public domain), via Wikimedia Commons",
+    "also_pictured": [],
+    "review_flags": []
+   }
+  }
+ ]
+}

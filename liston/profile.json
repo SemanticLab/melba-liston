@@ -1,0 +1,353 @@
+{
+ "subject": "liston",
+ "qid": "Q274146",
+ "generated_from": "linked_jazz.sqlite",
+ "count": 1,
+ "method": "identity layer joined from wd_people + nodes + node_collections + communities + name_reconciliation; person identity resolved via persons.qid / nodes.qid only (never raw text search).",
+ "profile": {
+  "key": "liston",
+  "display_name": "Melba Liston",
+  "nicknames": [],
+  "qid": "Q274146",
+  "node_id": "wd:Q274146",
+  "links": {
+   "wikidata": "https://www.wikidata.org/wiki/Q274146",
+   "wikipedia": "https://en.wikipedia.org/wiki/Melba_Liston",
+   "network": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q274146",
+   "semlab": {
+    "semlab_id": "Q635",
+    "url": "https://base.semlab.io/wiki/Item:Q635",
+    "entity_uri": "http://base.semlab.io/entity/Q635"
+   },
+   "network_viewer": "https://thisismattmiller.github.io/linked-jazz-2026-network/"
+  },
+  "wd_people": {
+   "qid": "Q274146",
+   "label": "Melba Liston",
+   "description": "American jazz trombonist, musical arranger, and composer (1926–1999)",
+   "birth": "1926",
+   "death": "1999",
+   "wp_title": "Melba Liston",
+   "wp_abstract": "Melba Doretta Liston (January 13, 1926 – April 23, 1999) was an American jazz trombonist, arranger, and composer. She was the first woman trombonist to play alongside men in big bands during the 1940s and 1960s, but as her career progressed she became better known as an arranger, particularly in partnership with pianist Randy Weston. Other major artists with whom she worked include Dizzy Gillespie, Billie Holiday, John Coltrane, and Count Basie.",
+   "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Melba%20Liston.jpg",
+   "semlab_id": "Q635",
+   "semlab_thumb_url": "https://linkedjazz.org/image/square/Melba_Liston.png",
+   "mentions": 110,
+   "docs": 20,
+   "names_parsed": [
+    "Melba Liston"
+   ]
+  },
+  "node": {
+   "node_id": "wd:Q274146",
+   "kind": "wd",
+   "label": "Melba Liston",
+   "is_interviewee": 1,
+   "qid": "Q274146",
+   "semlab_id": "Q635",
+   "mentions": 110,
+   "docs": 21,
+   "singleton": 0,
+   "community": 2,
+   "x": 15460.36,
+   "y": -39876.61,
+   "wd_image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Melba%20Liston.jpg",
+   "semlab_thumb_url": "https://linkedjazz.org/image/square/Melba_Liston.png"
+  },
+  "node_collections": [
+   {
+    "collection": "hamilton",
+    "label": "Hamilton College — Fillius Jazz Archive",
+    "url": "https://litsdigital.hamilton.edu/collections/fillius-jazz-archive"
+   },
+   {
+    "collection": "rutgers",
+    "label": "Rutgers — Institute of Jazz Studies",
+    "url": "https://www.libraries.rutgers.edu/collections/institute-jazz-studies"
+   },
+   {
+    "collection": "si",
+    "label": "Smithsonian Jazz Oral History Program",
+    "url": "https://americanhistory.si.edu/explore/projects/smithsonian-jazz/oral-history-program"
+   }
+  ],
+  "community": {
+   "community_id": 2,
+   "rank": 1,
+   "size": 8956,
+   "label": "Swinging Big Band Era",
+   "era": "1930s-1950s",
+   "place": "New York and Chicago",
+   "scene": "Mainstream swing and bebop transition",
+   "summary": "This community centers on the apex of the big band era and the subsequent rise of bebop, dominated by major bandleaders and virtuoso soloists who defined mainstream jazz. Members are bound by extensive professional collaborations in touring orchestras and the vibrant New York and Chicago club scenes during the mid-20th century.",
+   "confidence": 0.95,
+   "key_figures": [
+    "Count Basie",
+    "Dizzy Gillespie",
+    "Charlie Parker",
+    "Clark Terry",
+    "Woody Herman",
+    "Ella Fitzgerald"
+   ]
+  },
+  "headline_stats": {
+   "others": {
+    "note": "Interviews other than her own. This is the 'what they said about her' corpus; the reconciled person layer plus the text hits it missed.",
+    "documents_reconciled": 19,
+    "documents_text_hit_only": 5,
+    "mentions_reconciled": 41,
+    "blocks_reconciled": 40,
+    "blocks_text_hit_only": 10,
+    "distinct_interviewees": 18
+   },
+   "own_interview": {
+    "note": "Her own Smithsonian interview (1996, interviewed by Clora Bryant). These 'mentions' are Bryant addressing her, headers and transcriber's notes.",
+    "doc_id": "Liston_Melba_Interview_Transcription",
+    "mentions": 69,
+    "blocks": 68
+   },
+   "total_mentions": 110,
+   "total_mentions_person_mentions_rows": 110,
+   "total_docs": 20,
+   "total_blocks_mentioning": 108,
+   "distinct_interviewees_who_mention": 19,
+   "n_classified_relationships": 19,
+   "n_relationship_rows_skipped": 1,
+   "n_network_edges": 123,
+   "network_edge_weight_sum": 198.185,
+   "interview_years": {
+    "min": 1995,
+    "max": 2020,
+    "median": 1999,
+    "n_docs_with_year": 8,
+    "n_docs_without_year": 12
+   },
+   "node_mentions": 110,
+   "node_docs": 21,
+   "wd_people_mentions": 110,
+   "wd_people_docs": 20,
+   "n_aliases": 5,
+   "n_name_reconciliation_rows": 1
+  },
+  "name_reconciliation": [
+   {
+    "name": "Melba Liston",
+    "mentions": 110,
+    "docs": 20,
+    "qid": "Q274146",
+    "wd_label": "Melba Liston",
+    "wd_description": "American jazz trombonist, musical arranger, and composer (1926–1999)",
+    "confidence": "high",
+    "reason": "The name refers to the famous jazz trombonist and arranger Melba Liston. Candidate 1 is the person, while candidates 2 a",
+    "n_candidates": 3,
+    "audit": "confirm",
+    "name_collapsed": "Melba Liston"
+   }
+  ],
+  "aliases": {
+   "count": 5,
+   "note": "distinct persons.surface_forms across every doc where the subject is reconciled; n_docs = interviews the form appears in.",
+   "items": [
+    {
+     "text": "Melba Liston",
+     "n_docs": 19,
+     "n_person_rows": 19
+    },
+    {
+     "text": "Melba",
+     "n_docs": 6,
+     "n_person_rows": 6
+    },
+    {
+     "text": "Liston",
+     "n_docs": 1,
+     "n_person_rows": 1
+    },
+    {
+     "text": "Mel",
+     "n_docs": 1,
+     "n_person_rows": 1
+    },
+    {
+     "text": "MELBA LISTON",
+     "n_docs": 1,
+     "n_person_rows": 1
+    }
+   ]
+  }
+ },
+ "items": [
+  {
+   "key": "liston",
+   "display_name": "Melba Liston",
+   "nicknames": [],
+   "qid": "Q274146",
+   "node_id": "wd:Q274146",
+   "links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q274146",
+    "wikipedia": "https://en.wikipedia.org/wiki/Melba_Liston",
+    "network": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q274146",
+    "semlab": {
+     "semlab_id": "Q635",
+     "url": "https://base.semlab.io/wiki/Item:Q635",
+     "entity_uri": "http://base.semlab.io/entity/Q635"
+    },
+    "network_viewer": "https://thisismattmiller.github.io/linked-jazz-2026-network/"
+   },
+   "wd_people": {
+    "qid": "Q274146",
+    "label": "Melba Liston",
+    "description": "American jazz trombonist, musical arranger, and composer (1926–1999)",
+    "birth": "1926",
+    "death": "1999",
+    "wp_title": "Melba Liston",
+    "wp_abstract": "Melba Doretta Liston (January 13, 1926 – April 23, 1999) was an American jazz trombonist, arranger, and composer. She was the first woman trombonist to play alongside men in big bands during the 1940s and 1960s, but as her career progressed she became better known as an arranger, particularly in partnership with pianist Randy Weston. Other major artists with whom she worked include Dizzy Gillespie, Billie Holiday, John Coltrane, and Count Basie.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Melba%20Liston.jpg",
+    "semlab_id": "Q635",
+    "semlab_thumb_url": "https://linkedjazz.org/image/square/Melba_Liston.png",
+    "mentions": 110,
+    "docs": 20,
+    "names_parsed": [
+     "Melba Liston"
+    ]
+   },
+   "node": {
+    "node_id": "wd:Q274146",
+    "kind": "wd",
+    "label": "Melba Liston",
+    "is_interviewee": 1,
+    "qid": "Q274146",
+    "semlab_id": "Q635",
+    "mentions": 110,
+    "docs": 21,
+    "singleton": 0,
+    "community": 2,
+    "x": 15460.36,
+    "y": -39876.61,
+    "wd_image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Melba%20Liston.jpg",
+    "semlab_thumb_url": "https://linkedjazz.org/image/square/Melba_Liston.png"
+   },
+   "node_collections": [
+    {
+     "collection": "hamilton",
+     "label": "Hamilton College — Fillius Jazz Archive",
+     "url": "https://litsdigital.hamilton.edu/collections/fillius-jazz-archive"
+    },
+    {
+     "collection": "rutgers",
+     "label": "Rutgers — Institute of Jazz Studies",
+     "url": "https://www.libraries.rutgers.edu/collections/institute-jazz-studies"
+    },
+    {
+     "collection": "si",
+     "label": "Smithsonian Jazz Oral History Program",
+     "url": "https://americanhistory.si.edu/explore/projects/smithsonian-jazz/oral-history-program"
+    }
+   ],
+   "community": {
+    "community_id": 2,
+    "rank": 1,
+    "size": 8956,
+    "label": "Swinging Big Band Era",
+    "era": "1930s-1950s",
+    "place": "New York and Chicago",
+    "scene": "Mainstream swing and bebop transition",
+    "summary": "This community centers on the apex of the big band era and the subsequent rise of bebop, dominated by major bandleaders and virtuoso soloists who defined mainstream jazz. Members are bound by extensive professional collaborations in touring orchestras and the vibrant New York and Chicago club scenes during the mid-20th century.",
+    "confidence": 0.95,
+    "key_figures": [
+     "Count Basie",
+     "Dizzy Gillespie",
+     "Charlie Parker",
+     "Clark Terry",
+     "Woody Herman",
+     "Ella Fitzgerald"
+    ]
+   },
+   "headline_stats": {
+    "others": {
+     "note": "Interviews other than her own. This is the 'what they said about her' corpus; the reconciled person layer plus the text hits it missed.",
+     "documents_reconciled": 19,
+     "documents_text_hit_only": 5,
+     "mentions_reconciled": 41,
+     "blocks_reconciled": 40,
+     "blocks_text_hit_only": 10,
+     "distinct_interviewees": 18
+    },
+    "own_interview": {
+     "note": "Her own Smithsonian interview (1996, interviewed by Clora Bryant). These 'mentions' are Bryant addressing her, headers and transcriber's notes.",
+     "doc_id": "Liston_Melba_Interview_Transcription",
+     "mentions": 69,
+     "blocks": 68
+    },
+    "total_mentions": 110,
+    "total_mentions_person_mentions_rows": 110,
+    "total_docs": 20,
+    "total_blocks_mentioning": 108,
+    "distinct_interviewees_who_mention": 19,
+    "n_classified_relationships": 19,
+    "n_relationship_rows_skipped": 1,
+    "n_network_edges": 123,
+    "network_edge_weight_sum": 198.185,
+    "interview_years": {
+     "min": 1995,
+     "max": 2020,
+     "median": 1999,
+     "n_docs_with_year": 8,
+     "n_docs_without_year": 12
+    },
+    "node_mentions": 110,
+    "node_docs": 21,
+    "wd_people_mentions": 110,
+    "wd_people_docs": 20,
+    "n_aliases": 5,
+    "n_name_reconciliation_rows": 1
+   },
+   "name_reconciliation": [
+    {
+     "name": "Melba Liston",
+     "mentions": 110,
+     "docs": 20,
+     "qid": "Q274146",
+     "wd_label": "Melba Liston",
+     "wd_description": "American jazz trombonist, musical arranger, and composer (1926–1999)",
+     "confidence": "high",
+     "reason": "The name refers to the famous jazz trombonist and arranger Melba Liston. Candidate 1 is the person, while candidates 2 a",
+     "n_candidates": 3,
+     "audit": "confirm",
+     "name_collapsed": "Melba Liston"
+    }
+   ],
+   "aliases": {
+    "count": 5,
+    "note": "distinct persons.surface_forms across every doc where the subject is reconciled; n_docs = interviews the form appears in.",
+    "items": [
+     {
+      "text": "Melba Liston",
+      "n_docs": 19,
+      "n_person_rows": 19
+     },
+     {
+      "text": "Melba",
+      "n_docs": 6,
+      "n_person_rows": 6
+     },
+     {
+      "text": "Liston",
+      "n_docs": 1,
+      "n_person_rows": 1
+     },
+     {
+      "text": "Mel",
+      "n_docs": 1,
+      "n_person_rows": 1
+     },
+     {
+      "text": "MELBA LISTON",
+      "n_docs": 1,
+      "n_person_rows": 1
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "note": "Display decisions for the page that the data cannot make by rule. Each one follows from the row's `caution` in liston/witnesses.json; `why` quotes or paraphrases it. Keys under `witnesses` are QIDs.",
+ "tagline": "Trombonist, arranger and composer — the first woman trombonist to play alongside men in the big bands.",
+ "tagline_source": "Reworded from the first paragraph of her Wikipedia article. The mockup's line ('the first woman to hold a chair in the great bebop big bands') is a wider claim than any source in this repo makes.",
+ "witnesses": {
+  "Q601523": {
+   "hide": true,
+   "why": "J. C. Higginbotham. The only quotable line is '(That boy) can play some trombone!', an uncertain transcription about a woman the interviewer calls 'Melvin Liston'. Caution: 'display with care or not at all'."
+  },
+  "Q270893": {
+   "show_second": true,
+   "why": "Shirley Horn. Stance is mixed: quoting only 'a great jazz artist' would misrepresent her. The second quote carries the reservation."
+  },
+  "Q231071": {
+   "note": "Said while dismissing women in jazz generally; Liston is her exception.",
+   "why": "Abbey Lincoln. The line sits inside a strongly anti-feminist passage; the caution asks for a note on context."
+  },
+  "Q1102326": {
+   "note": "Said to Liston, as her interviewer, in 1996.",
+   "why": "Clora Bryant is the interviewer in Liston's own oral history, not the subject of one."
+  },
+  "Q1691660": {
+   "note": "Speaking as co-interviewer in Clark Terry’s oral history.",
+   "why": "Joe Williams is not the interviewee of the transcript the card links to."
+  },
+  "Q126677": {
+   "note": "Williams calls her only “Melba”, and is reporting what she was told.",
+   "why": "Mary Lou Williams. Identification rests on context; the quoted words are second-hand."
+  }
+ }
+}

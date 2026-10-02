@@ -1,0 +1,96 @@
+{
+ "witnesses": {
+  "witness_documents": 25,
+  "spoke_themselves": 21,
+  "name_only_in_interviewer_words": 4,
+  "distinct_people": 20,
+  "by_relation": {
+   "in music group with": 7,
+   "knows of": 5,
+   "collaborated with": 2,
+   "has met": 2,
+   "played with": 2,
+   "played under": 1,
+   "friend of": 1,
+   "acquaintance of": 1
+  },
+  "by_tier": {
+   "band": 11,
+   "knew_of": 5,
+   "social": 4,
+   "learned": 1
+  },
+  "by_contact_level": {
+   "worked_together": 10,
+   "same_scene": 4,
+   "met_briefly": 3,
+   "knew_personally": 2,
+   "unclear": 2
+  },
+  "by_stance": {
+   "positive": 16,
+   "neutral": 4,
+   "mixed": 1
+  },
+  "by_notable": {
+   "3": 4,
+   "2": 8,
+   "1": 9,
+   "0": 4
+  },
+  "with_lead_quote": 19,
+  "one_liners": 21,
+  "one_liners_grounded": 18,
+  "with_caution": 25,
+  "also_on_her_records": 11,
+  "she_also_spoke_of_them": [
+   "Abbey Lincoln",
+   "Al Grey",
+   "Benny Powell",
+   "Clora Bryant",
+   "Gerald Wilson",
+   "Randy Weston",
+   "Slide Hampton",
+   "Vi Redd"
+  ],
+  "upstream_relation_wrong": 8,
+  "upstream_relation_judged": 19,
+  "quotes_dropped_on_verification": {}
+ },
+ "people": {
+  "people": 487,
+  "with_qid": 455,
+  "by_layer": {
+   "witness": 20,
+   "she_spoke_of": 90,
+   "on_her_records": 418,
+   "network": 72
+  },
+  "both_directions": [
+   "Randy Weston",
+   "Slide Hampton",
+   "Gerald Wilson",
+   "Clora Bryant",
+   "Al Grey",
+   "Abbey Lincoln",
+   "Benny Powell",
+   "Vi Redd"
+  ],
+  "witness_and_on_her_records": 10,
+  "she_spoke_of_and_on_her_records": 33,
+  "in_all_four_layers": [
+   "Randy Weston",
+   "Slide Hampton",
+   "Al Grey",
+   "Abbey Lincoln",
+   "Benny Powell"
+  ],
+  "by_layer_count": {
+   "1": 414,
+   "2": 38,
+   "3": 30,
+   "4": 5
+  },
+  "with_image": 310
+ }
+}

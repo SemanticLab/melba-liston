@@ -1,0 +1,8692 @@
+{
+ "count": 160,
+ "entities": {
+  "Melba Liston and Her 'Bones": {
+   "requested_title": "Melba Liston and Her 'Bones",
+   "title": "Melba Liston and Her 'Bones",
+   "redirected": false,
+   "qid": "Q55622715",
+   "bucket": "release",
+   "label": "Melba Liston and Her 'Bones",
+   "description": "album by Melba Liston",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q274146"
+   ],
+   "labels_p264": [
+    "Q6824423"
+   ],
+   "publication_dates": [
+    "1959-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As leader or co-leader",
+     "section_path": [
+      "Discography",
+      "As leader or co-leader"
+     ],
+     "header": "As leader or co-leader",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Melba Liston and Her 'Bones (MetroJazz, 1959)",
+     "table": null,
+     "row": 0,
+     "source": "discography_section",
+     "group": null,
+     "italic": true,
+     "year": "1959",
+     "title_text": "Melba Liston and Her 'Bones",
+     "leader_text": null,
+     "label_text": "MetroJazz"
+    }
+   ]
+  },
+  "Volcano Blues": {
+   "requested_title": "Volcano Blues",
+   "title": "Volcano Blues",
+   "redirected": false,
+   "qid": "Q125358433",
+   "bucket": "release",
+   "label": "Volcano Blues",
+   "description": "1993 studio album by Randy Weston and Melba Liston",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [],
+   "labels_p264": [],
+   "publication_dates": [],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As leader or co-leader",
+     "section_path": [
+      "Discography",
+      "As leader or co-leader"
+     ],
+     "header": "As leader or co-leader",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Volcano Blues with Randy Weston (Antilles, 1993)",
+     "table": null,
+     "row": 1,
+     "source": "discography_section",
+     "group": null,
+     "italic": true,
+     "year": "1993",
+     "title_text": "Volcano Blues",
+     "leader_text": "with Randy Weston",
+     "label_text": "Antilles"
+    }
+   ]
+  },
+  "Randy Weston": {
+   "requested_title": "Randy Weston",
+   "title": "Randy Weston",
+   "redirected": false,
+   "qid": "Q1371187",
+   "bucket": "person",
+   "label": "Randy Weston",
+   "description": "American jazz pianist (1926–2018)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q2172834",
+    "Q466785",
+    "Q2975356"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q36834",
+    "Q61947380",
+    "Q55960555",
+    "Q15981151"
+   ],
+   "instruments": [
+    "Q5994"
+   ],
+   "birth": "1926-04-06",
+   "death": "2018-09-01",
+   "image": "Randy Weston.jpg",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As leader or co-leader",
+     "section_path": [
+      "Discography",
+      "As leader or co-leader"
+     ],
+     "header": "As leader or co-leader",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Volcano Blues with Randy Weston (Antilles, 1993)",
+     "table": null,
+     "row": 1,
+     "source": "discography_section",
+     "group": null,
+     "italic": false,
+     "year": "1993",
+     "title_text": "Volcano Blues",
+     "leader_text": "with Randy Weston",
+     "label_text": "Antilles"
+    }
+   ]
+  },
+  "Art Blakey Big Band": {
+   "requested_title": "Art Blakey Big Band",
+   "title": "Art Blakey Big Band",
+   "redirected": false,
+   "qid": "Q16242591",
+   "bucket": "release",
+   "label": "Art Blakey Big Band",
+   "description": "album by Art Blakey",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q311715"
+   ],
+   "labels_p264": [
+    "Q831335"
+   ],
+   "publication_dates": [
+    "1959-01-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "21ef9afe-a6d5-4afa-a12e-f725376e2eb3",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With Art Blakey & the Jazz Messengers"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1957: Art Blakey Big Band",
+     "table": null,
+     "row": 0,
+     "source": "discography_section",
+     "group": "With Art Blakey & the Jazz Messengers",
+     "italic": true,
+     "year": "1957",
+     "title_text": "Art Blakey Big Band",
+     "leader_text": "Art Blakey & the Jazz Messengers",
+     "label_text": null
+    }
+   ]
+  },
+  "Theory of Art": {
+   "requested_title": "Theory of Art",
+   "title": "A Night in Tunisia (1958 album)",
+   "redirected": true,
+   "qid": "Q4658607",
+   "bucket": "release",
+   "label": "A Night in Tunisia",
+   "description": "studioalbum från år 1958 av Art Blakey",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q311715"
+   ],
+   "labels_p264": [
+    "Q202585"
+   ],
+   "publication_dates": [
+    "1958-02-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With Art Blakey & the Jazz Messengers"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1957: Theory of Art",
+     "table": null,
+     "row": 1,
+     "source": "discography_section",
+     "group": "With Art Blakey & the Jazz Messengers",
+     "italic": true,
+     "year": "1957",
+     "title_text": "Theory of Art",
+     "leader_text": "Art Blakey & the Jazz Messengers",
+     "label_text": null
+    }
+   ]
+  },
+  "Hold On, I'm Coming (Art Blakey album)": {
+   "requested_title": "Hold On, I'm Coming (Art Blakey album)",
+   "title": "Hold On, I'm Coming (Art Blakey album)",
+   "redirected": false,
+   "qid": "Q28872297",
+   "bucket": "release",
+   "label": "Hold On, I'm Coming",
+   "description": "album by Art Blakey",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q311715"
+   ],
+   "labels_p264": [
+    "Q2026288"
+   ],
+   "publication_dates": [
+    "1966-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "95fafef9-d1bb-4db7-8adb-706f6e69738c",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With Art Blakey & the Jazz Messengers"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1965: Hold On, I'm Coming",
+     "table": null,
+     "row": 2,
+     "source": "discography_section",
+     "group": "With Art Blakey & the Jazz Messengers",
+     "italic": true,
+     "year": "1965",
+     "title_text": "Hold On, I'm Coming",
+     "leader_text": "Art Blakey & the Jazz Messengers",
+     "label_text": null
+    }
+   ]
+  },
+  "Out There with Betty Carter": {
+   "requested_title": "Out There with Betty Carter",
+   "title": "Out There (Betty Carter album)",
+   "redirected": true,
+   "qid": "Q7111471",
+   "bucket": "release",
+   "label": "Out There",
+   "description": "1958 album from Betty Carter",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q465943"
+   ],
+   "labels_p264": [
+    "Q2065798"
+   ],
+   "publication_dates": [
+    "1958-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "983daf0d-f0e7-4df8-b6a8-5e4edb101b2d",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With Betty Carter"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1958: Out There with Betty Carter",
+     "table": null,
+     "row": 0,
+     "source": "discography_section",
+     "group": "With Betty Carter",
+     "italic": true,
+     "year": "1958",
+     "title_text": "Out There with Betty Carter",
+     "leader_text": "Betty Carter",
+     "label_text": null
+    }
+   ]
+  },
+  "I Can't Help It (album)": {
+   "requested_title": "I Can't Help It (album)",
+   "title": "I Can't Help It (album)",
+   "redirected": false,
+   "qid": "Q5976430",
+   "bucket": "release",
+   "label": "I Can't Help It",
+   "description": "compilation album by Betty Carter",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q465943"
+   ],
+   "labels_p264": [
+    "Q671097"
+   ],
+   "publication_dates": [
+    "1992-01-01"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "f1bd5bc3-c475-3c1b-ac82-d6f8a1ff742e",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With Betty Carter"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1961: I Can't Help It",
+     "table": null,
+     "row": 1,
+     "source": "discography_section",
+     "group": "With Betty Carter",
+     "italic": true,
+     "year": "1961",
+     "title_text": "I Can't Help It",
+     "leader_text": "Betty Carter",
+     "label_text": null
+    }
+   ]
+  },
+  "The Genius of Ray Charles": {
+   "requested_title": "The Genius of Ray Charles",
+   "title": "The Genius of Ray Charles",
+   "redirected": false,
+   "qid": "Q846519",
+   "bucket": "release",
+   "label": "The Genius of Ray Charles",
+   "description": "album by Ray Charles",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q544387"
+   ],
+   "labels_p264": [
+    "Q202440"
+   ],
+   "publication_dates": [
+    "1959-10-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "26ea6822-538d-3781-ac19-fd3575aa2688",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With Ray Charles"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1959: The Genius of Ray Charles",
+     "table": null,
+     "row": 0,
+     "source": "discography_section",
+     "group": "With Ray Charles",
+     "italic": true,
+     "year": "1959",
+     "title_text": "The Genius of Ray Charles",
+     "leader_text": "Ray Charles",
+     "label_text": null
+    }
+   ]
+  },
+  "Jazz Recital": {
+   "requested_title": "Jazz Recital",
+   "title": "Jazz Recital",
+   "redirected": false,
+   "qid": "Q6168300",
+   "bucket": "release",
+   "label": "Jazz Recital",
+   "description": "album by Dizzy Gillespie",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q49575"
+   ],
+   "labels_p264": [
+    "Q1124849"
+   ],
+   "publication_dates": [
+    "1956-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With Dizzy Gillespie"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1955: Jazz Recital",
+     "table": null,
+     "row": 0,
+     "source": "discography_section",
+     "group": "With Dizzy Gillespie",
+     "italic": true,
+     "year": "1955",
+     "title_text": "Jazz Recital",
+     "leader_text": "Dizzy Gillespie",
+     "label_text": null
+    }
+   ]
+  },
+  "World Statesman": {
+   "requested_title": "World Statesman",
+   "title": "World Statesman",
+   "redirected": false,
+   "qid": "Q8036265",
+   "bucket": "release",
+   "label": "World Statesman",
+   "description": "album by Dizzy Gillespie",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q49575"
+   ],
+   "labels_p264": [
+    "Q1124849"
+   ],
+   "publication_dates": [
+    "1956-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "9f4d1225-204a-460b-8b94-6b842f8b5051",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With Dizzy Gillespie"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1956: World Statesman",
+     "table": null,
+     "row": 1,
+     "source": "discography_section",
+     "group": "With Dizzy Gillespie",
+     "italic": true,
+     "year": "1956",
+     "title_text": "World Statesman",
+     "leader_text": "Dizzy Gillespie",
+     "label_text": null
+    }
+   ]
+  },
+  "Dizzy Gillespie at Newport": {
+   "requested_title": "Dizzy Gillespie at Newport",
+   "title": "Dizzy Gillespie at Newport",
+   "redirected": false,
+   "qid": "Q5285122",
+   "bucket": "release",
+   "label": "Dizzy Gillespie at Newport",
+   "description": "1957 live album by Dizzy Gillespie",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q49575"
+   ],
+   "labels_p264": [
+    "Q1124849"
+   ],
+   "publication_dates": [
+    "1957-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With Dizzy Gillespie"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1957: Dizzy Gillespie at Newport",
+     "table": null,
+     "row": 2,
+     "source": "discography_section",
+     "group": "With Dizzy Gillespie",
+     "italic": true,
+     "year": "1957",
+     "title_text": "Dizzy Gillespie at Newport",
+     "leader_text": "Dizzy Gillespie",
+     "label_text": null
+    }
+   ]
+  },
+  "Birks' Works": {
+   "requested_title": "Birks' Works",
+   "title": "Birks' Works",
+   "redirected": false,
+   "qid": "Q4916504",
+   "bucket": "release",
+   "label": "Birks' Works",
+   "description": "album by Dizzy Gillespie",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q49575"
+   ],
+   "labels_p264": [
+    "Q1124849"
+   ],
+   "publication_dates": [
+    "1957-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "e7dfd8de-c018-4c66-a0f4-b67047813593",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With Dizzy Gillespie"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1957: Birks' Works",
+     "table": null,
+     "row": 3,
+     "source": "discography_section",
+     "group": "With Dizzy Gillespie",
+     "italic": true,
+     "year": "1957",
+     "title_text": "Birks' Works",
+     "leader_text": "Dizzy Gillespie",
+     "label_text": null
+    }
+   ]
+  },
+  "Dizzy in Greece": {
+   "requested_title": "Dizzy in Greece",
+   "title": "Dizzy in Greece",
+   "redirected": false,
+   "qid": "Q5285137",
+   "bucket": "release",
+   "label": "Dizzy in Greece",
+   "description": "album by Dizzy Gillespie",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q49575"
+   ],
+   "labels_p264": [
+    "Q1124849"
+   ],
+   "publication_dates": [
+    "1957-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With Dizzy Gillespie"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1957: Dizzy in Greece",
+     "table": null,
+     "row": 4,
+     "source": "discography_section",
+     "group": "With Dizzy Gillespie",
+     "italic": true,
+     "year": "1957",
+     "title_text": "Dizzy in Greece",
+     "leader_text": "Dizzy Gillespie",
+     "label_text": null
+    }
+   ]
+  },
+  "The Birth of a Band!": {
+   "requested_title": "The Birth of a Band!",
+   "title": "The Birth of a Band!",
+   "redirected": false,
+   "qid": "Q24077792",
+   "bucket": "release",
+   "label": "The Birth of a Band!",
+   "description": "album by Quincy Jones",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q193645"
+   ],
+   "labels_p264": [
+    "Q165745"
+   ],
+   "publication_dates": [
+    "1959-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With Quincy Jones"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1959: The Birth of a Band!",
+     "table": null,
+     "row": 0,
+     "source": "discography_section",
+     "group": "With Quincy Jones",
+     "italic": true,
+     "year": "1959",
+     "title_text": "The Birth of a Band!",
+     "leader_text": "Quincy Jones",
+     "label_text": null
+    }
+   ]
+  },
+  "I Dig Dancers": {
+   "requested_title": "I Dig Dancers",
+   "title": "I Dig Dancers",
+   "redirected": false,
+   "qid": "Q24076722",
+   "bucket": "release",
+   "label": "I Dig Dancers",
+   "description": "album by Quincy Jones",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q193645"
+   ],
+   "labels_p264": [
+    "Q165745"
+   ],
+   "publication_dates": [
+    "1960-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "7b005281-dba3-4c88-a61b-faa2c4d6ef0b",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With Quincy Jones"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1960: I Dig Dancers",
+     "table": null,
+     "row": 2,
+     "source": "discography_section",
+     "group": "With Quincy Jones",
+     "italic": true,
+     "year": "1960",
+     "title_text": "I Dig Dancers",
+     "leader_text": "Quincy Jones",
+     "label_text": null
+    }
+   ]
+  },
+  "I/We Had a Ball": {
+   "requested_title": "I/We Had a Ball",
+   "title": "I/We Had a Ball",
+   "redirected": false,
+   "qid": "Q48815615",
+   "bucket": "release",
+   "label": "I/We Had a Ball",
+   "description": "1965 studio album",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q105349"
+   ],
+   "labels_p264": [
+    "Q2026288"
+   ],
+   "publication_dates": [
+    "1965-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With Quincy Jones"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1965: I/We Had a Ball",
+     "table": null,
+     "row": 7,
+     "source": "discography_section",
+     "group": "With Quincy Jones",
+     "italic": true,
+     "year": "1965",
+     "title_text": "I/We Had a Ball",
+     "leader_text": "Quincy Jones",
+     "label_text": null
+    }
+   ]
+  },
+  "Quincy Plays for Pussycats": {
+   "requested_title": "Quincy Plays for Pussycats",
+   "title": "Quincy Plays for Pussycats",
+   "redirected": false,
+   "qid": "Q48815097",
+   "bucket": "release",
+   "label": "Quincy Plays for Pussycats",
+   "description": "album by Quincy Jones",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q193645"
+   ],
+   "labels_p264": [
+    "Q165745"
+   ],
+   "publication_dates": [
+    "1965-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "7845e581-5466-3925-8f61-4d8fe929fc26",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With Quincy Jones"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1965: Quincy Plays for Pussycats",
+     "table": null,
+     "row": 8,
+     "source": "discography_section",
+     "group": "With Quincy Jones",
+     "italic": true,
+     "year": "1965",
+     "title_text": "Quincy Plays for Pussycats",
+     "leader_text": "Quincy Jones",
+     "label_text": null
+    }
+   ]
+  },
+  "Any Number Can Win (album)": {
+   "requested_title": "Any Number Can Win (album)",
+   "title": "Any Number Can Win (album)",
+   "redirected": false,
+   "qid": "Q19872404",
+   "bucket": "release",
+   "label": "Any Number Can Win",
+   "description": "album by Jimmy Smith",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q318948"
+   ],
+   "labels_p264": [
+    "Q1124849"
+   ],
+   "publication_dates": [
+    "1963-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "f13bf4ca-db3b-38a6-bf3b-ab18d7481b61",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With Jimmy Smith"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1963: Any Number Can Win",
+     "table": null,
+     "row": 0,
+     "source": "discography_section",
+     "group": "With Jimmy Smith",
+     "italic": true,
+     "year": "1963",
+     "title_text": "Any Number Can Win",
+     "leader_text": "Jimmy Smith",
+     "label_text": null
+    }
+   ]
+  },
+  "Jimmy & Wes: The Dynamic Duo": {
+   "requested_title": "Jimmy & Wes: The Dynamic Duo",
+   "title": "Jimmy & Wes: The Dynamic Duo",
+   "redirected": false,
+   "qid": "Q6199463",
+   "bucket": "release",
+   "label": "Jimmy & Wes: The Dynamic Duo",
+   "description": "album by Wes Montgomery",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q298601"
+   ],
+   "labels_p264": [
+    "Q1124849"
+   ],
+   "publication_dates": [
+    "1966-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "30e0ef83-9272-3728-9195-219b43308844",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With Jimmy Smith"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1966: Jimmy & Wes: The Dynamic Duo",
+     "table": null,
+     "row": 1,
+     "source": "discography_section",
+     "group": "With Jimmy Smith",
+     "italic": true,
+     "year": "1966",
+     "title_text": "Jimmy & Wes: The Dynamic Duo",
+     "leader_text": "Jimmy Smith",
+     "label_text": null
+    }
+   ]
+  },
+  "Further Adventures of Jimmy and Wes": {
+   "requested_title": "Further Adventures of Jimmy and Wes",
+   "title": "Further Adventures of Jimmy and Wes",
+   "redirected": false,
+   "qid": "Q5509742",
+   "bucket": "release",
+   "label": "Further Adventures of Jimmy and Wes",
+   "description": "album by Wes Montgomery",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q298601"
+   ],
+   "labels_p264": [
+    "Q1124849"
+   ],
+   "publication_dates": [
+    "1966-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "968cdaa1-565d-3209-96e0-47e6ffc44fb0",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With Jimmy Smith"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1966: Further Adventures of Jimmy and Wes",
+     "table": null,
+     "row": 2,
+     "source": "discography_section",
+     "group": "With Jimmy Smith",
+     "italic": true,
+     "year": "1966",
+     "title_text": "Further Adventures of Jimmy and Wes",
+     "leader_text": "Jimmy Smith",
+     "label_text": null
+    }
+   ]
+  },
+  "Hoochie Coochie Man (Jimmy Smith album)": {
+   "requested_title": "Hoochie Coochie Man (Jimmy Smith album)",
+   "title": "Hoochie Cooche Man",
+   "redirected": true,
+   "qid": "Q28206667",
+   "bucket": "release",
+   "label": "Hoochie Coochie Man",
+   "description": "album by Jimmy Smith",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q318948"
+   ],
+   "labels_p264": [
+    "Q1124849"
+   ],
+   "publication_dates": [
+    "1966-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With Jimmy Smith"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1966: Hoochie Coochie Man",
+     "table": null,
+     "row": 3,
+     "source": "discography_section",
+     "group": "With Jimmy Smith",
+     "italic": true,
+     "year": "1966",
+     "title_text": "Hoochie Coochie Man",
+     "leader_text": "Jimmy Smith",
+     "label_text": null
+    }
+   ]
+  },
+  "Dinah Washington Sings Fats Waller": {
+   "requested_title": "Dinah Washington Sings Fats Waller",
+   "title": "Dinah Washington Sings Fats Waller",
+   "redirected": false,
+   "qid": "Q5277912",
+   "bucket": "release",
+   "label": "Dinah Washington Sings Fats Waller",
+   "description": "album by Dinah Washington",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q229322"
+   ],
+   "labels_p264": [
+    "Q2749562",
+    "Q1124849"
+   ],
+   "publication_dates": [
+    "1957-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "d9277c7a-e617-46d4-950b-02f3daddbea5",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With Dinah Washington"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1957: Dinah Washington Sings Fats Waller",
+     "table": null,
+     "row": 0,
+     "source": "discography_section",
+     "group": "With Dinah Washington",
+     "italic": true,
+     "year": "1957",
+     "title_text": "Dinah Washington Sings Fats Waller",
+     "leader_text": "Dinah Washington",
+     "label_text": null
+    }
+   ]
+  },
+  "Dinah Sings Bessie Smith": {
+   "requested_title": "Dinah Sings Bessie Smith",
+   "title": "Dinah Sings Bessie Smith",
+   "redirected": false,
+   "qid": "Q5277909",
+   "bucket": "release",
+   "label": "Dinah Sings Bessie Smith",
+   "description": "album by Dinah Washington",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q229322"
+   ],
+   "labels_p264": [
+    "Q2749562",
+    "Q1124849"
+   ],
+   "publication_dates": [
+    "1958-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With Dinah Washington"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1958: Dinah Sings Bessie Smith",
+     "table": null,
+     "row": 1,
+     "source": "discography_section",
+     "group": "With Dinah Washington",
+     "italic": true,
+     "year": "1958",
+     "title_text": "Dinah Sings Bessie Smith",
+     "leader_text": "Dinah Washington",
+     "label_text": null
+    }
+   ]
+  },
+  "Little Niles": {
+   "requested_title": "Little Niles",
+   "title": "Little Niles",
+   "redirected": false,
+   "qid": "Q6651167",
+   "bucket": "release",
+   "label": "Little Niles",
+   "description": "album by Randy Weston",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q1371187"
+   ],
+   "labels_p264": [
+    "Q1542119"
+   ],
+   "publication_dates": [
+    "1959-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "0c0dce77-0668-4882-8ea5-cdd05c989fd4",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With Randy Weston"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1958: Little Niles",
+     "table": null,
+     "row": 0,
+     "source": "discography_section",
+     "group": "With Randy Weston",
+     "italic": true,
+     "year": "1958",
+     "title_text": "Little Niles",
+     "leader_text": "Randy Weston",
+     "label_text": null
+    }
+   ]
+  },
+  "Destry Rides Again (Randy Weston album)": {
+   "requested_title": "Destry Rides Again (Randy Weston album)",
+   "title": "Destry Rides Again (Randy Weston album)",
+   "redirected": false,
+   "qid": "Q5265430",
+   "bucket": "release",
+   "label": "Destry Rides Again",
+   "description": "album by Randy Weston",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q1371187"
+   ],
+   "labels_p264": [
+    "Q1542119"
+   ],
+   "publication_dates": [
+    "1959-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With Randy Weston"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1959: Destry Rides Again",
+     "table": null,
+     "row": 1,
+     "source": "discography_section",
+     "group": "With Randy Weston",
+     "italic": true,
+     "year": "1959",
+     "title_text": "Destry Rides Again",
+     "leader_text": "Randy Weston",
+     "label_text": null
+    }
+   ]
+  },
+  "Live at the Five Spot (Randy Weston album)": {
+   "requested_title": "Live at the Five Spot (Randy Weston album)",
+   "title": "Live at the Five Spot (Randy Weston album)",
+   "redirected": false,
+   "qid": "Q6656704",
+   "bucket": "release",
+   "label": "Live at the Five Spot",
+   "description": "1959 live album by Randy Weston",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q1371187"
+   ],
+   "labels_p264": [
+    "Q1542119"
+   ],
+   "publication_dates": [
+    "1959-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With Randy Weston"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1959: Live at the Five Spot",
+     "table": null,
+     "row": 2,
+     "source": "discography_section",
+     "group": "With Randy Weston",
+     "italic": true,
+     "year": "1959",
+     "title_text": "Live at the Five Spot",
+     "leader_text": "Randy Weston",
+     "label_text": null
+    }
+   ]
+  },
+  "Uhuru Afrika": {
+   "requested_title": "Uhuru Afrika",
+   "title": "Uhuru Afrika",
+   "redirected": false,
+   "qid": "Q7878031",
+   "bucket": "release",
+   "label": "Uhuru Afrika",
+   "description": "album by Randy Weston",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q1371187"
+   ],
+   "labels_p264": [
+    "Q949848"
+   ],
+   "publication_dates": [
+    "1961-04-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With Randy Weston"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1961: Uhuru Afrika",
+     "table": null,
+     "row": 3,
+     "source": "discography_section",
+     "group": "With Randy Weston",
+     "italic": true,
+     "year": "1961",
+     "title_text": "Uhuru Afrika",
+     "leader_text": "Randy Weston",
+     "label_text": null
+    }
+   ]
+  },
+  "Highlife (Randy Weston album)": {
+   "requested_title": "Highlife (Randy Weston album)",
+   "title": "Highlife (Randy Weston album)",
+   "redirected": false,
+   "qid": "Q5759468",
+   "bucket": "release",
+   "label": "Highlife",
+   "description": "album by Randy Weston",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q1371187"
+   ],
+   "labels_p264": [
+    "Q2984481"
+   ],
+   "publication_dates": [
+    "1963-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With Randy Weston"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1963: Highlife - Music from the new African nations featuring the Highlife",
+     "table": null,
+     "row": 4,
+     "source": "discography_section",
+     "group": "With Randy Weston",
+     "italic": true,
+     "year": "1963",
+     "title_text": "Highlife",
+     "leader_text": "Randy Weston",
+     "label_text": null
+    }
+   ]
+  },
+  "Tanjah (album)": {
+   "requested_title": "Tanjah (album)",
+   "title": "Tanjah (album)",
+   "redirected": false,
+   "qid": "Q17041415",
+   "bucket": "release",
+   "label": "Tanjah",
+   "description": "album by Randy Weston",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q1371187"
+   ],
+   "labels_p264": [
+    "Q155152"
+   ],
+   "publication_dates": [
+    "1974-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "9898d5d2-a5f3-3a11-8f3b-2a90f3680118",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With Randy Weston"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1973: Tanjah",
+     "table": null,
+     "row": 5,
+     "source": "discography_section",
+     "group": "With Randy Weston",
+     "italic": true,
+     "year": "1973",
+     "title_text": "Tanjah",
+     "leader_text": "Randy Weston",
+     "label_text": null
+    }
+   ]
+  },
+  "The Spirits of Our Ancestors": {
+   "requested_title": "The Spirits of Our Ancestors",
+   "title": "The Spirits of Our Ancestors",
+   "redirected": false,
+   "qid": "Q7765953",
+   "bucket": "release",
+   "label": "The Spirits of Our Ancestors",
+   "description": "album by Randy Weston",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q1371187"
+   ],
+   "labels_p264": [
+    "Q1124849"
+   ],
+   "publication_dates": [
+    "1991-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "a3a4e82b-b76c-4986-8afa-4ae6456c17f1",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With Randy Weston"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1992: The Spirits of Our Ancestors",
+     "table": null,
+     "row": 6,
+     "source": "discography_section",
+     "group": "With Randy Weston",
+     "italic": true,
+     "year": "1992",
+     "title_text": "The Spirits of Our Ancestors",
+     "leader_text": "Randy Weston",
+     "label_text": null
+    }
+   ]
+  },
+  "Khepera (album)": {
+   "requested_title": "Khepera (album)",
+   "title": "Khepera (album)",
+   "redirected": false,
+   "qid": "Q112701906",
+   "bucket": "release",
+   "label": "Khepera",
+   "description": "1998 studio album by Randy Weston",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q1371187"
+   ],
+   "labels_p264": [
+    "Q1124849"
+   ],
+   "publication_dates": [
+    "1998-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "bfc7f577-3515-36f2-a626-4382f4206ce8",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With Randy Weston"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1998: Khepera",
+     "table": null,
+     "row": 8,
+     "source": "discography_section",
+     "group": "With Randy Weston",
+     "italic": true,
+     "year": "1998",
+     "title_text": "Khepera",
+     "leader_text": "Randy Weston",
+     "label_text": null
+    }
+   ]
+  },
+  "Last Chorus": {
+   "requested_title": "Last Chorus",
+   "title": "Last Chorus",
+   "redirected": false,
+   "qid": "Q6494243",
+   "bucket": "release",
+   "label": "Last Chorus",
+   "description": "album by Ernie Henry",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q1356914"
+   ],
+   "labels_p264": [
+    "Q2975356"
+   ],
+   "publication_dates": [
+    "1958-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "9b1b18ba-97be-38e2-bbce-ef5599d08dc8",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1957: Last Chorus , Ernie Henry",
+     "table": null,
+     "row": 0,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": true,
+     "year": "1957",
+     "title_text": "Last Chorus",
+     "leader_text": "Ernie Henry",
+     "label_text": null
+    }
+   ]
+  },
+  "Ernie Henry": {
+   "requested_title": "Ernie Henry",
+   "title": "Ernie Henry",
+   "redirected": false,
+   "qid": "Q1356914",
+   "bucket": "person",
+   "label": "Ernie Henry",
+   "description": "American jazz saxophonist (1926–1957)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q2975356"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q15981151",
+    "Q12800682",
+    "Q639669"
+   ],
+   "instruments": [
+    "Q9798"
+   ],
+   "birth": "1926-09-03",
+   "death": "1957-12-29",
+   "image": "Fats Navarro, Charlie Rouse, Ernie Henry, Tadd Dameron (Gottlieb 06541).jpg",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1957: Last Chorus , Ernie Henry",
+     "table": null,
+     "row": 0,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": false,
+     "year": "1957",
+     "title_text": "Last Chorus",
+     "leader_text": "Ernie Henry",
+     "label_text": null
+    }
+   ]
+  },
+  "Babs Gonzales": {
+   "requested_title": "Babs Gonzales",
+   "title": "Babs Gonzales",
+   "redirected": false,
+   "qid": "Q797766",
+   "bucket": "person",
+   "label": "Babs Gonzales",
+   "description": "American singer (1919–1980)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q2858450"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q177220",
+    "Q15981151",
+    "Q822146",
+    "Q66314404"
+   ],
+   "instruments": [
+    "Q17172850"
+   ],
+   "birth": "1919-10-27",
+   "death": "1980-01-23",
+   "image": "Babs Gonzales, New York, between 1946 and 1948 (William P. Gottlieb 03391).jpg",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1959: Tales of Manhattan , Babs Gonzales",
+     "table": null,
+     "row": 1,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": false,
+     "year": "1959",
+     "title_text": "Tales of Manhattan",
+     "leader_text": "Babs Gonzales",
+     "label_text": null
+    }
+   ]
+  },
+  "Trane Whistle": {
+   "requested_title": "Trane Whistle",
+   "title": "Trane Whistle",
+   "redirected": false,
+   "qid": "Q7833402",
+   "bucket": "release",
+   "label": "Trane Whistle",
+   "description": "album by Eddie \"Lockjaw\" Davis",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q1282884"
+   ],
+   "labels_p264": [
+    "Q1811175"
+   ],
+   "publication_dates": [
+    "1960-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "f24c7056-d7d5-47b0-ad79-5afa1225c379",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1960: Trane Whistle , Eddie \"Lockjaw\" Davis",
+     "table": null,
+     "row": 2,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": true,
+     "year": "1960",
+     "title_text": "Trane Whistle",
+     "leader_text": "Eddie \"Lockjaw\" Davis",
+     "label_text": null
+    }
+   ]
+  },
+  "Eddie \"Lockjaw\" Davis": {
+   "requested_title": "Eddie \"Lockjaw\" Davis",
+   "title": "Eddie \"Lockjaw\" Davis",
+   "redirected": false,
+   "qid": "Q1282884",
+   "bucket": "person",
+   "label": "Eddie \"Lockjaw\" Davis",
+   "description": "American saxophonist (1922–1986)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q1811175",
+    "Q2858450",
+    "Q466785"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q12800682",
+    "Q15981151",
+    "Q36834",
+    "Q55960555",
+    "Q639669"
+   ],
+   "instruments": [
+    "Q9798",
+    "Q1414932",
+    "Q258896"
+   ],
+   "birth": "1922-03-02",
+   "death": "1986-11-03",
+   "image": "Sweets Edison and Eddie Lockjaw Davis.jpg",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1960: Trane Whistle , Eddie \"Lockjaw\" Davis",
+     "table": null,
+     "row": 2,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": false,
+     "year": "1960",
+     "title_text": "Trane Whistle",
+     "leader_text": "Eddie \"Lockjaw\" Davis",
+     "label_text": null
+    }
+   ]
+  },
+  "African Waltz": {
+   "requested_title": "African Waltz",
+   "title": "African Waltz",
+   "redirected": false,
+   "qid": "Q4689953",
+   "bucket": "release",
+   "label": "African Waltz",
+   "description": "album by Cannonball Adderley",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q110477"
+   ],
+   "labels_p264": [
+    "Q2975356"
+   ],
+   "publication_dates": [
+    "1961-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "556dc477-9e23-3008-8b57-627f29d94770",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1961: African Waltz , Cannonball Adderley",
+     "table": null,
+     "row": 3,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": true,
+     "year": "1961",
+     "title_text": "African Waltz",
+     "leader_text": "Cannonball Adderley",
+     "label_text": null
+    }
+   ]
+  },
+  "Cannonball Adderley": {
+   "requested_title": "Cannonball Adderley",
+   "title": "Cannonball Adderley",
+   "redirected": false,
+   "qid": "Q110477",
+   "bucket": "person",
+   "label": "Cannonball Adderley",
+   "description": "American jazz saxophonist (1928–1975)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q885833",
+    "Q193023",
+    "Q2749562",
+    "Q1308364"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q806349",
+    "Q158852",
+    "Q12800682",
+    "Q36834",
+    "Q15981151",
+    "Q183945",
+    "Q639669"
+   ],
+   "instruments": [
+    "Q9798",
+    "Q445275"
+   ],
+   "birth": "1928-09-15",
+   "death": "1975-08-08",
+   "image": "Cannonball Adderley press photo 1966.jpg",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1961: African Waltz , Cannonball Adderley",
+     "table": null,
+     "row": 3,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": false,
+     "year": "1961",
+     "title_text": "African Waltz",
+     "leader_text": "Cannonball Adderley",
+     "label_text": null
+    }
+   ]
+  },
+  "At Basin Street East (Billy Eckstine and Quincy Jones album)": {
+   "requested_title": "At Basin Street East (Billy Eckstine and Quincy Jones album)",
+   "title": "At Basin Street East (Billy Eckstine and Quincy Jones album)",
+   "redirected": false,
+   "qid": "Q4812291",
+   "bucket": "release",
+   "label": "At Basin St. East",
+   "description": "1961 live album by Billy Eckstine",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q545464"
+   ],
+   "labels_p264": [
+    "Q2749562"
+   ],
+   "publication_dates": [
+    "1961-10-01"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1961: At Basin Street East , Billy Eckstine / Quincy Jones",
+     "table": null,
+     "row": 4,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": true,
+     "year": "1961",
+     "title_text": "At Basin Street East",
+     "leader_text": "Billy Eckstine / Quincy Jones",
+     "label_text": null
+    }
+   ]
+  },
+  "Billy Eckstine": {
+   "requested_title": "Billy Eckstine",
+   "title": "Billy Eckstine",
+   "redirected": false,
+   "qid": "Q545464",
+   "bucket": "person",
+   "label": "Billy Eckstine",
+   "description": "American musician (1914–1993)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q165745",
+    "Q1536003",
+    "Q1881437"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q177220",
+    "Q806349",
+    "Q158852",
+    "Q15981151",
+    "Q6168364",
+    "Q12377274",
+    "Q55960555",
+    "Q639669",
+    "Q66314404"
+   ],
+   "instruments": [
+    "Q8350",
+    "Q8338",
+    "Q6607",
+    "Q17172850"
+   ],
+   "birth": "1914-07-08",
+   "death": "1993-03-08",
+   "image": "Portrait of Billy Eckstine, New York, N.Y., between 1946 and 1948 (LOC).jpg",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1961: At Basin Street East , Billy Eckstine / Quincy Jones",
+     "table": null,
+     "row": 4,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": false,
+     "year": "1961",
+     "title_text": "At Basin Street East",
+     "leader_text": "Billy Eckstine / Quincy Jones",
+     "label_text": null
+    }
+   ]
+  },
+  "Quincy Jones": {
+   "requested_title": "Quincy Jones",
+   "title": "Quincy Jones",
+   "redirected": false,
+   "qid": "Q193645",
+   "bucket": "person",
+   "label": "Quincy Jones",
+   "description": "American record producer and composer (1933–2024)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q183387",
+    "Q4883239",
+    "Q67030918",
+    "Q287177",
+    "Q231694",
+    "Q216364",
+    "Q277626",
+    "Q3414893",
+    "Q165745",
+    "Q1124849"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q158852",
+    "Q61947786",
+    "Q36834",
+    "Q806349",
+    "Q183945",
+    "Q753110",
+    "Q3089940",
+    "Q3282637",
+    "Q578109",
+    "Q1643514",
+    "Q22336956",
+    "Q15981151",
+    "Q177220",
+    "Q12377274",
+    "Q486748",
+    "Q639669"
+   ],
+   "instruments": [
+    "Q8338",
+    "Q52954"
+   ],
+   "birth": "1933-03-14",
+   "death": "2024-11-03",
+   "image": "Quincy Jones May 2014.jpg",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1961: At Basin Street East , Billy Eckstine / Quincy Jones",
+     "table": null,
+     "row": 4,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": false,
+     "year": "1961",
+     "title_text": "At Basin Street East",
+     "leader_text": "Billy Eckstine / Quincy Jones",
+     "label_text": null
+    }
+   ]
+  },
+  "Rah (Mark Murphy album)": {
+   "requested_title": "Rah (Mark Murphy album)",
+   "title": "Rah (Mark Murphy album)",
+   "redirected": false,
+   "qid": "Q3417543",
+   "bucket": "release",
+   "label": "Rah",
+   "description": "1961 studio album by Mark Murphy",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q933550"
+   ],
+   "labels_p264": [
+    "Q2975356"
+   ],
+   "publication_dates": [
+    "1961-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "9e406bf7-153f-3629-8de5-ec596f77770d",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1961: Rah , Mark Murphy",
+     "table": null,
+     "row": 5,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": true,
+     "year": "1961",
+     "title_text": "Rah",
+     "leader_text": "Mark Murphy",
+     "label_text": null
+    }
+   ]
+  },
+  "Mark Murphy (singer)": {
+   "requested_title": "Mark Murphy (singer)",
+   "title": "Mark Murphy (singer)",
+   "redirected": false,
+   "qid": "Q933550",
+   "bucket": "person",
+   "label": "Mark Murphy",
+   "description": "American singer (1932-2015)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q1124849"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q177220",
+    "Q15981151",
+    "Q33999",
+    "Q482980",
+    "Q639669",
+    "Q66314404",
+    "Q822146"
+   ],
+   "instruments": [
+    "Q17172850"
+   ],
+   "birth": "1932-03-14",
+   "death": "2015-10-22",
+   "image": "Mark Murphy (1975).jpg",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1961: Rah , Mark Murphy",
+     "table": null,
+     "row": 5,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": false,
+     "year": "1961",
+     "title_text": "Rah",
+     "leader_text": "Mark Murphy",
+     "label_text": null
+    }
+   ]
+  },
+  "The Chant (album)": {
+   "requested_title": "The Chant (album)",
+   "title": "The Chant (album)",
+   "redirected": false,
+   "qid": "Q7722118",
+   "bucket": "release",
+   "label": "The Chant",
+   "description": "album by Sam Jones",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q275250"
+   ],
+   "labels_p264": [
+    "Q2975356"
+   ],
+   "publication_dates": [
+    "1961-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1961: The Chant , Sam Jones",
+     "table": null,
+     "row": 6,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": true,
+     "year": "1961",
+     "title_text": "The Chant",
+     "leader_text": "Sam Jones",
+     "label_text": null
+    }
+   ]
+  },
+  "Sam Jones (musician)": {
+   "requested_title": "Sam Jones (musician)",
+   "title": "Sam Jones (musician)",
+   "redirected": false,
+   "qid": "Q275250",
+   "bucket": "person",
+   "label": "Sam Jones",
+   "description": "American double bassist and cellist (1924-1981)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q1954169"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q36834",
+    "Q13219637",
+    "Q15981151",
+    "Q55960555",
+    "Q639669"
+   ],
+   "instruments": [
+    "Q8371",
+    "Q80019",
+    "Q810447"
+   ],
+   "birth": "1924-11-12",
+   "death": "1981-12-15",
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1961: The Chant , Sam Jones",
+     "table": null,
+     "row": 6,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": false,
+     "year": "1961",
+     "title_text": "The Chant",
+     "leader_text": "Sam Jones",
+     "label_text": null
+    }
+   ]
+  },
+  "The Soul of Hollywood": {
+   "requested_title": "The Soul of Hollywood",
+   "title": "The Soul of Hollywood",
+   "redirected": false,
+   "qid": "Q7765364",
+   "bucket": "release",
+   "label": "The Soul of Hollywood",
+   "description": "album by Junior Mance",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q359992"
+   ],
+   "labels_p264": [
+    "Q2975356"
+   ],
+   "publication_dates": [
+    "1962-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "a7f541d4-8eb3-4833-bdbc-2be2736ae0fb",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1961: The Soul of Hollywood , Junior Mance",
+     "table": null,
+     "row": 7,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": true,
+     "year": "1961",
+     "title_text": "The Soul of Hollywood",
+     "leader_text": "Junior Mance",
+     "label_text": null
+    }
+   ]
+  },
+  "Junior Mance": {
+   "requested_title": "Junior Mance",
+   "title": "Junior Mance",
+   "redirected": false,
+   "qid": "Q359992",
+   "bucket": "person",
+   "label": "Junior Mance",
+   "description": "American musician (1928–2021)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q2975356",
+    "Q202440",
+    "Q1071680",
+    "Q466785"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q36834",
+    "Q486748",
+    "Q15981151",
+    "Q639669"
+   ],
+   "instruments": [
+    "Q5994"
+   ],
+   "birth": "1928-10-10",
+   "death": "2021-01-17",
+   "image": "Junior Mance.jpg",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1961: The Soul of Hollywood , Junior Mance",
+     "table": null,
+     "row": 7,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": false,
+     "year": "1961",
+     "title_text": "The Soul of Hollywood",
+     "leader_text": "Junior Mance",
+     "label_text": null
+    },
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1973: That Lovin' Feelin' , Junior Mance",
+     "table": null,
+     "row": 22,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": false,
+     "year": "1973",
+     "title_text": "That Lovin' Feelin'",
+     "leader_text": "Junior Mance",
+     "label_text": null
+    }
+   ]
+  },
+  "Afro/American Sketches": {
+   "requested_title": "Afro/American Sketches",
+   "title": "Afro/American Sketches",
+   "redirected": false,
+   "qid": "Q4690202",
+   "bucket": "release",
+   "label": "Afro/American Sketches",
+   "description": "jazz album by Oliver Nelson",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q720687"
+   ],
+   "labels_p264": [
+    "Q1811175"
+   ],
+   "publication_dates": [
+    "1962-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "a9bdb2a2-7b0d-45b5-a5f0-80aa3f6b2fbe",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1962: Afro/American Sketches , Oliver Nelson",
+     "table": null,
+     "row": 8,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": true,
+     "year": "1962",
+     "title_text": "Afro/American Sketches",
+     "leader_text": "Oliver Nelson",
+     "label_text": null
+    }
+   ]
+  },
+  "Oliver Nelson": {
+   "requested_title": "Oliver Nelson",
+   "title": "Oliver Nelson",
+   "redirected": false,
+   "qid": "Q720687",
+   "bucket": "person",
+   "label": "Oliver Nelson",
+   "description": "American jazz saxophonist, clarinetist, arranger, composer, and bandleader (1932-1975)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q1124849",
+    "Q1130708",
+    "Q647983",
+    "Q1811175",
+    "Q1524530"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q158852",
+    "Q36834",
+    "Q12800682",
+    "Q806349",
+    "Q15981151",
+    "Q1415090",
+    "Q55960555",
+    "Q64355059",
+    "Q1643514",
+    "Q118865",
+    "Q639669"
+   ],
+   "instruments": [
+    "Q9798",
+    "Q8343",
+    "Q445275",
+    "Q1414932",
+    "Q1463985"
+   ],
+   "birth": "1932-06-04",
+   "death": "1975-10-28",
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1962: Afro/American Sketches , Oliver Nelson",
+     "table": null,
+     "row": 8,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": false,
+     "year": "1962",
+     "title_text": "Afro/American Sketches",
+     "leader_text": "Oliver Nelson",
+     "label_text": null
+    }
+   ]
+  },
+  "Big Bags": {
+   "requested_title": "Big Bags",
+   "title": "Big Bags",
+   "redirected": false,
+   "qid": "Q4904988",
+   "bucket": "release",
+   "label": "Big Bags",
+   "description": "1962 studio album by Milt Jackson Orchestra",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q126472927"
+   ],
+   "labels_p264": [
+    "Q2975356"
+   ],
+   "publication_dates": [
+    "1962-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "135ce091-52ff-3e0e-92b2-a9973f1ba434",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1962: Big Bags , Milt Jackson",
+     "table": null,
+     "row": 9,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": true,
+     "year": "1962",
+     "title_text": "Big Bags",
+     "leader_text": "Milt Jackson",
+     "label_text": null
+    }
+   ]
+  },
+  "Milt Jackson": {
+   "requested_title": "Milt Jackson",
+   "title": "Milt Jackson",
+   "redirected": false,
+   "qid": "Q435665",
+   "bucket": "person",
+   "label": "Milt Jackson",
+   "description": "American musician (1923–1999)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q885833",
+    "Q67030918",
+    "Q202440",
+    "Q1524530"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q36834",
+    "Q15981151",
+    "Q177220",
+    "Q55960555",
+    "Q21855974",
+    "Q639669"
+   ],
+   "instruments": [
+    "Q206987",
+    "Q17172850"
+   ],
+   "birth": "1923-01-01",
+   "death": "1999-10-09",
+   "image": "Milt Jackson and Ray Brown, New York, between 1946 and 1948 (William P. Gottlieb 04461) (cropped).jpg",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1962: Big Bags , Milt Jackson",
+     "table": null,
+     "row": 9,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": false,
+     "year": "1962",
+     "title_text": "Big Bags",
+     "leader_text": "Milt Jackson",
+     "label_text": null
+    }
+   ]
+  },
+  "Bursting Out with the All-Star Big Band!": {
+   "requested_title": "Bursting Out with the All-Star Big Band!",
+   "title": "Bursting Out with the All-Star Big Band!",
+   "redirected": false,
+   "qid": "Q5000654",
+   "bucket": "release",
+   "label": "Bursting Out with the All-Star Big Band!",
+   "description": "album by Oscar Peterson",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q105349"
+   ],
+   "labels_p264": [
+    "Q1124849"
+   ],
+   "publication_dates": [
+    "1962-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "f4f6e869-058b-3b93-aa6d-2bb02a92d39c",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1962: Bursting Out with the All-Star Big Band! , Oscar Peterson",
+     "table": null,
+     "row": 10,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": true,
+     "year": "1962",
+     "title_text": "Bursting Out with the All-Star Big Band!",
+     "leader_text": "Oscar Peterson",
+     "label_text": null
+    }
+   ]
+  },
+  "Oscar Peterson": {
+   "requested_title": "Oscar Peterson",
+   "title": "Oscar Peterson",
+   "redirected": false,
+   "qid": "Q105349",
+   "bucket": "person",
+   "label": "Oscar Peterson",
+   "description": "Canadian jazz pianist (1925–2007)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q1124849",
+    "Q165745",
+    "Q1809823",
+    "Q3142419",
+    "Q319256"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q61947380",
+    "Q806349",
+    "Q36834",
+    "Q14915627",
+    "Q33999",
+    "Q15981151",
+    "Q486748"
+   ],
+   "instruments": [
+    "Q5994",
+    "Q17172850",
+    "Q133163"
+   ],
+   "birth": "1925-08-15",
+   "death": "2007-12-23",
+   "image": "Oscar Peterson.jpg",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1962: Bursting Out with the All-Star Big Band! , Oscar Peterson",
+     "table": null,
+     "row": 10,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": false,
+     "year": "1962",
+     "title_text": "Bursting Out with the All-Star Big Band!",
+     "leader_text": "Oscar Peterson",
+     "label_text": null
+    }
+   ]
+  },
+  "Rhythm Is My Business": {
+   "requested_title": "Rhythm Is My Business",
+   "title": "Rhythm Is My Business",
+   "redirected": false,
+   "qid": "Q1763825",
+   "bucket": "release",
+   "label": "Rhythm Is My Business",
+   "description": "1962 album by Ella Fitzgerald",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q1768"
+   ],
+   "labels_p264": [
+    "Q1124849"
+   ],
+   "publication_dates": [
+    "1962-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "435a51f8-faa0-3daf-81eb-3c33489e6d3a",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1962: Rhythm Is My Business , Ella Fitzgerald",
+     "table": null,
+     "row": 11,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": true,
+     "year": "1962",
+     "title_text": "Rhythm Is My Business",
+     "leader_text": "Ella Fitzgerald",
+     "label_text": null
+    }
+   ]
+  },
+  "Ella Fitzgerald": {
+   "requested_title": "Ella Fitzgerald",
+   "title": "Ella Fitzgerald",
+   "redirected": false,
+   "qid": "Q1768",
+   "bucket": "person",
+   "label": "Ella Fitzgerald",
+   "description": "American jazz singer (1917–1996)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q193023",
+    "Q557632",
+    "Q1124849"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q488205",
+    "Q36834",
+    "Q158852",
+    "Q806349",
+    "Q10800557",
+    "Q55960555",
+    "Q15981151",
+    "Q177220",
+    "Q66314404",
+    "Q639669",
+    "Q822146"
+   ],
+   "instruments": [
+    "Q5994",
+    "Q17172850"
+   ],
+   "birth": "1917-04-25",
+   "death": "1996-06-15",
+   "image": "Ella Fitzgerald by Carl Van Vechten - American Flag (cropped).jpg",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1962: Rhythm Is My Business , Ella Fitzgerald",
+     "table": null,
+     "row": 11,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": false,
+     "year": "1962",
+     "title_text": "Rhythm Is My Business",
+     "leader_text": "Ella Fitzgerald",
+     "label_text": null
+    }
+   ]
+  },
+  "The Complete Town Hall Concert": {
+   "requested_title": "The Complete Town Hall Concert",
+   "title": "The Complete Town Hall Concert",
+   "redirected": false,
+   "qid": "Q7727198",
+   "bucket": "release",
+   "label": "The Complete Town Hall Concert",
+   "description": "live album by Charles Mingus Jr.",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q107432"
+   ],
+   "labels_p264": [
+    "Q1542119"
+   ],
+   "publication_dates": [],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "2b572f26-de2e-3ebc-b721-712a1733afb8",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1962: The Complete Town Hall Concert , Charles Mingus",
+     "table": null,
+     "row": 12,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": true,
+     "year": "1962",
+     "title_text": "The Complete Town Hall Concert",
+     "leader_text": "Charles Mingus",
+     "label_text": null
+    }
+   ]
+  },
+  "Charles Mingus": {
+   "requested_title": "Charles Mingus",
+   "title": "Charles Mingus",
+   "redirected": false,
+   "qid": "Q107432",
+   "bucket": "person",
+   "label": "Charles Mingus",
+   "description": "American jazz double bassist, composer and bandleader (1922–1979)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q1181679",
+    "Q1542119",
+    "Q1524530",
+    "Q183387",
+    "Q165745",
+    "Q885833",
+    "Q837222",
+    "Q202440"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q486748",
+    "Q36834",
+    "Q806349",
+    "Q158852",
+    "Q15981151",
+    "Q584301",
+    "Q639669",
+    "Q1214796"
+   ],
+   "instruments": [
+    "Q5994",
+    "Q80019",
+    "Q8350",
+    "Q8371"
+   ],
+   "birth": "1922-04-22",
+   "death": "1979-01-05",
+   "image": "Charles Mingus 1976.jpg",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1962: The Complete Town Hall Concert , Charles Mingus",
+     "table": null,
+     "row": 12,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": false,
+     "year": "1962",
+     "title_text": "The Complete Town Hall Concert",
+     "leader_text": "Charles Mingus",
+     "label_text": null
+    }
+   ]
+  },
+  "For Someone I Love": {
+   "requested_title": "For Someone I Love",
+   "title": "For Someone I Love",
+   "redirected": false,
+   "qid": "Q5466876",
+   "bucket": "release",
+   "label": "For Someone I Love",
+   "description": "album by Milt Jackson",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q435665"
+   ],
+   "labels_p264": [
+    "Q2975356"
+   ],
+   "publication_dates": [
+    "1963-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1963: For Someone I Love , Milt Jackson",
+     "table": null,
+     "row": 13,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": true,
+     "year": "1963",
+     "title_text": "For Someone I Love",
+     "leader_text": "Milt Jackson",
+     "label_text": null
+    }
+   ]
+  },
+  "The Body & the Soul": {
+   "requested_title": "The Body & the Soul",
+   "title": "The Body & the Soul",
+   "redirected": false,
+   "qid": "Q7718977",
+   "bucket": "release",
+   "label": "The Body & the Soul",
+   "description": "album by Freddie Hubbard",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q346762"
+   ],
+   "labels_p264": [
+    "Q1524530"
+   ],
+   "publication_dates": [
+    "1964-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "15d10d7d-0d4e-3a68-bf3d-c11df2bff75e",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1963: The Body & the Soul , Freddie Hubbard",
+     "table": null,
+     "row": 14,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": true,
+     "year": "1963",
+     "title_text": "The Body & the Soul",
+     "leader_text": "Freddie Hubbard",
+     "label_text": null
+    }
+   ]
+  },
+  "Freddie Hubbard": {
+   "requested_title": "Freddie Hubbard",
+   "title": "Freddie Hubbard",
+   "redirected": false,
+   "qid": "Q346762",
+   "bucket": "person",
+   "label": "Freddie Hubbard",
+   "description": "American jazz trumpeter (1938–2008)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q885833",
+    "Q202440",
+    "Q183387",
+    "Q507942",
+    "Q726251",
+    "Q466785"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q12377274",
+    "Q36834",
+    "Q15981151",
+    "Q55960555"
+   ],
+   "instruments": [
+    "Q8338",
+    "Q382616",
+    "Q11405"
+   ],
+   "birth": "1938-04-07",
+   "death": "2008-12-29",
+   "image": "Freddie Hubbard 1976.jpg",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1963: The Body & the Soul , Freddie Hubbard",
+     "table": null,
+     "row": 14,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": false,
+     "year": "1963",
+     "title_text": "The Body & the Soul",
+     "leader_text": "Freddie Hubbard",
+     "label_text": null
+    }
+   ]
+  },
+  "Mary Lou Williams (album)": {
+   "requested_title": "Mary Lou Williams (album)",
+   "title": "Mary Lou Williams (album)",
+   "redirected": false,
+   "qid": "Q111913280",
+   "bucket": "release",
+   "label": "Mary Lou Williams",
+   "description": "1964 self-titled studio album by Mary Lou Williams",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q126677"
+   ],
+   "labels_p264": [
+    "Q1435522"
+   ],
+   "publication_dates": [
+    "1964-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "1bce2ad1-f883-39a2-93d0-0d75867be578",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1964: Mary Lou Williams Presents Black Christ of the Andes , Mary Lou Williams",
+     "table": null,
+     "row": 15,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": true,
+     "year": "1964",
+     "title_text": "Mary Lou Williams Presents Black Christ of the Andes",
+     "leader_text": "Mary Lou Williams",
+     "label_text": null
+    }
+   ]
+  },
+  "Mary Lou Williams": {
+   "requested_title": "Mary Lou Williams",
+   "title": "Mary Lou Williams",
+   "redirected": false,
+   "qid": "Q126677",
+   "bucket": "person",
+   "label": "Mary Lou Williams",
+   "description": "American jazz pianist and composer (1910–1981)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q202440",
+    "Q557632",
+    "Q994175",
+    "Q1742077",
+    "Q57389728"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q61947380",
+    "Q36834",
+    "Q806349",
+    "Q37226",
+    "Q55960555",
+    "Q486748",
+    "Q1643514",
+    "Q639669"
+   ],
+   "instruments": [
+    "Q5994"
+   ],
+   "birth": "1910-05-08",
+   "death": "1981-05-28",
+   "image": "Mary Lou Williams (Gottlieb 09231).jpg",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1964: Mary Lou Williams Presents Black Christ of the Andes , Mary Lou Williams",
+     "table": null,
+     "row": 15,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": false,
+     "year": "1964",
+     "title_text": "Mary Lou Williams Presents Black Christ of the Andes",
+     "leader_text": "Mary Lou Williams",
+     "label_text": null
+    }
+   ]
+  },
+  "And Then Again": {
+   "requested_title": "And Then Again",
+   "title": "And Then Again",
+   "redirected": false,
+   "qid": "Q4753370",
+   "bucket": "release",
+   "label": "And Then Again",
+   "description": "album by Elvin Jones",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q357179"
+   ],
+   "labels_p264": [
+    "Q202440"
+   ],
+   "publication_dates": [
+    "1965-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1965: And Then Again , Elvin Jones",
+     "table": null,
+     "row": 16,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": true,
+     "year": "1965",
+     "title_text": "And Then Again",
+     "leader_text": "Elvin Jones",
+     "label_text": null
+    }
+   ]
+  },
+  "Elvin Jones": {
+   "requested_title": "Elvin Jones",
+   "title": "Elvin Jones",
+   "redirected": false,
+   "qid": "Q357179",
+   "bucket": "person",
+   "label": "Elvin Jones",
+   "description": "American jazz drummer (1927–2004)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q885833",
+    "Q466785"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q61946839",
+    "Q55960555",
+    "Q15981151",
+    "Q386854",
+    "Q639669"
+   ],
+   "instruments": [
+    "Q128309"
+   ],
+   "birth": "1927-09-09",
+   "death": "2004-05-18",
+   "image": "Elvin Jones 1979 3.jpg",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1965: And Then Again , Elvin Jones",
+     "table": null,
+     "row": 16,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": false,
+     "year": "1965",
+     "title_text": "And Then Again",
+     "leader_text": "Elvin Jones",
+     "label_text": null
+    }
+   ]
+  },
+  "Roll 'Em: Shirley Scott Plays the Big Bands": {
+   "requested_title": "Roll 'Em: Shirley Scott Plays the Big Bands",
+   "title": "Roll 'Em: Shirley Scott Plays the Big Bands",
+   "redirected": false,
+   "qid": "Q7360856",
+   "bucket": "release",
+   "label": "Roll 'Em: Shirley Scott Plays the Big Bands",
+   "description": "album by Shirley Scott",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q463296"
+   ],
+   "labels_p264": [
+    "Q1524530"
+   ],
+   "publication_dates": [
+    "1966-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "f69fc737-1658-35d1-89aa-83cd0dab72db",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1966: Roll 'Em: Shirley Scott Plays the Big Bands , Shirley Scott",
+     "table": null,
+     "row": 17,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": true,
+     "year": "1966",
+     "title_text": "Roll 'Em: Shirley Scott Plays the Big Bands",
+     "leader_text": "Shirley Scott",
+     "label_text": null
+    }
+   ]
+  },
+  "Shirley Scott": {
+   "requested_title": "Shirley Scott",
+   "title": "Shirley Scott",
+   "redirected": false,
+   "qid": "Q463296",
+   "bucket": "person",
+   "label": "Shirley Scott",
+   "description": "American jazz organist (1934–2002)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q1811175"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q66357787",
+    "Q55960555",
+    "Q639669",
+    "Q806349"
+   ],
+   "instruments": [
+    "Q105891",
+    "Q1444",
+    "Q5994"
+   ],
+   "birth": "1934-03-14",
+   "death": "2002-03-10",
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1966: Roll 'Em: Shirley Scott Plays the Big Bands , Shirley Scott",
+     "table": null,
+     "row": 17,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": false,
+     "year": "1966",
+     "title_text": "Roll 'Em: Shirley Scott Plays the Big Bands",
+     "leader_text": "Shirley Scott",
+     "label_text": null
+    }
+   ]
+  },
+  "A Mann & A Woman": {
+   "requested_title": "A Mann & A Woman",
+   "title": "A Mann & a Woman",
+   "redirected": true,
+   "qid": "Q20979326",
+   "bucket": "release",
+   "label": "A Mann & a Woman",
+   "description": "1967 studio album by Herbie Mann and Tamiko Jones",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q551912"
+   ],
+   "labels_p264": [
+    "Q202440"
+   ],
+   "publication_dates": [
+    "1967-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "f66effd5-df34-431a-babe-7b79ec79fc50",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1967: A Mann & A Woman , Tamiko Jones / Herbie Mann",
+     "table": null,
+     "row": 18,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": true,
+     "year": "1967",
+     "title_text": "A Mann & A Woman",
+     "leader_text": "Tamiko Jones / Herbie Mann",
+     "label_text": null
+    }
+   ]
+  },
+  "Tamiko Jones": {
+   "requested_title": "Tamiko Jones",
+   "title": "Tamiko Jones",
+   "redirected": false,
+   "qid": "Q7681239",
+   "bucket": "person",
+   "label": "Tamiko Jones",
+   "description": "American singer (born 1945)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q497149"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q15981151"
+   ],
+   "instruments": [],
+   "birth": "1945-01-01",
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1967: A Mann & A Woman , Tamiko Jones / Herbie Mann",
+     "table": null,
+     "row": 18,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": false,
+     "year": "1967",
+     "title_text": "A Mann & A Woman",
+     "leader_text": "Tamiko Jones / Herbie Mann",
+     "label_text": null
+    }
+   ]
+  },
+  "Herbie Mann": {
+   "requested_title": "Herbie Mann",
+   "title": "Herbie Mann",
+   "redirected": false,
+   "qid": "Q551912",
+   "bucket": "person",
+   "label": "Herbie Mann",
+   "description": "American jazz flutist (1930–2003)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q202440"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q36834",
+    "Q15981151",
+    "Q12800682",
+    "Q12902372",
+    "Q639669"
+   ],
+   "instruments": [
+    "Q8345",
+    "Q11405"
+   ],
+   "birth": "1930-04-16",
+   "death": "2003-07-01",
+   "image": "Herbie Mann.jpg",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1967: A Mann & A Woman , Tamiko Jones / Herbie Mann",
+     "table": null,
+     "row": 18,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": false,
+     "year": "1967",
+     "title_text": "A Mann & A Woman",
+     "leader_text": "Tamiko Jones / Herbie Mann",
+     "label_text": null
+    }
+   ]
+  },
+  "Heads Up! (Blue Mitchell album)": {
+   "requested_title": "Heads Up! (Blue Mitchell album)",
+   "title": "Heads Up! (Blue Mitchell album)",
+   "redirected": false,
+   "qid": "Q5689963",
+   "bucket": "release",
+   "label": "Heads Up!",
+   "description": "1968 album by Blue Mitchell",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q885774"
+   ],
+   "labels_p264": [
+    "Q885833"
+   ],
+   "publication_dates": [
+    "1968-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "60142b37-b19a-4d26-a43c-907f9f6ac369",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1967: Heads Up , Blue Mitchell",
+     "table": null,
+     "row": 19,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": true,
+     "year": "1967",
+     "title_text": "Heads Up",
+     "leader_text": "Blue Mitchell",
+     "label_text": null
+    }
+   ]
+  },
+  "Blue Mitchell": {
+   "requested_title": "Blue Mitchell",
+   "title": "Blue Mitchell",
+   "redirected": false,
+   "qid": "Q885774",
+   "bucket": "person",
+   "label": "Blue Mitchell",
+   "description": "American trumpeter and composer (1930–1979)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q885833",
+    "Q2975356"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q36834",
+    "Q61947786",
+    "Q639669",
+    "Q12377274"
+   ],
+   "instruments": [
+    "Q8338"
+   ],
+   "birth": "1930-03-13",
+   "death": "1979-05-21",
+   "image": "Nachtconcert van het Horace Silverquintet in het concertgebouw te Amsterdam, vl, Bestanddeelnr 910-1692.jpg",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1967: Heads Up , Blue Mitchell",
+     "table": null,
+     "row": 19,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": false,
+     "year": "1967",
+     "title_text": "Heads Up",
+     "leader_text": "Blue Mitchell",
+     "label_text": null
+    }
+   ]
+  },
+  "Listen Here (Freddie McCoy album)": {
+   "requested_title": "Listen Here (Freddie McCoy album)",
+   "title": "Listen Here (Freddie McCoy album)",
+   "redirected": false,
+   "qid": "Q17099369",
+   "bucket": "release",
+   "label": "Listen Here",
+   "description": "album by Freddie McCoy",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q2696464"
+   ],
+   "labels_p264": [
+    "Q1811175"
+   ],
+   "publication_dates": [
+    "1968-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1968: Listen Here , Freddie McCoy",
+     "table": null,
+     "row": 20,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": true,
+     "year": "1968",
+     "title_text": "Listen Here",
+     "leader_text": "Freddie McCoy",
+     "label_text": null
+    }
+   ]
+  },
+  "Freddie McCoy": {
+   "requested_title": "Freddie McCoy",
+   "title": "Freddie McCoy",
+   "redirected": false,
+   "qid": "Q2696464",
+   "bucket": "person",
+   "label": "Freddie McCoy",
+   "description": "American musician (1932–2009)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q5138825"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q639669"
+   ],
+   "instruments": [
+    "Q206987"
+   ],
+   "birth": "1932-11-29",
+   "death": "2009-09-27",
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1968: Listen Here , Freddie McCoy",
+     "table": null,
+     "row": 20,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": false,
+     "year": "1968",
+     "title_text": "Listen Here",
+     "leader_text": "Freddie McCoy",
+     "label_text": null
+    }
+   ]
+  },
+  "Kim Weston": {
+   "requested_title": "Kim Weston",
+   "title": "Kim Weston",
+   "redirected": false,
+   "qid": "Q6409563",
+   "bucket": "person",
+   "label": "Kim Weston",
+   "description": "American soul singer",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q43327"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q65620039",
+    "Q639669"
+   ],
+   "instruments": [
+    "Q17172850"
+   ],
+   "birth": "1939-12-20",
+   "death": null,
+   "image": "Kim Weston.png",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1970: Kim Kim Kim , Kim Weston",
+     "table": null,
+     "row": 21,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": false,
+     "year": "1970",
+     "title_text": "Kim Kim Kim",
+     "leader_text": "Kim Weston",
+     "label_text": null
+    }
+   ]
+  },
+  "That Lovin' Feelin'": {
+   "requested_title": "That Lovin' Feelin'",
+   "title": "That Lovin' Feelin'",
+   "redirected": false,
+   "qid": "Q28872171",
+   "bucket": "release",
+   "label": "That Lovin' Feelin'",
+   "description": "album by Junior Mance",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q359992"
+   ],
+   "labels_p264": [
+    "Q3048437"
+   ],
+   "publication_dates": [
+    "1972-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "As sidewoman or guest",
+     "section_path": [
+      "Discography",
+      "As sidewoman or guest",
+      "With others"
+     ],
+     "header": "As sidewoman or guest",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "1973: That Lovin' Feelin' , Junior Mance",
+     "table": null,
+     "row": 22,
+     "source": "discography_section",
+     "group": "With others",
+     "italic": true,
+     "year": "1973",
+     "title_text": "That Lovin' Feelin'",
+     "leader_text": "Junior Mance",
+     "label_text": null
+    }
+   ]
+  },
+  "A Mann & a Woman": {
+   "requested_title": "A Mann & a Woman",
+   "title": "A Mann & a Woman",
+   "redirected": false,
+   "qid": "Q20979326",
+   "bucket": "release",
+   "label": "A Mann & a Woman",
+   "description": "1967 studio album by Herbie Mann and Tamiko Jones",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q551912"
+   ],
+   "labels_p264": [
+    "Q202440"
+   ],
+   "publication_dates": [
+    "1967-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "f66effd5-df34-431a-babe-7b79ec79fc50",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "A Mann & a Woman",
+     "table": null,
+     "row": 0,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "A Night in Tunisia (1958 album)": {
+   "requested_title": "A Night in Tunisia (1958 album)",
+   "title": "A Night in Tunisia (1958 album)",
+   "redirected": false,
+   "qid": "Q4658607",
+   "bucket": "release",
+   "label": "A Night in Tunisia",
+   "description": "studioalbum från år 1958 av Art Blakey",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q311715"
+   ],
+   "labels_p264": [
+    "Q202585"
+   ],
+   "publication_dates": [
+    "1958-02-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "A Night in Tunisia (1958 album)",
+     "table": null,
+     "row": 1,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Al Grey": {
+   "requested_title": "Al Grey",
+   "title": "Al Grey",
+   "redirected": false,
+   "qid": "Q715687",
+   "bucket": "person",
+   "label": "Al Grey",
+   "description": "American jazz musician (1925–2000)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q1501108"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q15981151",
+    "Q639669"
+   ],
+   "instruments": [
+    "Q8350"
+   ],
+   "birth": "1925-06-06",
+   "death": "2000-03-24",
+   "image": "Al Grey (Gottlieb).jpg",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Al Grey",
+     "table": null,
+     "row": 4,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Alma Julia Hightower": {
+   "requested_title": "Alma Julia Hightower",
+   "title": "Alma Julia Hightower",
+   "redirected": false,
+   "qid": "Q4733561",
+   "bucket": "person",
+   "label": "Alma Julia Hightower",
+   "description": "American musician (1888-1970)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [],
+   "publication_dates": [],
+   "occupations": [
+    "Q806349",
+    "Q36834",
+    "Q158852",
+    "Q16145150"
+   ],
+   "instruments": [],
+   "birth": "1888-11-27",
+   "death": "1970-08-01",
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Alma Julia Hightower",
+     "table": null,
+     "row": 5,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Back on the Scene": {
+   "requested_title": "Back on the Scene",
+   "title": "Back on the Scene",
+   "redirected": false,
+   "qid": "Q4839357",
+   "bucket": "release",
+   "label": "Back on the Scene",
+   "description": "album by Bennie Green",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q817875"
+   ],
+   "labels_p264": [
+    "Q885833"
+   ],
+   "publication_dates": [
+    "1958-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "69218ced-43bb-4d25-9466-42b924d861c3",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Back on the Scene",
+     "table": null,
+     "row": 9,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Bebop": {
+   "requested_title": "Bebop",
+   "title": "Bebop",
+   "redirected": false,
+   "qid": "Q105513",
+   "bucket": "other",
+   "label": "bebop",
+   "description": "a style of jazz developed in the early to mid-1940s in the United States",
+   "P31": [
+    "Q188451"
+   ],
+   "classes": [
+    "Q188451"
+   ],
+   "performers": [],
+   "labels_p264": [],
+   "publication_dates": [],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": "Howard McGhee, Brick Fleagle and Miles Davis, ca September 1947 (Gottlieb).jpg",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Bebop",
+     "table": null,
+     "row": 10,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Bennie Green": {
+   "requested_title": "Bennie Green",
+   "title": "Bennie Green",
+   "redirected": false,
+   "qid": "Q817875",
+   "bucket": "person",
+   "label": "Bennie Green",
+   "description": "American jazz trombonist (1923–1977)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q885833",
+    "Q1811175"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q15981151",
+    "Q544972",
+    "Q639669"
+   ],
+   "instruments": [
+    "Q8350"
+   ],
+   "birth": "1923-04-16",
+   "death": "1977-03-23",
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Bennie Green",
+     "table": null,
+     "row": 11,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Benny Powell": {
+   "requested_title": "Benny Powell",
+   "title": "Benny Powell",
+   "redirected": false,
+   "qid": "Q599429",
+   "bucket": "person",
+   "label": "Benny Powell",
+   "description": "American jazz trombonist (1930–2010)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [],
+   "publication_dates": [],
+   "occupations": [
+    "Q16145150",
+    "Q15981151",
+    "Q639669"
+   ],
+   "instruments": [
+    "Q8350"
+   ],
+   "birth": "1930-03-01",
+   "death": "2010-06-26",
+   "image": "Count Basie and His Orchestra performs in Helsinki 1962 (JOKAHBL3E C04-11).tif",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Benny Powell",
+     "table": null,
+     "row": 12,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Charlie Persip": {
+   "requested_title": "Charlie Persip",
+   "title": "Charlie Persip",
+   "redirected": false,
+   "qid": "Q1066973",
+   "bucket": "person",
+   "label": "Charlie Persip",
+   "description": "American jazz drummer (1929–2020)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [],
+   "publication_dates": [],
+   "occupations": [
+    "Q16145150",
+    "Q61946839",
+    "Q639669"
+   ],
+   "instruments": [
+    "Q128309"
+   ],
+   "birth": "1929-07-26",
+   "death": "2020-08-23",
+   "image": "Charlie Persip Gretsch drums.jpg",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Charlie Persip",
+     "table": null,
+     "row": 16,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Curtis Fuller": {
+   "requested_title": "Curtis Fuller",
+   "title": "Curtis Fuller",
+   "redirected": false,
+   "qid": "Q1145565",
+   "bucket": "person",
+   "label": "Curtis Fuller",
+   "description": "American jazz musician (1932–2021)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q885833",
+    "Q216364"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q36834",
+    "Q15981151",
+    "Q55960555"
+   ],
+   "instruments": [
+    "Q8350"
+   ],
+   "birth": "1934-12-15",
+   "death": "2021-05-08",
+   "image": "Curtis Fuller.jpg",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Curtis Fuller",
+     "table": null,
+     "row": 17,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "César Camargo Mariano": {
+   "requested_title": "César Camargo Mariano",
+   "title": "César Camargo Mariano",
+   "redirected": false,
+   "qid": "Q5065421",
+   "bucket": "person",
+   "label": "Cesar Camargo Mariano",
+   "description": "Brazilian singer, pianist, arranger, composer and music producer",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q700359",
+    "Q706013",
+    "Q1536003",
+    "Q5009264",
+    "Q10356616",
+    "Q1327940"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q486748",
+    "Q15981151",
+    "Q183945",
+    "Q36834",
+    "Q1415090",
+    "Q639669"
+   ],
+   "instruments": [
+    "Q5994",
+    "Q901207",
+    "Q17172850"
+   ],
+   "birth": "1943-09-19",
+   "death": null,
+   "image": "Marianos (cropped).jpg",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "César Camargo Mariano",
+     "table": null,
+     "row": 18,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Devil's Got Your Tongue": {
+   "requested_title": "Devil's Got Your Tongue",
+   "title": "Devil's Got Your Tongue",
+   "redirected": false,
+   "qid": "Q106201534",
+   "bucket": "release",
+   "label": "Devil's Got Your Tongue",
+   "description": "1992 studio album by Abbey Lincoln",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q231071"
+   ],
+   "labels_p264": [
+    "Q1124849"
+   ],
+   "publication_dates": [
+    "1992-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "ac0a6938-3871-3f55-a07f-c21f398d0c9a",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Devil's Got Your Tongue",
+     "table": null,
+     "row": 20,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Dexter Gordon": {
+   "requested_title": "Dexter Gordon",
+   "title": "Dexter Gordon",
+   "redirected": false,
+   "qid": "Q118116",
+   "bucket": "person",
+   "label": "Dexter Gordon",
+   "description": "American jazz saxophonist (1923–1990)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q885833",
+    "Q183387",
+    "Q1341612",
+    "Q1518413",
+    "Q1811175"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q36834",
+    "Q12800682",
+    "Q15981151",
+    "Q55960555",
+    "Q639669",
+    "Q806349"
+   ],
+   "instruments": [
+    "Q9798",
+    "Q1414932"
+   ],
+   "birth": "1923-02-27",
+   "death": "1990-04-25",
+   "image": "Dexter Gordon2.jpg",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Dexter Gordon",
+     "table": null,
+     "row": 21,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Dottie Dodgion": {
+   "requested_title": "Dottie Dodgion",
+   "title": "Dottie Dodgion",
+   "redirected": false,
+   "qid": "Q15441038",
+   "bucket": "person",
+   "label": "Dottie Dodgion",
+   "description": "American musician",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [],
+   "publication_dates": [],
+   "occupations": [
+    "Q177220",
+    "Q386854"
+   ],
+   "instruments": [
+    "Q128309",
+    "Q17172850"
+   ],
+   "birth": "1929-09-23",
+   "death": "2021-09-17",
+   "image": "Vi Redd, Marian McPartland and Dottie Dodgion.jpg",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Dottie Dodgion",
+     "table": null,
+     "row": 26,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Erica Lindsay": {
+   "requested_title": "Erica Lindsay",
+   "title": "Erica Lindsay",
+   "redirected": false,
+   "qid": "Q1351800",
+   "bucket": "person",
+   "label": "Erica Lindsay",
+   "description": "American musician",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q837222"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q36834",
+    "Q15981151",
+    "Q12800682",
+    "Q639669"
+   ],
+   "instruments": [
+    "Q9798"
+   ],
+   "birth": "1955-06-05",
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Erica Lindsay",
+     "table": null,
+     "row": 27,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Ernie Wilkins": {
+   "requested_title": "Ernie Wilkins",
+   "title": "Ernie Wilkins",
+   "redirected": false,
+   "qid": "Q326634",
+   "bucket": "person",
+   "label": "Ernie Wilkins",
+   "description": "American jazz saxophonist, bandleader and music arranger",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q1341612"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q806349",
+    "Q158852",
+    "Q12800682",
+    "Q15981151",
+    "Q36834",
+    "Q639669"
+   ],
+   "instruments": [
+    "Q9798",
+    "Q1463985",
+    "Q1414932"
+   ],
+   "birth": "1920-07-20",
+   "death": "1999-06-05",
+   "image": "Ernie Wilkins.jpg",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Ernie Wilkins",
+     "table": null,
+     "row": 28,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Essentially Ellington High School Jazz Band Competition and Festival": {
+   "requested_title": "Essentially Ellington High School Jazz Band Competition and Festival",
+   "title": "Essentially Ellington High School Jazz Band Competition and Festival",
+   "redirected": false,
+   "qid": "Q5399586",
+   "bucket": "other",
+   "label": "Essentially Ellington High School Jazz Band Competition and Festival",
+   "description": "American high school jazz competition and festival",
+   "P31": [],
+   "classes": [],
+   "performers": [],
+   "labels_p264": [],
+   "publication_dates": [],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Essentially Ellington High School Jazz Band Competition and Festival",
+     "table": null,
+     "row": 29,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "For the First Time (Kim Weston album)": {
+   "requested_title": "For the First Time (Kim Weston album)",
+   "title": "For the First Time (Kim Weston album)",
+   "redirected": false,
+   "qid": "Q5467041",
+   "bucket": "release",
+   "label": "For the First Time",
+   "description": "album by Kim Weston",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q6409563"
+   ],
+   "labels_p264": [
+    "Q1881437"
+   ],
+   "publication_dates": [
+    "1967-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "For the First Time (Kim Weston album)",
+     "table": null,
+     "row": 31,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Fostina Dixon": {
+   "requested_title": "Fostina Dixon",
+   "title": "Fostina Dixon",
+   "redirected": false,
+   "qid": "Q24036299",
+   "bucket": "person",
+   "label": "Fostina Dixon",
+   "description": "American jazz musician",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [],
+   "publication_dates": [],
+   "occupations": [
+    "Q12800682",
+    "Q177220",
+    "Q639669"
+   ],
+   "instruments": [
+    "Q11405",
+    "Q17172850"
+   ],
+   "birth": "1956-08-16",
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Fostina Dixon",
+     "table": null,
+     "row": 32,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Frank Rehak": {
+   "requested_title": "Frank Rehak",
+   "title": "Frank Rehak",
+   "redirected": false,
+   "qid": "Q1444006",
+   "bucket": "person",
+   "label": "Frank Rehak",
+   "description": "American musician (1926–1987)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [],
+   "publication_dates": [],
+   "occupations": [
+    "Q15981151",
+    "Q544972",
+    "Q639669"
+   ],
+   "instruments": [
+    "Q8350"
+   ],
+   "birth": "1926-07-06",
+   "death": "1987-06-26",
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Frank Rehak",
+     "table": null,
+     "row": 33,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Frankie Dunlop": {
+   "requested_title": "Frankie Dunlop",
+   "title": "Frankie Dunlop",
+   "redirected": false,
+   "qid": "Q353990",
+   "bucket": "person",
+   "label": "Frankie Dunlop",
+   "description": "American jazz drummer (1928-2014)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [],
+   "publication_dates": [],
+   "occupations": [
+    "Q15981151",
+    "Q639669",
+    "Q4351403"
+   ],
+   "instruments": [
+    "Q128309"
+   ],
+   "birth": "1928-12-06",
+   "death": "2014-07-07",
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Frankie Dunlop",
+     "table": null,
+     "row": 34,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "George Tucker (musician)": {
+   "requested_title": "George Tucker (musician)",
+   "title": "George Tucker (musician)",
+   "redirected": false,
+   "qid": "Q338805",
+   "bucket": "person",
+   "label": "George Tucker",
+   "description": "American musician (1927–1965)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [],
+   "publication_dates": [],
+   "occupations": [
+    "Q15981151",
+    "Q584301",
+    "Q639669"
+   ],
+   "instruments": [
+    "Q80019"
+   ],
+   "birth": "1927-12-10",
+   "death": "1965-10-10",
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "George Tucker (musician)",
+     "table": null,
+     "row": 36,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Gloria Lynne": {
+   "requested_title": "Gloria Lynne",
+   "title": "Gloria Lynne",
+   "redirected": false,
+   "qid": "Q1532096",
+   "bucket": "person",
+   "label": "Gloria Lynne",
+   "description": "singer (1929–2013)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q5416958",
+    "Q1826415"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q15981151",
+    "Q488205",
+    "Q177220",
+    "Q105652947",
+    "Q639669",
+    "Q66314404"
+   ],
+   "instruments": [
+    "Q17172850"
+   ],
+   "birth": "1929-11-23",
+   "death": "2013-10-15",
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Gloria Lynne",
+     "table": null,
+     "row": 37,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Hale Smith": {
+   "requested_title": "Hale Smith",
+   "title": "Hale Smith",
+   "redirected": false,
+   "qid": "Q373286",
+   "bucket": "person",
+   "label": "Hale Smith",
+   "description": "American composer, music pedagogue, and jazz pianist (1925–2009)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [],
+   "publication_dates": [],
+   "occupations": [
+    "Q36834",
+    "Q486748",
+    "Q14915627",
+    "Q1643514",
+    "Q16145150",
+    "Q15981151",
+    "Q2675537",
+    "Q1607826"
+   ],
+   "instruments": [
+    "Q5994"
+   ],
+   "birth": "1925-06-29",
+   "death": "2009-11-24",
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Hale Smith",
+     "table": null,
+     "row": 38,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Hamiet Bluiett": {
+   "requested_title": "Hamiet Bluiett",
+   "title": "Hamiet Bluiett",
+   "redirected": false,
+   "qid": "Q1573406",
+   "bucket": "person",
+   "label": "Hamiet Bluiett",
+   "description": "American jazz saxophonist, clarinetist, and composer (1940–2018)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q1429437"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q36834",
+    "Q15981151",
+    "Q12800682",
+    "Q639669"
+   ],
+   "instruments": [
+    "Q9798",
+    "Q808218"
+   ],
+   "birth": "1940-09-16",
+   "death": "2018-10-04",
+   "image": "Hamiet Bluiett.jpg",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Hamiet Bluiett",
+     "table": null,
+     "row": 39,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Herb Lance": {
+   "requested_title": "Herb Lance",
+   "title": "Herb Lance",
+   "redirected": false,
+   "qid": "Q20130244",
+   "bucket": "person",
+   "label": "Herb Lance",
+   "description": "American singer-songwriter",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [],
+   "publication_dates": [],
+   "occupations": [
+    "Q177220",
+    "Q753110",
+    "Q183945",
+    "Q488205"
+   ],
+   "instruments": [
+    "Q17172850"
+   ],
+   "birth": "1925-06-12",
+   "death": "2006-11-07",
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Herb Lance",
+     "table": null,
+     "row": 41,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Hoochie Cooche Man": {
+   "requested_title": "Hoochie Cooche Man",
+   "title": "Hoochie Cooche Man",
+   "redirected": false,
+   "qid": "Q28206667",
+   "bucket": "release",
+   "label": "Hoochie Coochie Man",
+   "description": "album by Jimmy Smith",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q318948"
+   ],
+   "labels_p264": [
+    "Q1124849"
+   ],
+   "publication_dates": [
+    "1966-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Hoochie Cooche Man",
+     "table": null,
+     "row": 44,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Hub Cap (album)": {
+   "requested_title": "Hub Cap (album)",
+   "title": "Hub Cap (album)",
+   "redirected": false,
+   "qid": "Q5926650",
+   "bucket": "release",
+   "label": "Hub Cap",
+   "description": "album by Freddie Hubbard",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q346762"
+   ],
+   "labels_p264": [
+    "Q885833"
+   ],
+   "publication_dates": [
+    "1961-10-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "952cd2d7-53bc-34e4-9002-56ac659fbf34",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Hub Cap (album)",
+     "table": null,
+     "row": 45,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Isabelle Leymarie": {
+   "requested_title": "Isabelle Leymarie",
+   "title": "Isabelle Leymarie",
+   "redirected": false,
+   "qid": "Q17523873",
+   "bucket": "person",
+   "label": "Isabelle Leymarie",
+   "description": "French musicologist",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [],
+   "publication_dates": [],
+   "occupations": [
+    "Q14915627",
+    "Q486748",
+    "Q15981151",
+    "Q11814411",
+    "Q333634",
+    "Q33231",
+    "Q3455803",
+    "Q16145150"
+   ],
+   "instruments": [],
+   "birth": "1947-07-31",
+   "death": null,
+   "image": "IsabelleLeymarie.jpg",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Isabelle Leymarie",
+     "table": null,
+     "row": 49,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Jamil Nasser": {
+   "requested_title": "Jamil Nasser",
+   "title": "Jamil Nasser",
+   "redirected": false,
+   "qid": "Q354026",
+   "bucket": "person",
+   "label": "Jamil Nasser",
+   "description": "American bassist (1932–2010)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [],
+   "publication_dates": [],
+   "occupations": [
+    "Q15981151",
+    "Q639669"
+   ],
+   "instruments": [
+    "Q46185",
+    "Q80019",
+    "Q6607",
+    "Q810447"
+   ],
+   "birth": "1932-06-21",
+   "death": "2010-02-13",
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Jamil Nasser",
+     "table": null,
+     "row": 50,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "January 13": {
+   "requested_title": "January 13",
+   "title": "January 13",
+   "redirected": false,
+   "qid": "Q2255",
+   "bucket": "other",
+   "label": "January 13",
+   "description": "day of the year",
+   "P31": [
+    "Q14795564"
+   ],
+   "classes": [
+    "Q14795564"
+   ],
+   "performers": [],
+   "labels_p264": [],
+   "publication_dates": [],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "January 13",
+     "table": null,
+     "row": 51,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Jazz": {
+   "requested_title": "Jazz",
+   "title": "Jazz",
+   "redirected": false,
+   "qid": "Q8341",
+   "bucket": "other",
+   "label": "jazz",
+   "description": "musical style and genre",
+   "P31": [
+    "Q188451",
+    "Q627436"
+   ],
+   "classes": [
+    "Q188451",
+    "Q627436"
+   ],
+   "performers": [],
+   "labels_p264": [],
+   "publication_dates": [],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": "Louis Armstrong restored.jpg",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Jazz",
+     "table": null,
+     "row": 52,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Jazz Sahib": {
+   "requested_title": "Jazz Sahib",
+   "title": "Jazz Sahib",
+   "redirected": false,
+   "qid": "Q24078115",
+   "bucket": "release",
+   "label": "Jazz Sahib",
+   "description": "album by Sahib Shihab",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q968887"
+   ],
+   "labels_p264": [
+    "Q1341612"
+   ],
+   "publication_dates": [
+    "1957-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "ccd6e68a-d9c8-4fa5-9fce-981ac3831f27",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Jazz Sahib",
+     "table": null,
+     "row": 54,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Jazz at Lincoln Center": {
+   "requested_title": "Jazz at Lincoln Center",
+   "title": "Jazz at Lincoln Center",
+   "redirected": false,
+   "qid": "Q3123802",
+   "bucket": "other",
+   "label": "Jazz at Lincoln Center",
+   "description": "American nonprofit organization",
+   "P31": [
+    "Q3469910",
+    "Q163740"
+   ],
+   "classes": [
+    "Q3469910",
+    "Q163740"
+   ],
+   "performers": [],
+   "labels_p264": [],
+   "publication_dates": [],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": "Jazz at Lincoln Center (51395662326).jpg",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Jazz at Lincoln Center",
+     "table": null,
+     "row": 55,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Jefferson High School (Los Angeles)": {
+   "requested_title": "Jefferson High School (Los Angeles)",
+   "title": "Jefferson High School (Los Angeles)",
+   "redirected": false,
+   "qid": "Q6175496",
+   "bucket": "other",
+   "label": "Jefferson High School (Los Angeles)",
+   "description": "public high school in the Los Angeles Unified School District",
+   "P31": [
+    "Q9826",
+    "Q1080794"
+   ],
+   "classes": [
+    "Q9826",
+    "Q1080794"
+   ],
+   "performers": [],
+   "labels_p264": [],
+   "publication_dates": [],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": "Jefferson High Front entrance1 (cropped).jpg",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Jefferson High School (Los Angeles)",
+     "table": null,
+     "row": 56,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Jennie C. Jones": {
+   "requested_title": "Jennie C. Jones",
+   "title": "Jennie C. Jones",
+   "redirected": false,
+   "qid": "Q19879344",
+   "bucket": "person",
+   "label": "Jennie C. Jones",
+   "description": "American artist (born 1968)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [],
+   "publication_dates": [],
+   "occupations": [
+    "Q483501",
+    "Q11569986",
+    "Q130213361"
+   ],
+   "instruments": [],
+   "birth": "1968-00-00",
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Jennie C. Jones",
+     "table": null,
+     "row": 57,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Jimmy Cleveland": {
+   "requested_title": "Jimmy Cleveland",
+   "title": "Jimmy Cleveland",
+   "redirected": false,
+   "qid": "Q386883",
+   "bucket": "person",
+   "label": "Jimmy Cleveland",
+   "description": "American jazz trombonist (1926-2008)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q2749562"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q15981151",
+    "Q544972",
+    "Q639669"
+   ],
+   "instruments": [
+    "Q8350"
+   ],
+   "birth": "1926-05-03",
+   "death": "2008-08-23",
+   "image": "Jimmy Cleveland.jpg",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Jimmy Cleveland",
+     "table": null,
+     "row": 59,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Jimmy Powell (musician)": {
+   "requested_title": "Jimmy Powell (musician)",
+   "title": "Jimmy Powell (musician)",
+   "redirected": false,
+   "qid": "Q16079142",
+   "bucket": "person",
+   "label": "Jimmy Powell",
+   "description": "American jazz musician (1914-1994)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [],
+   "publication_dates": [],
+   "occupations": [
+    "Q15981151"
+   ],
+   "instruments": [
+    "Q9798"
+   ],
+   "birth": "1914-10-24",
+   "death": "1994-02-16",
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Jimmy Powell (musician)",
+     "table": null,
+     "row": 60,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Joe Harris (musician)": {
+   "requested_title": "Joe Harris (musician)",
+   "title": "Joe Harris (musician)",
+   "redirected": false,
+   "qid": "Q118521488",
+   "bucket": "person",
+   "label": "Joe Harris",
+   "description": "American jazz musician (1926–2016)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [],
+   "publication_dates": [],
+   "occupations": [],
+   "instruments": [],
+   "birth": "1926-12-23",
+   "death": "2016-00-00",
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Joe Harris (musician)",
+     "table": null,
+     "row": 61,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Johan Grimonprez": {
+   "requested_title": "Johan Grimonprez",
+   "title": "Johan Grimonprez",
+   "redirected": false,
+   "qid": "Q5023364",
+   "bucket": "person",
+   "label": "Johan Grimonprez",
+   "description": "Belgian artist (born 1962)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [],
+   "publication_dates": [],
+   "occupations": [
+    "Q2526255",
+    "Q18216771",
+    "Q6934789",
+    "Q674426",
+    "Q33231",
+    "Q28389",
+    "Q3391743",
+    "Q266569",
+    "Q37226",
+    "Q780596"
+   ],
+   "instruments": [],
+   "birth": "1962-01-01",
+   "death": null,
+   "image": "B&W Johan Grimonprez CU vert.JPG",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Johan Grimonprez",
+     "table": null,
+     "row": 62,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "John Gilmore (musician)": {
+   "requested_title": "John Gilmore (musician)",
+   "title": "John Gilmore (musician)",
+   "redirected": false,
+   "qid": "Q330045",
+   "bucket": "person",
+   "label": "John Gilmore",
+   "description": "American tenor saxophonist (1931–1995)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q885833"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q806349",
+    "Q158852",
+    "Q118865",
+    "Q12800682",
+    "Q15981151",
+    "Q639669"
+   ],
+   "instruments": [
+    "Q9798"
+   ],
+   "birth": "1931-09-28",
+   "death": "1995-08-29",
+   "image": "JohnGilmore2.jpg",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "John Gilmore (musician)",
+     "table": null,
+     "row": 63,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Katheryn Russell-Brown": {
+   "requested_title": "Katheryn Russell-Brown",
+   "title": "Katheryn Russell-Brown",
+   "redirected": false,
+   "qid": "Q6376587",
+   "bucket": "person",
+   "label": null,
+   "description": "American academic",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [],
+   "publication_dates": [],
+   "occupations": [
+    "Q3400985"
+   ],
+   "instruments": [],
+   "birth": "1961-09-17",
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Katheryn Russell-Brown",
+     "table": null,
+     "row": 64,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Kenny Burrell": {
+   "requested_title": "Kenny Burrell",
+   "title": "Kenny Burrell",
+   "redirected": false,
+   "qid": "Q255355",
+   "bucket": "person",
+   "label": "Kenny Burrell",
+   "description": "American jazz guitarist (born 1931)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q885833",
+    "Q1124849",
+    "Q183387"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q855091",
+    "Q36834",
+    "Q9648008",
+    "Q15981151",
+    "Q1622272",
+    "Q6168364",
+    "Q55960555",
+    "Q639669"
+   ],
+   "instruments": [
+    "Q6607"
+   ],
+   "birth": "1931-07-31",
+   "death": null,
+   "image": "Kenny Burrell 2.jpg",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Kenny Burrell",
+     "table": null,
+     "row": 65,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Leona May Smith": {
+   "requested_title": "Leona May Smith",
+   "title": "Leona May Smith",
+   "redirected": false,
+   "qid": "Q99670440",
+   "bucket": "person",
+   "label": "Leona May Smith",
+   "description": "American musician (1914-1999)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [],
+   "publication_dates": [],
+   "occupations": [
+    "Q12377274"
+   ],
+   "instruments": [],
+   "birth": "1914-09-23",
+   "death": "1999-12-01",
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Leona May Smith",
+     "table": null,
+     "row": 68,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Liston (surname)": {
+   "requested_title": "Liston (surname)",
+   "title": "Liston (surname)",
+   "redirected": false,
+   "qid": "Q16872304",
+   "bucket": "other",
+   "label": "Liston",
+   "description": "family name",
+   "P31": [
+    "Q101352"
+   ],
+   "classes": [
+    "Q101352"
+   ],
+   "performers": [],
+   "labels_p264": [],
+   "publication_dates": [],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Liston (surname)",
+     "table": null,
+     "row": 70,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Love Having You Around: Live at the Keystone Korner Vol. 2": {
+   "requested_title": "Love Having You Around: Live at the Keystone Korner Vol. 2",
+   "title": "Love Having You Around: Live at the Keystone Korner Vol. 2",
+   "redirected": false,
+   "qid": "Q125343347",
+   "bucket": "release",
+   "label": "Love Having You Around: Live at the Keystone Korner Vol. 2",
+   "description": "2016 live album by Abbey Lincoln",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q231071"
+   ],
+   "labels_p264": [],
+   "publication_dates": [
+    "2016-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Love Having You Around: Live at the Keystone Korner Vol. 2",
+     "table": null,
+     "row": 73,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Marty Flax": {
+   "requested_title": "Marty Flax",
+   "title": "Marty Flax",
+   "redirected": false,
+   "qid": "Q6777414",
+   "bucket": "person",
+   "label": null,
+   "description": "American musician",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [],
+   "publication_dates": [],
+   "occupations": [
+    "Q15981151",
+    "Q12800682"
+   ],
+   "instruments": [
+    "Q9798"
+   ],
+   "birth": "1924-10-07",
+   "death": "1972-07-03",
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Marty Flax",
+     "table": null,
+     "row": 74,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Maurice James Simon": {
+   "requested_title": "Maurice James Simon",
+   "title": "Maurice James Simon",
+   "redirected": false,
+   "qid": "Q6793471",
+   "bucket": "person",
+   "label": "Maurice Simon",
+   "description": "American musician",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [],
+   "publication_dates": [],
+   "occupations": [
+    "Q15981151",
+    "Q12800682"
+   ],
+   "instruments": [
+    "Q9798"
+   ],
+   "birth": "1929-03-26",
+   "death": "2019-00-00",
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Maurice James Simon",
+     "table": null,
+     "row": 75,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "MetroJazz Records": {
+   "requested_title": "MetroJazz Records",
+   "title": "MetroJazz Records",
+   "redirected": false,
+   "qid": "Q6824423",
+   "bucket": "label",
+   "label": "MetroJazz Records",
+   "description": "1950s American jazz record label",
+   "P31": [
+    "Q18127"
+   ],
+   "classes": [
+    "record label"
+   ],
+   "performers": [],
+   "labels_p264": [],
+   "publication_dates": [],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "MetroJazz Records",
+     "table": null,
+     "row": 77,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Music of Missouri": {
+   "requested_title": "Music of Missouri",
+   "title": "Music of Missouri",
+   "redirected": false,
+   "qid": "Q6942188",
+   "bucket": "other",
+   "label": "music of Missouri",
+   "description": "overview of the music of Missouri",
+   "P31": [
+    "Q75054287"
+   ],
+   "classes": [
+    "Q75054287"
+   ],
+   "performers": [],
+   "labels_p264": [],
+   "publication_dates": [],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Music of Missouri",
+     "table": null,
+     "row": 78,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "NEA Jazz Masters": {
+   "requested_title": "NEA Jazz Masters",
+   "title": "NEA Jazz Masters",
+   "redirected": false,
+   "qid": "Q488296",
+   "bucket": "other",
+   "label": "NEA Jazz Masters",
+   "description": "National Endowment for the Arts; American jazz award (1982–)",
+   "P31": [
+    "Q618779",
+    "Q1684549"
+   ],
+   "classes": [
+    "Q618779",
+    "Q1684549"
+   ],
+   "performers": [],
+   "labels_p264": [],
+   "publication_dates": [],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "NEA Jazz Masters",
+     "table": null,
+     "row": 79,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Nelson Boyd": {
+   "requested_title": "Nelson Boyd",
+   "title": "Nelson Boyd",
+   "redirected": false,
+   "qid": "Q354046",
+   "bucket": "person",
+   "label": "Nelson Boyd",
+   "description": "American musician (1928–1985)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [],
+   "publication_dates": [],
+   "occupations": [
+    "Q15981151",
+    "Q639669"
+   ],
+   "instruments": [
+    "Q80019"
+   ],
+   "birth": "1928-02-06",
+   "death": "1985-10-01",
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Nelson Boyd",
+     "table": null,
+     "row": 80,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Newport '58": {
+   "requested_title": "Newport '58",
+   "title": "Newport '58",
+   "redirected": false,
+   "qid": "Q7018728",
+   "bucket": "release",
+   "label": "Newport '58",
+   "description": "1958 live album by Dinah Washington",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q229322"
+   ],
+   "labels_p264": [],
+   "publication_dates": [
+    "1958-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Newport '58",
+     "table": null,
+     "row": 81,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Newport '61": {
+   "requested_title": "Newport '61",
+   "title": "Newport '61",
+   "redirected": false,
+   "qid": "Q7018729",
+   "bucket": "release",
+   "label": "Newport '61",
+   "description": "live album by Quincy Jones",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q193645"
+   ],
+   "labels_p264": [
+    "Q165745"
+   ],
+   "publication_dates": [],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Newport '61",
+     "table": null,
+     "row": 82,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Notable American Women, 1607–1950": {
+   "requested_title": "Notable American Women, 1607–1950",
+   "title": "Notable American Women, 1607–1950",
+   "redirected": false,
+   "qid": "Q19605678",
+   "bucket": "other",
+   "label": "Notable American Women, 1607-1950: a Biographical Dictionary",
+   "description": "reference work published in 1971",
+   "P31": [
+    "Q47461344",
+    "Q13136"
+   ],
+   "classes": [
+    "Q47461344",
+    "Q13136"
+   ],
+   "performers": [],
+   "labels_p264": [],
+   "publication_dates": [
+    "1971-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Notable American Women, 1607–1950",
+     "table": null,
+     "row": 83,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Out There (Betty Carter album)": {
+   "requested_title": "Out There (Betty Carter album)",
+   "title": "Out There (Betty Carter album)",
+   "redirected": false,
+   "qid": "Q7111471",
+   "bucket": "release",
+   "label": "Out There",
+   "description": "1958 album from Betty Carter",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q465943"
+   ],
+   "labels_p264": [
+    "Q2065798"
+   ],
+   "publication_dates": [
+    "1958-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "983daf0d-f0e7-4df8-b6a8-5e4edb101b2d",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Out There (Betty Carter album)",
+     "table": null,
+     "row": 84,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Patti Bown": {
+   "requested_title": "Patti Bown",
+   "title": "Patti Bown",
+   "redirected": false,
+   "qid": "Q529249",
+   "bucket": "person",
+   "label": "Patti Bown",
+   "description": "American musician (1931–2008)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q183387"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q486748",
+    "Q15981151",
+    "Q177220",
+    "Q639669"
+   ],
+   "instruments": [
+    "Q5994",
+    "Q17172850"
+   ],
+   "birth": "1931-07-26",
+   "death": "2008-03-21",
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Patti Bown",
+     "table": null,
+     "row": 85,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Paul H. Brown": {
+   "requested_title": "Paul H. Brown",
+   "title": "Paul H. Brown",
+   "redirected": false,
+   "qid": "Q24033408",
+   "bucket": "person",
+   "label": "Paul Brown",
+   "description": "American jazz musician",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [],
+   "publication_dates": [],
+   "occupations": [
+    "Q584301"
+   ],
+   "instruments": [
+    "Q80019"
+   ],
+   "birth": "1934-03-06",
+   "death": "2016-05-06",
+   "image": "Paul H Brown.JPG",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Paul H. Brown",
+     "table": null,
+     "row": 86,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Quincy Jones Plays Hip Hits": {
+   "requested_title": "Quincy Jones Plays Hip Hits",
+   "title": "Quincy Jones Plays Hip Hits",
+   "redirected": false,
+   "qid": "Q48802021",
+   "bucket": "release",
+   "label": "Quincy Jones Plays Hip Hits",
+   "description": "album by Quincy Jones",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q193645"
+   ],
+   "labels_p264": [
+    "Q165745"
+   ],
+   "publication_dates": [
+    "1963-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "355bca5a-956b-4325-86ab-fd0c8dd64624",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Quincy Jones Plays Hip Hits",
+     "table": null,
+     "row": 87,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Ray Brown with the All-Star Big Band": {
+   "requested_title": "Ray Brown with the All-Star Big Band",
+   "title": "Ray Brown with the All-Star Big Band",
+   "redirected": false,
+   "qid": "Q27817026",
+   "bucket": "release",
+   "label": "Ray Brown with the All-Star Big Band",
+   "description": "album by Ray Brown",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q354542"
+   ],
+   "labels_p264": [
+    "Q1124849"
+   ],
+   "publication_dates": [
+    "1962-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Ray Brown with the All-Star Big Band",
+     "table": null,
+     "row": 91,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Ray Bryant": {
+   "requested_title": "Ray Bryant",
+   "title": "Ray Bryant",
+   "redirected": false,
+   "qid": "Q492143",
+   "bucket": "person",
+   "label": "Ray Bryant",
+   "description": "American pianist (1931–2011)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q183387"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q36834",
+    "Q15981151",
+    "Q486748",
+    "Q55960555",
+    "Q639669"
+   ],
+   "instruments": [
+    "Q5994"
+   ],
+   "birth": "1931-12-24",
+   "death": "2011-06-02",
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Ray Bryant",
+     "table": null,
+     "row": 92,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Rhythm Crazy": {
+   "requested_title": "Rhythm Crazy",
+   "title": "Rhythm Crazy",
+   "redirected": false,
+   "qid": "Q23948935",
+   "bucket": "release",
+   "label": "Rhythm Crazy",
+   "description": "1965 album by Jimmy Cleveland",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q386883"
+   ],
+   "labels_p264": [
+    "Q2749562"
+   ],
+   "publication_dates": [
+    "1965-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Rhythm Crazy",
+     "table": null,
+     "row": 93,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Slide Hampton": {
+   "requested_title": "Slide Hampton",
+   "title": "Slide Hampton",
+   "redirected": false,
+   "qid": "Q1369035",
+   "bucket": "person",
+   "label": "Slide Hampton",
+   "description": "American trombonist (1932–2021)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q1140222",
+    "Q202440",
+    "Q6747382"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q36834",
+    "Q15981151",
+    "Q639669",
+    "Q1643514",
+    "Q2675537",
+    "Q544972",
+    "Q806349"
+   ],
+   "instruments": [
+    "Q8350"
+   ],
+   "birth": "1932-04-21",
+   "death": "2021-11-18",
+   "image": "SlideHampton.jpg",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Slide Hampton",
+     "table": null,
+     "row": 96,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Snap Your Fingers (album)": {
+   "requested_title": "Snap Your Fingers (album)",
+   "title": "Snap Your Fingers (album)",
+   "redirected": false,
+   "qid": "Q30605460",
+   "bucket": "release",
+   "label": "Snap Your Fingers",
+   "description": "album by Al Grey",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q715687"
+   ],
+   "labels_p264": [
+    "Q647983"
+   ],
+   "publication_dates": [
+    "1962-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Snap Your Fingers (album)",
+     "table": null,
+     "row": 97,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Soundtrack to a Coup d'Etat": {
+   "requested_title": "Soundtrack to a Coup d'Etat",
+   "title": "Soundtrack to a Coup d'Etat",
+   "redirected": false,
+   "qid": "Q124365100",
+   "bucket": "release",
+   "label": "Soundtrack to a Coup d'Etat",
+   "description": "2024 documentary film by Johan Grimonprez",
+   "P31": [
+    "Q11424"
+   ],
+   "classes": [
+    "film"
+   ],
+   "performers": [],
+   "labels_p264": [],
+   "publication_dates": [
+    "2024-01-22",
+    "2025-05-01"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Soundtrack to a Coup d'Etat",
+     "table": null,
+     "row": 98,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Survival (Bob Marley and the Wailers album)": {
+   "requested_title": "Survival (Bob Marley and the Wailers album)",
+   "title": "Survival (Bob Marley and the Wailers album)",
+   "redirected": false,
+   "qid": "Q570303",
+   "bucket": "release",
+   "label": "Survival",
+   "description": "1979 album by Bob Marley & The Wailers",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q2525354"
+   ],
+   "labels_p264": [
+    "Q190585",
+    "Q1753057"
+   ],
+   "publication_dates": [
+    "1979-10-02"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "549f63a0-10ba-3350-92b6-6b176606aeaa",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Survival (Bob Marley and the Wailers album)",
+     "table": null,
+     "row": 99,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "T. K. Blue": {
+   "requested_title": "T. K. Blue",
+   "title": "T. K. Blue",
+   "redirected": false,
+   "qid": "Q2390289",
+   "bucket": "person",
+   "label": "T. K. Blue",
+   "description": "American musician",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q2172834"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q15981151",
+    "Q12800682",
+    "Q118865",
+    "Q12902372",
+    "Q36834",
+    "Q639669",
+    "Q806349"
+   ],
+   "instruments": [
+    "Q9798",
+    "Q11405",
+    "Q1463985",
+    "Q445275"
+   ],
+   "birth": "1953-01-01",
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "T. K. Blue",
+     "table": null,
+     "row": 100,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Tammy L. Kernodle": {
+   "requested_title": "Tammy L. Kernodle",
+   "title": "Tammy L. Kernodle",
+   "redirected": false,
+   "qid": "Q105274392",
+   "bucket": "person",
+   "label": "Tammy L. Kernodle",
+   "description": "American musicologist",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [],
+   "publication_dates": [],
+   "occupations": [
+    "Q14915627"
+   ],
+   "instruments": [],
+   "birth": "1969-09-30",
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Tammy L. Kernodle",
+     "table": null,
+     "row": 101,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Tate Houston": {
+   "requested_title": "Tate Houston",
+   "title": "Tate Houston",
+   "redirected": false,
+   "qid": "Q16007643",
+   "bucket": "person",
+   "label": "Tate Houston",
+   "description": "American saxophonist (1924-1974)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [],
+   "publication_dates": [],
+   "occupations": [
+    "Q15981151",
+    "Q12800682",
+    "Q639669"
+   ],
+   "instruments": [
+    "Q9798"
+   ],
+   "birth": "1924-11-30",
+   "death": "1974-10-18",
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Tate Houston",
+     "table": null,
+     "row": 103,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Teddy Edwards": {
+   "requested_title": "Teddy Edwards",
+   "title": "Teddy Edwards",
+   "redirected": false,
+   "qid": "Q322308",
+   "bucket": "person",
+   "label": "Teddy Edwards",
+   "description": "American jazz tenor saxophonist",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q885833",
+    "Q4774898",
+    "Q1128607"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q15981151",
+    "Q12800682",
+    "Q806349",
+    "Q55960555",
+    "Q36834",
+    "Q639669"
+   ],
+   "instruments": [
+    "Q9798",
+    "Q128309"
+   ],
+   "birth": "1924-04-26",
+   "death": "2003-04-20",
+   "image": "Teddy Edwards.jpg",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Teddy Edwards",
+     "table": null,
+     "row": 104,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "The Al Grey – Billy Mitchell Sextet": {
+   "requested_title": "The Al Grey – Billy Mitchell Sextet",
+   "title": "The Al Grey – Billy Mitchell Sextet",
+   "redirected": false,
+   "qid": "Q30636367",
+   "bucket": "release",
+   "label": "The Al Grey - Billy Mitchell Sextet",
+   "description": "1962 live album by Al Grey – Billy Mitchell Sextet",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q715687"
+   ],
+   "labels_p264": [],
+   "publication_dates": [],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "The Al Grey – Billy Mitchell Sextet",
+     "table": null,
+     "row": 105,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "The Charm (T. S. Monk album)": {
+   "requested_title": "The Charm (T. S. Monk album)",
+   "title": "The Charm (T. S. Monk album)",
+   "redirected": false,
+   "qid": "Q60787635",
+   "bucket": "release",
+   "label": "The Charm",
+   "description": "album by T. S. Monk",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q2383401"
+   ],
+   "labels_p264": [
+    "Q885833"
+   ],
+   "publication_dates": [
+    "1995-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "The Charm (T. S. Monk album)",
+     "table": null,
+     "row": 109,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "The Quintessence": {
+   "requested_title": "The Quintessence",
+   "title": "The Quintessence",
+   "redirected": false,
+   "qid": "Q7759122",
+   "bucket": "release",
+   "label": "The Quintessence",
+   "description": "album by Quincy Jones",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q193645"
+   ],
+   "labels_p264": [
+    "Q1524530"
+   ],
+   "publication_dates": [
+    "1962-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "45a5aebd-4082-3b03-9740-9b8672ab2ed8",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "The Quintessence",
+     "table": null,
+     "row": 112,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "This Is Billy Mitchell": {
+   "requested_title": "This Is Billy Mitchell",
+   "title": "This Is Billy Mitchell",
+   "redirected": false,
+   "qid": "Q30636371",
+   "bucket": "release",
+   "label": "This Is Billy Mitchell",
+   "description": "album by Billy Mitchell",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q863192"
+   ],
+   "labels_p264": [
+    "Q7544232"
+   ],
+   "publication_dates": [
+    "1962-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "a4a103ec-0ddc-474f-8676-9b21562b7435",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "This Is Billy Mitchell",
+     "table": null,
+     "row": 115,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Vi Redd": {
+   "requested_title": "Vi Redd",
+   "title": "Vi Redd",
+   "redirected": false,
+   "qid": "Q513985",
+   "bucket": "person",
+   "label": "Vi Redd",
+   "description": "American jazz altosaxophonist, singer and educator (1928–2022)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q202440"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q15981151",
+    "Q12800682",
+    "Q177220",
+    "Q2675537",
+    "Q36834"
+   ],
+   "instruments": [
+    "Q445275",
+    "Q1463985",
+    "Q9798",
+    "Q17172850"
+   ],
+   "birth": "1928-09-20",
+   "death": "2022-02-06",
+   "image": "Vi-Redd-rochester-ny-june-1977.jpg",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Vi Redd",
+     "table": null,
+     "row": 118,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Wallace Roney": {
+   "requested_title": "Wallace Roney",
+   "title": "Wallace Roney",
+   "redirected": false,
+   "qid": "Q343378",
+   "bucket": "person",
+   "label": "Wallace Roney",
+   "description": "American jazz trumpeter (1960–2020)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q843402"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q36834",
+    "Q15981151",
+    "Q12377274",
+    "Q639669"
+   ],
+   "instruments": [
+    "Q8338",
+    "Q382616"
+   ],
+   "birth": "1960-05-25",
+   "death": "2020-03-31",
+   "image": "WallaceRoney (cropped).png",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Wallace Roney",
+     "table": null,
+     "row": 120,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Walter Davis Jr.": {
+   "requested_title": "Walter Davis Jr.",
+   "title": "Walter Davis Jr.",
+   "redirected": false,
+   "qid": "Q721383",
+   "bucket": "person",
+   "label": "Walter Davis",
+   "description": "American jazz pianist (1932–1990)",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [
+    "Q885833"
+   ],
+   "publication_dates": [],
+   "occupations": [
+    "Q486748",
+    "Q15981151",
+    "Q639669"
+   ],
+   "instruments": [
+    "Q5994"
+   ],
+   "birth": "1932-09-02",
+   "death": "1990-06-02",
+   "image": "Walter Davis, Jr..jpg",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Walter Davis Jr.",
+     "table": null,
+     "row": 121,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "When I'm Alone I Cry": {
+   "requested_title": "When I'm Alone I Cry",
+   "title": "When I'm Alone I Cry",
+   "redirected": false,
+   "qid": "Q3512627",
+   "bucket": "release",
+   "label": "When I'm Alone I Cry",
+   "description": "album by Marvin Gaye",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q189758"
+   ],
+   "labels_p264": [
+    "Q43327"
+   ],
+   "publication_dates": [
+    "1964-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": "debbe38b-fbed-30bb-adbc-daa370037f8c",
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "When I'm Alone I Cry",
+     "table": null,
+     "row": 122,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "White Gardenia": {
+   "requested_title": "White Gardenia",
+   "title": "White Gardenia",
+   "redirected": false,
+   "qid": "Q7994712",
+   "bucket": "release",
+   "label": "White Gardenia",
+   "description": "album by Johnny Griffin",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q708439"
+   ],
+   "labels_p264": [
+    "Q2975356"
+   ],
+   "publication_dates": [
+    "1961-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "White Gardenia",
+     "table": null,
+     "row": 123,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Women in jazz": {
+   "requested_title": "Women in jazz",
+   "title": "Women in jazz",
+   "redirected": false,
+   "qid": "Q2592963",
+   "bucket": "other",
+   "label": "women in jazz",
+   "description": "contributions of women in the history of jazz music",
+   "P31": [
+    "Q125360958"
+   ],
+   "classes": [
+    "Q125360958"
+   ],
+   "performers": [],
+   "labels_p264": [],
+   "publication_dates": [],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Women in jazz",
+     "table": null,
+     "row": 124,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Women in music": {
+   "requested_title": "Women in music",
+   "title": "Women in music",
+   "redirected": false,
+   "qid": "Q25095122",
+   "bucket": "other",
+   "label": "women in music",
+   "description": "women in music in different genres, eras, and all over the world",
+   "P31": [
+    "Q107243694"
+   ],
+   "classes": [
+    "Q107243694"
+   ],
+   "performers": [],
+   "labels_p264": [],
+   "publication_dates": [],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Women in music",
+     "table": null,
+     "row": 125,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Wonder Why (song)": {
+   "requested_title": "Wonder Why (song)",
+   "title": "Wonder Why (song)",
+   "redirected": false,
+   "qid": "Q15855097",
+   "bucket": "composition",
+   "label": "Wonder Why",
+   "description": "song",
+   "P31": [
+    "Q105543609"
+   ],
+   "classes": [
+    "musical work"
+   ],
+   "performers": [],
+   "labels_p264": [],
+   "publication_dates": [
+    "1951-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Wonder Why (song)",
+     "table": null,
+     "row": 126,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Zena Latto": {
+   "requested_title": "Zena Latto",
+   "title": "Zena Latto",
+   "redirected": false,
+   "qid": "Q20065094",
+   "bucket": "person",
+   "label": null,
+   "description": "American musician",
+   "P31": [
+    "Q5"
+   ],
+   "classes": [
+    "human"
+   ],
+   "performers": [],
+   "labels_p264": [],
+   "publication_dates": [],
+   "occupations": [
+    "Q639669"
+   ],
+   "instruments": [
+    "Q9798"
+   ],
+   "birth": "1925-10-25",
+   "death": "2016-04-05",
+   "image": "Zena Latto.gif",
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Zena Latto",
+     "table": null,
+     "row": 128,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  },
+  "Zodiac Suite": {
+   "requested_title": "Zodiac Suite",
+   "title": "Zodiac Suite",
+   "redirected": false,
+   "qid": "Q15855778",
+   "bucket": "release",
+   "label": "Zodiac Suite",
+   "description": "album by Mary Lou Williams",
+   "P31": [
+    "Q482994"
+   ],
+   "classes": [
+    "album"
+   ],
+   "performers": [
+    "Q126677"
+   ],
+   "labels_p264": [],
+   "publication_dates": [
+    "1945-00-00"
+   ],
+   "occupations": [],
+   "instruments": [],
+   "birth": null,
+   "death": null,
+   "image": null,
+   "musicbrainz": null,
+   "seen_in": [
+    {
+     "subject": "liston",
+     "section": "Backlink",
+     "section_path": [
+      "Backlink"
+     ],
+     "header": "Backlink",
+     "col": 0,
+     "is_row_header": true,
+     "row_text": "Zodiac Suite",
+     "table": null,
+     "row": 129,
+     "source": "backlink",
+     "group": null,
+     "italic": true,
+     "year": null,
+     "title_text": null,
+     "leader_text": null,
+     "label_text": null
+    }
+   ]
+  }
+ }
+}

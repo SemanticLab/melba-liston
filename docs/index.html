@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Melba Liston · 1926–2026 · Linked Jazz</title>
+<meta name="description" content="A centennial page for Melba Liston, trombonist, arranger and composer: her life in her own words, what other musicians said of her, and the records she made.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=IBM+Plex+Mono:wght@400;500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="page">
+
+  <!-- HERO -->
+  <header class="hero">
+    <div class="hero-glow"></div>
+    <nav class="nav">
+      <a class="brand" href="https://semlab.io/">
+        <img src="img/linked-jazz.png" alt="" width="36" height="36">
+        <span>Linked Jazz</span>
+      </a>
+      <div class="nav-links">
+        <a href="#timeline">Timeline</a>
+        <a href="#voices">Voices</a>
+        <a href="#discography">Discography</a>
+      </div>
+    </nav>
+    <div class="hero-grid">
+      <div class="hero-img">
+        <img src="img/liston.png" alt="Melba Liston playing trombone">
+      </div>
+      <div class="hero-text">
+        <div class="kicker">1926 — 2026 · A Centennial</div>
+        <h1>Melba<br>Liston</h1>
+        <p class="tagline" id="tagline"></p>
+        <div class="stats" id="stats"></div>
+      </div>
+    </div>
+  </header>
+
+  <!-- BLURB + LINKS -->
+  <section class="blurb">
+    <div>
+      <div class="eyebrow">From Wikipedia</div>
+      <p id="blurb"></p>
+    </div>
+    <div class="elsewhere">
+      <div class="eyebrow">Elsewhere</div>
+      <div class="links" id="links"></div>
+    </div>
+  </section>
+
+  <!-- TIMELINE -->
+  <section id="timeline" class="section">
+    <div class="section-head">
+      <h2>Timeline</h2>
+      <div class="count" id="tl-count"></div>
+    </div>
+    <div class="tl-grid" id="tl-grid"></div>
+    <div class="tl-selected">
+      <div class="tl-when">
+        <div class="tl-year" id="tl-year"></div>
+        <div class="tl-nav">
+          <button type="button" id="tl-prev" aria-label="Previous event">←</button>
+          <button type="button" id="tl-next" aria-label="Next event">→</button>
+        </div>
+      </div>
+      <div aria-live="polite">
+        <div class="tl-event" id="tl-event"></div>
+        <div class="tl-meta" id="tl-meta"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- VOICES -->
+  <section id="voices" class="section">
+    <div class="section-head tight">
+      <h2>What people said</h2>
+      <div class="pills" id="voice-pills"></div>
+    </div>
+    <p class="lede" id="voice-intro"></p>
+    <div class="voice-grid" id="voice-grid"></div>
+  </section>
+
+  <!-- HER VOICE -->
+  <section id="her-words" class="own">
+    <div class="own-kicker">In her own words · <span id="own-theme"></span></div>
+    <div class="pills on-dark" id="own-pills"></div>
+    <div aria-live="polite">
+      <blockquote id="own-quote"></blockquote>
+      <p class="own-context" id="own-context"></p>
+    </div>
+    <div class="own-foot">
+      <button type="button" class="another" id="own-next">Another →</button>
+      <span class="own-counter" id="own-counter"></span>
+      <button type="button" class="own-link" id="own-link">Read it in the transcript →</button>
+    </div>
+  </section>
+
+  <!-- DISCOGRAPHY -->
+  <section id="discography" class="section last">
+    <div class="section-head tight">
+      <h2>Discography</h2>
+      <div class="pills" id="role-pills"></div>
+    </div>
+    <p class="lede">Two records under her own name; the rest is the shape of a career spent in other people's bands and on other people's charts.</p>
+    <div class="release-grid" id="release-grid"></div>
+  </section>
+
+  <footer class="footer">
+    <div class="footer-row">
+      <a class="footer-brand" href="https://semlab.io/"><img src="img/linked-jazz.png" alt="" width="28" height="28"><span>Linked Jazz · Pratt Institute</span></a>
+      <div>Sources: Smithsonian Jazz Oral History Program · Hamilton College · Rutgers IJS · Wikidata · MusicBrainz</div>
+    </div>
+    <details class="credits">
+      <summary>Image credits</summary>
+      <ul id="credits"></ul>
+    </details>
+  </footer>
+</div>
+<dialog class="passage" id="passage" aria-labelledby="passage-title">
+  <header class="passage-head">
+    <div>
+      <div class="eyebrow" id="passage-archive"></div>
+      <h3 id="passage-title"></h3>
+      <a id="passage-source" target="_blank" rel="noopener"></a>
+    </div>
+    <button type="button" class="passage-close" id="passage-close" aria-label="Close">×</button>
+  </header>
+  <div class="passage-body" id="passage-body"></div>
+</dialog>
+<noscript><p style="padding:20px 40px">This page needs JavaScript to load its data.</p></noscript>
+<script src="app.js" defer></script>
+</body>
+</html>

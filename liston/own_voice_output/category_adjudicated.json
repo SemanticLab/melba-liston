@@ -1,0 +1,36 @@
+{
+ "items": [
+  {
+   "block_id": 295899,
+   "category": "randy_weston",
+   "secondary": "arranging",
+   "sided_with": "b",
+   "reason": "The line is cut to land on 'Randy, I have all the freedom I want' and the next turn ('What's the criteria for writing for him then?') carries the exchange into Weston, so it opens the Weston thread; the general point about clients' criteria earns arranging as secondary."
+  },
+  {
+   "block_id": 295613,
+   "category": "after_the_stroke",
+   "secondary": "big_bands",
+   "sided_with": "neither",
+   "reason": "'I'm going back to New York' is her real 1996 plan, and Bryant answers it as one ('To get that feeling again'); read on the page, the line is her verdict on Los Angeles and her move, which a visitor to The Big Bands would find out of place, so the boundary rule's 'even if she jokes' clause is overruled for this line."
+  },
+  {
+   "block_id": 296005,
+   "category": "own_bands",
+   "secondary": null,
+   "sided_with": "neither",
+   "reason": "Bryant's question ('was your reception greater in other parts of the world?') and the follow-up ('especially as far as jazz is concerned?') have moved off women, and the line itself names no gender, so it is about recognition abroad versus at home, which the Bandleader and Business definition covers, not about being a woman."
+  }
+ ],
+ "scheme_problems": [
+  "The 255-of-256 agreement mostly measures the boundary rules, not independent judgement. Many rules are triggered by phrases ('reception abroad', 'the girl', 'even if she jokes about going back to New York', 'just another job'), so both readers applied the same trigger even where the line's content pointed elsewhere. Nine of the 32 reviewed quotes have reasons that say 'by rule ... but'. Rules should send lines by their main subject and leave phrase triggers out.",
+  "Being a Woman: the include 'her acceptance or reception abroad as a woman' and the State Department rule's 'her acceptance or reception abroad' go further than the definition ('lines whose point is that she was a woman'). The rule should be narrowed to reception as a woman. 296005 was moved for this reason. 295999 ('Almost everywhere I got acceptance. My applause ... was always great, over there and here and everywhere') was outside this review because both readers rated it high, but it has the same problem and should be looked at before the page is built.",
+  "After the Stroke works as two sections under one label. Its definition covers the stroke and recovery, and also everything from 1985 to the day of the interview: life in Los Angeles, plans for New York, friends waiting there, goals, taking stock, Bryant's tributes and the closing apology. A visitor who opens 'After the Stroke' expects illness and recovery, not 'did you set goals?' or 'dedicated friends back there'. Either relabel it to cover the present (for example 'The Stroke and After' or 'Later Years'), or name the taking-stock material in the definition's first sentence. If it stays as it is, lines about the present that sit in other sections by rule (295613, the money line 295939) will keep looking misplaced.",
+  "The Trombone also holds her singing ('singing her own songs, breath control, sounding like a singer') and the listening-session rule sends reactions to her singing there. The label hides this. Something like 'Playing and Singing' or 'Her Own Playing' would tell a visitor where the vocal lines are. 296086 ('I wrote it, so I decided it', on who chose to have her sing her own tune) is there only because singing is filed under the horn.",
+  "The rule comparing California and New York (life_offstage / big_bands) should drop its 'even if she jokes about going back to New York' clause. In 1996 she really was going back, so the remark is about the present and belongs where the New York plans are.",
+  "The beginnings / the_trombone rule ('any line about the trombone as a child') conflicts with the_trombone's include 'loving the instrument; trombone influences'. The influence question was asked about 'when you started'. Both readers chose the_trombone with beginnings as secondary, which is defensible. The include and the rule should be reconciled.",
+  "There is no tiebreak for composite pull quotes where one sentence holds two scheme subjects: solo and writing (296139); past writing speed and present loss (296102); clients' criteria and Weston's freedom (295899); medley content and 'just another job' (296024–296031); job in the band and 'the girl' (295637). The readers fell back on secondaries, which works, but the scheme should say which clause governs: the one the exchange then follows.",
+  "Some categories depend on where the pull quote was cut. 296337 stops at the awards on the wall (own_bands), but Bryant's turn is the goals question (after_the_stroke). 295990 stops before 'Do you think it's because of the gender?'. If those cuts are revisited, re-check the category with them.",
+  "Friendships that bear on no body of work have no home. life_offstage excludes 'friendships with musicians that bear on her work' and nothing takes the rest. The Major Holley lines (295841, 295842) fit after_the_stroke only because the exchange turns to the computer he bought her after the stroke (295848). The answer stands, but the gap should be closed by adding friends to life_offstage's includes."
+ ]
+}

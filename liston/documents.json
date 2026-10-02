@@ -1,0 +1,3729 @@
+{
+ "subject": "liston",
+ "qid": "Q274146",
+ "generated_from": "linked_jazz.sqlite",
+ "count": 20,
+ "method": "every interview with a persons row whose qid = the subject; subject_mentions = SUM(persons.count) for that doc; subject_blocks = DISTINCT person_mentions.block_id; meta_json parsed and any array longer than 20 items dropped (dropped paths listed in meta_json_dropped_arrays). Sorted by subject mention count desc.",
+ "totals": {
+  "n_documents": 20,
+  "n_mentions": 110,
+  "n_blocks": 108,
+  "n_docs_with_relationship": 19,
+  "n_interviewees": 18
+ },
+ "by_collection": [
+  {
+   "collection": "si",
+   "label": "Smithsonian Jazz Oral History Program",
+   "n_docs": 9,
+   "n_mentions": 90
+  },
+  {
+   "collection": "hamilton",
+   "label": "Hamilton College — Fillius Jazz Archive",
+   "n_docs": 6,
+   "n_mentions": 9
+  },
+  {
+   "collection": "rutgers",
+   "label": "Rutgers — Institute of Jazz Studies",
+   "n_docs": 5,
+   "n_mentions": 11
+  }
+ ],
+ "by_decade": [
+  {
+   "decade": "1990s",
+   "n_docs": 5,
+   "n_mentions": 7
+  },
+  {
+   "decade": "2000s",
+   "n_docs": 1,
+   "n_mentions": 2
+  },
+  {
+   "decade": "2020s",
+   "n_docs": 2,
+   "n_mentions": 6
+  },
+  {
+   "decade": "unknown",
+   "n_docs": 12,
+   "n_mentions": 95
+  }
+ ],
+ "by_method": [
+  {
+   "method": "pdf-text-rules",
+   "n_docs": 15
+  },
+  {
+   "method": "unknown",
+   "n_docs": 5
+  }
+ ],
+ "own_interview_doc": "Liston_Melba_Interview_Transcription",
+ "text_hit_only_documents": [
+  {
+   "doc_id": "53571",
+   "title": "53571_Mary Lou Williams oral history interview",
+   "collection": "rutgers",
+   "interviewee": "Mary Lou Williams",
+   "year": null,
+   "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=53571",
+   "blocks": [
+    367018,
+    367027
+   ],
+   "surface_forms": [
+    "Melba"
+   ],
+   "note": "not reconciled to her QID upstream; found by text search and confirmed block by block in enriched.json (mention_source = fts_supplement)"
+  },
+  {
+   "doc_id": "67247",
+   "title": "67247_J.C. Higginbotham oral history interview",
+   "collection": "rutgers",
+   "interviewee": "J. C. Higginbotham",
+   "year": null,
+   "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=67247",
+   "blocks": [
+    458533
+   ],
+   "surface_forms": [
+    "Melvin Liston"
+   ],
+   "note": "not reconciled to her QID upstream; found by text search and confirmed block by block in enriched.json (mention_source = fts_supplement)"
+  },
+  {
+   "doc_id": "Freeman_Von_Transcript",
+   "title": "Von Freeman — Smithsonian Jazz Oral History",
+   "collection": "si",
+   "interviewee": "Von Freeman",
+   "year": null,
+   "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Freeman_Von_Transcript",
+   "blocks": [
+    271151,
+    271162
+   ],
+   "surface_forms": [
+    "Melba"
+   ],
+   "note": "not reconciled to her QID upstream; found by text search and confirmed block by block in enriched.json (mention_source = fts_supplement)"
+  },
+  {
+   "doc_id": "Jones_Quincy_Transcript",
+   "title": "Quincy Jones — Smithsonian Jazz Oral History",
+   "collection": "si",
+   "interviewee": "Quincy Jones",
+   "year": null,
+   "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Jones_Quincy_Transcript",
+   "blocks": [
+    289013,
+    289017
+   ],
+   "surface_forms": [
+    "Melba"
+   ],
+   "note": "not reconciled to her QID upstream; found by text search and confirmed block by block in enriched.json (mention_source = fts_supplement)"
+  },
+  {
+   "doc_id": "Shirley_Horn_Interview_Transcription",
+   "title": "Horn Shirley — Smithsonian Jazz Oral History",
+   "collection": "si",
+   "interviewee": "Horn Shirley",
+   "year": null,
+   "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Shirley_Horn_Interview_Transcription",
+   "blocks": [
+    315135,
+    315136,
+    315148
+   ],
+   "surface_forms": [
+    "Liston, Melba"
+   ],
+   "note": "not reconciled to her QID upstream; found by text search and confirmed block by block in enriched.json (mention_source = fts_supplement)"
+  }
+ ],
+ "interviewees": [
+  {
+   "name": "Slide Hampton",
+   "qid": "Q1369035",
+   "node_key": "wd:Q1369035",
+   "n_docs": 2,
+   "n_mentions": 8,
+   "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/SlideHampton.jpg",
+   "semlab_thumb_url": "https://linkedjazz.org/image/square/Slide_Hampton.png",
+   "description": "American trombonist (1932–2021)",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q1369035",
+   "doc_ids": [
+    "Hampton_Slide_Transcript",
+    "275930"
+   ]
+  },
+  {
+   "name": "Randy Weston",
+   "qid": "Q1371187",
+   "node_key": "wd:Q1371187",
+   "n_docs": 1,
+   "n_mentions": 5,
+   "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Randy%20Weston.jpg",
+   "semlab_thumb_url": "https://linkedjazz.org/image/square/Randy_Weston.png",
+   "description": "American jazz pianist (1926–2018)",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q1371187",
+   "doc_ids": [
+    "Randy-Weston-Transcription-2020_0"
+   ]
+  },
+  {
+   "name": "Butter Jackson",
+   "qid": null,
+   "node_key": "nm:butter jackson",
+   "n_docs": 1,
+   "n_mentions": 4,
+   "image_url": null,
+   "semlab_thumb_url": null,
+   "description": null,
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#nm:butter jackson",
+   "doc_ids": [
+    "61539"
+   ]
+  },
+  {
+   "name": "Curtis Fuller",
+   "qid": "Q1145565",
+   "node_key": "wd:Q1145565",
+   "n_docs": 1,
+   "n_mentions": 4,
+   "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Curtis%20Fuller.jpg",
+   "semlab_thumb_url": "https://linkedjazz.org/image/square/Curtis_Fuller.png",
+   "description": "American jazz musician (1932–2021)",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q1145565",
+   "doc_ids": [
+    "Fuller_Curtis_Transcript"
+   ]
+  },
+  {
+   "name": "Paul L. Howard",
+   "qid": null,
+   "node_key": "nm:paul l howard",
+   "n_docs": 1,
+   "n_mentions": 4,
+   "image_url": null,
+   "semlab_thumb_url": null,
+   "description": null,
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#nm:paul l howard",
+   "doc_ids": [
+    "67256"
+   ]
+  },
+  {
+   "name": "Gerald Wilson",
+   "qid": "Q201500",
+   "node_key": "wd:Q201500",
+   "n_docs": 2,
+   "n_mentions": 3,
+   "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerald%20S.%20Wilson.jpg",
+   "semlab_thumb_url": "https://linkedjazz.org/image/square/Gerald_Wilson.png",
+   "description": "American trumpetist (1918–2014)",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q201500",
+   "doc_ids": [
+    "275907",
+    "Gerald-Wilson_transcription"
+   ]
+  },
+  {
+   "name": "Benny Powell",
+   "qid": "Q599429",
+   "node_key": "wd:Q599429",
+   "n_docs": 1,
+   "n_mentions": 2,
+   "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Count%20Basie%20and%20His%20Orchestra%20performs%20in%20Helsinki%201962%20%28JOKAHBL3E%20C04-11%29.tif",
+   "semlab_thumb_url": "https://linkedjazz.org/image/square/Benny_Powell.png",
+   "description": "American jazz trombonist (1930–2010)",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q599429",
+   "doc_ids": [
+    "275855"
+   ]
+  },
+  {
+   "name": "David N. Baker",
+   "qid": "Q1173633",
+   "node_key": "wd:Q1173633",
+   "n_docs": 1,
+   "n_mentions": 2,
+   "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Baker%20%28far%20left%29%20leading%20the%20Smithsonian%20Jazz%20Masterworks%20Orchestra%20%28cropped%29.jpg",
+   "semlab_thumb_url": "https://linkedjazz.org/image/square/David_Baker_(composer).png",
+   "description": "American jazz composer, trombonist, professor of music and author (1931-2016)",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q1173633",
+   "doc_ids": [
+    "David N. Baker SI-NEA oral history (2)"
+   ]
+  },
+  {
+   "name": "Snooky Young",
+   "qid": "Q2004076",
+   "node_key": "wd:Q2004076",
+   "n_docs": 1,
+   "n_mentions": 2,
+   "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/SnookyYoungFinalPhoto40.jpg",
+   "semlab_thumb_url": "https://linkedjazz.org/image/square/Snooky_Young.png",
+   "description": "American musician (1919–2011)",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q2004076",
+   "doc_ids": [
+    "275907"
+   ]
+  },
+  {
+   "name": "Abbey Lincoln",
+   "qid": "Q231071",
+   "node_key": "wd:Q231071",
+   "n_docs": 1,
+   "n_mentions": 1,
+   "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Abbey%20Lincoln.JPG",
+   "semlab_thumb_url": "https://linkedjazz.org/image/square/Abbey_Lincoln.png",
+   "description": "American singer (1930–2010)",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q231071",
+   "doc_ids": [
+    "Abbey-Lincoln-Transcription-2020"
+   ]
+  },
+  {
+   "name": "Akiyoshi Toshiko",
+   "qid": "Q437117",
+   "node_key": "wd:Q437117",
+   "n_docs": 1,
+   "n_mentions": 1,
+   "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Akiyoshi%20Toshiko%201953.jpg",
+   "semlab_thumb_url": "https://linkedjazz.org/image/square/Toshiko_Akiyoshi.png",
+   "description": "Japanese American jazz pianist, composer, arranger, band master",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q437117",
+   "doc_ids": [
+    "Toshiko_Akiyoshi_Transcript"
+   ]
+  },
+  {
+   "name": "Al Grey",
+   "qid": "Q715687",
+   "node_key": "wd:Q715687",
+   "n_docs": 1,
+   "n_mentions": 1,
+   "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Grey%20%28Gottlieb%29.jpg",
+   "semlab_thumb_url": "https://linkedjazz.org/image/square/Al_Grey.png",
+   "description": "American jazz musician (1925–2000)",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q715687",
+   "doc_ids": [
+    "275782"
+   ]
+  },
+  {
+   "name": "Clark Terry",
+   "qid": "Q432924",
+   "node_key": "wd:Q432924",
+   "n_docs": 1,
+   "n_mentions": 1,
+   "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Clark%20Terry%20in%201981.jpg",
+   "semlab_thumb_url": "https://linkedjazz.org/image/square/Clark_Terry.png",
+   "description": "American swing and bebop trumpeter (1920–2015)",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q432924",
+   "doc_ids": [
+    "275883"
+   ]
+  },
+  {
+   "name": "HANK JONES",
+   "qid": "Q447907",
+   "node_key": "wd:Q447907",
+   "n_docs": 1,
+   "n_mentions": 1,
+   "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hank%20Jones.jpg",
+   "semlab_thumb_url": "https://linkedjazz.org/image/square/Hank_Jones.png",
+   "description": "American jazz pianist, bandleader, arranger and composer (1918-2010)",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q447907",
+   "doc_ids": [
+    "Hank_Jones_Transcript"
+   ]
+  },
+  {
+   "name": "Hayes Pillars",
+   "qid": "Q15485294",
+   "node_key": "wd:Q15485294",
+   "n_docs": 1,
+   "n_mentions": 1,
+   "image_url": null,
+   "semlab_thumb_url": null,
+   "description": "American musician",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q15485294",
+   "doc_ids": [
+    "67426"
+   ]
+  },
+  {
+   "name": "Maxine Sullivan",
+   "qid": "Q281341",
+   "node_key": "wd:Q281341",
+   "n_docs": 1,
+   "n_mentions": 1,
+   "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/1938%20Maxine%20Sullivan.jpg",
+   "semlab_thumb_url": null,
+   "description": "American blues and jazz singer (1911-1987)",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q281341",
+   "doc_ids": [
+    "61529"
+   ]
+  },
+  {
+   "name": "Teddy Edwards",
+   "qid": "Q322308",
+   "node_key": "wd:Q322308",
+   "n_docs": 1,
+   "n_mentions": 1,
+   "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Teddy%20Edwards.jpg",
+   "semlab_thumb_url": "https://linkedjazz.org/image/square/Teddy_Edwards.png",
+   "description": "American jazz tenor saxophonist",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q322308",
+   "doc_ids": [
+    "61520"
+   ]
+  },
+  {
+   "name": "Vi Redd",
+   "qid": "Q513985",
+   "node_key": "wd:Q513985",
+   "n_docs": 1,
+   "n_mentions": 1,
+   "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vi-Redd-rochester-ny-june-1977.jpg",
+   "semlab_thumb_url": "https://linkedjazz.org/image/square/Vi_Redd.png",
+   "description": "American jazz altosaxophonist, singer and educator (1928–2022)",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q513985",
+   "doc_ids": [
+    "275859"
+   ]
+  }
+ ],
+ "items": [
+  {
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "document": {
+    "doc_id": "Liston_Melba_Interview_Transcription",
+    "collection": "si",
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "interviewee": "Melba Liston",
+    "interviewer": null,
+    "date": null,
+    "year": null,
+    "kind": "interview",
+    "method": "pdf-text-rules",
+    "source": "smithsonian-jazz-oral-history",
+    "source_url": "https://amhistory.si.edu/jazz/Liston-Melba/Liston_Melba_Interview_Transcription.pdf",
+    "num_pages": 68,
+    "num_blocks": 1057,
+    "fnv1a64": "66eee47245ec0077",
+    "dochash": "59c157c5",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription"
+   },
+   "meta_json": {
+    "id": "Liston_Melba_Interview_Transcription",
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "source": "smithsonian-jazz-oral-history",
+    "collection": "si",
+    "kind": "interview",
+    "method": "pdf-text-rules",
+    "pdf": "Liston_Melba_Interview_Transcription.pdf",
+    "speakers": [
+     "Bryant",
+     "Liston"
+    ],
+    "num_pages": 68,
+    "num_dialogue_turns": 1032,
+    "num_paragraphs": 0,
+    "interviewee": "Melba Liston",
+    "source_url": "https://amhistory.si.edu/jazz/Liston-Melba/Liston_Melba_Interview_Transcription.pdf",
+    "entities_meta": {
+     "model": "fastino/gliner2-large-v1",
+     "labels": [
+      "person",
+      "place",
+      "organization",
+      "ensemble",
+      "venue",
+      "record_label",
+      "musical_work",
+      "instrument",
+      "event",
+      "date"
+     ],
+     "min_confidence": 0.5,
+     "generated": "2026-06-28T07:37:10+00:00",
+     "person_filter": "dropped pronouns/kinship/lowercase non-names",
+     "num_entities": 549,
+     "num_mentions": 1125,
+     "num_chunks": 1050
+    },
+    "alignment_meta": {
+     "version": "1.0",
+     "scope": "within-document",
+     "method": "L0 noise + L1 metadata seed + L2 token-alias + L3 nickname-dict + L4 Qwen-LLM",
+     "llm_model": "Qwen3.6-35B-A3B-bf16",
+     "num_person_entities": 151,
+     "num_canonical": 118,
+     "num_merged": 26,
+     "num_unresolved": 20,
+     "noise_removed": [],
+     "via_counts": {
+      "token_alias": 25,
+      "llm": 5,
+      "nickname": 1,
+      "self": 98,
+      "famous": 2,
+      "unresolved": 20
+     },
+     "famous_recovery": true
+    },
+    "relationships_meta": {
+     "version": "1.0",
+     "model": "Qwen3.6-35B-A3B-bf16",
+     "interviewee": "Melba Liston",
+     "interviewee_label": "LISTON",
+     "interviewer_labels": [
+      "BRYANT"
+     ],
+     "num_errors": 0,
+     "field_notes": {
+      "relation": "controlled-vocabulary relationship interviewee->person; reliable",
+      "direction": "for asymmetric relations: 'target'/'interviewee'/'mutual'/'na'",
+      "proposed": "free-text finer-grained label SUGGESTED by the model; UNVERIFIED",
+      "evidence": "model-quoted snippet supporting the call",
+      "third_party": "a relationship the interviewee only NARRATES between two others",
+      "sources": "exact transcript turns (page/block + text) the judgment drew from"
+     },
+     "vocabulary": [
+      "knows of",
+      "has met",
+      "acquaintance of",
+      "friend of",
+      "mentor of",
+      "influenced by",
+      "collaborated with",
+      "in music group with",
+      "played with",
+      "played under",
+      "toured with"
+     ],
+     "num_classified": 115,
+     "num_skipped": 3,
+     "generated": "2026-07-01T17:25:07Z"
+    }
+   },
+   "meta_json_dropped_arrays": [],
+   "collection_label": "Smithsonian Jazz Oral History Program",
+   "collection_url": "https://americanhistory.si.edu/explore/projects/smithsonian-jazz/oral-history-program",
+   "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription",
+   "source_url": "https://amhistory.si.edu/jazz/Liston-Melba/Liston_Melba_Interview_Transcription.pdf",
+   "doc_interviewees": [
+    {
+     "ord": 0,
+     "label": "Melba Liston",
+     "node_key": "wd:Q274146",
+     "qid": "Q274146",
+     "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q274146",
+     "node": {
+      "node_id": "wd:Q274146",
+      "kind": "wd",
+      "label": "Melba Liston",
+      "is_interviewee": 1,
+      "mentions": 110,
+      "docs": 21,
+      "community": 2,
+      "x": 15460.36,
+      "y": -39876.61,
+      "wd_image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Melba%20Liston.jpg",
+      "semlab_thumb_url": "https://linkedjazz.org/image/square/Melba_Liston.png"
+     },
+     "wd_people": {
+      "qid": "Q274146",
+      "label": "Melba Liston",
+      "description": "American jazz trombonist, musical arranger, and composer (1926–1999)",
+      "birth": "1926",
+      "death": "1999",
+      "wp_title": "Melba Liston",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Melba_Liston",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q274146",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Melba%20Liston.jpg",
+      "semlab_thumb_url": "https://linkedjazz.org/image/square/Melba_Liston.png",
+      "semlab": {
+       "semlab_id": "Q635",
+       "url": "https://base.semlab.io/wiki/Item:Q635",
+       "entity_uri": "http://base.semlab.io/entity/Q635"
+      }
+     }
+    }
+   ],
+   "subject_mentions": 69,
+   "subject_mention_rows": 69,
+   "subject_blocks": 68,
+   "has_classified_relationship": false,
+   "n_classified_relationships": 0
+  },
+  {
+   "doc_id": "Hampton_Slide_Transcript",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "document": {
+    "doc_id": "Hampton_Slide_Transcript",
+    "collection": "si",
+    "title": "Slide Hampton — Smithsonian Jazz Oral History",
+    "interviewee": "Slide Hampton",
+    "interviewer": null,
+    "date": null,
+    "year": null,
+    "kind": "interview",
+    "method": "pdf-text-rules",
+    "source": "smithsonian-jazz-oral-history",
+    "source_url": "https://amhistory.si.edu/jazz/Hampton-Slide/Hampton_Slide_Transcript.pdf",
+    "num_pages": 117,
+    "num_blocks": 1227,
+    "fnv1a64": "cd98ed01c8902661",
+    "dochash": "53dc1dd1",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Hampton_Slide_Transcript"
+   },
+   "meta_json": {
+    "id": "Hampton_Slide_Transcript",
+    "title": "Slide Hampton — Smithsonian Jazz Oral History",
+    "source": "smithsonian-jazz-oral-history",
+    "collection": "si",
+    "kind": "interview",
+    "method": "pdf-text-rules",
+    "pdf": "Hampton_Slide_Transcript.pdf",
+    "speakers": [
+     "Brower",
+     "Hampton"
+    ],
+    "num_pages": 117,
+    "num_dialogue_turns": 1158,
+    "num_paragraphs": 0,
+    "interviewee": "Slide Hampton",
+    "source_url": "https://amhistory.si.edu/jazz/Hampton-Slide/Hampton_Slide_Transcript.pdf",
+    "entities_meta": {
+     "model": "fastino/gliner2-large-v1",
+     "labels": [
+      "person",
+      "place",
+      "organization",
+      "ensemble",
+      "venue",
+      "record_label",
+      "musical_work",
+      "instrument",
+      "event",
+      "date"
+     ],
+     "min_confidence": 0.5,
+     "generated": "2026-06-28T07:37:10+00:00",
+     "person_filter": "dropped pronouns/kinship/lowercase non-names",
+     "num_entities": 1070,
+     "num_mentions": 2234,
+     "num_chunks": 1234
+    },
+    "alignment_meta": {
+     "version": "1.0",
+     "scope": "within-document",
+     "method": "L0 noise + L1 metadata seed + L2 token-alias + L3 nickname-dict + L4 Qwen-LLM",
+     "llm_model": "Qwen3.6-35B-A3B-bf16",
+     "num_person_entities": 309,
+     "num_canonical": 236,
+     "num_merged": 56,
+     "num_unresolved": 23,
+     "noise_removed": [
+      "God"
+     ],
+     "via_counts": {
+      "nickname": 11,
+      "self": 216,
+      "token_alias": 42,
+      "llm": 15,
+      "unresolved": 23,
+      "famous": 1,
+      "metadata": 1
+     },
+     "famous_recovery": true
+    },
+    "relationships_meta": {
+     "version": "1.0",
+     "model": "Qwen3.6-35B-A3B-bf16",
+     "interviewee": "Slide Hampton",
+     "interviewee_label": "HAMPTON",
+     "interviewer_labels": [
+      "BROWER"
+     ],
+     "num_errors": 0,
+     "field_notes": {
+      "relation": "controlled-vocabulary relationship interviewee->person; reliable",
+      "direction": "for asymmetric relations: 'target'/'interviewee'/'mutual'/'na'",
+      "proposed": "free-text finer-grained label SUGGESTED by the model; UNVERIFIED",
+      "evidence": "model-quoted snippet supporting the call",
+      "third_party": "a relationship the interviewee only NARRATES between two others",
+      "sources": "exact transcript turns (page/block + text) the judgment drew from"
+     },
+     "vocabulary": [
+      "knows of",
+      "has met",
+      "acquaintance of",
+      "friend of",
+      "mentor of",
+      "influenced by",
+      "collaborated with",
+      "in music group with",
+      "played with",
+      "played under",
+      "toured with"
+     ],
+     "num_classified": 215,
+     "num_skipped": 21,
+     "generated": "2026-07-01T15:20:10Z"
+    }
+   },
+   "meta_json_dropped_arrays": [],
+   "collection_label": "Smithsonian Jazz Oral History Program",
+   "collection_url": "https://americanhistory.si.edu/explore/projects/smithsonian-jazz/oral-history-program",
+   "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Hampton_Slide_Transcript",
+   "source_url": "https://amhistory.si.edu/jazz/Hampton-Slide/Hampton_Slide_Transcript.pdf",
+   "doc_interviewees": [
+    {
+     "ord": 0,
+     "label": "Slide Hampton",
+     "node_key": "wd:Q1369035",
+     "qid": "Q1369035",
+     "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q1369035",
+     "node": {
+      "node_id": "wd:Q1369035",
+      "kind": "wd",
+      "label": "Slide Hampton",
+      "is_interviewee": 1,
+      "mentions": 119,
+      "docs": 48,
+      "community": 2,
+      "x": 29611.18,
+      "y": -48078.05,
+      "wd_image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/SlideHampton.jpg",
+      "semlab_thumb_url": "https://linkedjazz.org/image/square/Slide_Hampton.png"
+     },
+     "wd_people": {
+      "qid": "Q1369035",
+      "label": "Slide Hampton",
+      "description": "American trombonist (1932–2021)",
+      "birth": "1932",
+      "death": "2021",
+      "wp_title": "Slide Hampton",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Slide_Hampton",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1369035",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/SlideHampton.jpg",
+      "semlab_thumb_url": "https://linkedjazz.org/image/square/Slide_Hampton.png",
+      "semlab": {
+       "semlab_id": "Q663",
+       "url": "https://base.semlab.io/wiki/Item:Q663",
+       "entity_uri": "http://base.semlab.io/entity/Q663"
+      }
+     }
+    }
+   ],
+   "subject_mentions": 6,
+   "subject_mention_rows": 6,
+   "subject_blocks": 6,
+   "has_classified_relationship": true,
+   "n_classified_relationships": 1
+  },
+  {
+   "doc_id": "Randy-Weston-Transcription-2020_0",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "document": {
+    "doc_id": "Randy-Weston-Transcription-2020_0",
+    "collection": "si",
+    "title": "Randy Weston — Smithsonian Jazz Oral History",
+    "interviewee": "Randy Weston",
+    "interviewer": null,
+    "date": null,
+    "year": 2020,
+    "kind": "interview",
+    "method": "pdf-text-rules",
+    "source": "smithsonian-jazz-oral-history",
+    "source_url": "https://americanhistory.si.edu/sites/default/files/file-uploader/Randy-Weston-Transcription-2020_0.pdf",
+    "num_pages": 20,
+    "num_blocks": 111,
+    "fnv1a64": "e3785823c46de559",
+    "dochash": "2f302b4b",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0"
+   },
+   "meta_json": {
+    "id": "Randy-Weston-Transcription-2020_0",
+    "title": "Randy Weston — Smithsonian Jazz Oral History",
+    "source": "smithsonian-jazz-oral-history",
+    "collection": "si",
+    "kind": "interview",
+    "method": "pdf-text-rules",
+    "pdf": "Randy-Weston-Transcription-2020_0.pdf",
+    "speakers": [
+     "Jenkins",
+     "Randy Weston"
+    ],
+    "num_pages": 20,
+    "num_dialogue_turns": 89,
+    "num_paragraphs": 0,
+    "interviewee": "Randy Weston",
+    "source_url": "https://americanhistory.si.edu/sites/default/files/file-uploader/Randy-Weston-Transcription-2020_0.pdf",
+    "year": 2020,
+    "entities_meta": {
+     "model": "fastino/gliner2-large-v1",
+     "labels": [
+      "person",
+      "place",
+      "organization",
+      "ensemble",
+      "venue",
+      "record_label",
+      "musical_work",
+      "instrument",
+      "event",
+      "date"
+     ],
+     "min_confidence": 0.5,
+     "generated": "2026-06-28T07:37:10+00:00",
+     "person_filter": "dropped pronouns/kinship/lowercase non-names",
+     "num_entities": 428,
+     "num_mentions": 654,
+     "num_chunks": 118
+    },
+    "alignment_meta": {
+     "version": "1.0",
+     "scope": "within-document",
+     "method": "L0 noise + L1 metadata seed + L2 token-alias + L3 nickname-dict + L4 Qwen-LLM",
+     "llm_model": "Qwen3.6-35B-A3B-bf16",
+     "num_person_entities": 129,
+     "num_canonical": 114,
+     "num_merged": 12,
+     "num_unresolved": 19,
+     "noise_removed": [],
+     "via_counts": {
+      "self": 97,
+      "llm": 4,
+      "token_alias": 8,
+      "unresolved": 19,
+      "nickname": 1
+     }
+    },
+    "relationships_meta": {
+     "version": "1.0",
+     "model": "Qwen3.6-35B-A3B-bf16",
+     "interviewee": "Randy Weston",
+     "interviewee_label": "RANDYWESTON",
+     "interviewer_labels": [
+      "JENKINS"
+     ],
+     "num_errors": 0,
+     "field_notes": {
+      "relation": "controlled-vocabulary relationship interviewee->person; reliable",
+      "direction": "for asymmetric relations: 'target'/'interviewee'/'mutual'/'na'",
+      "proposed": "free-text finer-grained label SUGGESTED by the model; UNVERIFIED",
+      "evidence": "model-quoted snippet supporting the call",
+      "third_party": "a relationship the interviewee only NARRATES between two others",
+      "sources": "exact transcript turns (page/block + text) the judgment drew from"
+     },
+     "vocabulary": [
+      "knows of",
+      "has met",
+      "acquaintance of",
+      "friend of",
+      "mentor of",
+      "influenced by",
+      "collaborated with",
+      "in music group with",
+      "played with",
+      "played under",
+      "toured with"
+     ],
+     "num_classified": 112,
+     "num_skipped": 2,
+     "generated": "2026-07-01T19:26:38Z"
+    }
+   },
+   "meta_json_dropped_arrays": [],
+   "collection_label": "Smithsonian Jazz Oral History Program",
+   "collection_url": "https://americanhistory.si.edu/explore/projects/smithsonian-jazz/oral-history-program",
+   "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0",
+   "source_url": "https://americanhistory.si.edu/sites/default/files/file-uploader/Randy-Weston-Transcription-2020_0.pdf",
+   "doc_interviewees": [
+    {
+     "ord": 0,
+     "label": "Randy Weston",
+     "node_key": "wd:Q1371187",
+     "qid": "Q1371187",
+     "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q1371187",
+     "node": {
+      "node_id": "wd:Q1371187",
+      "kind": "wd",
+      "label": "Randy Weston",
+      "is_interviewee": 1,
+      "mentions": 90,
+      "docs": 24,
+      "community": 2,
+      "x": 22682.97,
+      "y": -41514.98,
+      "wd_image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Randy%20Weston.jpg",
+      "semlab_thumb_url": "https://linkedjazz.org/image/square/Randy_Weston.png"
+     },
+     "wd_people": {
+      "qid": "Q1371187",
+      "label": "Randy Weston",
+      "description": "American jazz pianist (1926–2018)",
+      "birth": "1926",
+      "death": "2018",
+      "wp_title": "Randy Weston",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Randy_Weston",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1371187",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Randy%20Weston.jpg",
+      "semlab_thumb_url": "https://linkedjazz.org/image/square/Randy_Weston.png",
+      "semlab": {
+       "semlab_id": "Q657",
+       "url": "https://base.semlab.io/wiki/Item:Q657",
+       "entity_uri": "http://base.semlab.io/entity/Q657"
+      }
+     }
+    }
+   ],
+   "subject_mentions": 5,
+   "subject_mention_rows": 5,
+   "subject_blocks": 5,
+   "has_classified_relationship": true,
+   "n_classified_relationships": 1
+  },
+  {
+   "doc_id": "61539",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "document": {
+    "doc_id": "61539",
+    "collection": "rutgers",
+    "title": "61539_Butter Jackson oral history interview",
+    "interviewee": "Quentin Jackson",
+    "interviewer": null,
+    "date": null,
+    "year": null,
+    "kind": "interview",
+    "method": null,
+    "source": "rutgers-ijs-readers",
+    "source_url": "https://rucore.libraries.rutgers.edu/rutgers-lib/61539/",
+    "num_pages": 456,
+    "num_blocks": 5685,
+    "fnv1a64": "00c69a63f3fe191f",
+    "dochash": "371edb02",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=61539"
+   },
+   "meta_json": {
+    "id": "61539",
+    "title": "61539_Butter Jackson oral history interview",
+    "source": "rutgers-ijs-readers",
+    "kind": "interview",
+    "model": "Qwen3.6-35B-A3B-bf16",
+    "num_pages": 456,
+    "num_dialogue_turns": 5059,
+    "num_paragraphs": 269,
+    "entities_meta": {
+     "model": "fastino/gliner2-large-v1",
+     "labels": [
+      "person",
+      "place",
+      "organization",
+      "ensemble",
+      "venue",
+      "record_label",
+      "musical_work",
+      "instrument",
+      "event",
+      "date"
+     ],
+     "min_confidence": 0.5,
+     "generated": "2026-06-28T07:37:10+00:00",
+     "person_filter": "dropped pronouns/kinship/lowercase non-names",
+     "num_entities": 2384,
+     "num_mentions": 6614,
+     "num_chunks": 5639
+    },
+    "alignment_meta": {
+     "version": "1.0",
+     "scope": "within-document",
+     "method": "L0 noise + L1 metadata seed + L2 token-alias + L3 nickname-dict + L4 Qwen-LLM",
+     "llm_model": "Qwen3.6-35B-A3B-bf16",
+     "num_person_entities": 911,
+     "num_canonical": 750,
+     "num_merged": 140,
+     "num_unresolved": 124,
+     "noise_removed": [
+      "God",
+      "Who?"
+     ],
+     "via_counts": {
+      "nickname": 11,
+      "llm": 36,
+      "unresolved": 124,
+      "token_alias": 115,
+      "self": 623,
+      "famous": 2
+     },
+     "famous_recovery": true
+    },
+    "relationships_meta": {
+     "version": "1.0",
+     "model": "Qwen3.6-35B-A3B-bf16",
+     "interviewee": "Butter Jackson",
+     "interviewee_label": "MRJACKSON",
+     "interviewer_labels": [
+      "MR",
+      "MRHINTON"
+     ],
+     "num_errors": 0,
+     "field_notes": {
+      "relation": "controlled-vocabulary relationship interviewee->person; reliable",
+      "direction": "for asymmetric relations: 'target'/'interviewee'/'mutual'/'na'",
+      "proposed": "free-text finer-grained label SUGGESTED by the model; UNVERIFIED",
+      "evidence": "model-quoted snippet supporting the call",
+      "third_party": "a relationship the interviewee only NARRATES between two others",
+      "sources": "exact transcript turns (page/block + text) the judgment drew from"
+     },
+     "vocabulary": [
+      "knows of",
+      "has met",
+      "acquaintance of",
+      "friend of",
+      "mentor of",
+      "influenced by",
+      "collaborated with",
+      "in music group with",
+      "played with",
+      "played under",
+      "toured with"
+     ],
+     "num_classified": 735,
+     "num_skipped": 15,
+     "generated": "2026-06-30T08:46:13Z"
+    },
+    "source_url": "https://rucore.libraries.rutgers.edu/rutgers-lib/61539/",
+    "interviewee": "Quentin Jackson",
+    "collection": "rutgers"
+   },
+   "meta_json_dropped_arrays": [],
+   "collection_label": "Rutgers — Institute of Jazz Studies",
+   "collection_url": "https://www.libraries.rutgers.edu/collections/institute-jazz-studies",
+   "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=61539",
+   "source_url": "https://rucore.libraries.rutgers.edu/rutgers-lib/61539/",
+   "doc_interviewees": [
+    {
+     "ord": 0,
+     "label": "Butter Jackson",
+     "node_key": "nm:butter jackson",
+     "qid": null,
+     "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#nm:butter jackson",
+     "node": {
+      "node_id": "nm:butter jackson",
+      "kind": "nm",
+      "label": "Butter Jackson",
+      "is_interviewee": 1,
+      "mentions": 59,
+      "docs": 7,
+      "community": 17,
+      "x": 17652.23,
+      "y": 11794.11,
+      "wd_image_url": null,
+      "semlab_thumb_url": null
+     },
+     "wd_people": null
+    }
+   ],
+   "subject_mentions": 4,
+   "subject_mention_rows": 4,
+   "subject_blocks": 4,
+   "has_classified_relationship": true,
+   "n_classified_relationships": 1
+  },
+  {
+   "doc_id": "67256",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "document": {
+    "doc_id": "67256",
+    "collection": "rutgers",
+    "title": "67256_Paul L. Howard oral history interview",
+    "interviewee": "Patricia Willard",
+    "interviewer": null,
+    "date": null,
+    "year": null,
+    "kind": "interview",
+    "method": null,
+    "source": "rutgers-ijs-readers",
+    "source_url": "https://rucore.libraries.rutgers.edu/rutgers-lib/67256/",
+    "num_pages": 328,
+    "num_blocks": 4794,
+    "fnv1a64": "9808969672ea4ed3",
+    "dochash": "6a9371e2",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=67256"
+   },
+   "meta_json": {
+    "id": "67256",
+    "title": "67256_Paul L. Howard oral history interview",
+    "source": "rutgers-ijs-readers",
+    "kind": "interview",
+    "model": "Qwen3.6-35B-A3B-bf16",
+    "num_pages": 328,
+    "num_dialogue_turns": 4429,
+    "num_paragraphs": 118,
+    "entities_meta": {
+     "model": "fastino/gliner2-large-v1",
+     "labels": [
+      "person",
+      "place",
+      "organization",
+      "ensemble",
+      "venue",
+      "record_label",
+      "musical_work",
+      "instrument",
+      "event",
+      "date"
+     ],
+     "min_confidence": 0.5,
+     "generated": "2026-06-28T07:37:10+00:00",
+     "person_filter": "dropped pronouns/kinship/lowercase non-names",
+     "num_entities": 1433,
+     "num_mentions": 3884,
+     "num_chunks": 4729
+    },
+    "alignment_meta": {
+     "version": "1.0",
+     "scope": "within-document",
+     "method": "L0 noise + L1 metadata seed + L2 token-alias + L3 nickname-dict + L4 Qwen-LLM",
+     "llm_model": "Qwen3.6-35B-A3B-bf16",
+     "num_person_entities": 472,
+     "num_canonical": 360,
+     "num_merged": 84,
+     "num_unresolved": 64,
+     "noise_removed": [
+      "Who?"
+     ],
+     "via_counts": {
+      "llm": 44,
+      "token_alias": 64,
+      "self": 296,
+      "unresolved": 64,
+      "nickname": 3,
+      "famous": 1
+     },
+     "famous_recovery": true
+    },
+    "relationships_meta": {
+     "version": "1.0",
+     "model": "Qwen3.6-35B-A3B-bf16",
+     "interviewee": "Paul L. Howard",
+     "interviewee_label": "MRHOWARD",
+     "interviewer_labels": [
+      "MRCOLLETTE",
+      "MSHOWARD",
+      "MSHOWARDJR",
+      "MSWILLARD"
+     ],
+     "num_errors": 0,
+     "field_notes": {
+      "relation": "controlled-vocabulary relationship interviewee->person; reliable",
+      "direction": "for asymmetric relations: 'target'/'interviewee'/'mutual'/'na'",
+      "proposed": "free-text finer-grained label SUGGESTED by the model; UNVERIFIED",
+      "evidence": "model-quoted snippet supporting the call",
+      "third_party": "a relationship the interviewee only NARRATES between two others",
+      "sources": "exact transcript turns (page/block + text) the judgment drew from"
+     },
+     "vocabulary": [
+      "knows of",
+      "has met",
+      "acquaintance of",
+      "friend of",
+      "mentor of",
+      "influenced by",
+      "collaborated with",
+      "in music group with",
+      "played with",
+      "played under",
+      "toured with"
+     ],
+     "num_classified": 347,
+     "num_skipped": 13,
+     "generated": "2026-06-30T10:43:36Z"
+    },
+    "source_url": "https://rucore.libraries.rutgers.edu/rutgers-lib/67256/",
+    "interviewee": "Patricia Willard",
+    "collection": "rutgers"
+   },
+   "meta_json_dropped_arrays": [],
+   "collection_label": "Rutgers — Institute of Jazz Studies",
+   "collection_url": "https://www.libraries.rutgers.edu/collections/institute-jazz-studies",
+   "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=67256",
+   "source_url": "https://rucore.libraries.rutgers.edu/rutgers-lib/67256/",
+   "doc_interviewees": [
+    {
+     "ord": 0,
+     "label": "Paul L. Howard",
+     "node_key": "nm:paul l howard",
+     "qid": null,
+     "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#nm:paul l howard",
+     "node": {
+      "node_id": "nm:paul l howard",
+      "kind": "nm",
+      "label": "Paul L. Howard",
+      "is_interviewee": 1,
+      "mentions": 67,
+      "docs": 2,
+      "community": 0,
+      "x": -13178.83,
+      "y": 33159.72,
+      "wd_image_url": null,
+      "semlab_thumb_url": null
+     },
+     "wd_people": null
+    }
+   ],
+   "subject_mentions": 4,
+   "subject_mention_rows": 4,
+   "subject_blocks": 4,
+   "has_classified_relationship": true,
+   "n_classified_relationships": 1
+  },
+  {
+   "doc_id": "Fuller_Curtis_Transcript",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "document": {
+    "doc_id": "Fuller_Curtis_Transcript",
+    "collection": "si",
+    "title": "Curtis Fuller — Smithsonian Jazz Oral History",
+    "interviewee": "Curtis Fuller",
+    "interviewer": null,
+    "date": null,
+    "year": null,
+    "kind": "interview",
+    "method": "pdf-text-rules",
+    "source": "smithsonian-jazz-oral-history",
+    "source_url": "https://amhistory.si.edu/jazz/Fuller-Curtis/Fuller_Curtis_Transcript.pdf",
+    "num_pages": 89,
+    "num_blocks": 721,
+    "fnv1a64": "3129ca7aa2e5efa1",
+    "dochash": "d25d086b",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Fuller_Curtis_Transcript"
+   },
+   "meta_json": {
+    "id": "Fuller_Curtis_Transcript",
+    "title": "Curtis Fuller — Smithsonian Jazz Oral History",
+    "source": "smithsonian-jazz-oral-history",
+    "collection": "si",
+    "kind": "interview",
+    "method": "pdf-text-rules",
+    "pdf": "Fuller_Curtis_Transcript.pdf",
+    "speakers": [
+     "Brower",
+     "Curtis Fuller"
+    ],
+    "num_pages": 89,
+    "num_dialogue_turns": 644,
+    "num_paragraphs": 0,
+    "interviewee": "Curtis Fuller",
+    "source_url": "https://amhistory.si.edu/jazz/Fuller-Curtis/Fuller_Curtis_Transcript.pdf",
+    "entities_meta": {
+     "model": "fastino/gliner2-large-v1",
+     "labels": [
+      "person",
+      "place",
+      "organization",
+      "ensemble",
+      "venue",
+      "record_label",
+      "musical_work",
+      "instrument",
+      "event",
+      "date"
+     ],
+     "min_confidence": 0.5,
+     "generated": "2026-06-28T07:37:10+00:00",
+     "person_filter": "dropped pronouns/kinship/lowercase non-names",
+     "num_entities": 1241,
+     "num_mentions": 2066,
+     "num_chunks": 739
+    },
+    "alignment_meta": {
+     "version": "1.0",
+     "scope": "within-document",
+     "method": "L0 noise + L1 metadata seed + L2 token-alias + L3 nickname-dict + L4 Qwen-LLM",
+     "llm_model": "Qwen3.6-35B-A3B-bf16",
+     "num_person_entities": 504,
+     "num_canonical": 416,
+     "num_merged": 73,
+     "num_unresolved": 91,
+     "noise_removed": [
+      "God",
+      "Lord"
+     ],
+     "via_counts": {
+      "llm": 24,
+      "self": 321,
+      "token_alias": 49,
+      "nickname": 16,
+      "unresolved": 91,
+      "metadata": 1,
+      "famous": 2
+     },
+     "famous_recovery": true
+    },
+    "relationships_meta": {
+     "version": "1.0",
+     "model": "Qwen3.6-35B-A3B-bf16",
+     "interviewee": "Curtis Fuller",
+     "interviewee_label": "CURTISFULLER",
+     "interviewer_labels": [
+      "BROWER"
+     ],
+     "num_errors": 0,
+     "field_notes": {
+      "relation": "controlled-vocabulary relationship interviewee->person; reliable",
+      "direction": "for asymmetric relations: 'target'/'interviewee'/'mutual'/'na'",
+      "proposed": "free-text finer-grained label SUGGESTED by the model; UNVERIFIED",
+      "evidence": "model-quoted snippet supporting the call",
+      "third_party": "a relationship the interviewee only NARRATES between two others",
+      "sources": "exact transcript turns (page/block + text) the judgment drew from"
+     },
+     "vocabulary": [
+      "knows of",
+      "has met",
+      "acquaintance of",
+      "friend of",
+      "mentor of",
+      "influenced by",
+      "collaborated with",
+      "in music group with",
+      "played with",
+      "played under",
+      "toured with"
+     ],
+     "num_classified": 408,
+     "num_skipped": 8,
+     "generated": "2026-07-01T14:48:49Z"
+    }
+   },
+   "meta_json_dropped_arrays": [],
+   "collection_label": "Smithsonian Jazz Oral History Program",
+   "collection_url": "https://americanhistory.si.edu/explore/projects/smithsonian-jazz/oral-history-program",
+   "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Fuller_Curtis_Transcript",
+   "source_url": "https://amhistory.si.edu/jazz/Fuller-Curtis/Fuller_Curtis_Transcript.pdf",
+   "doc_interviewees": [
+    {
+     "ord": 0,
+     "label": "Curtis Fuller",
+     "node_key": "wd:Q1145565",
+     "qid": "Q1145565",
+     "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q1145565",
+     "node": {
+      "node_id": "wd:Q1145565",
+      "kind": "wd",
+      "label": "Curtis Fuller",
+      "is_interviewee": 1,
+      "mentions": 132,
+      "docs": 40,
+      "community": 2,
+      "x": 34264.99,
+      "y": -46003.22,
+      "wd_image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Curtis%20Fuller.jpg",
+      "semlab_thumb_url": "https://linkedjazz.org/image/square/Curtis_Fuller.png"
+     },
+     "wd_people": {
+      "qid": "Q1145565",
+      "label": "Curtis Fuller",
+      "description": "American jazz musician (1932–2021)",
+      "birth": "1934",
+      "death": "2021",
+      "wp_title": "Curtis Fuller",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Curtis_Fuller",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1145565",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Curtis%20Fuller.jpg",
+      "semlab_thumb_url": "https://linkedjazz.org/image/square/Curtis_Fuller.png",
+      "semlab": {
+       "semlab_id": "Q919",
+       "url": "https://base.semlab.io/wiki/Item:Q919",
+       "entity_uri": "http://base.semlab.io/entity/Q919"
+      }
+     }
+    }
+   ],
+   "subject_mentions": 4,
+   "subject_mention_rows": 4,
+   "subject_blocks": 4,
+   "has_classified_relationship": true,
+   "n_classified_relationships": 1
+  },
+  {
+   "doc_id": "275855",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "document": {
+    "doc_id": "275855",
+    "collection": "hamilton",
+    "title": "Benny Powell interviewed by Monk Rowe, New York City, New York, January 16, 1999 [interview 2 of 2]",
+    "interviewee": "Benny Powell",
+    "interviewer": null,
+    "date": null,
+    "year": 1999,
+    "kind": "interview",
+    "method": "pdf-text-rules",
+    "source": "hamilton-fillius-jazz-archive",
+    "source_url": "https://litsdigital.hamilton.edu/collections/object/benny-powell-interviewed-monk-rowe-new-york-city-new-york-january-16-1999",
+    "num_pages": 29,
+    "num_blocks": 184,
+    "fnv1a64": "bb8d87d034f9aad5",
+    "dochash": "bdb0e4fc",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275855"
+   },
+   "meta_json": {
+    "id": "275855",
+    "title": "Benny Powell interviewed by Monk Rowe, New York City, New York, January 16, 1999 [interview 2 of 2]",
+    "source": "hamilton-fillius-jazz-archive",
+    "collection": "hamilton",
+    "kind": "interview",
+    "method": "pdf-text-rules",
+    "pdf": "yhm-jaz-powell-b-1999.pdf",
+    "speakers": [
+     "BP",
+     "MR"
+    ],
+    "num_pages": 29,
+    "num_dialogue_turns": 155,
+    "num_paragraphs": 0,
+    "interviewee": "Benny Powell",
+    "year": 1999,
+    "source_url": "https://litsdigital.hamilton.edu/collections/object/benny-powell-interviewed-monk-rowe-new-york-city-new-york-january-16-1999",
+    "node_id": 275855,
+    "entities_meta": {
+     "model": "fastino/gliner2-large-v1",
+     "labels": [
+      "person",
+      "place",
+      "organization",
+      "ensemble",
+      "venue",
+      "record_label",
+      "musical_work",
+      "instrument",
+      "event",
+      "date"
+     ],
+     "min_confidence": 0.5,
+     "generated": "2026-06-28T07:37:10+00:00",
+     "person_filter": "dropped pronouns/kinship/lowercase non-names",
+     "num_entities": 406,
+     "num_mentions": 601,
+     "num_chunks": 190
+    },
+    "alignment_meta": {
+     "version": "1.0",
+     "scope": "within-document",
+     "method": "L0 noise + L1 metadata seed + L2 token-alias + L3 nickname-dict + L4 Qwen-LLM",
+     "llm_model": "Qwen3.6-35B-A3B-bf16",
+     "num_person_entities": 144,
+     "num_canonical": 132,
+     "num_merged": 11,
+     "num_unresolved": 9,
+     "noise_removed": [],
+     "via_counts": {
+      "token_alias": 7,
+      "self": 122,
+      "llm": 3,
+      "unresolved": 9,
+      "nickname": 2,
+      "famous": 1
+     },
+     "famous_recovery": true
+    },
+    "relationships_meta": {
+     "version": "1.0",
+     "model": "Qwen3.6-35B-A3B-bf16",
+     "interviewee": "Benny Powell",
+     "interviewee_label": "BP",
+     "interviewer_labels": [
+      "MR"
+     ],
+     "num_errors": 0,
+     "field_notes": {
+      "relation": "controlled-vocabulary relationship interviewee->person; reliable",
+      "direction": "for asymmetric relations: 'target'/'interviewee'/'mutual'/'na'",
+      "proposed": "free-text finer-grained label SUGGESTED by the model; UNVERIFIED",
+      "evidence": "model-quoted snippet supporting the call",
+      "third_party": "a relationship the interviewee only NARRATES between two others",
+      "sources": "exact transcript turns (page/block + text) the judgment drew from"
+     },
+     "vocabulary": [
+      "knows of",
+      "has met",
+      "acquaintance of",
+      "friend of",
+      "mentor of",
+      "influenced by",
+      "collaborated with",
+      "in music group with",
+      "played with",
+      "played under",
+      "toured with"
+     ],
+     "num_classified": 128,
+     "num_skipped": 4,
+     "generated": "2026-07-01T07:52:16Z"
+    }
+   },
+   "meta_json_dropped_arrays": [],
+   "collection_label": "Hamilton College — Fillius Jazz Archive",
+   "collection_url": "https://litsdigital.hamilton.edu/collections/fillius-jazz-archive",
+   "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275855",
+   "source_url": "https://litsdigital.hamilton.edu/collections/object/benny-powell-interviewed-monk-rowe-new-york-city-new-york-january-16-1999",
+   "doc_interviewees": [
+    {
+     "ord": 0,
+     "label": "Benny Powell",
+     "node_key": "wd:Q599429",
+     "qid": "Q599429",
+     "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q599429",
+     "node": {
+      "node_id": "wd:Q599429",
+      "kind": "wd",
+      "label": "Benny Powell",
+      "is_interviewee": 1,
+      "mentions": 78,
+      "docs": 36,
+      "community": 6,
+      "x": -15024.89,
+      "y": -41698.65,
+      "wd_image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Count%20Basie%20and%20His%20Orchestra%20performs%20in%20Helsinki%201962%20%28JOKAHBL3E%20C04-11%29.tif",
+      "semlab_thumb_url": "https://linkedjazz.org/image/square/Benny_Powell.png"
+     },
+     "wd_people": {
+      "qid": "Q599429",
+      "label": "Benny Powell",
+      "description": "American jazz trombonist (1930–2010)",
+      "birth": "1930",
+      "death": "2010",
+      "wp_title": "Benny Powell",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Benny_Powell",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q599429",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Count%20Basie%20and%20His%20Orchestra%20performs%20in%20Helsinki%201962%20%28JOKAHBL3E%20C04-11%29.tif",
+      "semlab_thumb_url": "https://linkedjazz.org/image/square/Benny_Powell.png",
+      "semlab": {
+       "semlab_id": "Q941",
+       "url": "https://base.semlab.io/wiki/Item:Q941",
+       "entity_uri": "http://base.semlab.io/entity/Q941"
+      }
+     }
+    }
+   ],
+   "subject_mentions": 2,
+   "subject_mention_rows": 2,
+   "subject_blocks": 2,
+   "has_classified_relationship": true,
+   "n_classified_relationships": 1
+  },
+  {
+   "doc_id": "275907",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "document": {
+    "doc_id": "275907",
+    "collection": "hamilton",
+    "title": "Snooky Young and Gerald Wilson interviewed by Monk Rowe, Los Angeles, California, September 3, 1995",
+    "interviewee": "Snooky Young and Gerald Wilson",
+    "interviewer": null,
+    "date": null,
+    "year": 1995,
+    "kind": "interview",
+    "method": "pdf-text-rules",
+    "source": "hamilton-fillius-jazz-archive",
+    "source_url": "https://litsdigital.hamilton.edu/collections/object/snooky-young-and-gerald-wilson-interviewed-monk-rowe-los-angeles-california",
+    "num_pages": 20,
+    "num_blocks": 263,
+    "fnv1a64": "b26d5cd02fad0db5",
+    "dochash": "ae79c6a1",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275907"
+   },
+   "meta_json": {
+    "id": "275907",
+    "title": "Snooky Young and Gerald Wilson interviewed by Monk Rowe, Los Angeles, California, September 3, 1995",
+    "source": "hamilton-fillius-jazz-archive",
+    "collection": "hamilton",
+    "kind": "interview",
+    "method": "pdf-text-rules",
+    "pdf": "yhm-jaz-young-s-1995.pdf",
+    "speakers": [
+     "GW",
+     "MR",
+     "SY"
+    ],
+    "num_pages": 20,
+    "num_dialogue_turns": 243,
+    "num_paragraphs": 0,
+    "interviewee": "Snooky Young and Gerald Wilson",
+    "year": 1995,
+    "source_url": "https://litsdigital.hamilton.edu/collections/object/snooky-young-and-gerald-wilson-interviewed-monk-rowe-los-angeles-california",
+    "node_id": 275907,
+    "entities_meta": {
+     "model": "fastino/gliner2-large-v1",
+     "labels": [
+      "person",
+      "place",
+      "organization",
+      "ensemble",
+      "venue",
+      "record_label",
+      "musical_work",
+      "instrument",
+      "event",
+      "date"
+     ],
+     "min_confidence": 0.5,
+     "generated": "2026-06-28T07:37:10+00:00",
+     "person_filter": "dropped pronouns/kinship/lowercase non-names",
+     "num_entities": 362,
+     "num_mentions": 644,
+     "num_chunks": 262
+    },
+    "alignment_meta": {
+     "version": "1.0",
+     "scope": "within-document",
+     "method": "L0 noise + L1 metadata seed + L2 token-alias + L3 nickname-dict + L4 Qwen-LLM",
+     "llm_model": "Qwen3.6-35B-A3B-bf16",
+     "num_person_entities": 123,
+     "num_canonical": 97,
+     "num_merged": 24,
+     "num_unresolved": 5,
+     "noise_removed": [
+      "Who?"
+     ],
+     "via_counts": {
+      "llm": 9,
+      "token_alias": 12,
+      "self": 91,
+      "nickname": 5,
+      "unresolved": 5,
+      "famous": 1
+     },
+     "famous_recovery": true
+    },
+    "relationships_meta": {
+     "version": "1.0",
+     "model": "Qwen3.6-35B-A3B-bf16",
+     "interviewee": "Snooky Young and Gerald Wilson",
+     "interviewee_label": "GW",
+     "interviewer_labels": [
+      "MR",
+      "SY"
+     ],
+     "num_errors": 0,
+     "field_notes": {
+      "relation": "controlled-vocabulary relationship interviewee->person; reliable",
+      "direction": "for asymmetric relations: 'target'/'interviewee'/'mutual'/'na'",
+      "proposed": "free-text finer-grained label SUGGESTED by the model; UNVERIFIED",
+      "evidence": "model-quoted snippet supporting the call",
+      "third_party": "a relationship the interviewee only NARRATES between two others",
+      "sources": "exact transcript turns (page/block + text) the judgment drew from"
+     },
+     "vocabulary": [
+      "knows of",
+      "has met",
+      "acquaintance of",
+      "friend of",
+      "mentor of",
+      "influenced by",
+      "collaborated with",
+      "in music group with",
+      "played with",
+      "played under",
+      "toured with"
+     ],
+     "num_classified": 88,
+     "num_skipped": 9,
+     "generated": "2026-07-01T11:00:11Z"
+    }
+   },
+   "meta_json_dropped_arrays": [],
+   "collection_label": "Hamilton College — Fillius Jazz Archive",
+   "collection_url": "https://litsdigital.hamilton.edu/collections/fillius-jazz-archive",
+   "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275907",
+   "source_url": "https://litsdigital.hamilton.edu/collections/object/snooky-young-and-gerald-wilson-interviewed-monk-rowe-los-angeles-california",
+   "doc_interviewees": [
+    {
+     "ord": 0,
+     "label": "Snooky Young",
+     "node_key": "wd:Q2004076",
+     "qid": "Q2004076",
+     "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q2004076",
+     "node": {
+      "node_id": "wd:Q2004076",
+      "kind": "wd",
+      "label": "Snooky Young",
+      "is_interviewee": 1,
+      "mentions": 187,
+      "docs": 70,
+      "community": 2,
+      "x": 8535.15,
+      "y": -50643.25,
+      "wd_image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/SnookyYoungFinalPhoto40.jpg",
+      "semlab_thumb_url": "https://linkedjazz.org/image/square/Snooky_Young.png"
+     },
+     "wd_people": {
+      "qid": "Q2004076",
+      "label": "Snooky Young",
+      "description": "American musician (1919–2011)",
+      "birth": "1919",
+      "death": "2011",
+      "wp_title": "Snooky Young",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Snooky_Young",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2004076",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/SnookyYoungFinalPhoto40.jpg",
+      "semlab_thumb_url": "https://linkedjazz.org/image/square/Snooky_Young.png",
+      "semlab": {
+       "semlab_id": "Q643",
+       "url": "https://base.semlab.io/wiki/Item:Q643",
+       "entity_uri": "http://base.semlab.io/entity/Q643"
+      }
+     }
+    },
+    {
+     "ord": 1,
+     "label": "Gerald Wilson",
+     "node_key": "wd:Q201500",
+     "qid": "Q201500",
+     "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q201500",
+     "node": {
+      "node_id": "wd:Q201500",
+      "kind": "wd",
+      "label": "Gerald Wilson",
+      "is_interviewee": 1,
+      "mentions": 235,
+      "docs": 50,
+      "community": 6,
+      "x": -17147.32,
+      "y": -31305.52,
+      "wd_image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerald%20S.%20Wilson.jpg",
+      "semlab_thumb_url": "https://linkedjazz.org/image/square/Gerald_Wilson.png"
+     },
+     "wd_people": {
+      "qid": "Q201500",
+      "label": "Gerald Wilson",
+      "description": "American trumpetist (1918–2014)",
+      "birth": "1918",
+      "death": "2014",
+      "wp_title": "Gerald Wilson",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gerald_Wilson",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q201500",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerald%20S.%20Wilson.jpg",
+      "semlab_thumb_url": "https://linkedjazz.org/image/square/Gerald_Wilson.png",
+      "semlab": {
+       "semlab_id": "Q110",
+       "url": "https://base.semlab.io/wiki/Item:Q110",
+       "entity_uri": "http://base.semlab.io/entity/Q110"
+      }
+     }
+    }
+   ],
+   "subject_mentions": 2,
+   "subject_mention_rows": 2,
+   "subject_blocks": 2,
+   "has_classified_relationship": true,
+   "n_classified_relationships": 1
+  },
+  {
+   "doc_id": "275930",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "document": {
+    "doc_id": "275930",
+    "collection": "hamilton",
+    "title": "Slide Hampton interviewed by Monk Rowe, West Orange, New Jersey, July 30, 2003",
+    "interviewee": "Slide Hampton",
+    "interviewer": null,
+    "date": null,
+    "year": 2003,
+    "kind": "interview",
+    "method": "pdf-text-rules",
+    "source": "hamilton-fillius-jazz-archive",
+    "source_url": "https://litsdigital.hamilton.edu/collections/object/slide-hampton-interviewed-monk-rowe-west-orange-new-jersey-july-30-2003",
+    "num_pages": 26,
+    "num_blocks": 322,
+    "fnv1a64": "b27767d02fb574eb",
+    "dochash": "a680fb1c",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275930"
+   },
+   "meta_json": {
+    "id": "275930",
+    "title": "Slide Hampton interviewed by Monk Rowe, West Orange, New Jersey, July 30, 2003",
+    "source": "hamilton-fillius-jazz-archive",
+    "collection": "hamilton",
+    "kind": "interview",
+    "method": "pdf-text-rules",
+    "pdf": "yhm-jaz-hampton-s-2003.pdf",
+    "speakers": [
+     "MR",
+     "SH"
+    ],
+    "num_pages": 26,
+    "num_dialogue_turns": 302,
+    "num_paragraphs": 0,
+    "interviewee": "Slide Hampton",
+    "year": 2003,
+    "source_url": "https://litsdigital.hamilton.edu/collections/object/slide-hampton-interviewed-monk-rowe-west-orange-new-jersey-july-30-2003",
+    "node_id": 275930,
+    "entities_meta": {
+     "model": "fastino/gliner2-large-v1",
+     "labels": [
+      "person",
+      "place",
+      "organization",
+      "ensemble",
+      "venue",
+      "record_label",
+      "musical_work",
+      "instrument",
+      "event",
+      "date"
+     ],
+     "min_confidence": 0.5,
+     "generated": "2026-06-28T07:37:10+00:00",
+     "person_filter": "dropped pronouns/kinship/lowercase non-names",
+     "num_entities": 319,
+     "num_mentions": 472,
+     "num_chunks": 320
+    },
+    "alignment_meta": {
+     "version": "1.0",
+     "scope": "within-document",
+     "method": "L0 noise + L1 metadata seed + L2 token-alias + L3 nickname-dict + L4 Qwen-LLM",
+     "llm_model": "Qwen3.6-35B-A3B-bf16",
+     "num_person_entities": 80,
+     "num_canonical": 73,
+     "num_merged": 7,
+     "num_unresolved": 7,
+     "noise_removed": [],
+     "via_counts": {
+      "nickname": 3,
+      "self": 64,
+      "unresolved": 7,
+      "token_alias": 4,
+      "famous": 1,
+      "llm": 1
+     },
+     "famous_recovery": true
+    },
+    "relationships_meta": {
+     "version": "1.0",
+     "model": "Qwen3.6-35B-A3B-bf16",
+     "interviewee": "Slide Hampton",
+     "interviewee_label": "SH",
+     "interviewer_labels": [
+      "MR"
+     ],
+     "num_errors": 0,
+     "field_notes": {
+      "relation": "controlled-vocabulary relationship interviewee->person; reliable",
+      "direction": "for asymmetric relations: 'target'/'interviewee'/'mutual'/'na'",
+      "proposed": "free-text finer-grained label SUGGESTED by the model; UNVERIFIED",
+      "evidence": "model-quoted snippet supporting the call",
+      "third_party": "a relationship the interviewee only NARRATES between two others",
+      "sources": "exact transcript turns (page/block + text) the judgment drew from"
+     },
+     "vocabulary": [
+      "knows of",
+      "has met",
+      "acquaintance of",
+      "friend of",
+      "mentor of",
+      "influenced by",
+      "collaborated with",
+      "in music group with",
+      "played with",
+      "played under",
+      "toured with"
+     ],
+     "num_classified": 70,
+     "num_skipped": 3,
+     "generated": "2026-07-01T03:34:13Z"
+    }
+   },
+   "meta_json_dropped_arrays": [],
+   "collection_label": "Hamilton College — Fillius Jazz Archive",
+   "collection_url": "https://litsdigital.hamilton.edu/collections/fillius-jazz-archive",
+   "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275930",
+   "source_url": "https://litsdigital.hamilton.edu/collections/object/slide-hampton-interviewed-monk-rowe-west-orange-new-jersey-july-30-2003",
+   "doc_interviewees": [
+    {
+     "ord": 0,
+     "label": "Slide Hampton",
+     "node_key": "wd:Q1369035",
+     "qid": "Q1369035",
+     "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q1369035",
+     "node": {
+      "node_id": "wd:Q1369035",
+      "kind": "wd",
+      "label": "Slide Hampton",
+      "is_interviewee": 1,
+      "mentions": 119,
+      "docs": 48,
+      "community": 2,
+      "x": 29611.18,
+      "y": -48078.05,
+      "wd_image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/SlideHampton.jpg",
+      "semlab_thumb_url": "https://linkedjazz.org/image/square/Slide_Hampton.png"
+     },
+     "wd_people": {
+      "qid": "Q1369035",
+      "label": "Slide Hampton",
+      "description": "American trombonist (1932–2021)",
+      "birth": "1932",
+      "death": "2021",
+      "wp_title": "Slide Hampton",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Slide_Hampton",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1369035",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/SlideHampton.jpg",
+      "semlab_thumb_url": "https://linkedjazz.org/image/square/Slide_Hampton.png",
+      "semlab": {
+       "semlab_id": "Q663",
+       "url": "https://base.semlab.io/wiki/Item:Q663",
+       "entity_uri": "http://base.semlab.io/entity/Q663"
+      }
+     }
+    }
+   ],
+   "subject_mentions": 2,
+   "subject_mention_rows": 2,
+   "subject_blocks": 2,
+   "has_classified_relationship": true,
+   "n_classified_relationships": 1
+  },
+  {
+   "doc_id": "David N. Baker SI-NEA oral history (2)",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "document": {
+    "doc_id": "David N. Baker SI-NEA oral history (2)",
+    "collection": "si",
+    "title": "David N. Baker — Smithsonian Jazz Oral History",
+    "interviewee": "David N. Baker",
+    "interviewer": null,
+    "date": null,
+    "year": null,
+    "kind": "interview",
+    "method": "pdf-text-rules",
+    "source": "smithsonian-jazz-oral-history",
+    "source_url": "https://americanhistory.si.edu/sites/default/files/file-uploader/David%20N.%20Baker%20SI-NEA%20oral%20history%20%282%29.pdf",
+    "num_pages": 167,
+    "num_blocks": 854,
+    "fnv1a64": "36b6bd8c8ada0520",
+    "dochash": "e6bc681d",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=David%20N.%20Baker%20SI-NEA%20oral%20history%20%282%29"
+   },
+   "meta_json": {
+    "id": "David N. Baker SI-NEA oral history (2)",
+    "title": "David N. Baker — Smithsonian Jazz Oral History",
+    "source": "smithsonian-jazz-oral-history",
+    "collection": "si",
+    "kind": "interview",
+    "method": "pdf-text-rules",
+    "pdf": "David N. Baker SI-NEA oral history (2).pdf",
+    "speakers": [
+     "David",
+     "Lida"
+    ],
+    "num_pages": 167,
+    "num_dialogue_turns": 698,
+    "num_paragraphs": 0,
+    "interviewee": "David N. Baker",
+    "source_url": "https://americanhistory.si.edu/sites/default/files/file-uploader/David%20N.%20Baker%20SI-NEA%20oral%20history%20%282%29.pdf",
+    "entities_meta": {
+     "model": "fastino/gliner2-large-v1",
+     "labels": [
+      "person",
+      "place",
+      "organization",
+      "ensemble",
+      "venue",
+      "record_label",
+      "musical_work",
+      "instrument",
+      "event",
+      "date"
+     ],
+     "min_confidence": 0.5,
+     "generated": "2026-06-28T07:37:10+00:00",
+     "person_filter": "dropped pronouns/kinship/lowercase non-names",
+     "num_entities": 2230,
+     "num_mentions": 4232,
+     "num_chunks": 952
+    },
+    "alignment_meta": {
+     "version": "1.0",
+     "scope": "within-document",
+     "method": "L0 noise + L1 metadata seed + L2 token-alias + L3 nickname-dict + L4 Qwen-LLM",
+     "llm_model": "Qwen3.6-35B-A3B-bf16",
+     "num_person_entities": 830,
+     "num_canonical": 748,
+     "num_merged": 69,
+     "num_unresolved": 99,
+     "noise_removed": [],
+     "via_counts": {
+      "self": 665,
+      "llm": 11,
+      "unresolved": 99,
+      "token_alias": 47,
+      "nickname": 8
+     }
+    },
+    "relationships_meta": {
+     "version": "1.0",
+     "model": "Qwen3.6-35B-A3B-bf16",
+     "interviewee": "David N. Baker",
+     "interviewee_label": "DAVID",
+     "interviewer_labels": [
+      "LIDA"
+     ],
+     "num_errors": 0,
+     "field_notes": {
+      "relation": "controlled-vocabulary relationship interviewee->person; reliable",
+      "direction": "for asymmetric relations: 'target'/'interviewee'/'mutual'/'na'",
+      "proposed": "free-text finer-grained label SUGGESTED by the model; UNVERIFIED",
+      "evidence": "model-quoted snippet supporting the call",
+      "third_party": "a relationship the interviewee only NARRATES between two others",
+      "sources": "exact transcript turns (page/block + text) the judgment drew from"
+     },
+     "vocabulary": [
+      "knows of",
+      "has met",
+      "acquaintance of",
+      "friend of",
+      "mentor of",
+      "influenced by",
+      "collaborated with",
+      "in music group with",
+      "played with",
+      "played under",
+      "toured with"
+     ],
+     "num_classified": 724,
+     "num_skipped": 24,
+     "generated": "2026-07-01T13:44:55Z"
+    }
+   },
+   "meta_json_dropped_arrays": [],
+   "collection_label": "Smithsonian Jazz Oral History Program",
+   "collection_url": "https://americanhistory.si.edu/explore/projects/smithsonian-jazz/oral-history-program",
+   "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=David%20N.%20Baker%20SI-NEA%20oral%20history%20%282%29",
+   "source_url": "https://americanhistory.si.edu/sites/default/files/file-uploader/David%20N.%20Baker%20SI-NEA%20oral%20history%20%282%29.pdf",
+   "doc_interviewees": [
+    {
+     "ord": 0,
+     "label": "David N. Baker",
+     "node_key": "wd:Q1173633",
+     "qid": "Q1173633",
+     "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q1173633",
+     "node": {
+      "node_id": "wd:Q1173633",
+      "kind": "wd",
+      "label": "David Baker",
+      "is_interviewee": 1,
+      "mentions": 175,
+      "docs": 39,
+      "community": 2,
+      "x": 37955.08,
+      "y": -55190.53,
+      "wd_image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Baker%20%28far%20left%29%20leading%20the%20Smithsonian%20Jazz%20Masterworks%20Orchestra%20%28cropped%29.jpg",
+      "semlab_thumb_url": "https://linkedjazz.org/image/square/David_Baker_(composer).png"
+     },
+     "wd_people": {
+      "qid": "Q1173633",
+      "label": "David Baker",
+      "description": "American jazz composer, trombonist, professor of music and author (1931-2016)",
+      "birth": "1931",
+      "death": "2016",
+      "wp_title": "David Baker (composer)",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/David_Baker_(composer)",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1173633",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Baker%20%28far%20left%29%20leading%20the%20Smithsonian%20Jazz%20Masterworks%20Orchestra%20%28cropped%29.jpg",
+      "semlab_thumb_url": "https://linkedjazz.org/image/square/David_Baker_(composer).png",
+      "semlab": {
+       "semlab_id": "Q1096",
+       "url": "https://base.semlab.io/wiki/Item:Q1096",
+       "entity_uri": "http://base.semlab.io/entity/Q1096"
+      }
+     }
+    }
+   ],
+   "subject_mentions": 2,
+   "subject_mention_rows": 2,
+   "subject_blocks": 1,
+   "has_classified_relationship": true,
+   "n_classified_relationships": 1
+  },
+  {
+   "doc_id": "275782",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "document": {
+    "doc_id": "275782",
+    "collection": "hamilton",
+    "title": "Al Grey interviewed by Michael Woods, Scottsdale, Arizona, March 3, 1995",
+    "interviewee": "Al Grey",
+    "interviewer": null,
+    "date": null,
+    "year": 1995,
+    "kind": "interview",
+    "method": "pdf-text-rules",
+    "source": "hamilton-fillius-jazz-archive",
+    "source_url": "https://litsdigital.hamilton.edu/collections/object/al-grey-interviewed-michael-woods-scottsdale-arizona-march-3-1995",
+    "num_pages": 16,
+    "num_blocks": 75,
+    "fnv1a64": "2b969dd0744565bc",
+    "dochash": "8cdcee72",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275782"
+   },
+   "meta_json": {
+    "id": "275782",
+    "title": "Al Grey interviewed by Michael Woods, Scottsdale, Arizona, March 3, 1995",
+    "source": "hamilton-fillius-jazz-archive",
+    "collection": "hamilton",
+    "kind": "interview",
+    "method": "pdf-text-rules",
+    "pdf": "yhm-jaz-grey-a-1995.pdf",
+    "speakers": [
+     "AG",
+     "MW"
+    ],
+    "num_pages": 16,
+    "num_dialogue_turns": 54,
+    "num_paragraphs": 0,
+    "interviewee": "Al Grey",
+    "year": 1995,
+    "source_url": "https://litsdigital.hamilton.edu/collections/object/al-grey-interviewed-michael-woods-scottsdale-arizona-march-3-1995",
+    "node_id": 275782,
+    "entities_meta": {
+     "model": "fastino/gliner2-large-v1",
+     "labels": [
+      "person",
+      "place",
+      "organization",
+      "ensemble",
+      "venue",
+      "record_label",
+      "musical_work",
+      "instrument",
+      "event",
+      "date"
+     ],
+     "min_confidence": 0.5,
+     "generated": "2026-06-28T07:37:10+00:00",
+     "person_filter": "dropped pronouns/kinship/lowercase non-names",
+     "num_entities": 257,
+     "num_mentions": 418,
+     "num_chunks": 82
+    },
+    "alignment_meta": {
+     "version": "1.0",
+     "scope": "within-document",
+     "method": "L0 noise + L1 metadata seed + L2 token-alias + L3 nickname-dict + L4 Qwen-LLM",
+     "llm_model": "Qwen3.6-35B-A3B-bf16",
+     "num_person_entities": 78,
+     "num_canonical": 71,
+     "num_merged": 6,
+     "num_unresolved": 7,
+     "noise_removed": [],
+     "via_counts": {
+      "self": 62,
+      "token_alias": 6,
+      "unresolved": 7,
+      "nickname": 2,
+      "famous": 1
+     },
+     "famous_recovery": true
+    },
+    "relationships_meta": {
+     "version": "1.0",
+     "model": "Qwen3.6-35B-A3B-bf16",
+     "interviewee": "Al Grey",
+     "interviewee_label": "AG",
+     "interviewer_labels": [
+      "MW"
+     ],
+     "num_errors": 0,
+     "field_notes": {
+      "relation": "controlled-vocabulary relationship interviewee->person; reliable",
+      "direction": "for asymmetric relations: 'target'/'interviewee'/'mutual'/'na'",
+      "proposed": "free-text finer-grained label SUGGESTED by the model; UNVERIFIED",
+      "evidence": "model-quoted snippet supporting the call",
+      "third_party": "a relationship the interviewee only NARRATES between two others",
+      "sources": "exact transcript turns (page/block + text) the judgment drew from"
+     },
+     "vocabulary": [
+      "knows of",
+      "has met",
+      "acquaintance of",
+      "friend of",
+      "mentor of",
+      "influenced by",
+      "collaborated with",
+      "in music group with",
+      "played with",
+      "played under",
+      "toured with"
+     ],
+     "num_classified": 70,
+     "num_skipped": 1,
+     "generated": "2026-07-01T03:22:34Z"
+    }
+   },
+   "meta_json_dropped_arrays": [],
+   "collection_label": "Hamilton College — Fillius Jazz Archive",
+   "collection_url": "https://litsdigital.hamilton.edu/collections/fillius-jazz-archive",
+   "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275782",
+   "source_url": "https://litsdigital.hamilton.edu/collections/object/al-grey-interviewed-michael-woods-scottsdale-arizona-march-3-1995",
+   "doc_interviewees": [
+    {
+     "ord": 0,
+     "label": "Al Grey",
+     "node_key": "wd:Q715687",
+     "qid": "Q715687",
+     "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q715687",
+     "node": {
+      "node_id": "wd:Q715687",
+      "kind": "wd",
+      "label": "Al Grey",
+      "is_interviewee": 1,
+      "mentions": 102,
+      "docs": 39,
+      "community": 6,
+      "x": -16885.1,
+      "y": -43003.52,
+      "wd_image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Grey%20%28Gottlieb%29.jpg",
+      "semlab_thumb_url": "https://linkedjazz.org/image/square/Al_Grey.png"
+     },
+     "wd_people": {
+      "qid": "Q715687",
+      "label": "Al Grey",
+      "description": "American jazz musician (1925–2000)",
+      "birth": "1925",
+      "death": "2000",
+      "wp_title": "Al Grey",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Al_Grey",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q715687",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Grey%20%28Gottlieb%29.jpg",
+      "semlab_thumb_url": "https://linkedjazz.org/image/square/Al_Grey.png",
+      "semlab": {
+       "semlab_id": "Q487",
+       "url": "https://base.semlab.io/wiki/Item:Q487",
+       "entity_uri": "http://base.semlab.io/entity/Q487"
+      }
+     }
+    }
+   ],
+   "subject_mentions": 1,
+   "subject_mention_rows": 1,
+   "subject_blocks": 1,
+   "has_classified_relationship": true,
+   "n_classified_relationships": 1
+  },
+  {
+   "doc_id": "275859",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "document": {
+    "doc_id": "275859",
+    "collection": "hamilton",
+    "title": "Vi Redd interviewed by Monk Rowe, Los Angeles, California, February 13, 1999",
+    "interviewee": "Vi Redd",
+    "interviewer": null,
+    "date": null,
+    "year": 1999,
+    "kind": "interview",
+    "method": "pdf-text-rules",
+    "source": "hamilton-fillius-jazz-archive",
+    "source_url": "https://litsdigital.hamilton.edu/collections/object/vi-redd-interviewed-monk-rowe-los-angeles-california-february-13-1999",
+    "num_pages": 21,
+    "num_blocks": 262,
+    "fnv1a64": "bb8d8bd034f9b1a1",
+    "dochash": "18693444",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275859"
+   },
+   "meta_json": {
+    "id": "275859",
+    "title": "Vi Redd interviewed by Monk Rowe, Los Angeles, California, February 13, 1999",
+    "source": "hamilton-fillius-jazz-archive",
+    "collection": "hamilton",
+    "kind": "interview",
+    "method": "pdf-text-rules",
+    "pdf": "yhm-jaz-redd-v-1999.pdf",
+    "speakers": [
+     "MR",
+     "VR"
+    ],
+    "num_pages": 21,
+    "num_dialogue_turns": 236,
+    "num_paragraphs": 0,
+    "interviewee": "Vi Redd",
+    "year": 1999,
+    "source_url": "https://litsdigital.hamilton.edu/collections/object/vi-redd-interviewed-monk-rowe-los-angeles-california-february-13-1999",
+    "node_id": 275859,
+    "entities_meta": {
+     "model": "fastino/gliner2-large-v1",
+     "labels": [
+      "person",
+      "place",
+      "organization",
+      "ensemble",
+      "venue",
+      "record_label",
+      "musical_work",
+      "instrument",
+      "event",
+      "date"
+     ],
+     "min_confidence": 0.5,
+     "generated": "2026-06-28T07:37:10+00:00",
+     "person_filter": "dropped pronouns/kinship/lowercase non-names",
+     "num_entities": 371,
+     "num_mentions": 527,
+     "num_chunks": 253
+    },
+    "alignment_meta": {
+     "version": "1.0",
+     "scope": "within-document",
+     "method": "L0 noise + L1 metadata seed + L2 token-alias + L3 nickname-dict + L4 Qwen-LLM",
+     "llm_model": "Qwen3.6-35B-A3B-bf16",
+     "num_person_entities": 121,
+     "num_canonical": 101,
+     "num_merged": 18,
+     "num_unresolved": 9,
+     "noise_removed": [
+      "God"
+     ],
+     "via_counts": {
+      "llm": 3,
+      "self": 91,
+      "famous": 1,
+      "token_alias": 13,
+      "unresolved": 9,
+      "nickname": 4
+     },
+     "famous_recovery": true
+    },
+    "relationships_meta": {
+     "version": "1.0",
+     "model": "Qwen3.6-35B-A3B-bf16",
+     "interviewee": "Vi Redd",
+     "interviewee_label": "VR",
+     "interviewer_labels": [
+      "MR"
+     ],
+     "num_errors": 0,
+     "field_notes": {
+      "relation": "controlled-vocabulary relationship interviewee->person; reliable",
+      "direction": "for asymmetric relations: 'target'/'interviewee'/'mutual'/'na'",
+      "proposed": "free-text finer-grained label SUGGESTED by the model; UNVERIFIED",
+      "evidence": "model-quoted snippet supporting the call",
+      "third_party": "a relationship the interviewee only NARRATES between two others",
+      "sources": "exact transcript turns (page/block + text) the judgment drew from"
+     },
+     "vocabulary": [
+      "knows of",
+      "has met",
+      "acquaintance of",
+      "friend of",
+      "mentor of",
+      "influenced by",
+      "collaborated with",
+      "in music group with",
+      "played with",
+      "played under",
+      "toured with"
+     ],
+     "num_classified": 99,
+     "num_skipped": 2,
+     "generated": "2026-07-01T08:05:11Z"
+    }
+   },
+   "meta_json_dropped_arrays": [],
+   "collection_label": "Hamilton College — Fillius Jazz Archive",
+   "collection_url": "https://litsdigital.hamilton.edu/collections/fillius-jazz-archive",
+   "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275859",
+   "source_url": "https://litsdigital.hamilton.edu/collections/object/vi-redd-interviewed-monk-rowe-los-angeles-california-february-13-1999",
+   "doc_interviewees": [
+    {
+     "ord": 0,
+     "label": "Vi Redd",
+     "node_key": "wd:Q513985",
+     "qid": "Q513985",
+     "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q513985",
+     "node": {
+      "node_id": "wd:Q513985",
+      "kind": "wd",
+      "label": "Vi Redd",
+      "is_interviewee": 1,
+      "mentions": 14,
+      "docs": 10,
+      "community": 6,
+      "x": -12399.62,
+      "y": -45135.7,
+      "wd_image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vi-Redd-rochester-ny-june-1977.jpg",
+      "semlab_thumb_url": "https://linkedjazz.org/image/square/Vi_Redd.png"
+     },
+     "wd_people": {
+      "qid": "Q513985",
+      "label": "Vi Redd",
+      "description": "American jazz altosaxophonist, singer and educator (1928–2022)",
+      "birth": "1928",
+      "death": "2022",
+      "wp_title": "Vi Redd",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Vi_Redd",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q513985",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vi-Redd-rochester-ny-june-1977.jpg",
+      "semlab_thumb_url": "https://linkedjazz.org/image/square/Vi_Redd.png",
+      "semlab": {
+       "semlab_id": "Q1924",
+       "url": "https://base.semlab.io/wiki/Item:Q1924",
+       "entity_uri": "http://base.semlab.io/entity/Q1924"
+      }
+     }
+    }
+   ],
+   "subject_mentions": 1,
+   "subject_mention_rows": 1,
+   "subject_blocks": 1,
+   "has_classified_relationship": true,
+   "n_classified_relationships": 1
+  },
+  {
+   "doc_id": "275883",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "document": {
+    "doc_id": "275883",
+    "collection": "hamilton",
+    "title": "Clark Terry interviewed by Joe Williams and Michael Woods, Clinton, New York, May 19, 1995",
+    "interviewee": "Clark Terry",
+    "interviewer": null,
+    "date": null,
+    "year": 1995,
+    "kind": "interview",
+    "method": "pdf-text-rules",
+    "source": "hamilton-fillius-jazz-archive",
+    "source_url": "https://litsdigital.hamilton.edu/collections/object/clark-terry-interviewed-joe-williams-and-michael-woods-clinton-new-york-may-19",
+    "num_pages": 31,
+    "num_blocks": 403,
+    "fnv1a64": "bb9e81d0350813d6",
+    "dochash": "f14b8123",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275883"
+   },
+   "meta_json": {
+    "id": "275883",
+    "title": "Clark Terry interviewed by Joe Williams and Michael Woods, Clinton, New York, May 19, 1995",
+    "source": "hamilton-fillius-jazz-archive",
+    "collection": "hamilton",
+    "kind": "interview",
+    "method": "pdf-text-rules",
+    "pdf": "yhm-jaz-terry-c-1995.pdf",
+    "speakers": [
+     "CT",
+     "JW",
+     "MW"
+    ],
+    "num_pages": 31,
+    "num_dialogue_turns": 375,
+    "num_paragraphs": 0,
+    "interviewee": "Clark Terry",
+    "year": 1995,
+    "source_url": "https://litsdigital.hamilton.edu/collections/object/clark-terry-interviewed-joe-williams-and-michael-woods-clinton-new-york-may-19",
+    "node_id": 275883,
+    "entities_meta": {
+     "model": "fastino/gliner2-large-v1",
+     "labels": [
+      "person",
+      "place",
+      "organization",
+      "ensemble",
+      "venue",
+      "record_label",
+      "musical_work",
+      "instrument",
+      "event",
+      "date"
+     ],
+     "min_confidence": 0.5,
+     "generated": "2026-06-28T07:37:10+00:00",
+     "person_filter": "dropped pronouns/kinship/lowercase non-names",
+     "num_entities": 492,
+     "num_mentions": 730,
+     "num_chunks": 396
+    },
+    "alignment_meta": {
+     "version": "1.0",
+     "scope": "within-document",
+     "method": "L0 noise + L1 metadata seed + L2 token-alias + L3 nickname-dict + L4 Qwen-LLM",
+     "llm_model": "Qwen3.6-35B-A3B-bf16",
+     "num_person_entities": 174,
+     "num_canonical": 145,
+     "num_merged": 22,
+     "num_unresolved": 34,
+     "noise_removed": [
+      "God",
+      "Lord"
+     ],
+     "via_counts": {
+      "token_alias": 21,
+      "nickname": 2,
+      "self": 110,
+      "llm": 7,
+      "unresolved": 34
+     }
+    },
+    "relationships_meta": {
+     "version": "1.0",
+     "model": "Qwen3.6-35B-A3B-bf16",
+     "interviewee": "Clark Terry",
+     "interviewee_label": "CT",
+     "interviewer_labels": [
+      "JW"
+     ],
+     "num_errors": 0,
+     "field_notes": {
+      "relation": "controlled-vocabulary relationship interviewee->person; reliable",
+      "direction": "for asymmetric relations: 'target'/'interviewee'/'mutual'/'na'",
+      "proposed": "free-text finer-grained label SUGGESTED by the model; UNVERIFIED",
+      "evidence": "model-quoted snippet supporting the call",
+      "third_party": "a relationship the interviewee only NARRATES between two others",
+      "sources": "exact transcript turns (page/block + text) the judgment drew from"
+     },
+     "vocabulary": [
+      "knows of",
+      "has met",
+      "acquaintance of",
+      "friend of",
+      "mentor of",
+      "influenced by",
+      "collaborated with",
+      "in music group with",
+      "played with",
+      "played under",
+      "toured with"
+     ],
+     "num_classified": 143,
+     "num_skipped": 2,
+     "generated": "2026-07-01T09:46:20Z"
+    }
+   },
+   "meta_json_dropped_arrays": [],
+   "collection_label": "Hamilton College — Fillius Jazz Archive",
+   "collection_url": "https://litsdigital.hamilton.edu/collections/fillius-jazz-archive",
+   "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275883",
+   "source_url": "https://litsdigital.hamilton.edu/collections/object/clark-terry-interviewed-joe-williams-and-michael-woods-clinton-new-york-may-19",
+   "doc_interviewees": [
+    {
+     "ord": 0,
+     "label": "Clark Terry",
+     "node_key": "wd:Q432924",
+     "qid": "Q432924",
+     "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q432924",
+     "node": {
+      "node_id": "wd:Q432924",
+      "kind": "wd",
+      "label": "Clark Terry",
+      "is_interviewee": 1,
+      "mentions": 578,
+      "docs": 187,
+      "community": 6,
+      "x": -13375.85,
+      "y": -27859.46,
+      "wd_image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Clark%20Terry%20in%201981.jpg",
+      "semlab_thumb_url": "https://linkedjazz.org/image/square/Clark_Terry.png"
+     },
+     "wd_people": {
+      "qid": "Q432924",
+      "label": "Clark Terry",
+      "description": "American swing and bebop trumpeter (1920–2015)",
+      "birth": "1920",
+      "death": "2015",
+      "wp_title": "Clark Terry",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Clark_Terry",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q432924",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Clark%20Terry%20in%201981.jpg",
+      "semlab_thumb_url": "https://linkedjazz.org/image/square/Clark_Terry.png",
+      "semlab": {
+       "semlab_id": "Q57",
+       "url": "https://base.semlab.io/wiki/Item:Q57",
+       "entity_uri": "http://base.semlab.io/entity/Q57"
+      }
+     }
+    }
+   ],
+   "subject_mentions": 1,
+   "subject_mention_rows": 1,
+   "subject_blocks": 1,
+   "has_classified_relationship": true,
+   "n_classified_relationships": 1
+  },
+  {
+   "doc_id": "61520",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "document": {
+    "doc_id": "61520",
+    "collection": "rutgers",
+    "title": "61520_Teddy Edwards oral history interview",
+    "interviewee": "Patricia Willard",
+    "interviewer": null,
+    "date": null,
+    "year": null,
+    "kind": "interview",
+    "method": null,
+    "source": "rutgers-ijs-readers",
+    "source_url": "https://rucore.libraries.rutgers.edu/rutgers-lib/61520/",
+    "num_pages": 170,
+    "num_blocks": 1067,
+    "fnv1a64": "00ca2763f4013e8d",
+    "dochash": "c793f9b6",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=61520"
+   },
+   "meta_json": {
+    "id": "61520",
+    "title": "61520_Teddy Edwards oral history interview",
+    "source": "rutgers-ijs-readers",
+    "kind": "interview",
+    "model": "Qwen3.6-35B-A3B-bf16",
+    "num_pages": 170,
+    "num_dialogue_turns": 446,
+    "num_paragraphs": 280,
+    "entities_meta": {
+     "model": "fastino/gliner2-large-v1",
+     "labels": [
+      "person",
+      "place",
+      "organization",
+      "ensemble",
+      "venue",
+      "record_label",
+      "musical_work",
+      "instrument",
+      "event",
+      "date"
+     ],
+     "min_confidence": 0.5,
+     "generated": "2026-06-28T07:37:10+00:00",
+     "person_filter": "dropped pronouns/kinship/lowercase non-names",
+     "num_entities": 1563,
+     "num_mentions": 2994,
+     "num_chunks": 1048
+    },
+    "alignment_meta": {
+     "version": "1.0",
+     "scope": "within-document",
+     "method": "L0 noise + L1 metadata seed + L2 token-alias + L3 nickname-dict + L4 Qwen-LLM",
+     "llm_model": "Qwen3.6-35B-A3B-bf16",
+     "num_person_entities": 544,
+     "num_canonical": 505,
+     "num_merged": 37,
+     "num_unresolved": 55,
+     "noise_removed": [],
+     "via_counts": {
+      "self": 453,
+      "unresolved": 55,
+      "token_alias": 25,
+      "nickname": 6,
+      "llm": 4,
+      "famous": 1
+     },
+     "famous_recovery": true
+    },
+    "relationships_meta": {
+     "version": "1.0",
+     "model": "Qwen3.6-35B-A3B-bf16",
+     "interviewee": "Teddy Edwards",
+     "interviewee_label": "TEDDYEDWARDS",
+     "interviewer_labels": [
+      "Q"
+     ],
+     "num_errors": 0,
+     "field_notes": {
+      "relation": "controlled-vocabulary relationship interviewee->person; reliable",
+      "direction": "for asymmetric relations: 'target'/'interviewee'/'mutual'/'na'",
+      "proposed": "free-text finer-grained label SUGGESTED by the model; UNVERIFIED",
+      "evidence": "model-quoted snippet supporting the call",
+      "third_party": "a relationship the interviewee only NARRATES between two others",
+      "sources": "exact transcript turns (page/block + text) the judgment drew from"
+     },
+     "vocabulary": [
+      "knows of",
+      "has met",
+      "acquaintance of",
+      "friend of",
+      "mentor of",
+      "influenced by",
+      "collaborated with",
+      "in music group with",
+      "played with",
+      "played under",
+      "toured with"
+     ],
+     "num_classified": 495,
+     "num_skipped": 10,
+     "generated": "2026-06-30T07:58:29Z"
+    },
+    "source_url": "https://rucore.libraries.rutgers.edu/rutgers-lib/61520/",
+    "interviewee": "Patricia Willard",
+    "collection": "rutgers"
+   },
+   "meta_json_dropped_arrays": [],
+   "collection_label": "Rutgers — Institute of Jazz Studies",
+   "collection_url": "https://www.libraries.rutgers.edu/collections/institute-jazz-studies",
+   "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=61520",
+   "source_url": "https://rucore.libraries.rutgers.edu/rutgers-lib/61520/",
+   "doc_interviewees": [
+    {
+     "ord": 0,
+     "label": "Teddy Edwards",
+     "node_key": "wd:Q322308",
+     "qid": "Q322308",
+     "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q322308",
+     "node": {
+      "node_id": "wd:Q322308",
+      "kind": "wd",
+      "label": "Teddy Edwards",
+      "is_interviewee": 1,
+      "mentions": 52,
+      "docs": 26,
+      "community": 11,
+      "x": -25946.09,
+      "y": -15431.33,
+      "wd_image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Teddy%20Edwards.jpg",
+      "semlab_thumb_url": "https://linkedjazz.org/image/square/Teddy_Edwards.png"
+     },
+     "wd_people": {
+      "qid": "Q322308",
+      "label": "Teddy Edwards",
+      "description": "American jazz tenor saxophonist",
+      "birth": "1924",
+      "death": "2003",
+      "wp_title": "Teddy Edwards",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Teddy_Edwards",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q322308",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Teddy%20Edwards.jpg",
+      "semlab_thumb_url": "https://linkedjazz.org/image/square/Teddy_Edwards.png",
+      "semlab": {
+       "semlab_id": "Q1926",
+       "url": "https://base.semlab.io/wiki/Item:Q1926",
+       "entity_uri": "http://base.semlab.io/entity/Q1926"
+      }
+     }
+    }
+   ],
+   "subject_mentions": 1,
+   "subject_mention_rows": 1,
+   "subject_blocks": 1,
+   "has_classified_relationship": true,
+   "n_classified_relationships": 1
+  },
+  {
+   "doc_id": "61529",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "document": {
+    "doc_id": "61529",
+    "collection": "rutgers",
+    "title": "61529_Maxine Sullivan oral history interview",
+    "interviewee": "Maxine Sullivan",
+    "interviewer": null,
+    "date": null,
+    "year": null,
+    "kind": "interview",
+    "method": null,
+    "source": "rutgers-ijs-readers",
+    "source_url": "https://rucore.libraries.rutgers.edu/rutgers-lib/61529/",
+    "num_pages": 775,
+    "num_blocks": 5815,
+    "fnv1a64": "00ca1e63f4012f42",
+    "dochash": "0deda099",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=61529"
+   },
+   "meta_json": {
+    "id": "61529",
+    "title": "61529_Maxine Sullivan oral history interview",
+    "source": "rutgers-ijs-readers",
+    "kind": "interview",
+    "model": "Qwen3.6-35B-A3B-bf16",
+    "num_pages": 775,
+    "num_dialogue_turns": 3490,
+    "num_paragraphs": 794,
+    "entities_meta": {
+     "model": "fastino/gliner2-large-v1",
+     "labels": [
+      "person",
+      "place",
+      "organization",
+      "ensemble",
+      "venue",
+      "record_label",
+      "musical_work",
+      "instrument",
+      "event",
+      "date"
+     ],
+     "min_confidence": 0.5,
+     "generated": "2026-06-28T07:37:10+00:00",
+     "person_filter": "dropped pronouns/kinship/lowercase non-names",
+     "num_entities": 3417,
+     "num_mentions": 8351,
+     "num_chunks": 4970
+    },
+    "alignment_meta": {
+     "version": "1.0",
+     "scope": "within-document",
+     "method": "L0 noise + L1 metadata seed + L2 token-alias + L3 nickname-dict + L4 Qwen-LLM",
+     "llm_model": "Qwen3.6-35B-A3B-bf16",
+     "num_person_entities": 828,
+     "num_canonical": 734,
+     "num_merged": 81,
+     "num_unresolved": 115,
+     "noise_removed": [
+      "Who?",
+      "God"
+     ],
+     "via_counts": {
+      "llm": 22,
+      "unresolved": 115,
+      "self": 622,
+      "token_alias": 63,
+      "nickname": 6
+     }
+    },
+    "relationships_meta": {
+     "version": "1.0",
+     "model": "Qwen3.6-35B-A3B-bf16",
+     "interviewee": "Maxine Sullivan",
+     "interviewee_label": "MSSULLIVAN",
+     "interviewer_labels": [
+      "MRCAMPBELL",
+      "MRHUGHES"
+     ],
+     "num_errors": 0,
+     "field_notes": {
+      "relation": "controlled-vocabulary relationship interviewee->person; reliable",
+      "direction": "for asymmetric relations: 'target'/'interviewee'/'mutual'/'na'",
+      "proposed": "free-text finer-grained label SUGGESTED by the model; UNVERIFIED",
+      "evidence": "model-quoted snippet supporting the call",
+      "third_party": "a relationship the interviewee only NARRATES between two others",
+      "sources": "exact transcript turns (page/block + text) the judgment drew from"
+     },
+     "vocabulary": [
+      "knows of",
+      "has met",
+      "acquaintance of",
+      "friend of",
+      "mentor of",
+      "influenced by",
+      "collaborated with",
+      "in music group with",
+      "played with",
+      "played under",
+      "toured with"
+     ],
+     "num_classified": 728,
+     "num_skipped": 6,
+     "generated": "2026-06-30T08:20:50Z"
+    },
+    "source_url": "https://rucore.libraries.rutgers.edu/rutgers-lib/61529/",
+    "interviewee": "Maxine Sullivan",
+    "collection": "rutgers"
+   },
+   "meta_json_dropped_arrays": [],
+   "collection_label": "Rutgers — Institute of Jazz Studies",
+   "collection_url": "https://www.libraries.rutgers.edu/collections/institute-jazz-studies",
+   "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=61529",
+   "source_url": "https://rucore.libraries.rutgers.edu/rutgers-lib/61529/",
+   "doc_interviewees": [
+    {
+     "ord": 0,
+     "label": "Maxine Sullivan",
+     "node_key": "wd:Q281341",
+     "qid": "Q281341",
+     "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q281341",
+     "node": {
+      "node_id": "wd:Q281341",
+      "kind": "wd",
+      "label": "Maxine Sullivan",
+      "is_interviewee": 1,
+      "mentions": 134,
+      "docs": 35,
+      "community": 5,
+      "x": 13640.29,
+      "y": -15809.56,
+      "wd_image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/1938%20Maxine%20Sullivan.jpg",
+      "semlab_thumb_url": null
+     },
+     "wd_people": {
+      "qid": "Q281341",
+      "label": "Maxine Sullivan",
+      "description": "American blues and jazz singer (1911-1987)",
+      "birth": "1911",
+      "death": "1987",
+      "wp_title": "Maxine Sullivan",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Maxine_Sullivan",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q281341",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/1938%20Maxine%20Sullivan.jpg",
+      "semlab_thumb_url": null,
+      "semlab": null
+     }
+    }
+   ],
+   "subject_mentions": 1,
+   "subject_mention_rows": 1,
+   "subject_blocks": 1,
+   "has_classified_relationship": true,
+   "n_classified_relationships": 1
+  },
+  {
+   "doc_id": "67426",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "document": {
+    "doc_id": "67426",
+    "collection": "rutgers",
+    "title": "67426_Hayes Pillars oral history interview",
+    "interviewee": "Hayes Pillars",
+    "interviewer": null,
+    "date": null,
+    "year": null,
+    "kind": "interview",
+    "method": null,
+    "source": "rutgers-ijs-readers",
+    "source_url": "https://rucore.libraries.rutgers.edu/rutgers-lib/67426/",
+    "num_pages": 178,
+    "num_blocks": 1376,
+    "fnv1a64": "cc569a9690a2c09a",
+    "dochash": "a0b64f4e",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=67426"
+   },
+   "meta_json": {
+    "id": "67426",
+    "title": "67426_Hayes Pillars oral history interview",
+    "source": "rutgers-ijs-readers",
+    "kind": "interview",
+    "model": "Qwen3.6-35B-A3B-bf16",
+    "num_pages": 178,
+    "num_dialogue_turns": 892,
+    "num_paragraphs": 298,
+    "entities_meta": {
+     "model": "fastino/gliner2-large-v1",
+     "labels": [
+      "person",
+      "place",
+      "organization",
+      "ensemble",
+      "venue",
+      "record_label",
+      "musical_work",
+      "instrument",
+      "event",
+      "date"
+     ],
+     "min_confidence": 0.5,
+     "generated": "2026-06-28T07:37:10+00:00",
+     "person_filter": "dropped pronouns/kinship/lowercase non-names",
+     "num_entities": 1461,
+     "num_mentions": 3122,
+     "num_chunks": 1355
+    },
+    "alignment_meta": {
+     "version": "1.0",
+     "scope": "within-document",
+     "method": "L0 noise + L1 metadata seed + L2 token-alias + L3 nickname-dict + L4 Qwen-LLM",
+     "llm_model": "Qwen3.6-35B-A3B-bf16",
+     "num_person_entities": 403,
+     "num_canonical": 329,
+     "num_merged": 57,
+     "num_unresolved": 65,
+     "noise_removed": [],
+     "via_counts": {
+      "unresolved": 65,
+      "self": 266,
+      "token_alias": 39,
+      "llm": 31,
+      "famous": 1,
+      "nickname": 1
+     },
+     "famous_recovery": true
+    },
+    "relationships_meta": {
+     "version": "1.0",
+     "model": "Qwen3.6-35B-A3B-bf16",
+     "interviewee": "Hayes Pillars",
+     "interviewee_label": "MRPILLARS",
+     "interviewer_labels": [
+      "MR",
+      "MRCPILLARS"
+     ],
+     "num_errors": 0,
+     "field_notes": {
+      "relation": "controlled-vocabulary relationship interviewee->person; reliable",
+      "direction": "for asymmetric relations: 'target'/'interviewee'/'mutual'/'na'",
+      "proposed": "free-text finer-grained label SUGGESTED by the model; UNVERIFIED",
+      "evidence": "model-quoted snippet supporting the call",
+      "third_party": "a relationship the interviewee only NARRATES between two others",
+      "sources": "exact transcript turns (page/block + text) the judgment drew from"
+     },
+     "vocabulary": [
+      "knows of",
+      "has met",
+      "acquaintance of",
+      "friend of",
+      "mentor of",
+      "influenced by",
+      "collaborated with",
+      "in music group with",
+      "played with",
+      "played under",
+      "toured with"
+     ],
+     "num_classified": 326,
+     "num_skipped": 3,
+     "generated": "2026-06-30T11:16:03Z"
+    },
+    "source_url": "https://rucore.libraries.rutgers.edu/rutgers-lib/67426/",
+    "interviewee": "Hayes Pillars",
+    "collection": "rutgers"
+   },
+   "meta_json_dropped_arrays": [],
+   "collection_label": "Rutgers — Institute of Jazz Studies",
+   "collection_url": "https://www.libraries.rutgers.edu/collections/institute-jazz-studies",
+   "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=67426",
+   "source_url": "https://rucore.libraries.rutgers.edu/rutgers-lib/67426/",
+   "doc_interviewees": [
+    {
+     "ord": 0,
+     "label": "Hayes Pillars",
+     "node_key": "wd:Q15485294",
+     "qid": "Q15485294",
+     "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q15485294",
+     "node": {
+      "node_id": "wd:Q15485294",
+      "kind": "wd",
+      "label": "Hayes Pillars",
+      "is_interviewee": 1,
+      "mentions": 35,
+      "docs": 6,
+      "community": 11,
+      "x": -22637.02,
+      "y": 4488.44,
+      "wd_image_url": null,
+      "semlab_thumb_url": null
+     },
+     "wd_people": {
+      "qid": "Q15485294",
+      "label": "Q15485294",
+      "description": "American musician",
+      "birth": "1906",
+      "death": "1992",
+      "wp_title": "Hayes Pillars",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hayes_Pillars",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15485294",
+      "image_url": null,
+      "semlab_thumb_url": null,
+      "semlab": null
+     }
+    }
+   ],
+   "subject_mentions": 1,
+   "subject_mention_rows": 1,
+   "subject_blocks": 1,
+   "has_classified_relationship": true,
+   "n_classified_relationships": 1
+  },
+  {
+   "doc_id": "Abbey-Lincoln-Transcription-2020",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "document": {
+    "doc_id": "Abbey-Lincoln-Transcription-2020",
+    "collection": "si",
+    "title": "Abbey Lincoln — Smithsonian Jazz Oral History",
+    "interviewee": "Abbey Lincoln",
+    "interviewer": null,
+    "date": null,
+    "year": 2020,
+    "kind": "interview",
+    "method": "pdf-text-rules",
+    "source": "smithsonian-jazz-oral-history",
+    "source_url": "https://americanhistory.si.edu/sites/default/files/file-uploader/Abbey-Lincoln-Transcription-2020.pdf",
+    "num_pages": 68,
+    "num_blocks": 482,
+    "fnv1a64": "b0a8eff2d9856d58",
+    "dochash": "2e8a0889",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Abbey-Lincoln-Transcription-2020"
+   },
+   "meta_json": {
+    "id": "Abbey-Lincoln-Transcription-2020",
+    "title": "Abbey Lincoln — Smithsonian Jazz Oral History",
+    "source": "smithsonian-jazz-oral-history",
+    "collection": "si",
+    "kind": "interview",
+    "method": "pdf-text-rules",
+    "pdf": "Abbey-Lincoln-Transcription-2020.pdf",
+    "speakers": [
+     "ABBEY LINCOLN",
+     "SALLY PLAXSON"
+    ],
+    "num_pages": 68,
+    "num_dialogue_turns": 428,
+    "num_paragraphs": 0,
+    "interviewee": "Abbey Lincoln",
+    "source_url": "https://americanhistory.si.edu/sites/default/files/file-uploader/Abbey-Lincoln-Transcription-2020.pdf",
+    "year": 2020,
+    "entities_meta": {
+     "model": "fastino/gliner2-large-v1",
+     "labels": [
+      "person",
+      "place",
+      "organization",
+      "ensemble",
+      "venue",
+      "record_label",
+      "musical_work",
+      "instrument",
+      "event",
+      "date"
+     ],
+     "min_confidence": 0.5,
+     "generated": "2026-06-28T07:37:10+00:00",
+     "person_filter": "dropped pronouns/kinship/lowercase non-names",
+     "num_entities": 686,
+     "num_mentions": 1246,
+     "num_chunks": 503
+    },
+    "alignment_meta": {
+     "version": "1.0",
+     "scope": "within-document",
+     "method": "L0 noise + L1 metadata seed + L2 token-alias + L3 nickname-dict + L4 Qwen-LLM",
+     "llm_model": "Qwen3.6-35B-A3B-bf16",
+     "num_person_entities": 262,
+     "num_canonical": 229,
+     "num_merged": 30,
+     "num_unresolved": 49,
+     "noise_removed": [
+      "Jesus",
+      "Lord"
+     ],
+     "via_counts": {
+      "llm": 8,
+      "self": 179,
+      "token_alias": 20,
+      "unresolved": 49,
+      "famous": 1,
+      "nickname": 5
+     },
+     "famous_recovery": true
+    },
+    "relationships_meta": {
+     "version": "1.0",
+     "model": "Qwen3.6-35B-A3B-bf16",
+     "interviewee": "Abbey Lincoln",
+     "interviewee_label": "ABBEYLINCOLN",
+     "interviewer_labels": [
+      "SALLYPLAXSON"
+     ],
+     "num_errors": 0,
+     "field_notes": {
+      "relation": "controlled-vocabulary relationship interviewee->person; reliable",
+      "direction": "for asymmetric relations: 'target'/'interviewee'/'mutual'/'na'",
+      "proposed": "free-text finer-grained label SUGGESTED by the model; UNVERIFIED",
+      "evidence": "model-quoted snippet supporting the call",
+      "third_party": "a relationship the interviewee only NARRATES between two others",
+      "sources": "exact transcript turns (page/block + text) the judgment drew from"
+     },
+     "vocabulary": [
+      "knows of",
+      "has met",
+      "acquaintance of",
+      "friend of",
+      "mentor of",
+      "influenced by",
+      "collaborated with",
+      "in music group with",
+      "played with",
+      "played under",
+      "toured with"
+     ],
+     "num_classified": 227,
+     "num_skipped": 2,
+     "generated": "2026-07-01T11:10:07Z"
+    }
+   },
+   "meta_json_dropped_arrays": [],
+   "collection_label": "Smithsonian Jazz Oral History Program",
+   "collection_url": "https://americanhistory.si.edu/explore/projects/smithsonian-jazz/oral-history-program",
+   "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Abbey-Lincoln-Transcription-2020",
+   "source_url": "https://americanhistory.si.edu/sites/default/files/file-uploader/Abbey-Lincoln-Transcription-2020.pdf",
+   "doc_interviewees": [
+    {
+     "ord": 0,
+     "label": "Abbey Lincoln",
+     "node_key": "wd:Q231071",
+     "qid": "Q231071",
+     "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q231071",
+     "node": {
+      "node_id": "wd:Q231071",
+      "kind": "wd",
+      "label": "Abbey Lincoln",
+      "is_interviewee": 1,
+      "mentions": 75,
+      "docs": 29,
+      "community": 2,
+      "x": 25205.14,
+      "y": -38603.2,
+      "wd_image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Abbey%20Lincoln.JPG",
+      "semlab_thumb_url": "https://linkedjazz.org/image/square/Abbey_Lincoln.png"
+     },
+     "wd_people": {
+      "qid": "Q231071",
+      "label": "Abbey Lincoln",
+      "description": "American singer (1930–2010)",
+      "birth": "1930",
+      "death": "2010",
+      "wp_title": "Abbey Lincoln",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Abbey_Lincoln",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q231071",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Abbey%20Lincoln.JPG",
+      "semlab_thumb_url": "https://linkedjazz.org/image/square/Abbey_Lincoln.png",
+      "semlab": {
+       "semlab_id": "Q1386",
+       "url": "https://base.semlab.io/wiki/Item:Q1386",
+       "entity_uri": "http://base.semlab.io/entity/Q1386"
+      }
+     }
+    }
+   ],
+   "subject_mentions": 1,
+   "subject_mention_rows": 1,
+   "subject_blocks": 1,
+   "has_classified_relationship": true,
+   "n_classified_relationships": 1
+  },
+  {
+   "doc_id": "Gerald-Wilson_transcription",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "document": {
+    "doc_id": "Gerald-Wilson_transcription",
+    "collection": "si",
+    "title": "Gerald Wilson — Smithsonian Jazz Oral History",
+    "interviewee": "Gerald Wilson",
+    "interviewer": null,
+    "date": null,
+    "year": null,
+    "kind": "interview",
+    "method": "pdf-text-rules",
+    "source": "smithsonian-jazz-oral-history",
+    "source_url": "https://amhistory.si.edu/jazz/Wilson-Gerald/Gerald-Wilson_transcription.pdf",
+    "num_pages": 55,
+    "num_blocks": 417,
+    "fnv1a64": "d90695fe05743cb8",
+    "dochash": "7b38cc37",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Gerald-Wilson_transcription"
+   },
+   "meta_json": {
+    "id": "Gerald-Wilson_transcription",
+    "title": "Gerald Wilson — Smithsonian Jazz Oral History",
+    "source": "smithsonian-jazz-oral-history",
+    "collection": "si",
+    "kind": "interview",
+    "method": "pdf-text-rules",
+    "pdf": "Gerald-Wilson_transcription.pdf",
+    "speakers": [
+     "Brown",
+     "Wilson"
+    ],
+    "num_pages": 55,
+    "num_dialogue_turns": 368,
+    "num_paragraphs": 0,
+    "interviewee": "Gerald Wilson",
+    "source_url": "https://amhistory.si.edu/jazz/Wilson-Gerald/Gerald-Wilson_transcription.pdf",
+    "entities_meta": {
+     "model": "fastino/gliner2-large-v1",
+     "labels": [
+      "person",
+      "place",
+      "organization",
+      "ensemble",
+      "venue",
+      "record_label",
+      "musical_work",
+      "instrument",
+      "event",
+      "date"
+     ],
+     "min_confidence": 0.5,
+     "generated": "2026-06-28T07:37:10+00:00",
+     "person_filter": "dropped pronouns/kinship/lowercase non-names",
+     "num_entities": 853,
+     "num_mentions": 1505,
+     "num_chunks": 446
+    },
+    "alignment_meta": {
+     "version": "1.0",
+     "scope": "within-document",
+     "method": "L0 noise + L1 metadata seed + L2 token-alias + L3 nickname-dict + L4 Qwen-LLM",
+     "llm_model": "Qwen3.6-35B-A3B-bf16",
+     "num_person_entities": 281,
+     "num_canonical": 229,
+     "num_merged": 44,
+     "num_unresolved": 26,
+     "noise_removed": [
+      "Who?"
+     ],
+     "via_counts": {
+      "llm": 21,
+      "self": 202,
+      "token_alias": 23,
+      "nickname": 8,
+      "unresolved": 26,
+      "metadata": 1
+     }
+    },
+    "relationships_meta": {
+     "version": "1.0",
+     "model": "Qwen3.6-35B-A3B-bf16",
+     "interviewee": "Gerald Wilson",
+     "interviewee_label": "WILSON",
+     "interviewer_labels": [
+      "BROWN"
+     ],
+     "num_errors": 0,
+     "field_notes": {
+      "relation": "controlled-vocabulary relationship interviewee->person; reliable",
+      "direction": "for asymmetric relations: 'target'/'interviewee'/'mutual'/'na'",
+      "proposed": "free-text finer-grained label SUGGESTED by the model; UNVERIFIED",
+      "evidence": "model-quoted snippet supporting the call",
+      "third_party": "a relationship the interviewee only NARRATES between two others",
+      "sources": "exact transcript turns (page/block + text) the judgment drew from"
+     },
+     "vocabulary": [
+      "knows of",
+      "has met",
+      "acquaintance of",
+      "friend of",
+      "mentor of",
+      "influenced by",
+      "collaborated with",
+      "in music group with",
+      "played with",
+      "played under",
+      "toured with"
+     ],
+     "num_classified": 222,
+     "num_skipped": 7,
+     "generated": "2026-07-01T14:57:09Z"
+    }
+   },
+   "meta_json_dropped_arrays": [],
+   "collection_label": "Smithsonian Jazz Oral History Program",
+   "collection_url": "https://americanhistory.si.edu/explore/projects/smithsonian-jazz/oral-history-program",
+   "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Gerald-Wilson_transcription",
+   "source_url": "https://amhistory.si.edu/jazz/Wilson-Gerald/Gerald-Wilson_transcription.pdf",
+   "doc_interviewees": [
+    {
+     "ord": 0,
+     "label": "Gerald Wilson",
+     "node_key": "wd:Q201500",
+     "qid": "Q201500",
+     "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q201500",
+     "node": {
+      "node_id": "wd:Q201500",
+      "kind": "wd",
+      "label": "Gerald Wilson",
+      "is_interviewee": 1,
+      "mentions": 235,
+      "docs": 50,
+      "community": 6,
+      "x": -17147.32,
+      "y": -31305.52,
+      "wd_image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerald%20S.%20Wilson.jpg",
+      "semlab_thumb_url": "https://linkedjazz.org/image/square/Gerald_Wilson.png"
+     },
+     "wd_people": {
+      "qid": "Q201500",
+      "label": "Gerald Wilson",
+      "description": "American trumpetist (1918–2014)",
+      "birth": "1918",
+      "death": "2014",
+      "wp_title": "Gerald Wilson",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gerald_Wilson",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q201500",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerald%20S.%20Wilson.jpg",
+      "semlab_thumb_url": "https://linkedjazz.org/image/square/Gerald_Wilson.png",
+      "semlab": {
+       "semlab_id": "Q110",
+       "url": "https://base.semlab.io/wiki/Item:Q110",
+       "entity_uri": "http://base.semlab.io/entity/Q110"
+      }
+     }
+    }
+   ],
+   "subject_mentions": 1,
+   "subject_mention_rows": 1,
+   "subject_blocks": 1,
+   "has_classified_relationship": true,
+   "n_classified_relationships": 1
+  },
+  {
+   "doc_id": "Hank_Jones_Transcript",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "document": {
+    "doc_id": "Hank_Jones_Transcript",
+    "collection": "si",
+    "title": "Jones Hank — Smithsonian Jazz Oral History",
+    "interviewee": "Jones Hank",
+    "interviewer": null,
+    "date": null,
+    "year": null,
+    "kind": "interview",
+    "method": "pdf-text-rules",
+    "source": "smithsonian-jazz-oral-history",
+    "source_url": "https://amhistory.si.edu/jazz/Jones-Hank/Hank_Jones_Transcript.pdf",
+    "num_pages": 134,
+    "num_blocks": 1410,
+    "fnv1a64": "b4ecf114d96cc9f8",
+    "dochash": "a1bd6e0d",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Hank_Jones_Transcript"
+   },
+   "meta_json": {
+    "id": "Hank_Jones_Transcript",
+    "title": "Jones Hank — Smithsonian Jazz Oral History",
+    "source": "smithsonian-jazz-oral-history",
+    "collection": "si",
+    "kind": "interview",
+    "method": "pdf-text-rules",
+    "pdf": "Hank_Jones_Transcript.pdf",
+    "speakers": [
+     "Brauer",
+     "Jones",
+     "Teddie Jones"
+    ],
+    "num_pages": 134,
+    "num_dialogue_turns": 1325,
+    "num_paragraphs": 0,
+    "interviewee": "Jones Hank",
+    "source_url": "https://amhistory.si.edu/jazz/Jones-Hank/Hank_Jones_Transcript.pdf",
+    "entities_meta": {
+     "model": "fastino/gliner2-large-v1",
+     "labels": [
+      "person",
+      "place",
+      "organization",
+      "ensemble",
+      "venue",
+      "record_label",
+      "musical_work",
+      "instrument",
+      "event",
+      "date"
+     ],
+     "min_confidence": 0.5,
+     "generated": "2026-06-28T07:37:10+00:00",
+     "person_filter": "dropped pronouns/kinship/lowercase non-names",
+     "num_entities": 1649,
+     "num_mentions": 3248,
+     "num_chunks": 1399
+    },
+    "alignment_meta": {
+     "version": "1.0",
+     "scope": "within-document",
+     "method": "L0 noise + L1 metadata seed + L2 token-alias + L3 nickname-dict + L4 Qwen-LLM",
+     "llm_model": "Qwen3.6-35B-A3B-bf16",
+     "num_person_entities": 530,
+     "num_canonical": 450,
+     "num_merged": 73,
+     "num_unresolved": 74,
+     "noise_removed": [
+      "Buddha",
+      "Lord"
+     ],
+     "via_counts": {
+      "token_alias": 55,
+      "self": 372,
+      "llm": 21,
+      "metadata": 1,
+      "unresolved": 74,
+      "nickname": 6,
+      "famous": 1
+     },
+     "famous_recovery": true
+    },
+    "relationships_meta": {
+     "version": "1.0",
+     "model": "Qwen3.6-35B-A3B-bf16",
+     "interviewee": "Jones Hank",
+     "interviewee_label": "JONES",
+     "interviewer_labels": [
+      "BRAUER",
+      "TEDDIEJONES"
+     ],
+     "num_errors": 0,
+     "field_notes": {
+      "relation": "controlled-vocabulary relationship interviewee->person; reliable",
+      "direction": "for asymmetric relations: 'target'/'interviewee'/'mutual'/'na'",
+      "proposed": "free-text finer-grained label SUGGESTED by the model; UNVERIFIED",
+      "evidence": "model-quoted snippet supporting the call",
+      "third_party": "a relationship the interviewee only NARRATES between two others",
+      "sources": "exact transcript turns (page/block + text) the judgment drew from"
+     },
+     "vocabulary": [
+      "knows of",
+      "has met",
+      "acquaintance of",
+      "friend of",
+      "mentor of",
+      "influenced by",
+      "collaborated with",
+      "in music group with",
+      "played with",
+      "played under",
+      "toured with"
+     ],
+     "num_classified": 431,
+     "num_skipped": 19,
+     "generated": "2026-07-01T15:29:06Z"
+    }
+   },
+   "meta_json_dropped_arrays": [],
+   "collection_label": "Smithsonian Jazz Oral History Program",
+   "collection_url": "https://americanhistory.si.edu/explore/projects/smithsonian-jazz/oral-history-program",
+   "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Hank_Jones_Transcript",
+   "source_url": "https://amhistory.si.edu/jazz/Jones-Hank/Hank_Jones_Transcript.pdf",
+   "doc_interviewees": [
+    {
+     "ord": 0,
+     "label": "HANK JONES",
+     "node_key": "wd:Q447907",
+     "qid": "Q447907",
+     "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q447907",
+     "node": {
+      "node_id": "wd:Q447907",
+      "kind": "wd",
+      "label": "Hank Jones",
+      "is_interviewee": 1,
+      "mentions": 311,
+      "docs": 127,
+      "community": 6,
+      "x": -9584.25,
+      "y": -33089.4,
+      "wd_image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hank%20Jones.jpg",
+      "semlab_thumb_url": "https://linkedjazz.org/image/square/Hank_Jones.png"
+     },
+     "wd_people": {
+      "qid": "Q447907",
+      "label": "Hank Jones",
+      "description": "American jazz pianist, bandleader, arranger and composer (1918-2010)",
+      "birth": "1918",
+      "death": "2010",
+      "wp_title": "Hank Jones",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hank_Jones",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q447907",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hank%20Jones.jpg",
+      "semlab_thumb_url": "https://linkedjazz.org/image/square/Hank_Jones.png",
+      "semlab": {
+       "semlab_id": "Q176",
+       "url": "https://base.semlab.io/wiki/Item:Q176",
+       "entity_uri": "http://base.semlab.io/entity/Q176"
+      }
+     }
+    }
+   ],
+   "subject_mentions": 1,
+   "subject_mention_rows": 1,
+   "subject_blocks": 1,
+   "has_classified_relationship": true,
+   "n_classified_relationships": 1
+  },
+  {
+   "doc_id": "Toshiko_Akiyoshi_Transcript",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "document": {
+    "doc_id": "Toshiko_Akiyoshi_Transcript",
+    "collection": "si",
+    "title": "Akiyoshi Toshiko — Smithsonian Jazz Oral History",
+    "interviewee": "Akiyoshi Toshiko",
+    "interviewer": null,
+    "date": null,
+    "year": null,
+    "kind": "interview",
+    "method": "pdf-text-rules",
+    "source": "smithsonian-jazz-oral-history",
+    "source_url": "https://amhistory.si.edu/jazz/Akiyoshi-Toshiko/Toshiko_Akiyoshi_Transcript.pdf",
+    "num_pages": 97,
+    "num_blocks": 919,
+    "fnv1a64": "af597e312e76d0b9",
+    "dochash": "2696e8d0",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Toshiko_Akiyoshi_Transcript"
+   },
+   "meta_json": {
+    "id": "Toshiko_Akiyoshi_Transcript",
+    "title": "Akiyoshi Toshiko — Smithsonian Jazz Oral History",
+    "source": "smithsonian-jazz-oral-history",
+    "collection": "si",
+    "kind": "interview",
+    "method": "pdf-text-rules",
+    "pdf": "Toshiko_Akiyoshi_Transcript.pdf",
+    "speakers": [
+     "Akiyoshi",
+     "Brown"
+    ],
+    "num_pages": 97,
+    "num_dialogue_turns": 842,
+    "num_paragraphs": 0,
+    "interviewee": "Akiyoshi Toshiko",
+    "source_url": "https://amhistory.si.edu/jazz/Akiyoshi-Toshiko/Toshiko_Akiyoshi_Transcript.pdf",
+    "entities_meta": {
+     "model": "fastino/gliner2-large-v1",
+     "labels": [
+      "person",
+      "place",
+      "organization",
+      "ensemble",
+      "venue",
+      "record_label",
+      "musical_work",
+      "instrument",
+      "event",
+      "date"
+     ],
+     "min_confidence": 0.5,
+     "generated": "2026-06-28T07:37:10+00:00",
+     "person_filter": "dropped pronouns/kinship/lowercase non-names",
+     "num_entities": 1114,
+     "num_mentions": 2102,
+     "num_chunks": 936
+    },
+    "alignment_meta": {
+     "version": "1.0",
+     "scope": "within-document",
+     "method": "L0 noise + L1 metadata seed + L2 token-alias + L3 nickname-dict + L4 Qwen-LLM",
+     "llm_model": "Qwen3.6-35B-A3B-bf16",
+     "num_person_entities": 310,
+     "num_canonical": 257,
+     "num_merged": 45,
+     "num_unresolved": 48,
+     "noise_removed": [
+      "Buddha",
+      "Who?"
+     ],
+     "via_counts": {
+      "llm": 21,
+      "self": 205,
+      "nickname": 7,
+      "metadata": 1,
+      "unresolved": 48,
+      "token_alias": 26,
+      "famous": 2
+     },
+     "famous_recovery": true
+    },
+    "relationships_meta": {
+     "version": "1.0",
+     "model": "Qwen3.6-35B-A3B-bf16",
+     "interviewee": "Akiyoshi Toshiko",
+     "interviewee_label": "AKIYOSHI",
+     "interviewer_labels": [
+      "BROWN"
+     ],
+     "num_errors": 0,
+     "field_notes": {
+      "relation": "controlled-vocabulary relationship interviewee->person; reliable",
+      "direction": "for asymmetric relations: 'target'/'interviewee'/'mutual'/'na'",
+      "proposed": "free-text finer-grained label SUGGESTED by the model; UNVERIFIED",
+      "evidence": "model-quoted snippet supporting the call",
+      "third_party": "a relationship the interviewee only NARRATES between two others",
+      "sources": "exact transcript turns (page/block + text) the judgment drew from"
+     },
+     "vocabulary": [
+      "knows of",
+      "has met",
+      "acquaintance of",
+      "friend of",
+      "mentor of",
+      "influenced by",
+      "collaborated with",
+      "in music group with",
+      "played with",
+      "played under",
+      "toured with"
+     ],
+     "num_classified": 248,
+     "num_skipped": 9,
+     "generated": "2026-07-01T20:35:09Z"
+    }
+   },
+   "meta_json_dropped_arrays": [],
+   "collection_label": "Smithsonian Jazz Oral History Program",
+   "collection_url": "https://americanhistory.si.edu/explore/projects/smithsonian-jazz/oral-history-program",
+   "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Toshiko_Akiyoshi_Transcript",
+   "source_url": "https://amhistory.si.edu/jazz/Akiyoshi-Toshiko/Toshiko_Akiyoshi_Transcript.pdf",
+   "doc_interviewees": [
+    {
+     "ord": 0,
+     "label": "Akiyoshi Toshiko",
+     "node_key": "wd:Q437117",
+     "qid": "Q437117",
+     "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q437117",
+     "node": {
+      "node_id": "wd:Q437117",
+      "kind": "wd",
+      "label": "Toshiko Akiyoshi",
+      "is_interviewee": 1,
+      "mentions": 38,
+      "docs": 14,
+      "community": 2,
+      "x": 21927.96,
+      "y": -37815.69,
+      "wd_image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Akiyoshi%20Toshiko%201953.jpg",
+      "semlab_thumb_url": "https://linkedjazz.org/image/square/Toshiko_Akiyoshi.png"
+     },
+     "wd_people": {
+      "qid": "Q437117",
+      "label": "Toshiko Akiyoshi",
+      "description": "Japanese American jazz pianist, composer, arranger, band master",
+      "birth": "1929",
+      "death": null,
+      "wp_title": "Toshiko Akiyoshi",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Toshiko_Akiyoshi",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q437117",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Akiyoshi%20Toshiko%201953.jpg",
+      "semlab_thumb_url": "https://linkedjazz.org/image/square/Toshiko_Akiyoshi.png",
+      "semlab": {
+       "semlab_id": "Q892",
+       "url": "https://base.semlab.io/wiki/Item:Q892",
+       "entity_uri": "http://base.semlab.io/entity/Q892"
+      }
+     }
+    }
+   ],
+   "subject_mentions": 1,
+   "subject_mention_rows": 1,
+   "subject_blocks": 1,
+   "has_classified_relationship": true,
+   "n_classified_relationships": 1
+  }
+ ]
+}

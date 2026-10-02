@@ -1,0 +1,955 @@
+{
+ "subject": "liston",
+ "chunk": 1,
+ "n_chunks": 4,
+ "count": 30,
+ "transcript": "liston/own_interview.txt",
+ "items": [
+  {
+   "person_id": 104479,
+   "as_named_in_interview": "NEA Jazz Master",
+   "surface_forms": [
+    "NEA Jazz Master"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "NEA Jazz Master",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295458
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 1.0,
+    "evidence": "[(note)] NEA Jazz Master (1987)",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104378,
+   "as_named_in_interview": "Clora Bryant",
+   "surface_forms": [
+    "Bryant",
+    "Clora",
+    "Clora Bryant"
+   ],
+   "upstream_identity": {
+    "qid": "Q1102326",
+    "name": "Q1102326",
+    "description": "American musician (1927–2019)",
+    "born": "1927",
+    "died": "2019"
+   },
+   "n_mentions": 15,
+   "mention_block_ids": [
+    295460,
+    295465,
+    295502,
+    295504,
+    295506,
+    295552,
+    296097,
+    296159,
+    296191,
+    296207,
+    296267,
+    296332,
+    296337,
+    296450,
+    296509
+   ],
+   "is_interviewer": true,
+   "upstream": {
+    "relation": null,
+    "direction": null,
+    "proposed": null,
+    "confidence": null,
+    "evidence": null,
+    "evidence_in_her_own_words": null,
+    "skipped": "self_or_host"
+   }
+  },
+  {
+   "person_id": 104424,
+   "as_named_in_interview": "Lucille Liston",
+   "surface_forms": [
+    "Lucille Liston"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Lucille Liston",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295468
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": null,
+    "direction": null,
+    "proposed": null,
+    "confidence": null,
+    "evidence": null,
+    "evidence_in_her_own_words": null,
+    "skipped": "self_or_host"
+   }
+  },
+  {
+   "person_id": 104433,
+   "as_named_in_interview": "John Clark",
+   "surface_forms": [
+    "John Clark"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "John Clark",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295468
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 1.0,
+    "evidence": "Her grandparents were Virginia and John Clark.",
+    "evidence_in_her_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104474,
+   "as_named_in_interview": "Virginia",
+   "surface_forms": [
+    "Virginia"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Virginia",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295468
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "Her grandparents were Virginia and John Clark.",
+    "evidence_in_her_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104491,
+   "as_named_in_interview": "Thelma",
+   "surface_forms": [
+    "Thelma"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Thelma",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295479
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "[INTERVIEWER] Thelma too? [INTERVIEWEE] Yeah.",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104379,
+   "as_named_in_interview": "Matt Watson",
+   "surface_forms": [
+    "Matt",
+    "Matt Watson",
+    "Watson"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Matt Watson",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 12,
+   "mention_block_ids": [
+    295495,
+    295894,
+    295896,
+    295956,
+    296138,
+    296203,
+    296337,
+    296386,
+    296506,
+    296507,
+    296508,
+    296509
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "The interviewee (Melba Liston) does not mention Matt Watson. The name 'Matt Watson' appears only in the interviewer's turns, where the interviewer thanks him for helping arrange the interview. The interviewee only responds to the interviewer's questions and does not express a personal relationship w",
+    "evidence_in_her_own_words": "paraphrase",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104383,
+   "as_named_in_interview": "Count Basie",
+   "surface_forms": [
+    "Basie",
+    "Count Basie"
+   ],
+   "upstream_identity": {
+    "qid": "Q107008",
+    "name": "Count Basie",
+    "description": "American jazz musician and composer (1904–1984)",
+    "born": "1904",
+    "died": "1984"
+   },
+   "n_mentions": 6,
+   "mention_block_ids": [
+    295498,
+    295641,
+    295642,
+    295932,
+    296024,
+    296058
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "[INTERVIEWEE] [does not know about it or remember recording with Basie.]",
+    "evidence_in_her_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104408,
+   "as_named_in_interview": "Cab Calloway",
+   "surface_forms": [
+    "Cab Calloway"
+   ],
+   "upstream_identity": {
+    "qid": "Q273079",
+    "name": "Cab Calloway",
+    "description": "American jazz singer (1907–1994)",
+    "born": "1907",
+    "died": "1994"
+   },
+   "n_mentions": 2,
+   "mention_block_ids": [
+    295498,
+    295499
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "My pop’s favorite was Cab Calloway.",
+    "evidence_in_her_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104376,
+   "as_named_in_interview": "Minnie Hightower",
+   "surface_forms": [
+    "Minnie",
+    "Minnie Hightower",
+    "Miss Hightower",
+    "Mrs. Hightower"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Minnie Hightower",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 17,
+   "mention_block_ids": [
+    295513,
+    295544,
+    295546,
+    295548,
+    295553,
+    295555,
+    295558,
+    295568,
+    295583,
+    295673,
+    296076,
+    296312,
+    296332,
+    296334,
+    296335,
+    296337
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "mentor of",
+    "direction": "target",
+    "proposed": "teacher who taught interviewee how to do skits",
+    "confidence": 0.9,
+    "evidence": "Miss Hightower taught us how to do that anyway",
+    "evidence_in_her_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104391,
+   "as_named_in_interview": "Vi Redd",
+   "surface_forms": [
+    "Vi Redd"
+   ],
+   "upstream_identity": {
+    "qid": "Q513985",
+    "name": "Vi Redd",
+    "description": "American jazz altosaxophonist, singer and educator (1928–2022)",
+    "born": "1928",
+    "died": "2022"
+   },
+   "n_mentions": 4,
+   "mention_block_ids": [
+    295548,
+    295552,
+    296319,
+    296332
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "proposed": "played together in a group in Kansas City, practicing at Ross Snyder playground",
+    "confidence": 0.9,
+    "evidence": "We had a good thing going for many years. We played everywhere. We practiced at the Ross Snyder playground.",
+    "evidence_in_her_own_words": "paraphrase",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104388,
+   "as_named_in_interview": "Alice Young",
+   "surface_forms": [
+    "Alice",
+    "Alice Young"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Alice Young",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 5,
+   "mention_block_ids": [
+    295549,
+    295573,
+    296331,
+    296337
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "friend of",
+    "direction": "mutual",
+    "proposed": "close friend and fellow musician in the same scene",
+    "confidence": 0.9,
+    "evidence": "Alice Young. Those three, we were close.",
+    "evidence_in_her_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104445,
+   "as_named_in_interview": "Paul Robeson",
+   "surface_forms": [
+    "Paul Robeson"
+   ],
+   "upstream_identity": {
+    "qid": "Q273233",
+    "name": "Paul Robeson",
+    "description": "American singer, actor, and political activist (1898–1976)",
+    "born": "1898",
+    "died": "1976"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295561
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "I can’t remember who. Paul Robeson or somebody.",
+    "evidence_in_her_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104476,
+   "as_named_in_interview": "Mrs. H",
+   "surface_forms": [
+    "Mrs. H"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Mrs. H",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295573
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "acquaintance of",
+    "direction": "na",
+    "proposed": "member of the Melodic Dots",
+    "confidence": 0.8,
+    "evidence": "Alice Young. Her name’s Mrs. H[?(inaudible)] or something now. But she – nobody else.",
+    "evidence_in_her_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104403,
+   "as_named_in_interview": "Bardu Ali",
+   "surface_forms": [
+    "Bardu",
+    "Bardu Ali",
+    "Bardu [Ali]"
+   ],
+   "upstream_identity": {
+    "qid": "Q4860230",
+    "name": "Bardu Ali",
+    "description": "American jazz guitarist and R&B singer (1906-1981)",
+    "born": "1906",
+    "died": "1981"
+   },
+   "n_mentions": 3,
+   "mention_block_ids": [
+    295574,
+    295578,
+    295610
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "Bardu Ali hired Melba Liston to write music for his acts",
+    "confidence": 0.9,
+    "evidence": "he would say, “Girl, write the music for it,” and I would write it.",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104410,
+   "as_named_in_interview": "Chick Webb",
+   "surface_forms": [
+    "Chick Webb"
+   ],
+   "upstream_identity": {
+    "qid": "Q505749",
+    "name": "Chick Webb",
+    "description": "American musician (1905–1939)",
+    "born": "1905",
+    "died": "1939"
+   },
+   "n_mentions": 2,
+   "mention_block_ids": [
+    295578,
+    295580
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "[INTERVIEWER] Bardu had been with Chick Webb? [INTERVIEWEE] Yeah, he did. [INTERVIEWER] So did you guys play any of Chick Webb’s music in the band? [INTERVIEWEE] [cannot recall.]",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104401,
+   "as_named_in_interview": "Pigmeat Markum",
+   "surface_forms": [
+    "Pigmeat",
+    "Pigmeat Markum"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Pigmeat Markum",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 3,
+   "mention_block_ids": [
+    295582,
+    295583,
+    295584
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "performed skits together on a show",
+    "confidence": 0.9,
+    "evidence": "you had mentioned yesterday that you would do some skits sometimes with Pigmeat Markum? ... When he had some skit to do that wasn’t around the action on the stage, I would go on and do them.",
+    "evidence_in_her_own_words": "partial",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104422,
+   "as_named_in_interview": "Dusty Fletcher",
+   "surface_forms": [
+    "Dusty Fletcher"
+   ],
+   "upstream_identity": {
+    "qid": "Q5317182",
+    "name": "Dusty Fletcher",
+    "description": "African-American vaudeville performer (1900-1954)",
+    "born": "1900",
+    "died": "1954"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295591
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "worked together in Lucky Millinder's band",
+    "confidence": 0.9,
+    "evidence": "Yeah, it was. And Dusty Fletcher. He and Dusty Fletcher had a run all the time.",
+    "evidence_in_her_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104414,
+   "as_named_in_interview": "Marl Young",
+   "surface_forms": [
+    "Marl",
+    "Marl Young"
+   ],
+   "upstream_identity": {
+    "qid": "Q17319102",
+    "name": "Q17319102",
+    "description": "American musician (1917-2009)",
+    "born": "1917",
+    "died": "2009"
+   },
+   "n_mentions": 2,
+   "mention_block_ids": [
+    295592,
+    295593
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "[INTERVIEWEE] [knows Marl, but cannot recall the singer’s name.]",
+    "evidence_in_her_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104446,
+   "as_named_in_interview": "Joya Sherill",
+   "surface_forms": [
+    "Joya Sherill"
+   ],
+   "upstream_identity": {
+    "qid": "Q453567",
+    "name": "Joya Sherrill",
+    "description": "American musician (1924-2010)",
+    "born": "1924",
+    "died": "2010"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295592
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "[INTERVIEWER] ...Not Joya Sherill. [INTERVIEWEE] [knows Marl, but cannot recall the singer’s name.]",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104464,
+   "as_named_in_interview": "Lucky Millinder",
+   "surface_forms": [
+    "Lucky Millinder"
+   ],
+   "upstream_identity": {
+    "qid": "Q252474",
+    "name": "Lucky Millinder",
+    "description": "American bandleader (1910–1966)",
+    "born": "1910",
+    "died": "1966"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295592
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "[INTERVIEWER] What’s the girl who was with Lucky Millinder... [INTERVIEWEE] [knows Marl, but cannot recall the singer’s name.]",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104436,
+   "as_named_in_interview": "Herb Jeffries",
+   "surface_forms": [
+    "Herb Jeffries"
+   ],
+   "upstream_identity": {
+    "qid": "Q126958",
+    "name": "Herb Jeffries",
+    "description": "American singer and actor (1913-2014)",
+    "born": "1913",
+    "died": "2014"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295596
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "worked together in 1940",
+    "confidence": 0.8,
+    "evidence": "Yeah. That was it in 19 – whatever it is – 40. We had our thing, and then whitey had his thing.",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104380,
+   "as_named_in_interview": "Gerald Wilson",
+   "surface_forms": [
+    "Gerald",
+    "Gerald Wilson"
+   ],
+   "upstream_identity": {
+    "qid": "Q201500",
+    "name": "Gerald Wilson",
+    "description": "American trumpetist (1918–2014)",
+    "born": "1918",
+    "died": "2014"
+   },
+   "n_mentions": 11,
+   "mention_block_ids": [
+    295600,
+    295610,
+    295623,
+    295625,
+    295633,
+    295638,
+    295640,
+    295643,
+    295659,
+    295692,
+    295701
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "Gerald Wilson asked Melba Liston to write arrangements for his band",
+    "confidence": 0.9,
+    "evidence": "Gerald said, “Melba, write something up and do it.” So I did what he said.",
+    "evidence_in_her_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104447,
+   "as_named_in_interview": "Jimmy Bunn",
+   "surface_forms": [
+    "Jimmy Bunn"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Jimmy Bunn",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295610
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "proposed": "band members from Bardu Ali to Gerald Wilson",
+    "confidence": 0.9,
+    "evidence": "naming bandmembers who came with Liston from Bardu Ali to Gerald Wilson: Vernon Slater, Jimmy Bunn, Floyd Turner",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104450,
+   "as_named_in_interview": "Floyd Turner",
+   "surface_forms": [
+    "Floyd Turner"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Floyd Turner",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295610
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "proposed": "band members from Bardu Ali to Gerald Wilson",
+    "confidence": 0.9,
+    "evidence": "naming bandmembers who came with Liston from Bardu Ali to Gerald Wilson: Vernon Slater, Jimmy Bunn, Floyd Turner",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104454,
+   "as_named_in_interview": "Vernon Slater",
+   "surface_forms": [
+    "Vernon Slater"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Vernon Slater",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295610
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "proposed": "band members from Bardu Ali to Gerald Wilson",
+    "confidence": 0.9,
+    "evidence": "naming bandmembers who came with Liston from Bardu Ali to Gerald Wilson: Vernon Slater",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104398,
+   "as_named_in_interview": "Jimmie Lunceford",
+   "surface_forms": [
+    "Jimmie",
+    "Jimmie Lunceford"
+   ],
+   "upstream_identity": {
+    "qid": "Q1689291",
+    "name": "Jimmie Lunceford",
+    "description": "American musician (1902–1947)",
+    "born": "1902",
+    "died": "1947"
+   },
+   "n_mentions": 3,
+   "mention_block_ids": [
+    295612,
+    295616,
+    296492
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "played under",
+    "direction": "target",
+    "proposed": "member of Jimmie Lunceford's band",
+    "confidence": 0.9,
+    "evidence": "[INTERVIEWER] Do you think by following Jimmie Lunceford, that’s why you guys played so good back there too? [INTERVIEWEE] No, we just had a good band.",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104377,
+   "as_named_in_interview": "Dizzy [Gillespie]",
+   "surface_forms": [
+    "Dizzy",
+    "Dizzy [Gillespie]"
+   ],
+   "upstream_identity": {
+    "qid": "Q49575",
+    "name": "Dizzy Gillespie",
+    "description": "American jazz trumpeter (1917–1993)",
+    "born": "1917",
+    "died": "1993"
+   },
+   "n_mentions": 16,
+   "mention_block_ids": [
+    295624,
+    295625,
+    295642,
+    295643,
+    295693,
+    295702,
+    295704,
+    295706,
+    295784,
+    295803,
+    295919,
+    296023,
+    296034,
+    296097,
+    296139,
+    296263
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "played under",
+    "direction": "target",
+    "proposed": "trombonist in Dizzy Gillespie's band, circa 1949",
+    "confidence": 0.95,
+    "evidence": "Dizzy’s had the chair empty for a whole week... I had to get the guys’ uniform... I was playing with Dizzy",
+    "evidence_in_her_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104392,
+   "as_named_in_interview": "Billie Holiday",
+   "surface_forms": [
+    "Billie",
+    "Billie Holiday"
+   ],
+   "upstream_identity": {
+    "qid": "Q104358",
+    "name": "Billie Holiday",
+    "description": "American jazz singer (1915–1959)",
+    "born": "1915",
+    "died": "1959"
+   },
+   "n_mentions": 4,
+   "mention_block_ids": [
+    295628,
+    295632,
+    296095,
+    296097
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "played with",
+    "direction": "target",
+    "proposed": "arranged for and played in Billie Holiday's band",
+    "confidence": 0.95,
+    "evidence": "I had a band that went to – Lady Day. We were . . . Yeah, behind Lady Day.",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104407,
+   "as_named_in_interview": "John Coltrane",
+   "surface_forms": [
+    "John Coltrane"
+   ],
+   "upstream_identity": {
+    "qid": "Q7346",
+    "name": "John Coltrane",
+    "description": "American jazz saxophonist (1926–1967)",
+    "born": "1926",
+    "died": "1967"
+   },
+   "n_mentions": 2,
+   "mention_block_ids": [
+    295642,
+    295648
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "proposed": "members of Dizzy Gillespie's band",
+    "confidence": 0.9,
+    "evidence": "[INTERVIEWER] Is that the band with John Coltrane in it? [INTERVIEWEE] Um-hmm.",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  }
+ ]
+}

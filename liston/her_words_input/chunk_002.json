@@ -1,0 +1,884 @@
+{
+ "subject": "liston",
+ "chunk": 2,
+ "n_chunks": 4,
+ "count": 30,
+ "transcript": "liston/own_interview.txt",
+ "items": [
+  {
+   "person_id": 104468,
+   "as_named_in_interview": "Billy Eckstine",
+   "surface_forms": [
+    "Billy Eckstine"
+   ],
+   "upstream_identity": {
+    "qid": "Q545464",
+    "name": "Billy Eckstine",
+    "description": "American musician (1914–1993)",
+    "born": "1914",
+    "died": "1993"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295643
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "na",
+    "proposed": "member of Billy Eckstine's band",
+    "confidence": 0.9,
+    "evidence": "Billy Eckstine was out front. He said, '..., where you been? We’ve been looking for you. Dizzy’s had the chair empty for a whole week.'",
+    "evidence_in_her_own_words": "partial",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104420,
+   "as_named_in_interview": "Specs Wright",
+   "surface_forms": [
+    "Specs Wright"
+   ],
+   "upstream_identity": {
+    "qid": "Q2308367",
+    "name": "Specs Wright",
+    "description": "American jazz drummer (1927–1963)",
+    "born": "1927",
+    "died": "1963"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295652
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "na",
+    "proposed": "bandmate in the same band",
+    "confidence": 0.9,
+    "evidence": "names other bandmembers: John Collins, Jimmie Heath, Specs Wright, Al McKibbon, Willie Cook, John Lewis.",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104423,
+   "as_named_in_interview": "John Collins",
+   "surface_forms": [
+    "John Collins"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "John Collins",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295652
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "proposed": "bandmates in the same band",
+    "confidence": 0.9,
+    "evidence": "names other bandmembers: John Collins, Jimmie Heath, Specs Wright, Al McKibbon, Willie Cook, John Lewis.",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104429,
+   "as_named_in_interview": "Willie Cook",
+   "surface_forms": [
+    "Willie Cook"
+   ],
+   "upstream_identity": {
+    "qid": "Q933696",
+    "name": "Willie Cook",
+    "description": "American musician (1923–2000)",
+    "born": "1923",
+    "died": "2000"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295652
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "na",
+    "proposed": "bandmates in the same band",
+    "confidence": 0.9,
+    "evidence": "names other bandmembers: ... Willie Cook ... She asks about the bop style and about the other trombone players in the band.",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104431,
+   "as_named_in_interview": "Jimmie Heath",
+   "surface_forms": [
+    "Jimmie Heath"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Jimmie Heath",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295652
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "proposed": "bandmates in the same band",
+    "confidence": 0.9,
+    "evidence": "names other bandmembers: John Collins, Jimmie Heath, Specs Wright, Al McKibbon, Willie Cook, John Lewis.",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104441,
+   "as_named_in_interview": "Al McKibbon",
+   "surface_forms": [
+    "Al McKibbon"
+   ],
+   "upstream_identity": {
+    "qid": "Q720184",
+    "name": "Al McKibbon",
+    "description": "American musician (1919–2005)",
+    "born": "1919",
+    "died": "2005"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295652
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "proposed": "bandmates in a jazz ensemble",
+    "confidence": 0.9,
+    "evidence": "names other bandmembers: ... Al McKibbon ...",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104448,
+   "as_named_in_interview": "John Lewis",
+   "surface_forms": [
+    "John Lewis"
+   ],
+   "upstream_identity": {
+    "qid": "Q353943",
+    "name": "John Lewis",
+    "description": "American jazz pianist, composer and arranger (1920–2001)",
+    "born": "1920",
+    "died": "2001"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295652
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "proposed": "bandmates in the Modern Jazz Quartet",
+    "confidence": 0.9,
+    "evidence": "[INTERVIEWER] names other bandmembers: ... John Lewis. She asks about the bop style and about the other trombone players in the band.",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104412,
+   "as_named_in_interview": "Adams",
+   "surface_forms": [
+    "Adams"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Adams",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 2,
+   "mention_block_ids": [
+    295677,
+    295678
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "I went to work at the insurance company, Adams . . . Yeah. I went there.",
+    "evidence_in_her_own_words": "paraphrase",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104393,
+   "as_named_in_interview": "Dexter Gordon",
+   "surface_forms": [
+    "Dexter",
+    "Dexter Gordon"
+   ],
+   "upstream_identity": {
+    "qid": "Q118116",
+    "name": "Dexter Gordon",
+    "description": "American jazz saxophonist (1923–1990)",
+    "born": "1923",
+    "died": "1990"
+   },
+   "n_mentions": 4,
+   "mention_block_ids": [
+    295684,
+    295813,
+    295963,
+    295964
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "has met",
+    "direction": "na",
+    "proposed": "schoolmates",
+    "confidence": 0.9,
+    "evidence": "He and I were in school together.",
+    "evidence_in_her_own_words": "paraphrase",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104463,
+   "as_named_in_interview": "Lorraine",
+   "surface_forms": [
+    "Lorraine"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Lorraine",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295710
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "INTERVIEWER mentions 'Lorraine told him it was the band or her', but INTERVIEWEE does not confirm knowing Lorraine or describe a relationship with her.",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104375,
+   "as_named_in_interview": "Randy Weston",
+   "surface_forms": [
+    "Randy",
+    "Randy Weston"
+   ],
+   "upstream_identity": {
+    "qid": "Q1371187",
+    "name": "Randy Weston",
+    "description": "American jazz pianist (1926–2018)",
+    "born": "1926",
+    "died": "2018"
+   },
+   "n_mentions": 23,
+   "mention_block_ids": [
+    295712,
+    295835,
+    295836,
+    295899,
+    295918,
+    295923,
+    295932,
+    295937,
+    295938,
+    295989,
+    296073,
+    296185,
+    296190,
+    296193,
+    296203,
+    296214,
+    296224,
+    296241,
+    296263,
+    296267,
+    296269,
+    296393,
+    296397
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "arranger/composer for Randy Weston",
+    "confidence": 0.95,
+    "evidence": "I’ve been writing for Randy. I’m still writing for Randy. I wrote for him up until I had the stroke.",
+    "evidence_in_her_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104421,
+   "as_named_in_interview": "Diane Gregg",
+   "surface_forms": [
+    "Diane Gregg"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Diane Gregg",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295730
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "[INTERVIEWEE] [does not remember their names.]",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104432,
+   "as_named_in_interview": "Carole Kromer",
+   "surface_forms": [
+    "Carole Kromer"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Carole Kromer",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295730
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "[INTERVIEWEE] [does not remember their names.]",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104439,
+   "as_named_in_interview": "Nelson Harris",
+   "surface_forms": [
+    "Nelson Harris"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Nelson Harris",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295777
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "has met",
+    "direction": "na",
+    "proposed": "husband",
+    "confidence": 0.9,
+    "evidence": "But do we get the name of your husband we were talking about. >> [INTERVIEWEE] Yeah. Nelson Harris.",
+    "evidence_in_her_own_words": "partial",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104462,
+   "as_named_in_interview": "Len Sirrah",
+   "surface_forms": [
+    "Len Sirrah"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Len Sirrah",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295777
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "has met",
+    "direction": "na",
+    "proposed": "husband",
+    "confidence": 0.9,
+    "evidence": "Yeah. Nelson Harris. Len Sirrah – that’s the name of one of my tunes is his name backwards.",
+    "evidence_in_her_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104473,
+   "as_named_in_interview": "Boo – Boo Pleasant",
+   "surface_forms": [
+    "Boo – Boo Pleasant"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Boo – Boo Pleasant",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295782
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "proposed": "group members who went to Bermuda",
+    "confidence": 0.95,
+    "evidence": "the group that you had with Boo – Boo Pleasant, when you guys went to – Bermuda?",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104455,
+   "as_named_in_interview": "Britt Woodman",
+   "surface_forms": [
+    "Britt Woodman"
+   ],
+   "upstream_identity": {
+    "qid": "Q349342",
+    "name": "Britt Woodman",
+    "description": "American jazz trombonist (1920-2000)",
+    "born": "1920",
+    "died": "2000"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295786
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "na",
+    "proposed": "member of Melba Liston and Company",
+    "confidence": 0.9,
+    "evidence": "But then you did start another group for girls, and then you started adding guys, like Britt Woodman.",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104461,
+   "as_named_in_interview": "Larry",
+   "surface_forms": [
+    "Larry"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Larry",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295787
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "na",
+    "proposed": "member of Melba Liston and Company",
+    "confidence": 0.9,
+    "evidence": "So whatever my company was, that was it, but it was girls all the way and then I had Larry",
+    "evidence_in_her_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104477,
+   "as_named_in_interview": "Saxophone player",
+   "surface_forms": [
+    "Saxophone player"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Saxophone player",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295788
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "proposed": "member of Melba Liston and Company",
+    "confidence": 0.9,
+    "evidence": "[INTERVIEWER] Saxophone player, right? [INTERVIEWEE] Alto. And then Budd Johnson.",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104394,
+   "as_named_in_interview": "Al Grey",
+   "surface_forms": [
+    "Al Grey"
+   ],
+   "upstream_identity": {
+    "qid": "Q715687",
+    "name": "Al Grey",
+    "description": "American jazz musician (1925–2000)",
+    "born": "1925",
+    "died": "2000"
+   },
+   "n_mentions": 3,
+   "mention_block_ids": [
+    295789,
+    295811,
+    295972
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "proposed": "Al Grey played trombone in Melba Liston's band",
+    "confidence": 0.95,
+    "evidence": "Then I had trombone – Al Grey. He played trombone with me.",
+    "evidence_in_her_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104466,
+   "as_named_in_interview": "Budd Johnson",
+   "surface_forms": [
+    "Budd Johnson"
+   ],
+   "upstream_identity": {
+    "qid": "Q349082",
+    "name": "Budd Johnson",
+    "description": "American musician (1910-1984)",
+    "born": "1910",
+    "died": "1984"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295789
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "proposed": "member of the same band",
+    "confidence": 0.9,
+    "evidence": "And then Budd Johnson. ... Then I had trombone – Al Grey. ... So we had a tenor, an alto, and two ’bones, and the rhythm.",
+    "evidence_in_her_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104395,
+   "as_named_in_interview": "Colby",
+   "surface_forms": [
+    "Colby"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Colby",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 3,
+   "mention_block_ids": [
+    295791,
+    295937,
+    295993
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "acquaintance of",
+    "direction": "mutual",
+    "proposed": "manager",
+    "confidence": 0.8,
+    "evidence": "Colby. That’s all. [INTERVIEWER] I meant . . .",
+    "evidence_in_her_own_words": "partial",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104452,
+   "as_named_in_interview": "Jean Davis",
+   "surface_forms": [
+    "Jean Davis"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Jean Davis",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295792
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "[INTERVIEWER] Was Jean Davis in that group? ... [INTERVIEWEE] No trumpets.",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104460,
+   "as_named_in_interview": "Hale Smith",
+   "surface_forms": [
+    "Hale Smith"
+   ],
+   "upstream_identity": {
+    "qid": "Q373286",
+    "name": "Hale Smith",
+    "description": "American composer, music pedagogue, and jazz pianist (1925–2009)",
+    "born": "1925",
+    "died": "2009"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295806
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "Because Hale Smith – all of those things was talking about that tune that I did.",
+    "evidence_in_her_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104458,
+   "as_named_in_interview": "Frank Foster",
+   "surface_forms": [
+    "Frank Foster"
+   ],
+   "upstream_identity": {
+    "qid": "Q489245",
+    "name": "Frank Foster",
+    "description": "American jazz musician and bandleader (1928–2011)",
+    "born": "1928",
+    "died": "2011"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295810
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "They had [Frank Foster]. Dexter came.",
+    "evidence_in_her_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104396,
+   "as_named_in_interview": "Lana Turner",
+   "surface_forms": [
+    "Lana Turner"
+   ],
+   "upstream_identity": {
+    "qid": "Q201034",
+    "name": "Lana Turner",
+    "description": "American actress (1921–1995)",
+    "born": "1921",
+    "died": "1995"
+   },
+   "n_mentions": 3,
+   "mention_block_ids": [
+    295821,
+    295831,
+    295832
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "acquaintance of",
+    "direction": "na",
+    "proposed": "worked as Lana Turner's maid/stand-in in a movie",
+    "confidence": 0.9,
+    "evidence": "I was Lana Turner’s old girl. ... I was her maid or something or other.",
+    "evidence_in_her_own_words": "partial",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104406,
+   "as_named_in_interview": "Major Holley",
+   "surface_forms": [
+    "Major Holley"
+   ],
+   "upstream_identity": {
+    "qid": "Q32363",
+    "name": "Major Holley",
+    "description": "American jazz upright bassist (1924–1990)",
+    "born": "1924",
+    "died": "1990"
+   },
+   "n_mentions": 2,
+   "mention_block_ids": [
+    295840,
+    295841
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "friend of",
+    "direction": "mutual",
+    "proposed": "close enough for him to buy her first computer",
+    "confidence": 0.85,
+    "evidence": "He bought my first – the first computer that I had.",
+    "evidence_in_her_own_words": "paraphrase",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104456,
+   "as_named_in_interview": "Jeannie Cheatham",
+   "surface_forms": [
+    "Jeannie Cheatham"
+   ],
+   "upstream_identity": {
+    "qid": "Q1433070",
+    "name": "Jeannie Cheatham",
+    "description": "American blues and jazz musician",
+    "born": "1937",
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295847
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "[INTERVIEWER] I think you had just bought it then, because he was telling me and Jeannie Cheatham about that.",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104449,
+   "as_named_in_interview": "Tommy Dorsey",
+   "surface_forms": [
+    "Tommy Dorsey"
+   ],
+   "upstream_identity": {
+    "qid": "Q313529",
+    "name": "Tommy Dorsey",
+    "description": "American big band leader and musician",
+    "born": "1905",
+    "died": "1956"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295854
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "Tommy Dorsey was – I didn’t know too many trombone players, but he was on the radio, and I listened to him.",
+    "evidence_in_her_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104434,
+   "as_named_in_interview": "Oliver Nelson",
+   "surface_forms": [
+    "Oliver Nelson"
+   ],
+   "upstream_identity": {
+    "qid": "Q720687",
+    "name": "Oliver Nelson",
+    "description": "American jazz saxophonist, clarinetist, arranger, composer, and bandleader (1932-1975)",
+    "born": "1932",
+    "died": "1975"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295865
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "arranger and writer",
+    "confidence": 0.9,
+    "evidence": "How was it when you wrote with Oliver Nelson? ... Yeah, and I loved his.",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  }
+ ]
+}

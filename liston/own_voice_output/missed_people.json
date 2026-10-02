@@ -1,0 +1,298 @@
+{
+ "subject": "liston",
+ "part": "missed_people",
+ "count": 10,
+ "items": [
+  {
+   "name": "Alma Hightower",
+   "as_in_transcript": [
+    "Mrs. Hightower",
+    "Miss Hightower"
+   ],
+   "block_ids": [
+    295513,
+    295546,
+    295553,
+    295555,
+    295558,
+    295559,
+    295568,
+    295571,
+    295583,
+    296076,
+    296332
+   ],
+   "who_is_this": "Minnie Hightower's mother; the teacher who led the Melodic Dots youth group Liston played in as a girl in Los Angeles",
+   "who_speaks_of_them": "both",
+   "basis": "her_statement",
+   "relation": "mentor of",
+   "direction": "other_leads",
+   "tie": [
+    "teacher",
+    "bandleader"
+   ],
+   "firsthand": true,
+   "summary": "Liston played in Miss Hightower's Melodic Dots, toured to a fair in the back of a truck, learned stagecraft from her, and stayed with her until she joined the union at 16.",
+   "one_liner": "her first bandleader and stage teacher",
+   "her_quote": "She was nice to me. I stayed with her until 16 and I joined the union and started to work at the Lincoln Theater. I think she was kind of pissed off with me then.",
+   "her_quote_block_id": 295571,
+   "bryant_quote": "Miss Hightower seemed to have had quite an attachment. She thought you were just the greatest.",
+   "bryant_quote_block_id": 295568,
+   "notable": 3,
+   "confidence": "high",
+   "notes": "Not truly absent but folded: her_relationships.json puts 'Miss Hightower' and 'Mrs. Hightower' as surface forms of Minnie Hightower (Liston's schoolmate). The transcript distinguishes them: Bryant says Minnie 'told you about Mrs. Hightower' (295546), and the transcriber identifies 'Minnie Hightower, her mother Miss Hightower' (296332). The first name Alma is not in the transcript; it is supplied from outside knowledge for spelling only and should be checked. Other good Liston lines: 'Everything that was on the stage, she taught us' (295559); 'Miss Hightower and the Melodic Dots.' (295555)."
+  },
+  {
+   "name": "Doddard Deal",
+   "as_in_transcript": [
+    "Mr. [(name inaudible) ?Doddard Deal]"
+   ],
+   "block_ids": [
+    295526,
+    295529,
+    295531,
+    295532,
+    295533
+   ],
+   "who_is_this": "her music teacher at junior high school in Los Angeles (McKinley Junior High), who wanted to adopt her so he could send her away to study",
+   "who_speaks_of_them": "both",
+   "basis": "her_statement",
+   "relation": "mentor of",
+   "direction": "other_leads",
+   "tie": [
+    "teacher"
+   ],
+   "firsthand": true,
+   "summary": "Liston said her junior-high music teacher was a good all-round teacher who wanted to adopt her to send her places, and she refused because she wanted to stay with her mother.",
+   "one_liner": "junior-high music teacher who wanted to adopt her",
+   "her_quote": "He was good. He didn’t mess with me. He just was a good teacher for all around.",
+   "her_quote_block_id": 295531,
+   "bryant_quote": "But he wanted to adopt you?",
+   "bryant_quote_block_id": 295532,
+   "notable": 2,
+   "confidence": "medium",
+   "notes": "The name exists only in the transcriber's bracket and is marked uncertain ('?Doddard Deal'); Liston says only 'Mr.' before it. Treat the spelling as unverified. Second Liston line: 'he would have to adopt me to send me to all of these places... I told him, “No. I want to stay with my mom.”' (295533)."
+  },
+  {
+   "name": "Quincy Jones",
+   "as_in_transcript": [
+    "Quincy [Jones]"
+   ],
+   "block_ids": [
+    296294
+   ],
+   "who_is_this": "the musician Liston called in to conduct her arrangements at a Gloria Lynne recording date (dated 1959 by Bryant) when she was ill",
+   "who_speaks_of_them": "liston",
+   "basis": "her_statement",
+   "relation": "collaborated with",
+   "direction": "mutual",
+   "tie": [
+    "unknown"
+   ],
+   "firsthand": true,
+   "summary": "Liston said that when she was sick on the day of the Gloria Lynne session she called Quincy Jones, who conducted for her, though almost all the arrangements were hers.",
+   "one_liner": "conducted her arrangements when she was ill",
+   "her_quote": "Yeah, and I was sick, and the day of the recording date, I was out of it, so I called Quincy",
+   "her_quote_block_id": 296294,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "notable": 3,
+   "confidence": "high",
+   "notes": "Surname is the transcriber's bracketed expansion; the quote stops before it. The block continues: 'he conducted for me, but all of the arrangements are mine – almost all of them.' No tie term fits a conductor standing in for her; 'unknown' used."
+  },
+  {
+   "name": "Abbey Lincoln",
+   "as_in_transcript": [
+    "Abbey Lincoln"
+   ],
+   "block_ids": [
+    295883,
+    295884
+   ],
+   "who_is_this": "a singer Liston wrote arrangements for",
+   "who_speaks_of_them": "both",
+   "basis": "her_statement",
+   "relation": "collaborated with",
+   "direction": "mutual",
+   "tie": [
+    "arranging_client"
+   ],
+   "firsthand": true,
+   "summary": "Asked about Abbey Lincoln, Liston said she was fine and that she still wrote for her now and then.",
+   "one_liner": "singer she still wrote for",
+   "her_quote": "Oh, she’s fine. I write for her now and then.",
+   "her_quote_block_id": 295884,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "notable": 2,
+   "confidence": "high",
+   "notes": "Bryant's question is just 'What about Abbey Lincoln?' (295883)."
+  },
+  {
+   "name": "Ben",
+   "as_in_transcript": [
+    "her man, her husband, Ben"
+   ],
+   "block_ids": [
+    296510
+   ],
+   "who_is_this": "her mother's husband; the tune Ben Loves Lu was dedicated to him and her mother",
+   "who_speaks_of_them": "liston",
+   "basis": "her_statement",
+   "relation": "none",
+   "direction": "na",
+   "tie": [
+    "family"
+   ],
+   "firsthand": true,
+   "summary": "Liston closed the interview with Ben Loves Lu, a tune she dedicated to her mother and her mother's husband, and said it might become her theme song.",
+   "one_liner": "her mother's husband, honoured in a tune",
+   "her_quote": "And we’ll close with a tune dedicated to my mom and her man, her husband, Ben Loves Lu.",
+   "her_quote_block_id": 296510,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "notable": 2,
+   "confidence": "medium",
+   "notes": "her_relationships.json has an item named 'Ben Loves Lu' (relation 'friend of', proposed 'her husband'), i.e. the tune title was taken as the person; the person Ben has no proper entry. The transcript does not say whether he is the 'pop' whose favourite was Cab Calloway (295499); do not merge without evidence. 'Lu' presumably refers to her mother (Lucille, named only in a bracket) but the transcript does not say so. Liston's two husbands are a separate matter (Nelson Harris is already listed)."
+  },
+  {
+   "name": "Clifford Burden",
+   "as_in_transcript": [
+    "Clifford Burden"
+   ],
+   "block_ids": [
+    296333,
+    296334,
+    296335,
+    296337
+   ],
+   "who_is_this": "Minnie Hightower's husband; father of Clifford, Jr.; appears in an old photograph with the Melodic Dots circle",
+   "who_speaks_of_them": "both",
+   "basis": "her_assent",
+   "relation": "acquaintance of",
+   "direction": "mutual",
+   "tie": [
+    "unknown"
+   ],
+   "firsthand": true,
+   "summary": "Asked whether she knew Clifford Burden, Liston said yes and asked whether he and Minnie were both dead.",
+   "one_liner": "minnie hightower's husband, known to her",
+   "her_quote": "Oh yeah. He and Minnie both dead, huh?",
+   "her_quote_block_id": 296334,
+   "bryant_quote": "You know Clifford Burden, right?",
+   "bryant_quote_block_id": 296333,
+   "notable": 1,
+   "confidence": "medium",
+   "notes": "her_relationships.json has 'Clifford, Jr.' (the son) with surface forms ['Clifford', 'Clifford, Jr.']; the father is a different person and has no entry. Bryant: 'that’s who Minnie married' (296335). The bracket in 296337 names a 'Clifford' in a photograph — which Clifford is not stated."
+  },
+  {
+   "name": "Valaida Snow",
+   "as_in_transcript": [
+    "[asks about Valaida Snow.]"
+   ],
+   "block_ids": [
+    295594,
+    295595
+   ],
+   "who_is_this": "a performer Bryant asked about in connection with the Lincoln Theater years",
+   "who_speaks_of_them": "transcriber_only",
+   "basis": "none",
+   "relation": "none",
+   "direction": "na",
+   "tie": [
+    "unknown"
+   ],
+   "firsthand": false,
+   "summary": "Bryant asked about Valaida Snow, and Liston could not recall details beyond saying everybody came through the Lincoln Theater in her time there.",
+   "one_liner": "asked about; liston could not recall",
+   "her_quote": null,
+   "her_quote_block_id": null,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "notable": 1,
+   "confidence": "high",
+   "notes": "Name appears only inside the transcriber's bracketed summary of Bryant's question. Liston's reply: '[cannot recall details.] I had a year or a year and a half there, so everybody came through there.' — not a statement about Snow."
+  },
+  {
+   "name": "Charlie Parker",
+   "as_in_transcript": [
+    "Bird"
+   ],
+   "block_ids": [
+    295953
+   ],
+   "who_is_this": "saxophonist Bryant cites as a starting point young players reach back to",
+   "who_speaks_of_them": "bryant_only",
+   "basis": "none",
+   "relation": "none",
+   "direction": "na",
+   "tie": [
+    "unknown"
+   ],
+   "firsthand": false,
+   "summary": "Bryant said David Sanchez reached back to musicians 'from Bird on up'; Liston said nothing about Parker.",
+   "one_liner": "named by bryant only",
+   "her_quote": null,
+   "her_quote_block_id": null,
+   "bryant_quote": "He reached back to a lot of guys from Bird on up.",
+   "bryant_quote_block_id": 295953,
+   "notable": 0,
+   "confidence": "high",
+   "notes": "'Bird' identified as Charlie Parker by recognition of the nickname. Not to be confused with Birdland (a club), which Liston mentions."
+  },
+  {
+   "name": "Jimmy Rowles",
+   "as_in_transcript": [
+    "Jimmie"
+   ],
+   "block_ids": [
+    296492
+   ],
+   "who_is_this": "father of trumpeter Stacey Rowles",
+   "who_speaks_of_them": "bryant_only",
+   "basis": "none",
+   "relation": "none",
+   "direction": "na",
+   "tie": [
+    "unknown"
+   ],
+   "firsthand": false,
+   "summary": "Bryant identified Stacey Rowles as 'Jimmie's daughter' while listing young women players.",
+   "one_liner": "named by bryant only, as a father",
+   "her_quote": null,
+   "her_quote_block_id": null,
+   "bryant_quote": "Trumpet players: Stacey Rowles. Jimmie’s daughter.",
+   "bryant_quote_block_id": 296492,
+   "notable": 0,
+   "confidence": "medium",
+   "notes": "Surname inferred from 'Stacey Rowles. Jimmie’s daughter.'; the transcript gives only 'Jimmie'. The pipeline's 'Jimmie' surface form belongs to Jimmie Lunceford, a different person."
+  },
+  {
+   "name": "Roz",
+   "as_in_transcript": [
+    "Roz [?Crans]"
+   ],
+   "block_ids": [
+    296492
+   ],
+   "who_is_this": "the woman whose band was later taken over by the reed player Bryant describes (the Ann Patterson / Maiden Voyage passage)",
+   "who_speaks_of_them": "bryant_only",
+   "basis": "none",
+   "relation": "none",
+   "direction": "na",
+   "tie": [
+    "unknown"
+   ],
+   "firsthand": false,
+   "summary": "Bryant mentioned that a Los Angeles women's band had been Roz's before another reed player took it over.",
+   "one_liner": "named by bryant only",
+   "her_quote": null,
+   "her_quote_block_id": null,
+   "bryant_quote": "It was Roz",
+   "bryant_quote_block_id": 296492,
+   "notable": 0,
+   "confidence": "medium",
+   "notes": "Surname exists only as the transcriber's uncertain bracket '[?Crans]'; possibly Roz Cron, but that is outside recognition and unverified. Liston says nothing about her."
+  }
+ ]
+}

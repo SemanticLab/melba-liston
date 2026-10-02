@@ -1,0 +1,5390 @@
+{
+ "subject": "liston",
+ "qid": "Q274146",
+ "chunk": 2,
+ "n_chunks": 3,
+ "count": 34,
+ "own_interview": true,
+ "items": [
+  {
+   "block_id": 295457,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 0,
+   "block": 1,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b0-1"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "unknown",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": true,
+   "context_before": [
+    {
+     "block_id": 295456,
+     "page": 0,
+     "block": 0,
+     "type": "boilerplate",
+     "speaker": null,
+     "text": "Funding for the Smithsonian Jazz Oral History Program NEA Jazz Master interview was provided by the National Endowment for the Arts."
+    }
+   ],
+   "target": {
+    "block_id": 295457,
+    "page": 0,
+    "block": 1,
+    "type": "header",
+    "speaker": null,
+    "text": "MELBA LISTON"
+   },
+   "context_after": [
+    {
+     "block_id": 295458,
+     "page": 0,
+     "block": 2,
+     "type": "note",
+     "speaker": null,
+     "text": "NEA Jazz Master (1987)"
+    },
+    {
+     "block_id": 295459,
+     "page": 0,
+     "block": 3,
+     "type": "note",
+     "speaker": null,
+     "text": "Interviewee: Melba Liston (January 13, 1926 – April 23, 1999)"
+    },
+    {
+     "block_id": 295460,
+     "page": 0,
+     "block": 4,
+     "type": "note",
+     "speaker": null,
+     "text": "Interviewer: Clora Bryant"
+    },
+    {
+     "block_id": 295461,
+     "page": 0,
+     "block": 5,
+     "type": "note",
+     "speaker": null,
+     "text": "Description: Transcript, 68 pp."
+    }
+   ],
+   "window_chars": 283
+  },
+  {
+   "block_id": 295459,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 0,
+   "block": 3,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b0-3"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "unknown",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 295456,
+     "page": 0,
+     "block": 0,
+     "type": "boilerplate",
+     "speaker": null,
+     "text": "Funding for the Smithsonian Jazz Oral History Program NEA Jazz Master interview was provided by the National Endowment for the Arts."
+    },
+    {
+     "block_id": 295457,
+     "page": 0,
+     "block": 1,
+     "type": "header",
+     "speaker": null,
+     "text": "MELBA LISTON"
+    },
+    {
+     "block_id": 295458,
+     "page": 0,
+     "block": 2,
+     "type": "note",
+     "speaker": null,
+     "text": "NEA Jazz Master (1987)"
+    }
+   ],
+   "target": {
+    "block_id": 295459,
+    "page": 0,
+    "block": 3,
+    "type": "note",
+    "speaker": null,
+    "text": "Interviewee: Melba Liston (January 13, 1926 – April 23, 1999)"
+   },
+   "context_after": [
+    {
+     "block_id": 295460,
+     "page": 0,
+     "block": 4,
+     "type": "note",
+     "speaker": null,
+     "text": "Interviewer: Clora Bryant"
+    },
+    {
+     "block_id": 295461,
+     "page": 0,
+     "block": 5,
+     "type": "note",
+     "speaker": null,
+     "text": "Description: Transcript, 68 pp."
+    },
+    {
+     "block_id": 295462,
+     "page": 0,
+     "block": 6,
+     "type": "note",
+     "speaker": null,
+     "text": "Transcriber’s note: This interview of Melba Liston dates from 1996. Liston had suffered a stroke in 1985. Thereafter she had some loss of memory and some difficulty speaking."
+    },
+    {
+     "block_id": 295463,
+     "page": 0,
+     "block": 7,
+     "type": "boilerplate",
+     "speaker": null,
+     "text": "Quotations appear below in the normal manner found throughout transcripts from the Smithsonian’s series of jazz oral histories, but exceptionally, for those passages in which Liston has difficulty responding, square brackets identify a summary of contents standing in place of a full quotation."
+    }
+   ],
+   "window_chars": 751
+  },
+  {
+   "block_id": 295462,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 0,
+   "block": 6,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b0-6"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "unknown",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 295456,
+     "page": 0,
+     "block": 0,
+     "type": "boilerplate",
+     "speaker": null,
+     "text": "Funding for the Smithsonian Jazz Oral History Program NEA Jazz Master interview was provided by the National Endowment for the Arts."
+    },
+    {
+     "block_id": 295457,
+     "page": 0,
+     "block": 1,
+     "type": "header",
+     "speaker": null,
+     "text": "MELBA LISTON"
+    },
+    {
+     "block_id": 295458,
+     "page": 0,
+     "block": 2,
+     "type": "note",
+     "speaker": null,
+     "text": "NEA Jazz Master (1987)"
+    },
+    {
+     "block_id": 295459,
+     "page": 0,
+     "block": 3,
+     "type": "note",
+     "speaker": null,
+     "text": "Interviewee: Melba Liston (January 13, 1926 – April 23, 1999)"
+    },
+    {
+     "block_id": 295460,
+     "page": 0,
+     "block": 4,
+     "type": "note",
+     "speaker": null,
+     "text": "Interviewer: Clora Bryant"
+    },
+    {
+     "block_id": 295461,
+     "page": 0,
+     "block": 5,
+     "type": "note",
+     "speaker": null,
+     "text": "Description: Transcript, 68 pp."
+    }
+   ],
+   "target": {
+    "block_id": 295462,
+    "page": 0,
+    "block": 6,
+    "type": "note",
+    "speaker": null,
+    "text": "Transcriber’s note: This interview of Melba Liston dates from 1996. Liston had suffered a stroke in 1985. Thereafter she had some loss of memory and some difficulty speaking."
+   },
+   "context_after": [
+    {
+     "block_id": 295463,
+     "page": 0,
+     "block": 7,
+     "type": "boilerplate",
+     "speaker": null,
+     "text": "Quotations appear below in the normal manner found throughout transcripts from the Smithsonian’s series of jazz oral histories, but exceptionally, for those passages in which Liston has difficulty responding, square brackets identify a summary of contents standing in place of a full quotation."
+    },
+    {
+     "block_id": 295464,
+     "page": 0,
+     "block": 8,
+     "type": "note",
+     "speaker": null,
+     "text": "[The recording commences in mid-sentence:]"
+    },
+    {
+     "block_id": 295465,
+     "page": 0,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": ". . . Jazz Oral History Program, and today’s date is December 4th, 1996. We’re here at the home of Miss Melba Liston – here in Los Angeles, that is – and we’re going to do an interview about her life. My name is Clora Bryant. I will be doing the interview with Melba, and we have Matt [Watson as recording engineer]. First we want to start out by asking Melba where she’s from originally."
+    }
+   ],
+   "window_chars": 1181
+  },
+  {
+   "block_id": 295465,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 0,
+   "block": 9,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b0-9"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 295457,
+     "page": 0,
+     "block": 1,
+     "type": "header",
+     "speaker": null,
+     "text": "MELBA LISTON"
+    },
+    {
+     "block_id": 295458,
+     "page": 0,
+     "block": 2,
+     "type": "note",
+     "speaker": null,
+     "text": "NEA Jazz Master (1987)"
+    },
+    {
+     "block_id": 295459,
+     "page": 0,
+     "block": 3,
+     "type": "note",
+     "speaker": null,
+     "text": "Interviewee: Melba Liston (January 13, 1926 – April 23, 1999)"
+    },
+    {
+     "block_id": 295460,
+     "page": 0,
+     "block": 4,
+     "type": "note",
+     "speaker": null,
+     "text": "Interviewer: Clora Bryant"
+    },
+    {
+     "block_id": 295461,
+     "page": 0,
+     "block": 5,
+     "type": "note",
+     "speaker": null,
+     "text": "Description: Transcript, 68 pp."
+    },
+    {
+     "block_id": 295462,
+     "page": 0,
+     "block": 6,
+     "type": "note",
+     "speaker": null,
+     "text": "Transcriber’s note: This interview of Melba Liston dates from 1996. Liston had suffered a stroke in 1985. Thereafter she had some loss of memory and some difficulty speaking."
+    },
+    {
+     "block_id": 295463,
+     "page": 0,
+     "block": 7,
+     "type": "boilerplate",
+     "speaker": null,
+     "text": "Quotations appear below in the normal manner found throughout transcripts from the Smithsonian’s series of jazz oral histories, but exceptionally, for those passages in which Liston has difficulty responding, square brackets identify a summary of contents standing in place of a full quotation."
+    },
+    {
+     "block_id": 295464,
+     "page": 0,
+     "block": 8,
+     "type": "note",
+     "speaker": null,
+     "text": "[The recording commences in mid-sentence:]"
+    }
+   ],
+   "target": {
+    "block_id": 295465,
+    "page": 0,
+    "block": 9,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": ". . . Jazz Oral History Program, and today’s date is December 4th, 1996. We’re here at the home of Miss Melba Liston – here in Los Angeles, that is – and we’re going to do an interview about her life. My name is Clora Bryant. I will be doing the interview with Melba, and we have Matt [Watson as recording engineer]. First we want to start out by asking Melba where she’s from originally."
+   },
+   "context_after": [
+    {
+     "block_id": 295466,
+     "page": 0,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I was born in Kansas City, Missouri, and my grandparents lived in Kansas City, Kansas, so I was between both of them."
+    },
+    {
+     "block_id": 295467,
+     "page": 1,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You stayed – during the week you’d stay with your grandparents and then on the weekends you’d stay with your mom. [Liston went to school in Kansas City, Kansas, while living with her grandfather.]"
+    },
+    {
+     "block_id": 295468,
+     "page": 1,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "[Her mother’s name was Lucille Liston. Her grandparents were Virginia and John Clark. Liston could not remember what her mother and grandparents did, but recalled that her mother went to college]. I think maybe that’s why we moved out here, because she wasn’t getting no business in Kansas."
+    },
+    {
+     "block_id": 295469,
+     "page": 1,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "She was overqualified for the work that she was getting."
+    },
+    {
+     "block_id": 295470,
+     "page": 1,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah."
+    },
+    {
+     "block_id": 295471,
+     "page": 1,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But you have no sisters or brothers."
+    },
+    {
+     "block_id": 295472,
+     "page": 1,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No."
+    },
+    {
+     "block_id": 295473,
+     "page": 1,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "At your home, I know you said you had a piano – a piano-roll piano. So you were exposed to that. And you had a radio, and you were exposed to the music that you heard that was being played around Kansas City. And also, your grandfather listened to – did he have records or something?"
+    }
+   ],
+   "window_chars": 2035
+  },
+  {
+   "block_id": 295467,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 1,
+   "block": 0,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b1-0"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 295459,
+     "page": 0,
+     "block": 3,
+     "type": "note",
+     "speaker": null,
+     "text": "Interviewee: Melba Liston (January 13, 1926 – April 23, 1999)"
+    },
+    {
+     "block_id": 295460,
+     "page": 0,
+     "block": 4,
+     "type": "note",
+     "speaker": null,
+     "text": "Interviewer: Clora Bryant"
+    },
+    {
+     "block_id": 295461,
+     "page": 0,
+     "block": 5,
+     "type": "note",
+     "speaker": null,
+     "text": "Description: Transcript, 68 pp."
+    },
+    {
+     "block_id": 295462,
+     "page": 0,
+     "block": 6,
+     "type": "note",
+     "speaker": null,
+     "text": "Transcriber’s note: This interview of Melba Liston dates from 1996. Liston had suffered a stroke in 1985. Thereafter she had some loss of memory and some difficulty speaking."
+    },
+    {
+     "block_id": 295463,
+     "page": 0,
+     "block": 7,
+     "type": "boilerplate",
+     "speaker": null,
+     "text": "Quotations appear below in the normal manner found throughout transcripts from the Smithsonian’s series of jazz oral histories, but exceptionally, for those passages in which Liston has difficulty responding, square brackets identify a summary of contents standing in place of a full quotation."
+    },
+    {
+     "block_id": 295464,
+     "page": 0,
+     "block": 8,
+     "type": "note",
+     "speaker": null,
+     "text": "[The recording commences in mid-sentence:]"
+    },
+    {
+     "block_id": 295465,
+     "page": 0,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": ". . . Jazz Oral History Program, and today’s date is December 4th, 1996. We’re here at the home of Miss Melba Liston – here in Los Angeles, that is – and we’re going to do an interview about her life. My name is Clora Bryant. I will be doing the interview with Melba, and we have Matt [Watson as recording engineer]. First we want to start out by asking Melba where she’s from originally."
+    },
+    {
+     "block_id": 295466,
+     "page": 0,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I was born in Kansas City, Missouri, and my grandparents lived in Kansas City, Kansas, so I was between both of them."
+    }
+   ],
+   "target": {
+    "block_id": 295467,
+    "page": 1,
+    "block": 0,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "You stayed – during the week you’d stay with your grandparents and then on the weekends you’d stay with your mom. [Liston went to school in Kansas City, Kansas, while living with her grandfather.]"
+   },
+   "context_after": [
+    {
+     "block_id": 295468,
+     "page": 1,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "[Her mother’s name was Lucille Liston. Her grandparents were Virginia and John Clark. Liston could not remember what her mother and grandparents did, but recalled that her mother went to college]. I think maybe that’s why we moved out here, because she wasn’t getting no business in Kansas."
+    },
+    {
+     "block_id": 295469,
+     "page": 1,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "She was overqualified for the work that she was getting."
+    },
+    {
+     "block_id": 295470,
+     "page": 1,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah."
+    },
+    {
+     "block_id": 295471,
+     "page": 1,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But you have no sisters or brothers."
+    },
+    {
+     "block_id": 295472,
+     "page": 1,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No."
+    },
+    {
+     "block_id": 295473,
+     "page": 1,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "At your home, I know you said you had a piano – a piano-roll piano. So you were exposed to that. And you had a radio, and you were exposed to the music that you heard that was being played around Kansas City. And also, your grandfather listened to – did he have records or something?"
+    },
+    {
+     "block_id": 295474,
+     "page": 1,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No. We didn’t have records at that time. We had the player. This is my – this is the same piano."
+    },
+    {
+     "block_id": 295475,
+     "page": 1,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "That’s the same piano. Wow!"
+    }
+   ],
+   "window_chars": 2124
+  },
+  {
+   "block_id": 295500,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 2,
+   "block": 17,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b2-17"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 295492,
+     "page": 2,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah. And when I’m home, the radio."
+    },
+    {
+     "block_id": 295493,
+     "page": 2,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You sing with the radio?"
+    },
+    {
+     "block_id": 295494,
+     "page": 2,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Um-hmm."
+    },
+    {
+     "block_id": 295495,
+     "page": 2,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Most jazz musicians started in church. That’s why I’m trying to get to that. Watson: What church were you in?"
+    },
+    {
+     "block_id": 295496,
+     "page": 2,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[names various denominations.]"
+    },
+    {
+     "block_id": 295497,
+     "page": 2,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Unity."
+    },
+    {
+     "block_id": 295498,
+     "page": 2,
+     "block": 15,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[asks about music Liston heard, including Count Basie and Cab Calloway.]"
+    },
+    {
+     "block_id": 295499,
+     "page": 2,
+     "block": 16,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "My pop’s favorite was Cab Calloway. My auntie’s loved [Jimmie] Lunceford and Basie."
+    }
+   ],
+   "target": {
+    "block_id": 295500,
+    "page": 2,
+    "block": 17,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "[asks about Liston starting music at the age of 3 or 4.]"
+   },
+   "context_after": [
+    {
+     "block_id": 295501,
+     "page": 2,
+     "block": 18,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "[cannot recall.]"
+    },
+    {
+     "block_id": 295502,
+     "page": 3,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[At the age of 7 Liston saw a trombone and asked her mother to get it that same day. Bryant had the same reaction to the trumpet. Did her mother spoil her?]"
+    },
+    {
+     "block_id": 295503,
+     "page": 3,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No. I’ve got a record – I mean a tape with my mother’s voice on there, and she’s talking about when I first got my horn."
+    },
+    {
+     "block_id": 295504,
+     "page": 3,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Really? You should have let me hear that. [Bryant states her intention to hear this tape before the interview resumes the next day.] The other day I mentioned about the system that you had, that you – where you could pick out the melody of songs by the number of the note or the scale, and that your teachers thought you were a genius, and the church members too thought you were a genius, because you could do that. But it’s something that your little mind told you – which was great. But you say that you like to puzzle things, because you like math."
+    },
+    {
+     "block_id": 295505,
+     "page": 3,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I like mathematics, but I used to like to hear things, and I would say “2 - 4 – 6” or something."
+    },
+    {
+     "block_id": 295506,
+     "page": 3,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[inquires into this method, but without much response from Liston. Bryant inquires about Liston’s friends.]"
+    },
+    {
+     "block_id": 295507,
+     "page": 3,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I got a whole lot of friends, I guess, but I didn’t go around with anything. I was with my grandpa on the back porch, playing the trombone."
+    },
+    {
+     "block_id": 295508,
+     "page": 3,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[Liston said she was playing Deep River and Rocking the Cradle of the Deep. Were these her choice or her grandfather’s?]"
+    }
+   ],
+   "window_chars": 1728
+  },
+  {
+   "block_id": 295502,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 3,
+   "block": 0,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b3-0"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 295494,
+     "page": 2,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Um-hmm."
+    },
+    {
+     "block_id": 295495,
+     "page": 2,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Most jazz musicians started in church. That’s why I’m trying to get to that. Watson: What church were you in?"
+    },
+    {
+     "block_id": 295496,
+     "page": 2,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[names various denominations.]"
+    },
+    {
+     "block_id": 295497,
+     "page": 2,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Unity."
+    },
+    {
+     "block_id": 295498,
+     "page": 2,
+     "block": 15,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[asks about music Liston heard, including Count Basie and Cab Calloway.]"
+    },
+    {
+     "block_id": 295499,
+     "page": 2,
+     "block": 16,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "My pop’s favorite was Cab Calloway. My auntie’s loved [Jimmie] Lunceford and Basie."
+    },
+    {
+     "block_id": 295500,
+     "page": 2,
+     "block": 17,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[asks about Liston starting music at the age of 3 or 4.]"
+    },
+    {
+     "block_id": 295501,
+     "page": 2,
+     "block": 18,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "[cannot recall.]"
+    }
+   ],
+   "target": {
+    "block_id": 295502,
+    "page": 3,
+    "block": 0,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "[At the age of 7 Liston saw a trombone and asked her mother to get it that same day. Bryant had the same reaction to the trumpet. Did her mother spoil her?]"
+   },
+   "context_after": [
+    {
+     "block_id": 295503,
+     "page": 3,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No. I’ve got a record – I mean a tape with my mother’s voice on there, and she’s talking about when I first got my horn."
+    },
+    {
+     "block_id": 295504,
+     "page": 3,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Really? You should have let me hear that. [Bryant states her intention to hear this tape before the interview resumes the next day.] The other day I mentioned about the system that you had, that you – where you could pick out the melody of songs by the number of the note or the scale, and that your teachers thought you were a genius, and the church members too thought you were a genius, because you could do that. But it’s something that your little mind told you – which was great. But you say that you like to puzzle things, because you like math."
+    },
+    {
+     "block_id": 295505,
+     "page": 3,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I like mathematics, but I used to like to hear things, and I would say “2 - 4 – 6” or something."
+    },
+    {
+     "block_id": 295506,
+     "page": 3,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[inquires into this method, but without much response from Liston. Bryant inquires about Liston’s friends.]"
+    },
+    {
+     "block_id": 295507,
+     "page": 3,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I got a whole lot of friends, I guess, but I didn’t go around with anything. I was with my grandpa on the back porch, playing the trombone."
+    },
+    {
+     "block_id": 295508,
+     "page": 3,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[Liston said she was playing Deep River and Rocking the Cradle of the Deep. Were these her choice or her grandfather’s?]"
+    },
+    {
+     "block_id": 295509,
+     "page": 3,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I heard them on the radio."
+    },
+    {
+     "block_id": 295510,
+     "page": 3,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[Liston said the day before that she was playing these melodies five months after she got her trombone.] You found that you couldn’t reach the sixth and the seventh position on it, but you overcame that by . . ."
+    }
+   ],
+   "window_chars": 1906
+  },
+  {
+   "block_id": 295506,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 3,
+   "block": 4,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b3-4"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 295498,
+     "page": 2,
+     "block": 15,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[asks about music Liston heard, including Count Basie and Cab Calloway.]"
+    },
+    {
+     "block_id": 295499,
+     "page": 2,
+     "block": 16,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "My pop’s favorite was Cab Calloway. My auntie’s loved [Jimmie] Lunceford and Basie."
+    },
+    {
+     "block_id": 295500,
+     "page": 2,
+     "block": 17,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[asks about Liston starting music at the age of 3 or 4.]"
+    },
+    {
+     "block_id": 295501,
+     "page": 2,
+     "block": 18,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "[cannot recall.]"
+    },
+    {
+     "block_id": 295502,
+     "page": 3,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[At the age of 7 Liston saw a trombone and asked her mother to get it that same day. Bryant had the same reaction to the trumpet. Did her mother spoil her?]"
+    },
+    {
+     "block_id": 295503,
+     "page": 3,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No. I’ve got a record – I mean a tape with my mother’s voice on there, and she’s talking about when I first got my horn."
+    },
+    {
+     "block_id": 295504,
+     "page": 3,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Really? You should have let me hear that. [Bryant states her intention to hear this tape before the interview resumes the next day.] The other day I mentioned about the system that you had, that you – where you could pick out the melody of songs by the number of the note or the scale, and that your teachers thought you were a genius, and the church members too thought you were a genius, because you could do that. But it’s something that your little mind told you – which was great. But you say that you like to puzzle things, because you like math."
+    },
+    {
+     "block_id": 295505,
+     "page": 3,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I like mathematics, but I used to like to hear things, and I would say “2 - 4 – 6” or something."
+    }
+   ],
+   "target": {
+    "block_id": 295506,
+    "page": 3,
+    "block": 4,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "[inquires into this method, but without much response from Liston. Bryant inquires about Liston’s friends.]"
+   },
+   "context_after": [
+    {
+     "block_id": 295507,
+     "page": 3,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I got a whole lot of friends, I guess, but I didn’t go around with anything. I was with my grandpa on the back porch, playing the trombone."
+    },
+    {
+     "block_id": 295508,
+     "page": 3,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[Liston said she was playing Deep River and Rocking the Cradle of the Deep. Were these her choice or her grandfather’s?]"
+    },
+    {
+     "block_id": 295509,
+     "page": 3,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I heard them on the radio."
+    },
+    {
+     "block_id": 295510,
+     "page": 3,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[Liston said the day before that she was playing these melodies five months after she got her trombone.] You found that you couldn’t reach the sixth and the seventh position on it, but you overcame that by . . ."
+    },
+    {
+     "block_id": 295511,
+     "page": 3,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": ". . . turning my head sideways. I had to do that until I come out here to California."
+    },
+    {
+     "block_id": 295512,
+     "page": 3,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "And then your arms became long enough, or what?"
+    },
+    {
+     "block_id": 295513,
+     "page": 3,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I was growing. I guess I grew out of that before I went with Mrs. Hightower."
+    },
+    {
+     "block_id": 295514,
+     "page": 4,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[Liston had a teacher in Kansas City that she didn’t like.]"
+    }
+   ],
+   "window_chars": 2021
+  },
+  {
+   "block_id": 295508,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 3,
+   "block": 6,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b3-6"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 295500,
+     "page": 2,
+     "block": 17,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[asks about Liston starting music at the age of 3 or 4.]"
+    },
+    {
+     "block_id": 295501,
+     "page": 2,
+     "block": 18,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "[cannot recall.]"
+    },
+    {
+     "block_id": 295502,
+     "page": 3,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[At the age of 7 Liston saw a trombone and asked her mother to get it that same day. Bryant had the same reaction to the trumpet. Did her mother spoil her?]"
+    },
+    {
+     "block_id": 295503,
+     "page": 3,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No. I’ve got a record – I mean a tape with my mother’s voice on there, and she’s talking about when I first got my horn."
+    },
+    {
+     "block_id": 295504,
+     "page": 3,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Really? You should have let me hear that. [Bryant states her intention to hear this tape before the interview resumes the next day.] The other day I mentioned about the system that you had, that you – where you could pick out the melody of songs by the number of the note or the scale, and that your teachers thought you were a genius, and the church members too thought you were a genius, because you could do that. But it’s something that your little mind told you – which was great. But you say that you like to puzzle things, because you like math."
+    },
+    {
+     "block_id": 295505,
+     "page": 3,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I like mathematics, but I used to like to hear things, and I would say “2 - 4 – 6” or something."
+    },
+    {
+     "block_id": 295506,
+     "page": 3,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[inquires into this method, but without much response from Liston. Bryant inquires about Liston’s friends.]"
+    },
+    {
+     "block_id": 295507,
+     "page": 3,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I got a whole lot of friends, I guess, but I didn’t go around with anything. I was with my grandpa on the back porch, playing the trombone."
+    }
+   ],
+   "target": {
+    "block_id": 295508,
+    "page": 3,
+    "block": 6,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "[Liston said she was playing Deep River and Rocking the Cradle of the Deep. Were these her choice or her grandfather’s?]"
+   },
+   "context_after": [
+    {
+     "block_id": 295509,
+     "page": 3,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I heard them on the radio."
+    },
+    {
+     "block_id": 295510,
+     "page": 3,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[Liston said the day before that she was playing these melodies five months after she got her trombone.] You found that you couldn’t reach the sixth and the seventh position on it, but you overcame that by . . ."
+    },
+    {
+     "block_id": 295511,
+     "page": 3,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": ". . . turning my head sideways. I had to do that until I come out here to California."
+    },
+    {
+     "block_id": 295512,
+     "page": 3,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "And then your arms became long enough, or what?"
+    },
+    {
+     "block_id": 295513,
+     "page": 3,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I was growing. I guess I grew out of that before I went with Mrs. Hightower."
+    },
+    {
+     "block_id": 295514,
+     "page": 4,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[Liston had a teacher in Kansas City that she didn’t like.]"
+    },
+    {
+     "block_id": 295515,
+     "page": 4,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I told my mother to cancel him. So we didn’t stay – two or three lessons, that was all. [She cannot recall the reasons why.]"
+    },
+    {
+     "block_id": 295516,
+     "page": 4,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "In 1937 all of a sudden the family moved to California. You and your mom?"
+    }
+   ],
+   "window_chars": 2063
+  },
+  {
+   "block_id": 295510,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 3,
+   "block": 8,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b3-8"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 295502,
+     "page": 3,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[At the age of 7 Liston saw a trombone and asked her mother to get it that same day. Bryant had the same reaction to the trumpet. Did her mother spoil her?]"
+    },
+    {
+     "block_id": 295503,
+     "page": 3,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No. I’ve got a record – I mean a tape with my mother’s voice on there, and she’s talking about when I first got my horn."
+    },
+    {
+     "block_id": 295504,
+     "page": 3,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Really? You should have let me hear that. [Bryant states her intention to hear this tape before the interview resumes the next day.] The other day I mentioned about the system that you had, that you – where you could pick out the melody of songs by the number of the note or the scale, and that your teachers thought you were a genius, and the church members too thought you were a genius, because you could do that. But it’s something that your little mind told you – which was great. But you say that you like to puzzle things, because you like math."
+    },
+    {
+     "block_id": 295505,
+     "page": 3,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I like mathematics, but I used to like to hear things, and I would say “2 - 4 – 6” or something."
+    },
+    {
+     "block_id": 295506,
+     "page": 3,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[inquires into this method, but without much response from Liston. Bryant inquires about Liston’s friends.]"
+    },
+    {
+     "block_id": 295507,
+     "page": 3,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I got a whole lot of friends, I guess, but I didn’t go around with anything. I was with my grandpa on the back porch, playing the trombone."
+    },
+    {
+     "block_id": 295508,
+     "page": 3,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[Liston said she was playing Deep River and Rocking the Cradle of the Deep. Were these her choice or her grandfather’s?]"
+    },
+    {
+     "block_id": 295509,
+     "page": 3,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I heard them on the radio."
+    }
+   ],
+   "target": {
+    "block_id": 295510,
+    "page": 3,
+    "block": 8,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "[Liston said the day before that she was playing these melodies five months after she got her trombone.] You found that you couldn’t reach the sixth and the seventh position on it, but you overcame that by . . ."
+   },
+   "context_after": [
+    {
+     "block_id": 295511,
+     "page": 3,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": ". . . turning my head sideways. I had to do that until I come out here to California."
+    },
+    {
+     "block_id": 295512,
+     "page": 3,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "And then your arms became long enough, or what?"
+    },
+    {
+     "block_id": 295513,
+     "page": 3,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I was growing. I guess I grew out of that before I went with Mrs. Hightower."
+    },
+    {
+     "block_id": 295514,
+     "page": 4,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[Liston had a teacher in Kansas City that she didn’t like.]"
+    },
+    {
+     "block_id": 295515,
+     "page": 4,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I told my mother to cancel him. So we didn’t stay – two or three lessons, that was all. [She cannot recall the reasons why.]"
+    },
+    {
+     "block_id": 295516,
+     "page": 4,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "In 1937 all of a sudden the family moved to California. You and your mom?"
+    },
+    {
+     "block_id": 295517,
+     "page": 4,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No. My mom and me stayed over, and my grandma and my aunties moved out here. Maybe four or five months later, we came out. I don’t really know the exact times."
+    },
+    {
+     "block_id": 295518,
+     "page": 4,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[asks about the trip to California.]"
+    }
+   ],
+   "window_chars": 2186
+  },
+  {
+   "block_id": 295514,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 4,
+   "block": 0,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b4-0"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 295506,
+     "page": 3,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[inquires into this method, but without much response from Liston. Bryant inquires about Liston’s friends.]"
+    },
+    {
+     "block_id": 295507,
+     "page": 3,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I got a whole lot of friends, I guess, but I didn’t go around with anything. I was with my grandpa on the back porch, playing the trombone."
+    },
+    {
+     "block_id": 295508,
+     "page": 3,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[Liston said she was playing Deep River and Rocking the Cradle of the Deep. Were these her choice or her grandfather’s?]"
+    },
+    {
+     "block_id": 295509,
+     "page": 3,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I heard them on the radio."
+    },
+    {
+     "block_id": 295510,
+     "page": 3,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[Liston said the day before that she was playing these melodies five months after she got her trombone.] You found that you couldn’t reach the sixth and the seventh position on it, but you overcame that by . . ."
+    },
+    {
+     "block_id": 295511,
+     "page": 3,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": ". . . turning my head sideways. I had to do that until I come out here to California."
+    },
+    {
+     "block_id": 295512,
+     "page": 3,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "And then your arms became long enough, or what?"
+    },
+    {
+     "block_id": 295513,
+     "page": 3,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I was growing. I guess I grew out of that before I went with Mrs. Hightower."
+    }
+   ],
+   "target": {
+    "block_id": 295514,
+    "page": 4,
+    "block": 0,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "[Liston had a teacher in Kansas City that she didn’t like.]"
+   },
+   "context_after": [
+    {
+     "block_id": 295515,
+     "page": 4,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I told my mother to cancel him. So we didn’t stay – two or three lessons, that was all. [She cannot recall the reasons why.]"
+    },
+    {
+     "block_id": 295516,
+     "page": 4,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "In 1937 all of a sudden the family moved to California. You and your mom?"
+    },
+    {
+     "block_id": 295517,
+     "page": 4,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No. My mom and me stayed over, and my grandma and my aunties moved out here. Maybe four or five months later, we came out. I don’t really know the exact times."
+    },
+    {
+     "block_id": 295518,
+     "page": 4,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[asks about the trip to California.]"
+    },
+    {
+     "block_id": 295519,
+     "page": 4,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "[remembers only that it was a train ride.]"
+    },
+    {
+     "block_id": 295520,
+     "page": 4,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "When you got here, then you enrolled in McKinley Junior High School."
+    },
+    {
+     "block_id": 295521,
+     "page": 4,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah."
+    },
+    {
+     "block_id": 295522,
+     "page": 4,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But yesterday you were saying that the teacher’s were – you passed a test to be in the ninth grade?"
+    }
+   ],
+   "window_chars": 1476
+  },
+  {
+   "block_id": 295531,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 4,
+   "block": 17,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b4-17"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewee",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 295523,
+     "page": 4,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah. They couldn’t put me in the ninth grade. They put me in the eighth grade anyway, but I was only 10 or something, so they couldn’t put me. I could have passed a test for [ . . . ] going on high school."
+    },
+    {
+     "block_id": 295524,
+     "page": 4,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You’re kidding!"
+    },
+    {
+     "block_id": 295525,
+     "page": 4,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "But I couldn’t go there, because I was too young. But there’s a lot of things that I didn’t know, anyway. Growing up, you don’t know about a lot of things, and I had to learn about self things and all of those things before I got to high school."
+    },
+    {
+     "block_id": 295526,
+     "page": 4,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But in music – they had music there, and you had a teacher?"
+    },
+    {
+     "block_id": 295527,
+     "page": 4,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Oh yeah."
+    },
+    {
+     "block_id": 295528,
+     "page": 4,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "He was good?"
+    },
+    {
+     "block_id": 295529,
+     "page": 4,
+     "block": 15,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Mr. [(name inaudible) ?Doddard Deal]."
+    },
+    {
+     "block_id": 295530,
+     "page": 4,
+     "block": 16,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "First time I heard the name."
+    }
+   ],
+   "target": {
+    "block_id": 295531,
+    "page": 4,
+    "block": 17,
+    "type": "dialogue",
+    "speaker": "Liston",
+    "text": "I looked it up. He was good. He didn’t mess with me. He just was a good teacher for all around. [Liston has difficulty describing his musical specialization.]"
+   },
+   "context_after": [
+    {
+     "block_id": 295532,
+     "page": 5,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But he wanted to adopt you?"
+    },
+    {
+     "block_id": 295533,
+     "page": 5,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "He wanted to send me to some places, and I didn’t want to go, but he wanted me – he would have to adopt me to send me to all of these places. I can’t remember now. Anyway, I told him, “No. I want to stay with my mom.”"
+    },
+    {
+     "block_id": 295534,
+     "page": 5,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "When you guys got out here, you did continue your church affiliation, right?"
+    },
+    {
+     "block_id": 295535,
+     "page": 5,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yes."
+    }
+   ],
+   "window_chars": 1092
+  },
+  {
+   "block_id": 295552,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 6,
+   "block": 2,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b6-2"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 295544,
+     "page": 5,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Back to L.A. At school you met Minnie Hightower?"
+    },
+    {
+     "block_id": 295545,
+     "page": 5,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah."
+    },
+    {
+     "block_id": 295546,
+     "page": 5,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "And she was the one that told you about Mrs. Hightower."
+    },
+    {
+     "block_id": 295547,
+     "page": 5,
+     "block": 15,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "[cannot recall.] I met her, and she was thrilled with my playing the trombone and all that. We had a good thing going for many years. We played everywhere. We practiced at the Ross Snyder playground. [At night in the summertime they played in the parks.]"
+    },
+    {
+     "block_id": 295548,
+     "page": 5,
+     "block": 16,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Do you remember some of the people besides Minnie and Vi Redd?"
+    },
+    {
+     "block_id": 295549,
+     "page": 5,
+     "block": 17,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Alice Young. Those three, we were close. I don’t think no other girls were in there at the time. And boys . . ."
+    },
+    {
+     "block_id": 295550,
+     "page": 6,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Were you the only trombone player?"
+    },
+    {
+     "block_id": 295551,
+     "page": 6,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "[cannot recall.]"
+    }
+   ],
+   "target": {
+    "block_id": 295552,
+    "page": 6,
+    "block": 2,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "I know in the pictures you’re the only one. You have the pictures. [Bryant refers to describes a photograph in which Liston and Vi Redd are wearing socks.] But when you went to the fair – I wanted to ask you about that."
+   },
+   "context_after": [
+    {
+     "block_id": 295553,
+     "page": 6,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "We rode up and back in a truck in the back seat – I mean the back of a truck. Miss Hightower and the truck driver was up in the front. We made it. I guess that was my first time on the road. We played – I don’t know what year that was."
+    },
+    {
+     "block_id": 295554,
+     "page": 6,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You remember the name of the group, though."
+    },
+    {
+     "block_id": 295555,
+     "page": 6,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Melodic Dots. Miss Hightower and the Melodic Dots. Oh dear."
+    },
+    {
+     "block_id": 295556,
+     "page": 6,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Was 1938 something like the year?"
+    },
+    {
+     "block_id": 295557,
+     "page": 6,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Uh-huh."
+    },
+    {
+     "block_id": 295558,
+     "page": 6,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "What-all did Miss Hightower teach you guys?"
+    },
+    {
+     "block_id": 295559,
+     "page": 6,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Everything. Everything dancers do. Everything horns do. Everything everybody did. We did dancing and – tap dancing and hula dancing. Did everything. Everything that was on the stage, she taught us"
+    },
+    {
+     "block_id": 295560,
+     "page": 6,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You did skits?"
+    }
+   ],
+   "window_chars": 1434
+  },
+  {
+   "block_id": 295567,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 7,
+   "block": 0,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b7-0"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewee",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 295559,
+     "page": 6,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Everything. Everything dancers do. Everything horns do. Everything everybody did. We did dancing and – tap dancing and hula dancing. Did everything. Everything that was on the stage, she taught us"
+    },
+    {
+     "block_id": 295560,
+     "page": 6,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You did skits?"
+    },
+    {
+     "block_id": 295561,
+     "page": 6,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah. I can’t remember who. Paul Robeson or somebody. She would take us through things like he did, or somebody like that. [Liston cannot remember details.]"
+    },
+    {
+     "block_id": 295562,
+     "page": 6,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But she taught you theory, harmony?"
+    },
+    {
+     "block_id": 295563,
+     "page": 6,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Not harmony. Theory, yes. A little bit of it, anyway."
+    },
+    {
+     "block_id": 295564,
+     "page": 6,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But she taught you to read?"
+    },
+    {
+     "block_id": 295565,
+     "page": 6,
+     "block": 15,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I was reading already."
+    },
+    {
+     "block_id": 295566,
+     "page": 6,
+     "block": 16,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But I mean the kids in the band?"
+    }
+   ],
+   "target": {
+    "block_id": 295567,
+    "page": 7,
+    "block": 0,
+    "type": "dialogue",
+    "speaker": "Liston",
+    "text": "[cannot recall.] I remember she would let me go out and play or something while she would do some other things with the kids. [Again, Liston does not recall the details.] But she didn’t teach, because I was reading all the time."
+   },
+   "context_after": [
+    {
+     "block_id": 295568,
+     "page": 7,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Miss Hightower seemed to have had quite an attachment. She thought you were just the greatest."
+    },
+    {
+     "block_id": 295569,
+     "page": 7,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I don’t know about that."
+    },
+    {
+     "block_id": 295570,
+     "page": 7,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "It’s been said."
+    },
+    {
+     "block_id": 295571,
+     "page": 7,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "She was nice to me. I stayed with her until 16 and I joined the union and started to work at the Lincoln Theater. I think she was kind of pissed off with me then. But anyway, that started me on the road to where I am now."
+    }
+   ],
+   "window_chars": 1117
+  },
+  {
+   "block_id": 295623,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 10,
+   "block": 8,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b10-8"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewee",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 295615,
+     "page": 10,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yes, indeed."
+    },
+    {
+     "block_id": 295616,
+     "page": 10,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Do you think by following Jimmie Lunceford, that’s why you guys played so good back there too?"
+    },
+    {
+     "block_id": 295617,
+     "page": 10,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No, we just had a good band."
+    },
+    {
+     "block_id": 295618,
+     "page": 10,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Competition, I mean. Do you think competition . . ."
+    },
+    {
+     "block_id": 295619,
+     "page": 10,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No. We just had a good band. We didn’t have no competition with nobody. We just had a good band, and we knew it. We knew we had a good band. Maybe we got a little over-pretentious or something."
+    },
+    {
+     "block_id": 295620,
+     "page": 10,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Egotistical."
+    },
+    {
+     "block_id": 295621,
+     "page": 10,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No. We just had a good band, and we knew it. That’s all. I would go out and sing and blow my horn."
+    },
+    {
+     "block_id": 295622,
+     "page": 10,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "On the show at the Apollo?"
+    }
+   ],
+   "target": {
+    "block_id": 295623,
+    "page": 10,
+    "block": 8,
+    "type": "dialogue",
+    "speaker": "Liston",
+    "text": "Yeah. Everywhere we went, because they would say, “Let the girl do something.” Gerald said, “Melba, write something up and do it.” So I did what he said."
+   },
+   "context_after": [
+    {
+     "block_id": 295624,
+     "page": 10,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "When you left New York, was that the time that Dizzy [Gillespie] asked you to come up and play? The first time? That wasn’t the time?"
+    },
+    {
+     "block_id": 295625,
+     "page": 10,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No. That was a year – years. We had worked together for a long time before Dizzy. Gerald knew him, but I don’t think we knew him at all up until almost the bebop era."
+    },
+    {
+     "block_id": 295626,
+     "page": 10,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "So then you left the Apollo and came back to L.A. then."
+    },
+    {
+     "block_id": 295627,
+     "page": 10,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Oh yeah. Stopped here and there. Maybe Chicago and Kansas and everywhere. We went to – I had a band that went to – Lady Day. We were . . ."
+    }
+   ],
+   "window_chars": 1159
+  },
+  {
+   "block_id": 295633,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 11,
+   "block": 1,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b11-1"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewee",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 295625,
+     "page": 10,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No. That was a year – years. We had worked together for a long time before Dizzy. Gerald knew him, but I don’t think we knew him at all up until almost the bebop era."
+    },
+    {
+     "block_id": 295626,
+     "page": 10,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "So then you left the Apollo and came back to L.A. then."
+    },
+    {
+     "block_id": 295627,
+     "page": 10,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Oh yeah. Stopped here and there. Maybe Chicago and Kansas and everywhere. We went to – I had a band that went to – Lady Day. We were . . ."
+    },
+    {
+     "block_id": 295628,
+     "page": 10,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Billie Holiday."
+    },
+    {
+     "block_id": 295629,
+     "page": 10,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": ". . . Yeah, behind Lady Day. It was in the South somewhere."
+    },
+    {
+     "block_id": 295630,
+     "page": 10,
+     "block": 15,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "South Carolina? Greens . . . Oh that’s where – you got stranded there."
+    },
+    {
+     "block_id": 295631,
+     "page": 10,
+     "block": 16,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "There wasn’t nothing happening."
+    },
+    {
+     "block_id": 295632,
+     "page": 11,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "They didn’t like Billie?"
+    }
+   ],
+   "target": {
+    "block_id": 295633,
+    "page": 11,
+    "block": 1,
+    "type": "dialogue",
+    "speaker": "Liston",
+    "text": "I don’t know. But she left and we were stranded on the bus, and Gerald took all the money that we had and gave it to the fellows to get back home, and we just had enought to get us to Kansas City. [Liston cannot recall what happened next.]"
+   },
+   "context_after": [
+    {
+     "block_id": 295634,
+     "page": 11,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Did you become disillusioned?"
+    },
+    {
+     "block_id": 295635,
+     "page": 11,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Not at that time. I had maybe 6 or 7 or 8 years before I was [disillusioned]."
+    },
+    {
+     "block_id": 295636,
+     "page": 11,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But when you came back, is that when you had work with smaller groups and had to stand up and jam all night or something?"
+    },
+    {
+     "block_id": 295637,
+     "page": 11,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Oh yeah. That was a mess. Mainly, though, I would just stay in the background and play the parts, and saxophone and trumpet played the solos, but, like I said, the girl has to do something, so I had to do something once in a while."
+    }
+   ],
+   "window_chars": 1255
+  },
+  {
+   "block_id": 295656,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 12,
+   "block": 12,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b12-12"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 295648,
+     "page": 12,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Is that the band with John Coltrane in it?"
+    },
+    {
+     "block_id": 295649,
+     "page": 12,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Um-hmm."
+    },
+    {
+     "block_id": 295650,
+     "page": 12,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[asks if there were any resentments or jealously in the band.]"
+    },
+    {
+     "block_id": 295651,
+     "page": 12,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "[does not think so.]"
+    },
+    {
+     "block_id": 295652,
+     "page": 12,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[names other bandmembers: John Collins, Jimmie Heath, Specs Wright, Al McKibbon, Willie Cook, John Lewis. She asks about the bop style and about the other trombone players in the band.]"
+    },
+    {
+     "block_id": 295653,
+     "page": 12,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "[recalls that one of the bandmembers told her some things about the bop style, but she cannot recall details. She does not remember the other trombonists.]"
+    },
+    {
+     "block_id": 295654,
+     "page": 12,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "I was just wondering, what chair did you take?"
+    },
+    {
+     "block_id": 295655,
+     "page": 12,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "There were three ’bones. I guess we mixed it all up. [The bass trombonist played that part all the time; the other two switched parts.]"
+    }
+   ],
+   "target": {
+    "block_id": 295656,
+    "page": 12,
+    "block": 12,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "[Liston said the previous day that the band stayed together for five months and then broke up.]"
+   },
+   "context_after": [
+    {
+     "block_id": 295657,
+     "page": 12,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Oh yeah, because there wasn’t no jobs for us. Nothing for us to do but come on home."
+    },
+    {
+     "block_id": 295658,
+     "page": 12,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Came back to L.A. Then?"
+    },
+    {
+     "block_id": 295659,
+     "page": 12,
+     "block": 15,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Back to Gerald and all that stuff."
+    },
+    {
+     "block_id": 295660,
+     "page": 12,
+     "block": 16,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "He had come back already?"
+    },
+    {
+     "block_id": 295661,
+     "page": 13,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Uh-huh."
+    },
+    {
+     "block_id": 295662,
+     "page": 13,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Was that when you went into the Board of Education?"
+    },
+    {
+     "block_id": 295663,
+     "page": 13,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "[cannot recall.]"
+    },
+    {
+     "block_id": 295664,
+     "page": 13,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Because you got tired of the road."
+    }
+   ],
+   "window_chars": 1021
+  },
+  {
+   "block_id": 295670,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 13,
+   "block": 9,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b13-9"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 295662,
+     "page": 13,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Was that when you went into the Board of Education?"
+    },
+    {
+     "block_id": 295663,
+     "page": 13,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "[cannot recall.]"
+    },
+    {
+     "block_id": 295664,
+     "page": 13,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Because you got tired of the road."
+    },
+    {
+     "block_id": 295665,
+     "page": 13,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Not so much tired of it."
+    },
+    {
+     "block_id": 295666,
+     "page": 13,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "The conditions, I mean."
+    },
+    {
+     "block_id": 295667,
+     "page": 13,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah, the conditions."
+    },
+    {
+     "block_id": 295668,
+     "page": 13,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Who encouraged you to take the exam."
+    },
+    {
+     "block_id": 295669,
+     "page": 13,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Nobody. I was good at math and all that, so I said, I’m through with this road business. I’m going to take – I think I took it on my own. I knew I was going to pass. There’s nothing new to me."
+    }
+   ],
+   "target": {
+    "block_id": 295670,
+    "page": 13,
+    "block": 9,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "[asks how Liston’s mother felt about it.]"
+   },
+   "context_after": [
+    {
+     "block_id": 295671,
+     "page": 13,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "[Everything was all right.]"
+    },
+    {
+     "block_id": 295672,
+     "page": 13,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[asks what Liston did there. Clerical?]"
+    },
+    {
+     "block_id": 295673,
+     "page": 13,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "[Yes. It was night school.] I did take some gigs. I was gigging after a while, because the thing was envy, I guess. [The conversation takes a confusing turn from Liston’s Board of Education job, which may have been at Jefferson High School, to her high school years, briefly at Jefferson but mainly at Polytechnic High School, with Minnie Hightower.]"
+    },
+    {
+     "block_id": 295674,
+     "page": 13,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[Liston worked at the Board of Education for three years.]"
+    },
+    {
+     "block_id": 295675,
+     "page": 13,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Maybe two, three years. But I would take off now and then for . . ."
+    },
+    {
+     "block_id": 295676,
+     "page": 13,
+     "block": 15,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "For gigs, you mean."
+    },
+    {
+     "block_id": 295677,
+     "page": 13,
+     "block": 16,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Not no steady. Once in a while. Just a night or two. Then I quit that, and I went to playing again, and that didn’t – no, it’s not working. And so I went to work at the insurance company, Adams . . ."
+    },
+    {
+     "block_id": 295678,
+     "page": 14,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Adams and Western? Golden State."
+    }
+   ],
+   "window_chars": 1229
+  },
+  {
+   "block_id": 295673,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 13,
+   "block": 12,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b13-12"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewee",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 295665,
+     "page": 13,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Not so much tired of it."
+    },
+    {
+     "block_id": 295666,
+     "page": 13,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "The conditions, I mean."
+    },
+    {
+     "block_id": 295667,
+     "page": 13,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah, the conditions."
+    },
+    {
+     "block_id": 295668,
+     "page": 13,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Who encouraged you to take the exam."
+    },
+    {
+     "block_id": 295669,
+     "page": 13,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Nobody. I was good at math and all that, so I said, I’m through with this road business. I’m going to take – I think I took it on my own. I knew I was going to pass. There’s nothing new to me."
+    },
+    {
+     "block_id": 295670,
+     "page": 13,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[asks how Liston’s mother felt about it.]"
+    },
+    {
+     "block_id": 295671,
+     "page": 13,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "[Everything was all right.]"
+    },
+    {
+     "block_id": 295672,
+     "page": 13,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[asks what Liston did there. Clerical?]"
+    }
+   ],
+   "target": {
+    "block_id": 295673,
+    "page": 13,
+    "block": 12,
+    "type": "dialogue",
+    "speaker": "Liston",
+    "text": "[Yes. It was night school.] I did take some gigs. I was gigging after a while, because the thing was envy, I guess. [The conversation takes a confusing turn from Liston’s Board of Education job, which may have been at Jefferson High School, to her high school years, briefly at Jefferson but mainly at Polytechnic High School, with Minnie Hightower.]"
+   },
+   "context_after": [
+    {
+     "block_id": 295674,
+     "page": 13,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[Liston worked at the Board of Education for three years.]"
+    },
+    {
+     "block_id": 295675,
+     "page": 13,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Maybe two, three years. But I would take off now and then for . . ."
+    },
+    {
+     "block_id": 295676,
+     "page": 13,
+     "block": 15,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "For gigs, you mean."
+    },
+    {
+     "block_id": 295677,
+     "page": 13,
+     "block": 16,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Not no steady. Once in a while. Just a night or two. Then I quit that, and I went to playing again, and that didn’t – no, it’s not working. And so I went to work at the insurance company, Adams . . ."
+    }
+   ],
+   "window_chars": 1096
+  },
+  {
+   "block_id": 295674,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 13,
+   "block": 13,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b13-13"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 295666,
+     "page": 13,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "The conditions, I mean."
+    },
+    {
+     "block_id": 295667,
+     "page": 13,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah, the conditions."
+    },
+    {
+     "block_id": 295668,
+     "page": 13,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Who encouraged you to take the exam."
+    },
+    {
+     "block_id": 295669,
+     "page": 13,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Nobody. I was good at math and all that, so I said, I’m through with this road business. I’m going to take – I think I took it on my own. I knew I was going to pass. There’s nothing new to me."
+    },
+    {
+     "block_id": 295670,
+     "page": 13,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[asks how Liston’s mother felt about it.]"
+    },
+    {
+     "block_id": 295671,
+     "page": 13,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "[Everything was all right.]"
+    },
+    {
+     "block_id": 295672,
+     "page": 13,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[asks what Liston did there. Clerical?]"
+    },
+    {
+     "block_id": 295673,
+     "page": 13,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "[Yes. It was night school.] I did take some gigs. I was gigging after a while, because the thing was envy, I guess. [The conversation takes a confusing turn from Liston’s Board of Education job, which may have been at Jefferson High School, to her high school years, briefly at Jefferson but mainly at Polytechnic High School, with Minnie Hightower.]"
+    }
+   ],
+   "target": {
+    "block_id": 295674,
+    "page": 13,
+    "block": 13,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "[Liston worked at the Board of Education for three years.]"
+   },
+   "context_after": [
+    {
+     "block_id": 295675,
+     "page": 13,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Maybe two, three years. But I would take off now and then for . . ."
+    },
+    {
+     "block_id": 295676,
+     "page": 13,
+     "block": 15,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "For gigs, you mean."
+    },
+    {
+     "block_id": 295677,
+     "page": 13,
+     "block": 16,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Not no steady. Once in a while. Just a night or two. Then I quit that, and I went to playing again, and that didn’t – no, it’s not working. And so I went to work at the insurance company, Adams . . ."
+    },
+    {
+     "block_id": 295678,
+     "page": 14,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Adams and Western? Golden State."
+    },
+    {
+     "block_id": 295679,
+     "page": 14,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah. I went there."
+    },
+    {
+     "block_id": 295680,
+     "page": 14,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "I didn’t know that."
+    },
+    {
+     "block_id": 295681,
+     "page": 14,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "And I would go – on my lunch thing, I would go in my car and listen to some . . ."
+    },
+    {
+     "block_id": 295682,
+     "page": 14,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Feel the music."
+    }
+   ],
+   "window_chars": 1238
+  },
+  {
+   "block_id": 295690,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 14,
+   "block": 12,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b14-12"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 295682,
+     "page": 14,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Feel the music."
+    },
+    {
+     "block_id": 295683,
+     "page": 14,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "[does not recall how long she worked there.]"
+    },
+    {
+     "block_id": 295684,
+     "page": 14,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But before that we also forgot Dexter Gordon."
+    },
+    {
+     "block_id": 295685,
+     "page": 14,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "He and I were in school together. He was a bad, bad tenor player, all the time. He was breaking this record. I said, “I’m not – no, no.” He said, “Come on.”"
+    },
+    {
+     "block_id": 295686,
+     "page": 14,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "What’d he call you?"
+    },
+    {
+     "block_id": 295687,
+     "page": 14,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "You know."
+    },
+    {
+     "block_id": 295688,
+     "page": 14,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "His favorite word?"
+    },
+    {
+     "block_id": 295689,
+     "page": 14,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yes sir. That was the first time I had played without any music. Oh, Lordy. That was terrible."
+    }
+   ],
+   "target": {
+    "block_id": 295690,
+    "page": 14,
+    "block": 12,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "You sounded good. [Does Liston remember any of the other guys on that session in 1947?]"
+   },
+   "context_after": [
+    {
+     "block_id": 295691,
+     "page": 14,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "[does not recall.]"
+    },
+    {
+     "block_id": 295692,
+     "page": 14,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[Liston had not recorded before. The recordings with Gerald Wilson came afterwards.] But back to the Golden State. You got unhappy with that."
+    },
+    {
+     "block_id": 295693,
+     "page": 14,
+     "block": 15,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No, I wasn’t unhappy. I just – one day I said no. I quit that. Just me and music again. Then maybe Dizzy sent for me again."
+    },
+    {
+     "block_id": 295694,
+     "page": 14,
+     "block": 16,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "’49. I think ’49."
+    },
+    {
+     "block_id": 295695,
+     "page": 14,
+     "block": 17,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I went back to New York to stay."
+    },
+    {
+     "block_id": 295696,
+     "page": 15,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But what kind of greeting did you get? You took music, right?"
+    },
+    {
+     "block_id": 295697,
+     "page": 15,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah. The guys were cool, but the audience, said, “Girl, (murmur murmur).”"
+    },
+    {
+     "block_id": 295698,
+     "page": 15,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Really?"
+    }
+   ],
+   "window_chars": 960
+  },
+  {
+   "block_id": 295692,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 14,
+   "block": 14,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b14-14"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 295684,
+     "page": 14,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But before that we also forgot Dexter Gordon."
+    },
+    {
+     "block_id": 295685,
+     "page": 14,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "He and I were in school together. He was a bad, bad tenor player, all the time. He was breaking this record. I said, “I’m not – no, no.” He said, “Come on.”"
+    },
+    {
+     "block_id": 295686,
+     "page": 14,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "What’d he call you?"
+    },
+    {
+     "block_id": 295687,
+     "page": 14,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "You know."
+    },
+    {
+     "block_id": 295688,
+     "page": 14,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "His favorite word?"
+    },
+    {
+     "block_id": 295689,
+     "page": 14,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yes sir. That was the first time I had played without any music. Oh, Lordy. That was terrible."
+    },
+    {
+     "block_id": 295690,
+     "page": 14,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You sounded good. [Does Liston remember any of the other guys on that session in 1947?]"
+    },
+    {
+     "block_id": 295691,
+     "page": 14,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "[does not recall.]"
+    }
+   ],
+   "target": {
+    "block_id": 295692,
+    "page": 14,
+    "block": 14,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "[Liston had not recorded before. The recordings with Gerald Wilson came afterwards.] But back to the Golden State. You got unhappy with that."
+   },
+   "context_after": [
+    {
+     "block_id": 295693,
+     "page": 14,
+     "block": 15,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No, I wasn’t unhappy. I just – one day I said no. I quit that. Just me and music again. Then maybe Dizzy sent for me again."
+    },
+    {
+     "block_id": 295694,
+     "page": 14,
+     "block": 16,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "’49. I think ’49."
+    },
+    {
+     "block_id": 295695,
+     "page": 14,
+     "block": 17,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I went back to New York to stay."
+    },
+    {
+     "block_id": 295696,
+     "page": 15,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But what kind of greeting did you get? You took music, right?"
+    },
+    {
+     "block_id": 295697,
+     "page": 15,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah. The guys were cool, but the audience, said, “Girl, (murmur murmur).”"
+    },
+    {
+     "block_id": 295698,
+     "page": 15,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Really?"
+    },
+    {
+     "block_id": 295699,
+     "page": 15,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Nobody had played no trombone. Nobody."
+    },
+    {
+     "block_id": 295700,
+     "page": 15,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Yeah. You broke the ice. You were the innovator."
+    }
+   ],
+   "window_chars": 987
+  },
+  {
+   "block_id": 295734,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 17,
+   "block": 3,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b17-3"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 295726,
+     "page": 16,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You had a lot of kids."
+    },
+    {
+     "block_id": 295727,
+     "page": 16,
+     "block": 15,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "It was nice. I got a record by one of the students – I’ll tell you tomorrow, I guess."
+    },
+    {
+     "block_id": 295728,
+     "page": 16,
+     "block": 16,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "I was wondering if you heard from any of your students."
+    },
+    {
+     "block_id": 295729,
+     "page": 16,
+     "block": 17,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Oh, I hear from them all the time. I’ll play the record for you."
+    },
+    {
+     "block_id": 295730,
+     "page": 16,
+     "block": 18,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[asks about Carole Kromer and Diane Gregg who encouraged Liston to come to the Women’s’ Jazz Festival in Kansas City in 1979.]"
+    },
+    {
+     "block_id": 295731,
+     "page": 17,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "[does not remember their names.] Two women were anxious for her to come to Kansas City."
+    },
+    {
+     "block_id": 295732,
+     "page": 17,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Were you honored there?"
+    },
+    {
+     "block_id": 295733,
+     "page": 17,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "[cannot remember.]"
+    }
+   ],
+   "target": {
+    "block_id": 295734,
+    "page": 17,
+    "block": 3,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "[Did Liston perform there?]"
+   },
+   "context_after": [
+    {
+     "block_id": 295735,
+     "page": 17,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "[No.]"
+    },
+    {
+     "block_id": 295736,
+     "page": 17,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You left there and went to New York, or did you go back to the islands?"
+    },
+    {
+     "block_id": 295737,
+     "page": 17,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I went back to the islands to finish the school, and then I came – I didn’t go to New York. I went to St. Lucia."
+    },
+    {
+     "block_id": 295738,
+     "page": 17,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Oh. I see the parrot up there. What did you do there?"
+    },
+    {
+     "block_id": 295739,
+     "page": 17,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I had a friend who’s there from [St. Lucia]. He was in Jamaica studying with me and so I went to his hometown and just hung out there for a while."
+    },
+    {
+     "block_id": 295740,
+     "page": 17,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You didn’t teach or anything?"
+    },
+    {
+     "block_id": 295741,
+     "page": 17,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No. They had a symphony orchestra there. [Liston cannot recall details, but she did something with the symphony.] He had his family there."
+    },
+    {
+     "block_id": 295742,
+     "page": 17,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You stayed how long?"
+    }
+   ],
+   "window_chars": 1081
+  },
+  {
+   "block_id": 295741,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 17,
+   "block": 10,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b17-10"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewee",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 295733,
+     "page": 17,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "[cannot remember.]"
+    },
+    {
+     "block_id": 295734,
+     "page": 17,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "[Did Liston perform there?]"
+    },
+    {
+     "block_id": 295735,
+     "page": 17,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "[No.]"
+    },
+    {
+     "block_id": 295736,
+     "page": 17,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You left there and went to New York, or did you go back to the islands?"
+    },
+    {
+     "block_id": 295737,
+     "page": 17,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I went back to the islands to finish the school, and then I came – I didn’t go to New York. I went to St. Lucia."
+    },
+    {
+     "block_id": 295738,
+     "page": 17,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Oh. I see the parrot up there. What did you do there?"
+    },
+    {
+     "block_id": 295739,
+     "page": 17,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I had a friend who’s there from [St. Lucia]. He was in Jamaica studying with me and so I went to his hometown and just hung out there for a while."
+    },
+    {
+     "block_id": 295740,
+     "page": 17,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You didn’t teach or anything?"
+    }
+   ],
+   "target": {
+    "block_id": 295741,
+    "page": 17,
+    "block": 10,
+    "type": "dialogue",
+    "speaker": "Liston",
+    "text": "No. They had a symphony orchestra there. [Liston cannot recall details, but she did something with the symphony.] He had his family there."
+   },
+   "context_after": [
+    {
+     "block_id": 295742,
+     "page": 17,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You stayed how long?"
+    },
+    {
+     "block_id": 295743,
+     "page": 17,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "It was two weeks or so."
+    },
+    {
+     "block_id": 295744,
+     "page": 17,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "And then you came back to New York?"
+    },
+    {
+     "block_id": 295745,
+     "page": 17,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "To New York. Um-hmm. I had all my stuff sent back there while I was in St. Lucia."
+    }
+   ],
+   "window_chars": 758
+  },
+  {
+   "block_id": 295771,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 19,
+   "block": 2,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b19-2"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewee",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 295763,
+     "page": 18,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "He cared, and then he didn’t care, and then I left him, and then he started up again."
+    },
+    {
+     "block_id": 295764,
+     "page": 18,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "He started caring, right? He missed you."
+    },
+    {
+     "block_id": 295765,
+     "page": 18,
+     "block": 15,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Something like that. He used to come and see me in New York there. When I came out here he used to call me up all the time, and I’m sorry he’s gone."
+    },
+    {
+     "block_id": 295766,
+     "page": 18,
+     "block": 16,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "When you had your stroke, did he come to see you?"
+    },
+    {
+     "block_id": 295767,
+     "page": 18,
+     "block": 17,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah. He was nice like that. Both of us just decided not to go through with the marriage no more."
+    },
+    {
+     "block_id": 295768,
+     "page": 18,
+     "block": 18,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But he didn’t resent your music."
+    },
+    {
+     "block_id": 295769,
+     "page": 19,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No. He was glad for my music."
+    },
+    {
+     "block_id": 295770,
+     "page": 19,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Did he come to see you play?"
+    }
+   ],
+   "target": {
+    "block_id": 295771,
+    "page": 19,
+    "block": 2,
+    "type": "dialogue",
+    "speaker": "Liston",
+    "text": "Oh yeah. Now and then. [Liston recalls an incident in Washington.] We were all tired. I was coming back from somewhere. “We’ll stop in Washington and rest and then go on to New York.” All the guys were downstairs. I was in a room upstairs, and didn’t have no clothes on or nothing. I was just getting ready to doze, and here comes one of the fellows. He took off all of his clothes. “You can’t do that.” I was trying to get him out of the room, and the baby’s mama come, and I couldn’t say nothing. “Get out. Get out. Don’t you ever come.” I don’t know whether she’s alive or not, but her husband’s dead. I told him what happened, but she wouldn’t hear it."
+   },
+   "context_after": [
+    {
+     "block_id": 295772,
+     "page": 19,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "She wouldn’t believe you?"
+    },
+    {
+     "block_id": 295773,
+     "page": 19,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I didn’t talk to her no more. I tried to. I tried to call her up. I talked to her husband, and I told him. But I think she’s dead now. But anyway, that’s what girls have to go through."
+    },
+    {
+     "block_id": 295774,
+     "page": 19,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "That’s right. That was the one thing that made me [?], because I know that’s what we went through."
+    },
+    {
+     "block_id": 295775,
+     "page": 19,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "That’s the only . . ."
+    }
+   ],
+   "window_chars": 1492
+  },
+  {
+   "block_id": 295853,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 24,
+   "block": 5,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b24-5"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 295845,
+     "page": 23,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Broke into your apartment and stole your stuff or something? When we were in New York—what? – ’88 or something, he told us that."
+    },
+    {
+     "block_id": 295846,
+     "page": 23,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "He went with me and picked out my first computer."
+    },
+    {
+     "block_id": 295847,
+     "page": 23,
+     "block": 15,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "I think you had just bought it then, because he was telling me and Jeannie Cheatham about that."
+    },
+    {
+     "block_id": 295848,
+     "page": 24,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I had the stroke already. I don’t know if I was talking or not then. But he got me and we went downtown and bought the computer."
+    },
+    {
+     "block_id": 295849,
+     "page": 24,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Had you ever used one before?"
+    },
+    {
+     "block_id": 295850,
+     "page": 24,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No."
+    },
+    {
+     "block_id": 295851,
+     "page": 24,
+     "block": 3,
+     "type": "stage_direction",
+     "speaker": "",
+     "text": "[end of December 4, 1996, interview session]"
+    },
+    {
+     "block_id": 295852,
+     "page": 24,
+     "block": 4,
+     "type": "stage_direction",
+     "speaker": "",
+     "text": "[December 5, 1996:]"
+    }
+   ],
+   "target": {
+    "block_id": 295853,
+    "page": 24,
+    "block": 5,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "Melba, the first thing I want to ask you: who was your main influence on the trombone when you started? Was it somebody you really like?"
+   },
+   "context_after": [
+    {
+     "block_id": 295854,
+     "page": 24,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No. Tommy Dorsey was – I didn’t know too many trombone players, but he was on the radio, and I listened to him. But other than that, I just loved the instrument. I didn’t need no inspiration."
+    },
+    {
+     "block_id": 295855,
+     "page": 24,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "A lot of your arrangements, are they Ellington-inspired? I get some nuances in some of your stuff, the way you lay it out. Do you like Ellington’s arrangements."
+    },
+    {
+     "block_id": 295856,
+     "page": 24,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I loved them, but I don’t have anybody – I do it all from my soul, and if it sounds like somebody, well it sounds like somebody. It’s my inspiration. It’s from my soul."
+    },
+    {
+     "block_id": 295857,
+     "page": 24,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "When you write for your group, is it more swing-oriented or bebop? – when you had your group, like your ’Bones, Melba and her ’Bones, and Friends."
+    },
+    {
+     "block_id": 295858,
+     "page": 24,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Melba and Friends or Melba and Company. I don’t know. Swing or something."
+    },
+    {
+     "block_id": 295859,
+     "page": 24,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But did you ever write “outside,” so to speak?"
+    },
+    {
+     "block_id": 295860,
+     "page": 24,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No. Not for my group. No. I don’t think so, but maybe somebody else thinks differently. I don’t know. But I don’t think so."
+    },
+    {
+     "block_id": 295861,
+     "page": 24,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But do you like “outside” music?"
+    }
+   ],
+   "window_chars": 1570
+  },
+  {
+   "block_id": 295857,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 24,
+   "block": 9,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b24-9"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 295849,
+     "page": 24,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Had you ever used one before?"
+    },
+    {
+     "block_id": 295850,
+     "page": 24,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No."
+    },
+    {
+     "block_id": 295851,
+     "page": 24,
+     "block": 3,
+     "type": "stage_direction",
+     "speaker": "",
+     "text": "[end of December 4, 1996, interview session]"
+    },
+    {
+     "block_id": 295852,
+     "page": 24,
+     "block": 4,
+     "type": "stage_direction",
+     "speaker": "",
+     "text": "[December 5, 1996:]"
+    },
+    {
+     "block_id": 295853,
+     "page": 24,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Melba, the first thing I want to ask you: who was your main influence on the trombone when you started? Was it somebody you really like?"
+    },
+    {
+     "block_id": 295854,
+     "page": 24,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No. Tommy Dorsey was – I didn’t know too many trombone players, but he was on the radio, and I listened to him. But other than that, I just loved the instrument. I didn’t need no inspiration."
+    },
+    {
+     "block_id": 295855,
+     "page": 24,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "A lot of your arrangements, are they Ellington-inspired? I get some nuances in some of your stuff, the way you lay it out. Do you like Ellington’s arrangements."
+    },
+    {
+     "block_id": 295856,
+     "page": 24,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I loved them, but I don’t have anybody – I do it all from my soul, and if it sounds like somebody, well it sounds like somebody. It’s my inspiration. It’s from my soul."
+    }
+   ],
+   "target": {
+    "block_id": 295857,
+    "page": 24,
+    "block": 9,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "When you write for your group, is it more swing-oriented or bebop? – when you had your group, like your ’Bones, Melba and her ’Bones, and Friends."
+   },
+   "context_after": [
+    {
+     "block_id": 295858,
+     "page": 24,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Melba and Friends or Melba and Company. I don’t know. Swing or something."
+    },
+    {
+     "block_id": 295859,
+     "page": 24,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But did you ever write “outside,” so to speak?"
+    },
+    {
+     "block_id": 295860,
+     "page": 24,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No. Not for my group. No. I don’t think so, but maybe somebody else thinks differently. I don’t know. But I don’t think so."
+    },
+    {
+     "block_id": 295861,
+     "page": 24,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But do you like “outside” music?"
+    },
+    {
+     "block_id": 295862,
+     "page": 24,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No. I don’t think so. It’s got to be way “outside.”"
+    },
+    {
+     "block_id": 295863,
+     "page": 24,
+     "block": 15,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Have you encountered any problems with the bands and the musicians that you have written for in regards to the way you write for the reeds or trumpets?"
+    },
+    {
+     "block_id": 295864,
+     "page": 25,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah. A little bit, but three or four bars in they’d start over again, and everything’s cool. Not recently or in the last 20 years or something, but before then I think there was some kind of animosity until they got into my arrangements, and they’d say “oo” and they’d start it over again."
+    },
+    {
+     "block_id": 295865,
+     "page": 25,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "It’s like teaching an old dog new trick. How was it when you wrote with Oliver Nelson? He’s a hell of an arranger too."
+    }
+   ],
+   "window_chars": 1780
+  },
+  {
+   "block_id": 295949,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 30,
+   "block": 11,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b30-11"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 295941,
+     "page": 30,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I don’t like the music today, the music that the youngsters are doing today. I’m an old-fashioned broad, and I just want to do other . . ."
+    },
+    {
+     "block_id": 295942,
+     "page": 30,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You don’t like rap?"
+    },
+    {
+     "block_id": 295943,
+     "page": 30,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "It’s okay."
+    },
+    {
+     "block_id": 295944,
+     "page": 30,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Fusion?"
+    },
+    {
+     "block_id": 295945,
+     "page": 30,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "What is the fusion?"
+    },
+    {
+     "block_id": 295946,
+     "page": 30,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Fusion is where they mix the – they try to mix bop and rock-and-roll . . ."
+    },
+    {
+     "block_id": 295947,
+     "page": 30,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No. I don’t think so. I wouldn’t say. That’s all right. It’s that other thing."
+    },
+    {
+     "block_id": 295948,
+     "page": 30,
+     "block": 10,
+     "type": "stage_direction",
+     "speaker": "",
+     "text": "[Liston fails to identify the style she has in mind.]"
+    }
+   ],
+   "target": {
+    "block_id": 295949,
+    "page": 30,
+    "block": 11,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "Melba, do you think that the kids are not – nowadays with their music, the direction they are going, that there is a – it’s blah. It’s not – as far as I’m concerned, there’s no soul there. There’s no meat, no bottom. What do you think?"
+   },
+   "context_after": [
+    {
+     "block_id": 295950,
+     "page": 30,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "It’s nothing there. Once in a while a person comes along and has the business and soul and everything, but ordinarily, youngsters don’t have nothing."
+    },
+    {
+     "block_id": 295951,
+     "page": 30,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Do you think it’s because they didn’t have like what we had when we came – we had places to go and listen and have the older people walk you through to where you – do you think that’s missing? They don’t have a common place to go, like we used to."
+    },
+    {
+     "block_id": 295952,
+     "page": 30,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I don’t think so. They wouldn’t take it. They just want to do their thing, and I guess maybe they’ll come out of it and go into something nice maybe 10 years or something, but nothing there – I don’t hear nothing in the way they’re doing it nowadays."
+    },
+    {
+     "block_id": 295953,
+     "page": 31,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But people like – we heard David Sanchez. He reached back to a lot of guys from Bird on up. A little of Ben Webster. But you’re not saying that they have to be imitating or using – that’s not what you’re saying."
+    },
+    {
+     "block_id": 295954,
+     "page": 31,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No. They just have to have some soul. That’s all."
+    },
+    {
+     "block_id": 295955,
+     "page": 31,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "How are they going to get it."
+    },
+    {
+     "block_id": 295956,
+     "page": 31,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I don’t know. They have it or you don’t have it. Watson: Do you think that the fact that many of the young musicians coming up today have not had the experience of playing in big bands has contributed to the fact that – do you think that the experience of playing in a big band gave you anything that they’re lacking by playing only in small-group performance?"
+    },
+    {
+     "block_id": 295957,
+     "page": 31,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No, because they could have it solo-wise, if they had it at all. I don’t know what it is that they’re lacking, but I’m not well-schooled in the youngsters and everything any more."
+    }
+   ],
+   "window_chars": 2107
+  },
+  {
+   "block_id": 295967,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 32,
+   "block": 1,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b32-1"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewee",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 295959,
+     "page": 31,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Once in a while, one cat will – somebody came up with some school in the midwest. They were all white kids except one black boy, and he said, the black boy was the only one that had some soul in the whole school."
+    },
+    {
+     "block_id": 295960,
+     "page": 31,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Why? Different background?"
+    },
+    {
+     "block_id": 295961,
+     "page": 31,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Maybe they just got it and others don’t have it and won’t have it."
+    },
+    {
+     "block_id": 295962,
+     "page": 31,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But you don’t think that by not coming out with the big bands, because you came in on the tail end of the big bands."
+    },
+    {
+     "block_id": 295963,
+     "page": 31,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I was there for a whole – I guess it was a long time. But Dexter and all of those people, they were going around soloing, piano and bass and stuff, and soloing, and they had it."
+    },
+    {
+     "block_id": 295964,
+     "page": 31,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "I wanted to ask you about Dexter. What did you think about his playing?"
+    },
+    {
+     "block_id": 295965,
+     "page": 31,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Oh, dear me. Everything good."
+    },
+    {
+     "block_id": 295966,
+     "page": 32,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "He played like he walked. You went to school with him, right?"
+    }
+   ],
+   "target": {
+    "block_id": 295967,
+    "page": 32,
+    "block": 1,
+    "type": "dialogue",
+    "speaker": "Liston",
+    "text": "Yeah, junior high school. He came down to Jamaica when I was down there teaching and played for the kids. [Liston tries to recall the name of a drummer who was also there.] He had a band then and he had a band now, and he’s married to a Japanese – Elvin Jones. Elvin came down with his group. I can’t say all the musicians that came down – once in a while – and played for my kids and the school, and some of those got soul. It’s nothing I can put my finger on. I don’t know what it is."
+   },
+   "context_after": [
+    {
+     "block_id": 295968,
+     "page": 32,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "I wanted to ask you about those schools in New York that you – you helped to start a couple of schools. You helped establish the Pittsburgh Jazz Orchestra in Pennsylvania in 1964, and then you – the Harlem Backstreet Tour Orchestra. I’d never heard of these. The Pratt Institute Youth in Action. Do you remember those pretty good groups? You wrote music for them, or you rehearsed them? – in the ’60s."
+    },
+    {
+     "block_id": 295969,
+     "page": 32,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I wrote and I directed. Maybe sometimes they were just coming along with their instruments. They weren’t about getting no arrangement and stuff. They were just starting on their instruments, so I would help them out with chords and scales and stuff like that. I was in Pittsburgh and Washington. [Liston points to (?a photograph) in the room.] I did a lot for them in Philadelphia and the person that was getting the students together, he came down to Jamaica and he was there when they took my picture. It was two, three years I went back and forth to Philly to do church things."
+    }
+   ],
+   "window_chars": 2225
+  },
+  {
+   "block_id": 295969,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 32,
+   "block": 3,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b32-3"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewee",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 295963,
+     "page": 31,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I was there for a whole – I guess it was a long time. But Dexter and all of those people, they were going around soloing, piano and bass and stuff, and soloing, and they had it."
+    },
+    {
+     "block_id": 295964,
+     "page": 31,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "I wanted to ask you about Dexter. What did you think about his playing?"
+    },
+    {
+     "block_id": 295965,
+     "page": 31,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Oh, dear me. Everything good."
+    },
+    {
+     "block_id": 295966,
+     "page": 32,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "He played like he walked. You went to school with him, right?"
+    },
+    {
+     "block_id": 295967,
+     "page": 32,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah, junior high school. He came down to Jamaica when I was down there teaching and played for the kids. [Liston tries to recall the name of a drummer who was also there.] He had a band then and he had a band now, and he’s married to a Japanese – Elvin Jones. Elvin came down with his group. I can’t say all the musicians that came down – once in a while – and played for my kids and the school, and some of those got soul. It’s nothing I can put my finger on. I don’t know what it is."
+    },
+    {
+     "block_id": 295968,
+     "page": 32,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "I wanted to ask you about those schools in New York that you – you helped to start a couple of schools. You helped establish the Pittsburgh Jazz Orchestra in Pennsylvania in 1964, and then you – the Harlem Backstreet Tour Orchestra. I’d never heard of these. The Pratt Institute Youth in Action. Do you remember those pretty good groups? You wrote music for them, or you rehearsed them? – in the ’60s."
+    }
+   ],
+   "target": {
+    "block_id": 295969,
+    "page": 32,
+    "block": 3,
+    "type": "dialogue",
+    "speaker": "Liston",
+    "text": "I wrote and I directed. Maybe sometimes they were just coming along with their instruments. They weren’t about getting no arrangement and stuff. They were just starting on their instruments, so I would help them out with chords and scales and stuff like that. I was in Pittsburgh and Washington. [Liston points to (?a photograph) in the room.] I did a lot for them in Philadelphia and the person that was getting the students together, he came down to Jamaica and he was there when they took my picture. It was two, three years I went back and forth to Philly to do church things."
+   },
+   "context_after": [
+    {
+     "block_id": 295970,
+     "page": 32,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "What about the film, The Marijuana Affair?"
+    },
+    {
+     "block_id": 295971,
+     "page": 32,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "[cannot recall details.]"
+    },
+    {
+     "block_id": 295972,
+     "page": 32,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "How did the record date come up with Melba and her ’Bones. On your first one you had Bennie Green, Al Grey, Benny Powell."
+    },
+    {
+     "block_id": 295973,
+     "page": 32,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No, I had girls first."
+    }
+   ],
+   "window_chars": 2014
+  },
+  {
+   "block_id": 296054,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 37,
+   "block": 14,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b37-14"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 296046,
+     "page": 37,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Attitude and all."
+    },
+    {
+     "block_id": 296047,
+     "page": 37,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah. I don’t know about those, because they didn’t show me that."
+    },
+    {
+     "block_id": 296048,
+     "page": 37,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "They had a lot of respect for you then."
+    },
+    {
+     "block_id": 296049,
+     "page": 37,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I guess so."
+    },
+    {
+     "block_id": 296050,
+     "page": 37,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "I’ve seen Ray and Dinah go off on people for no reason. You’re better at music. You didn’t have that problem."
+    },
+    {
+     "block_id": 296051,
+     "page": 37,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No."
+    },
+    {
+     "block_id": 296052,
+     "page": 37,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You wrote for Sam Jones."
+    },
+    {
+     "block_id": 296053,
+     "page": 37,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "[can’t recall.]"
+    }
+   ],
+   "target": {
+    "block_id": 296054,
+    "page": 37,
+    "block": 14,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "We’re going to change the format here a little bit, Melba, and do – let’s hear some music, some of your arrangements, and we’re going to comment on it. First thing I want to hear, Austin Cromer sings your arrangement of If You Could See Me Now. That was great. [The music plays.] How did you write that arrangement, Melba? Oh man, and sit through them playing it like that? Isn’t that a thrill? Do you get thrilled when you hear your arrangements?"
+   },
+   "context_after": [
+    {
+     "block_id": 296055,
+     "page": 37,
+     "block": 15,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Sometimes."
+    },
+    {
+     "block_id": 296056,
+     "page": 38,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Just sometimes? This should have been one of the times."
+    },
+    {
+     "block_id": 296057,
+     "page": 38,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I watch you getting thrilled, and then I get a thrill from that."
+    },
+    {
+     "block_id": 296058,
+     "page": 38,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Because after you guys had done that, now who was it that came over and I played this and your Reverie and Annie’s Dance and everything, and you should have seen the expressions on the whole – I’m trying to think who it was that they were – that came over. I was always there with somebody – somebody out of Basie’s band, and we were playing that music. That was beautiful. What gave you the – who suggested that tune?"
+    },
+    {
+     "block_id": 296059,
+     "page": 38,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I guess he did. I wrote it. I don’t know. I don’t think Dizzy had anything to do with it."
+    },
+    {
+     "block_id": 296060,
+     "page": 38,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But you two got together. When you were getting it together, do you go to the piano?"
+    },
+    {
+     "block_id": 296061,
+     "page": 38,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I used to. Yeah. Now it’s that electric thing over there."
+    },
+    {
+     "block_id": 296062,
+     "page": 38,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "The keyboard."
+    }
+   ],
+   "window_chars": 1520
+  },
+  {
+   "block_id": 296084,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 39,
+   "block": 12,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b39-12"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 296076,
+     "page": 39,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But doesn’t that go back to when Mrs. Hightower was teaching you – I know she taught you. That’s an old-school type thing. You had to have – you start off high, where you going to go? That was one of my teacher’s favorite sayings. You can’t start at the top of the tower . . ."
+    },
+    {
+     "block_id": 296077,
+     "page": 39,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "And go anywhere. No, you have to start from scratch."
+    },
+    {
+     "block_id": 296078,
+     "page": 39,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "And when you’re directing your tunes, you make sure that – you notate that on your arrangements, right? When you’re writing, have you had a problem with drummers doing the shadings and things?"
+    },
+    {
+     "block_id": 296079,
+     "page": 39,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No so much. I would tell them – I wouldn’t . . ."
+    },
+    {
+     "block_id": 296080,
+     "page": 39,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Notate it?"
+    },
+    {
+     "block_id": 296081,
+     "page": 39,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "The parts – I wouldn’t note it on the parts, but I would tell them."
+    },
+    {
+     "block_id": 296082,
+     "page": 39,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "In your directions?"
+    },
+    {
+     "block_id": 296083,
+     "page": 39,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah, and they were good."
+    }
+   ],
+   "target": {
+    "block_id": 296084,
+    "page": 39,
+    "block": 12,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "Charli [Persip] seemed to have been well versed in that. He knew a lot – shading and dynamics and things like that. That was in the ’50s. We’re going to do another thing from that same album. We’re doing – You’ll Be Sorry – this one’s going to feature Melba, singing and writing it and arranging it. [The music plays.]"
+   },
+   "context_after": [
+    {
+     "block_id": 296085,
+     "page": 40,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "",
+     "text": "Who decided that?"
+    },
+    {
+     "block_id": 296086,
+     "page": 40,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I don’t know. I did. I don’t know. I wrote it, so I decided it."
+    },
+    {
+     "block_id": 296087,
+     "page": 40,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But I mean for this record date, who decided they would put it on the record date?"
+    },
+    {
+     "block_id": 296088,
+     "page": 40,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Dizzy, I guess all the tunes."
+    },
+    {
+     "block_id": 296089,
+     "page": 40,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But you had been doing this with the band?"
+    },
+    {
+     "block_id": 296090,
+     "page": 40,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah."
+    },
+    {
+     "block_id": 296091,
+     "page": 40,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Did you do it over – undoubtedly over in the Far East."
+    },
+    {
+     "block_id": 296092,
+     "page": 40,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Um-hmm."
+    }
+   ],
+   "window_chars": 1306
+  },
+  {
+   "block_id": 296103,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 41,
+   "block": 1,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b41-1"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 296095,
+     "page": 40,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "And then one phrase there you really sounded like Billie Holiday."
+    },
+    {
+     "block_id": 296096,
+     "page": 40,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Oh yeah?"
+    },
+    {
+     "block_id": 296097,
+     "page": 40,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "During the first part of it. [Bryant sings the melody quietly.] I’m trying to think of it. I think it’s around the fourth bar of the first 8. It’s some word, and your nuance was strictly Billie and you had that kind of little – Billie had a way kind of like [Bryant vocalizes] – yeah, you had that. You have that. But that arrangement, you – your – those things you have – the fill-ins behind the phrases of the words and then behind Dizzy when he’s playing, that’s perfect. Just beautiful."
+    },
+    {
+     "block_id": 296098,
+     "page": 40,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Thank you."
+    },
+    {
+     "block_id": 296099,
+     "page": 40,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Did it take you long to write that down?"
+    },
+    {
+     "block_id": 296100,
+     "page": 40,
+     "block": 15,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I don’t think so."
+    },
+    {
+     "block_id": 296101,
+     "page": 40,
+     "block": 16,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Because you were writing for you."
+    },
+    {
+     "block_id": 296102,
+     "page": 41,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "It was – when I was writing, I was writing those in matter of days. I can’t write like that no more."
+    }
+   ],
+   "target": {
+    "block_id": 296103,
+    "page": 41,
+    "block": 1,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "That’s good then. That was good. So we’ve seen two sides of you. Now we’re going to see another side of your writing. We’re going to try another one of Melba’s arrangements with Dizzy’s band, a little something different. It’s – she calls it Annie’s Dance, and it’s a play on the semi-classical tune called Anitra’s Dance. [The music plays.] That is really a beautiful arrangement on that."
+   },
+   "context_after": [
+    {
+     "block_id": 296104,
+     "page": 41,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "It’s still good."
+    },
+    {
+     "block_id": 296105,
+     "page": 41,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Yes, it’s still good. The interplay between the sections, and when Charli Persip with his – he sounds like somebody tiptoeing on the drums, tap-dancing or something. Your shadings and everything."
+    },
+    {
+     "block_id": 296106,
+     "page": 41,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah, that’s good."
+    },
+    {
+     "block_id": 296107,
+     "page": 41,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Did you write – you wrote that before you guys went over, right?"
+    },
+    {
+     "block_id": 296108,
+     "page": 41,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Oh yeah. We were at Birdland."
+    },
+    {
+     "block_id": 296109,
+     "page": 41,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "That’s where you tried it out? You tried it out at Birdland?"
+    },
+    {
+     "block_id": 296110,
+     "page": 41,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I didn’t try out."
+    },
+    {
+     "block_id": 296111,
+     "page": 41,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "No, what I mean, you try something out before you go over . . ."
+    }
+   ],
+   "window_chars": 1614
+  },
+  {
+   "block_id": 296139,
+   "subject": "liston",
+   "qid": "Q274146",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 43,
+   "block": 5,
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b43-5"
+   },
+   "subject_surface_forms": [
+    "Liston",
+    "MELBA LISTON",
+    "Melba"
+   ],
+   "own_interview": true,
+   "mention_source": "person_layer",
+   "speaker_role": "interviewer",
+   "target_starts_midsentence": false,
+   "target_ends_midsentence": false,
+   "context_before": [
+    {
+     "block_id": 296131,
+     "page": 42,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You edit a lot."
+    },
+    {
+     "block_id": 296132,
+     "page": 42,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "That’s the word."
+    },
+    {
+     "block_id": 296133,
+     "page": 42,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "When you edit it down, boy, it’s together. Whatever you take out, I don’t think it belongs in there. Whatever you leave in, it goes. Because I like the way the accents –"
+    },
+    {
+     "block_id": 296134,
+     "page": 43,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "",
+     "text": "like when Billy Mitchell came in on that saxophone, you had set it up. He came in, and Dizzy. Whew. He came in. And I noticed that the drums accent with the trumpet. Do you do that a lot? Do you write for the drums too?"
+    },
+    {
+     "block_id": 296135,
+     "page": 43,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah."
+    },
+    {
+     "block_id": 296136,
+     "page": 43,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "I noticed on that arrangement, that he catches all of those licks"
+    },
+    {
+     "block_id": 296137,
+     "page": 43,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah."
+    },
+    {
+     "block_id": 296138,
+     "page": 43,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Okay, we’re going to move on, and is this Little Niles? Watson: My Reverie."
+    }
+   ],
+   "target": {
+    "block_id": 296139,
+    "page": 43,
+    "block": 5,
+    "type": "dialogue",
+    "speaker": "Bryant",
+    "text": "Oh yeah, My Reverie. Oh yeah, Melba, My Reverie. The first time I heard that – wow. That is – honestly, and I’ve told two or three people that, and I’m getting goose bumps just thinking about – that is one of the most beautiful things you’ve ever done – especially the haunting sound that you get on your trombone and what you write behind what you’re doing. Let’s listen – hear what I’m trying to say. [The music plays.] Hey that’s so pretty it makes you want to cry, Melba. And you know you used that [wah-wah sound], and you know where Dizzy uses the last time he played on record, on that record he did with kids up in ’Frisco? What are they called? And the last – on his favorite song that I love – He wrote the song. And he used to – when I’d go up to the club, he’d stop the band. They’d play this song. I Waited for You. Remember he did that on the end of that? I think he must have been thinking about Melba, because I – that set the whole thing for me. What were you thinking about when you . . ."
+   },
+   "context_after": [
+    {
+     "block_id": 296140,
+     "page": 43,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I don’t know."
+    },
+    {
+     "block_id": 296141,
+     "page": 43,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Yes you do. You have to. When you are playing something like that, Melba, or you’re writing something, you’ve got to have – you’ve got to – either your old man was something or other."
+    },
+    {
+     "block_id": 296142,
+     "page": 43,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No"
+    },
+    {
+     "block_id": 296143,
+     "page": 43,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Come on."
+    },
+    {
+     "block_id": 296144,
+     "page": 43,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No."
+    },
+    {
+     "block_id": 296145,
+     "page": 43,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You just wrote that off the top of your head like that and played that like that?"
+    },
+    {
+     "block_id": 296146,
+     "page": 44,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I played whatever . . ."
+    },
+    {
+     "block_id": 296147,
+     "page": 44,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Came in your mind?"
+    }
+   ],
+   "window_chars": 1906
+  }
+ ]
+}

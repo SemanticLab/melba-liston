@@ -1,0 +1,892 @@
+{
+ "subject": "liston",
+ "chunk": 3,
+ "n_chunks": 4,
+ "count": 30,
+ "transcript": "liston/own_interview.txt",
+ "items": [
+  {
+   "person_id": 104400,
+   "as_named_in_interview": "Ernie Wilkins",
+   "surface_forms": [
+    "Ernie",
+    "Ernie Wilkins"
+   ],
+   "upstream_identity": {
+    "qid": "Q326634",
+    "name": "Ernie Wilkins",
+    "description": "American jazz saxophonist, bandleader and music arranger",
+    "born": "1922",
+    "died": "1999"
+   },
+   "n_mentions": 3,
+   "mention_block_ids": [
+    295870,
+    296029,
+    296073
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "friend of",
+    "direction": "mutual",
+    "proposed": "arrangers who were real close friends",
+    "confidence": 0.9,
+    "evidence": "Arrangers, we all friends. Ernie Wilkins and all of us real close.",
+    "evidence_in_her_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104389,
+   "as_named_in_interview": "Thelonious Monk",
+   "surface_forms": [
+    "Monk"
+   ],
+   "upstream_identity": {
+    "qid": "Q109612",
+    "name": "Thelonious Monk",
+    "description": "American jazz pianist and composer (1917–1982)",
+    "born": "1917",
+    "died": "1982"
+   },
+   "n_mentions": 4,
+   "mention_block_ids": [
+    295878,
+    295894,
+    295895,
+    296188
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "arranger/composer writing for Monk",
+    "confidence": 0.9,
+    "evidence": "He did all his writing. Maybe one or two things I wrote for, but not many things.",
+    "evidence_in_her_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104428,
+   "as_named_in_interview": "Diana Ross",
+   "surface_forms": [
+    "Diana Ross"
+   ],
+   "upstream_identity": {
+    "qid": "Q36290",
+    "name": "Diana Ross",
+    "description": "American singer and actress (1944-2026)",
+    "born": "1944",
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295879
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "[INTERVIEWER] What about Diana Ross? How was she? That was at Motown? [INTERVIEWEE] [cannot recall.]",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104437,
+   "as_named_in_interview": "John",
+   "surface_forms": [
+    "John"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "John",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295885
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "na",
+    "proposed": "composer/arranger for John",
+    "confidence": 0.9,
+    "evidence": "I wrote for him. I haven’t written for him since I had the stroke",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104478,
+   "as_named_in_interview": "Wayne Shorter",
+   "surface_forms": [
+    "Wayne Shorter"
+   ],
+   "upstream_identity": {
+    "qid": "Q317161",
+    "name": "Wayne Shorter",
+    "description": "American jazz saxophonist and composer (1933–2023)",
+    "born": "1933",
+    "died": "2023"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295887
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "arranger for Wayne Shorter",
+    "confidence": 0.9,
+    "evidence": "I wrote for him.",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104385,
+   "as_named_in_interview": "Charles Mingus",
+   "surface_forms": [
+    "Mingus"
+   ],
+   "upstream_identity": {
+    "qid": "Q107432",
+    "name": "Charles Mingus",
+    "description": "American jazz double bassist, composer and bandleader (1922–1979)",
+    "born": "1922",
+    "died": "1979"
+   },
+   "n_mentions": 5,
+   "mention_block_ids": [
+    295889,
+    295892,
+    295894,
+    295895,
+    295896
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "arranger/composer who wrote for Mingus",
+    "confidence": 0.9,
+    "evidence": "He did all his writing. Maybe one or two things I wrote for, but not many things.",
+    "evidence_in_her_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104387,
+   "as_named_in_interview": "Susan Slaughter",
+   "surface_forms": [
+    "Susan",
+    "Susan Slaughter"
+   ],
+   "upstream_identity": {
+    "qid": "Q97065220",
+    "name": "Susan Slaughter",
+    "description": "American orchestral trumpeter",
+    "born": "2000",
+    "died": null
+   },
+   "n_mentions": 5,
+   "mention_block_ids": [
+    295906,
+    296405,
+    296406,
+    296412
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "has met",
+    "direction": "na",
+    "proposed": "received a horn from",
+    "confidence": 0.9,
+    "evidence": "got me this horn.",
+    "evidence_in_her_own_words": "paraphrase",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104386,
+   "as_named_in_interview": "Little Niles",
+   "surface_forms": [
+    "Little Niles",
+    "Niles"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Little Niles",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 5,
+   "mention_block_ids": [
+    295921,
+    296219,
+    296223,
+    296233,
+    296264
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "arranger for Little Niles album",
+    "confidence": 0.9,
+    "evidence": "He said, 'Can I bring some lead sheets up to your house and you make them for me?' ... And I wrote them. ... It’s a nice album. I’m on it.",
+    "evidence_in_her_own_words": "partial",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104390,
+   "as_named_in_interview": "Charli Persip",
+   "surface_forms": [
+    "Charli Persip"
+   ],
+   "upstream_identity": {
+    "qid": "Q1066973",
+    "name": "Charlie Persip",
+    "description": "American jazz drummer (1929–2020)",
+    "born": "1929",
+    "died": "2020"
+   },
+   "n_mentions": 4,
+   "mention_block_ids": [
+    295921,
+    295934,
+    296105,
+    296357
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "drummer on Melba Liston's album featuring Johnny Griffin and Ray Copeland",
+    "confidence": 0.9,
+    "evidence": "He said, 'I think you should write these things for an album for me.' And I wrote them... And he and probably Charli Persip – can’t think of the bass player now. It’s a nice album.",
+    "evidence_in_her_own_words": "partial",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104404,
+   "as_named_in_interview": "Johnny Griffin",
+   "surface_forms": [
+    "Johnny Griffin"
+   ],
+   "upstream_identity": {
+    "qid": "Q708439",
+    "name": "Johnny Griffin",
+    "description": "American musician (1928–2008)",
+    "born": "1928",
+    "died": "2008"
+   },
+   "n_mentions": 2,
+   "mention_block_ids": [
+    295921,
+    295929
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "wrote arrangements for Johnny Griffin's album",
+    "confidence": 0.95,
+    "evidence": "He said, 'Can I bring some lead sheets up to your house and you make them for me?' ... And I wrote them. ... Johnny Griffin, and Ray Copeland.",
+    "evidence_in_her_own_words": "partial",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104453,
+   "as_named_in_interview": "Ray Copeland",
+   "surface_forms": [
+    "Ray Copeland"
+   ],
+   "upstream_identity": {
+    "qid": "Q356168",
+    "name": "Ray Copeland",
+    "description": "American musician (1926–1984)",
+    "born": "1926",
+    "died": "1984"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295921
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "co-featured on an album where interviewee wrote arrangements",
+    "confidence": 0.9,
+    "evidence": "I’m on it. Johnny Griffin, and Ray Copeland.",
+    "evidence_in_her_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104442,
+   "as_named_in_interview": "Ben Webster",
+   "surface_forms": [
+    "Ben Webster"
+   ],
+   "upstream_identity": {
+    "qid": "Q438460",
+    "name": "Ben Webster",
+    "description": "American jazz saxophonist (1909–1973)",
+    "born": "1909",
+    "died": "1973"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295953
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "INTERVIEWER mentions Ben Webster in the context of other musicians; INTERVIEWEE does not mention Ben Webster or indicate a personal connection.",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104443,
+   "as_named_in_interview": "David Sanchez",
+   "surface_forms": [
+    "David Sanchez"
+   ],
+   "upstream_identity": {
+    "qid": "Q1176797",
+    "name": "David Sánchez",
+    "description": "musician",
+    "born": "1968",
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295953
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "[INTERVIEWER] But people like – we heard David Sanchez. He reached back to a lot of guys from Bird on up.",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104465,
+   "as_named_in_interview": "Elvin Jones",
+   "surface_forms": [
+    "Elvin Jones"
+   ],
+   "upstream_identity": {
+    "qid": "Q357179",
+    "name": "Elvin Jones",
+    "description": "American jazz drummer (1927–2004)",
+    "born": "1927",
+    "died": "2004"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295967
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "has met",
+    "direction": "na",
+    "proposed": "Elvin Jones played for the interviewee's students in Jamaica",
+    "confidence": 0.9,
+    "evidence": "Elvin came down with his group. I can’t say all the musicians that came down – once in a while – and played for my kids and the school",
+    "evidence_in_her_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104426,
+   "as_named_in_interview": "Benny Powell",
+   "surface_forms": [
+    "Benny Powell"
+   ],
+   "upstream_identity": {
+    "qid": "Q599429",
+    "name": "Benny Powell",
+    "description": "American jazz trombonist (1930–2010)",
+    "born": "1930",
+    "died": "2010"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295972
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "[INTERVIEWER] How did the record date come up with Melba and her ’Bones. On your first one you had Bennie Green, Al Grey, Benny Powell. [INTERVIEWEE] No, I had girls first.",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104430,
+   "as_named_in_interview": "Bennie Green",
+   "surface_forms": [
+    "Bennie Green"
+   ],
+   "upstream_identity": {
+    "qid": "Q817875",
+    "name": "Bennie Green",
+    "description": "American jazz trombonist (1923–1977)",
+    "born": "1923",
+    "died": "1977"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295972
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "musicians on interviewee's first record date",
+    "confidence": 0.9,
+    "evidence": "On your first one you had Bennie Green... [INTERVIEWEE] No, I had girls first.",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104418,
+   "as_named_in_interview": "Leonard Feather",
+   "surface_forms": [
+    "Leonard Feather"
+   ],
+   "upstream_identity": {
+    "qid": "Q1382271",
+    "name": "Leonard Feather",
+    "description": "British musician (1914–1994)",
+    "born": "1914",
+    "died": "1994"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295979
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "Leonard Feather. That’s who that – yeah, he was still around.",
+    "evidence_in_her_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104471,
+   "as_named_in_interview": "Frank Rehak",
+   "surface_forms": [
+    "Frank Rehak"
+   ],
+   "upstream_identity": {
+    "qid": "Q1444006",
+    "name": "Frank Rehak",
+    "description": "American musician (1926–1987)",
+    "born": "1926",
+    "died": "1987"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    295988
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "proposed": "trombonists in the same band (implied by 'two separate 'bone sections' and 'Company')",
+    "confidence": 0.8,
+    "evidence": "One you had Slide Hampton, Frank Rehak. ... That was a different Company altogether. ... we had a date with him and the 4 'bones too.",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104480,
+   "as_named_in_interview": "Anitra",
+   "surface_forms": [
+    "Anitra"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Anitra",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    296016
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "[INTERVIEWER] ...Anitra’s Dance – Annie’s Dance would break the ice... [INTERVIEWEE] Yeah.",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104482,
+   "as_named_in_interview": "Annie",
+   "surface_forms": [
+    "Annie"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Annie",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    296016
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "Interviewer mentions 'Annie's Dance' and the interviewee confirms the arrangement, but no personal interaction or relationship with a person named Annie is described.",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104451,
+   "as_named_in_interview": "Duke",
+   "surface_forms": [
+    "Duke"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Duke",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    296024
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "played with Duke Ellington",
+    "confidence": 0.9,
+    "evidence": "I played with all of them",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104405,
+   "as_named_in_interview": "Benny Golson",
+   "surface_forms": [
+    "Benny Golson"
+   ],
+   "upstream_identity": {
+    "qid": "Q121535",
+    "name": "Benny Golson",
+    "description": "American bebop/hard bop jazz tenor saxophonist, composer, and arranger (1929–2024)",
+    "born": "1929",
+    "died": "2024"
+   },
+   "n_mentions": 2,
+   "mention_block_ids": [
+    296030,
+    296073
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "proposed": "colleagues in a band in Jamaica",
+    "confidence": 0.8,
+    "evidence": "Was Benny Golson there? Yeah. And they chose me to do that... I did whatever they told me, and that was one of the things that they told me, and it was just another job for me to do.",
+    "evidence_in_her_own_words": "paraphrase",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104413,
+   "as_named_in_interview": "Wynton Kelly",
+   "surface_forms": [
+    "Wynton",
+    "Wynton Kelly"
+   ],
+   "upstream_identity": {
+    "qid": "Q536415",
+    "name": "Wynton Kelly",
+    "description": "American jazz pianist (1931–1971)",
+    "born": "1931",
+    "died": "1971"
+   },
+   "n_mentions": 2,
+   "mention_block_ids": [
+    296038,
+    296039
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "friend of",
+    "direction": "mutual",
+    "proposed": "close personal relationship, intended to marry",
+    "confidence": 0.9,
+    "evidence": "I think we were – I was supposed to marry him, but he died over there in Canada or somewhere.",
+    "evidence_in_her_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104438,
+   "as_named_in_interview": "Ernie Henry",
+   "surface_forms": [
+    "Ernie Henry"
+   ],
+   "upstream_identity": {
+    "qid": "Q1356914",
+    "name": "Ernie Henry",
+    "description": "American jazz saxophonist (1926–1957)",
+    "born": "1926",
+    "died": "1957"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    296038
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "recorded with",
+    "confidence": 0.95,
+    "evidence": "You did a record with Ernie Henry, right? ... [INTERVIEWEE] Yeah.",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104382,
+   "as_named_in_interview": "Dinah Washington",
+   "surface_forms": [
+    "Dinah",
+    "Dinah Washington"
+   ],
+   "upstream_identity": {
+    "qid": "Q229322",
+    "name": "Dinah Washington",
+    "description": "American singer, songwriter, pianist (1924-1963)",
+    "born": "1924",
+    "died": "1963"
+   },
+   "n_mentions": 7,
+   "mention_block_ids": [
+    296040,
+    296050,
+    296291,
+    296293,
+    296304,
+    296306,
+    296309
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "na",
+    "proposed": "arranger for Dinah Washington",
+    "confidence": 0.9,
+    "evidence": "I would write the same way for Gloria Lynne – if I wrote for Dinah – one of those arrangements for Dinah... Last time I saw him he was pianist for Dinah Washington. Oh yeah – how was that? How was Dinah to work with? She gave you no problems. No. Everybody – no problems.",
+    "evidence_in_her_own_words": "partial",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104384,
+   "as_named_in_interview": "Ray Charles",
+   "surface_forms": [
+    "Ray",
+    "Ray Charles"
+   ],
+   "upstream_identity": {
+    "qid": "Q544387",
+    "name": "Ray Charles",
+    "description": "American singer, pianist and songwriter (1930–2004)",
+    "born": "1930",
+    "died": "2004"
+   },
+   "n_mentions": 6,
+   "mention_block_ids": [
+    296043,
+    296050,
+    296209,
+    296417,
+    296420,
+    296422
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "played under",
+    "direction": "target",
+    "proposed": "worked for him for two or three years",
+    "confidence": 0.95,
+    "evidence": "I worked for him for two or three years",
+    "evidence_in_her_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104440,
+   "as_named_in_interview": "Sam Jones",
+   "surface_forms": [
+    "Sam Jones"
+   ],
+   "upstream_identity": {
+    "qid": "Q275250",
+    "name": "Sam Jones",
+    "description": "American double bassist and cellist (1924-1981)",
+    "born": "1924",
+    "died": "1981"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    296052
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "interviewee wrote for Sam Jones",
+    "confidence": 0.9,
+    "evidence": "[INTERVIEWER] You wrote for Sam Jones. [INTERVIEWEE] [can’t recall.]",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104459,
+   "as_named_in_interview": "Austin Cromer",
+   "surface_forms": [
+    "Austin Cromer"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Austin Cromer",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    296054
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "arranger and performer",
+    "confidence": 0.9,
+    "evidence": "Austin Cromer sings your arrangement of If You Could See Me Now",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104402,
+   "as_named_in_interview": "Paul West",
+   "surface_forms": [
+    "Paul",
+    "Paul West",
+    "Paul [West]"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Paul West",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 3,
+   "mention_block_ids": [
+    296064,
+    296214,
+    296217
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "Paul West played bass and conducted for Melba Liston on records",
+    "confidence": 0.8,
+    "evidence": "He was conducting. He was playing bass on the records that – with Dizzy he was playing bass, but on . . . Paul West, you mean? Yeah, but on that he was conducting.",
+    "evidence_in_her_own_words": "paraphrase",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104427,
+   "as_named_in_interview": "Billy Mitchell",
+   "surface_forms": [
+    "Billy Mitchell"
+   ],
+   "upstream_identity": {
+    "qid": "Q863192",
+    "name": "Billy Mitchell",
+    "description": "American jazz tenor saxophonist (1926-2001)",
+    "born": "1926",
+    "died": "2001"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    296134
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "played with",
+    "direction": "mutual",
+    "proposed": "played together in Dizzy Gillespie's band",
+    "confidence": 0.9,
+    "evidence": "like when Billy Mitchell came in on that saxophone, you had set it up. He came in, and Dizzy.",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  }
+ ]
+}

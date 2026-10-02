@@ -1,0 +1,3613 @@
+{
+ "subject": "liston",
+ "part": "self",
+ "count": 173,
+ "top": [
+  295854,
+  295856,
+  295991,
+  296156,
+  295575
+ ],
+ "items": [
+  {
+   "block_id": 295466,
+   "pull_quote": "I was born in Kansas City, Missouri, and my grandparents lived in Kansas City, Kansas, so I was between both of them.",
+   "theme": [
+    "origins"
+   ],
+   "period": "childhood",
+   "summary": "She said she was born in Kansas City, Missouri, and grew up between there and her grandparents' home in Kansas City, Kansas.",
+   "prompted_by": "where she is from originally",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "neutral",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295468,
+   "pull_quote": "I think maybe that’s why we moved out here, because she wasn’t getting no business in Kansas.",
+   "theme": [
+    "origins"
+   ],
+   "period": "1937",
+   "summary": "She suggested the family moved to California because her college-educated mother could not get work in Kansas.",
+   "prompted_by": "her family background",
+   "stands_alone": false,
+   "context_block_ids": [
+    295467
+   ],
+   "stance": "neutral",
+   "notable": 2,
+   "notes": "Block opens with a long transcriber summary (mother Lucille Liston; grandparents Virginia and John Clark); quote taken after it."
+  },
+  {
+   "block_id": 295476,
+   "pull_quote": "But it had legs on it. It had really big feet – lovely feet on it.",
+   "theme": [
+    "origins",
+    "character"
+   ],
+   "period": "childhood",
+   "summary": "She recalled the childhood player piano's big, lovely feet.",
+   "prompted_by": "Bryant marvelling that it was the same piano",
+   "stands_alone": false,
+   "context_block_ids": [
+    295474,
+    295475
+   ],
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295478,
+   "pull_quote": "Yeah, and my aunties would dance.",
+   "theme": [
+    "origins"
+   ],
+   "period": "childhood",
+   "summary": "She remembered pedalling the player piano while her aunts danced.",
+   "prompted_by": "whether she sat and pedalled the player piano",
+   "stands_alone": false,
+   "context_block_ids": [
+    295477
+   ],
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295503,
+   "pull_quote": "I’ve got a record – I mean a tape with my mother’s voice on there, and she’s talking about when I first got my horn.",
+   "theme": [
+    "learning",
+    "origins"
+   ],
+   "period": "age 7",
+   "summary": "She said she had a tape of her mother describing the day she got her first trombone.",
+   "prompted_by": "whether her mother spoiled her by buying the trombone the same day",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295505,
+   "pull_quote": "I like mathematics, but I used to like to hear things, and I would say “2 - 4 – 6” or something.",
+   "theme": [
+    "learning"
+   ],
+   "period": "childhood",
+   "summary": "She described picking out melodies by ear and naming them by scale-degree numbers.",
+   "prompted_by": "her childhood system of picking out melodies by number",
+   "stands_alone": false,
+   "context_block_ids": [
+    295504
+   ],
+   "stance": "neutral",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295507,
+   "pull_quote": "I was with my grandpa on the back porch, playing the trombone.",
+   "theme": [
+    "learning",
+    "origins",
+    "the_trombone"
+   ],
+   "period": "childhood, Kansas City",
+   "summary": "She said that rather than running with friends she spent her time on the back porch with her grandfather, playing trombone.",
+   "prompted_by": "her childhood friends",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "positive",
+   "notable": 2,
+   "notes": "Also in block: 'I got a whole lot of friends, I guess, but I didn't go around with anything.'"
+  },
+  {
+   "block_id": 295511,
+   "pull_quote": "turning my head sideways. I had to do that until I come out here to California.",
+   "theme": [
+    "learning",
+    "the_trombone"
+   ],
+   "period": "childhood",
+   "summary": "She explained that as a small child she reached the sixth and seventh slide positions by turning her head sideways, until she moved to California.",
+   "prompted_by": "how she overcame not being able to reach the far slide positions",
+   "stands_alone": false,
+   "context_block_ids": [
+    295510
+   ],
+   "stance": "neutral",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295515,
+   "pull_quote": "I told my mother to cancel him.",
+   "theme": [
+    "learning",
+    "character"
+   ],
+   "period": "childhood, Kansas City",
+   "summary": "She said she had her mother cancel a Kansas City trombone teacher she disliked after two or three lessons.",
+   "prompted_by": "a teacher in Kansas City she didn't like",
+   "stands_alone": false,
+   "context_block_ids": [
+    295514
+   ],
+   "stance": "negative",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295533,
+   "pull_quote": "Anyway, I told him, “No. I want to stay with my mom.”",
+   "theme": [
+    "learning",
+    "origins"
+   ],
+   "period": "junior high",
+   "summary": "She said she refused her teacher's plan to adopt her in order to send her to special schools, wanting to stay with her mother.",
+   "prompted_by": "whether the teacher wanted to adopt her",
+   "stands_alone": false,
+   "context_block_ids": [
+    295532
+   ],
+   "stance": "neutral",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295541,
+   "pull_quote": "I was a little star.",
+   "theme": [
+    "learning",
+    "character"
+   ],
+   "period": "childhood, Kansas",
+   "summary": "She summed up her childhood radio show in Kansas as being a little star.",
+   "prompted_by": "her radio show in Kansas",
+   "stands_alone": false,
+   "context_block_ids": [
+    295540
+   ],
+   "stance": "positive",
+   "notable": 2,
+   "notes": "Preceded by transcriber's '[cannot recall details.]'."
+  },
+  {
+   "block_id": 295547,
+   "pull_quote": "I met her, and she was thrilled with my playing the trombone and all that. We had a good thing going for many years. We played everywhere.",
+   "theme": [
+    "learning"
+   ],
+   "period": "late 1930s, Los Angeles",
+   "summary": "She recalled meeting Minnie Hightower at school and playing everywhere together for years.",
+   "prompted_by": "meeting Minnie Hightower at school",
+   "stands_alone": false,
+   "context_block_ids": [
+    295544
+   ],
+   "stance": "positive",
+   "notable": 1,
+   "notes": "Ends with bracketed summary about playing in parks; not quoted."
+  },
+  {
+   "block_id": 295549,
+   "pull_quote": "Alice Young. Those three, we were close. I don’t think no other girls were in there at the time.",
+   "theme": [
+    "learning",
+    "being_a_woman"
+   ],
+   "period": "late 1930s",
+   "summary": "She named Alice Young with Minnie Hightower and Vi Redd as the girls she was close to in the Hightower group.",
+   "prompted_by": "other members of the youth band",
+   "stands_alone": false,
+   "context_block_ids": [
+    295548
+   ],
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 295553,
+   "pull_quote": "We rode up and back in a truck in the back seat – I mean the back of a truck. Miss Hightower and the truck driver was up in the front. We made it. I guess that was my first time on the road.",
+   "theme": [
+    "learning",
+    "the_road"
+   ],
+   "period": "c. 1938",
+   "summary": "She described riding in the back of a truck to play the fair with Miss Hightower's band, her first time on the road.",
+   "prompted_by": "the trip to the fair",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295555,
+   "pull_quote": "Melodic Dots. Miss Hightower and the Melodic Dots. Oh dear.",
+   "theme": [
+    "learning",
+    "character"
+   ],
+   "period": "c. 1938",
+   "summary": "She named the youth band, Miss Hightower and the Melodic Dots.",
+   "prompted_by": "the name of the group",
+   "stands_alone": false,
+   "context_block_ids": [
+    295554
+   ],
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295559,
+   "pull_quote": "Everything. Everything dancers do. Everything horns do. Everything everybody did.",
+   "theme": [
+    "learning"
+   ],
+   "period": "late 1930s",
+   "summary": "She said Alma Hightower taught them everything for the stage, from horns to tap and hula dancing.",
+   "prompted_by": "what Miss Hightower taught them",
+   "stands_alone": false,
+   "context_block_ids": [
+    295558
+   ],
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295565,
+   "pull_quote": "I was reading already.",
+   "theme": [
+    "learning",
+    "character"
+   ],
+   "period": "late 1930s",
+   "summary": "She said she could already read music before Hightower's band.",
+   "prompted_by": "whether Hightower taught her to read",
+   "stands_alone": false,
+   "context_block_ids": [
+    295564
+   ],
+   "stance": "neutral",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295569,
+   "pull_quote": "I don’t know about that.",
+   "theme": [
+    "character",
+    "learning"
+   ],
+   "period": "late 1930s",
+   "summary": "She deflected Bryant's claim that Miss Hightower thought she was the greatest.",
+   "prompted_by": "Bryant saying Hightower thought she was the greatest",
+   "stands_alone": false,
+   "context_block_ids": [
+    295568
+   ],
+   "stance": "neutral",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 295571,
+   "pull_quote": "I stayed with her until 16 and I joined the union and started to work at the Lincoln Theater. I think she was kind of pissed off with me then. But anyway, that started me on the road to where I am now.",
+   "theme": [
+    "first_work",
+    "learning"
+   ],
+   "period": "age 16, Lincoln Theater",
+   "summary": "She recounted leaving Hightower at 16 to join the union and work at the Lincoln Theater, which annoyed her teacher but launched her career.",
+   "prompted_by": "Hightower's attachment to her",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "mixed",
+   "notable": 2,
+   "notes": "Also in block: 'She was nice to me.'"
+  },
+  {
+   "block_id": 295575,
+   "pull_quote": "he would say, “Girl, write the music for it,” and I would write it. So I started writing.",
+   "theme": [
+    "first_work",
+    "arranging"
+   ],
+   "period": "Lincoln Theater, early 1940s",
+   "summary": "She explained that Bardu Ali had her write music for acts that arrived without charts, which is how she started arranging.",
+   "prompted_by": "Bardu Ali's view of her",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "positive",
+   "notable": 3,
+   "notes": "Fuller: 'I guess he thought I was from college or something, because the acts that would come in that didn't have any music, he would say ...'"
+  },
+  {
+   "block_id": 295577,
+   "pull_quote": "I was writing for bands – 12, 13, 14, 15 pieces, something like that. That was the start of my writing career.",
+   "theme": [
+    "first_work",
+    "arranging"
+   ],
+   "period": "Lincoln Theater, early 1940s",
+   "summary": "She said writing for the 12-to-15-piece Lincoln Theater band was the start of her writing career.",
+   "prompted_by": "whether she started writing in high school",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295583,
+   "pull_quote": "I wasn’t thrilled about nothing. I just did everything that you could do when you’re on the stage or in the pit band.",
+   "theme": [
+    "first_work",
+    "character"
+   ],
+   "period": "Lincoln Theater, early 1940s",
+   "summary": "She said doing comedy skits with Pigmeat Markham was no big thing, since Hightower had trained her for every kind of stage work.",
+   "prompted_by": "doing skits with Pigmeat Markham",
+   "stands_alone": false,
+   "context_block_ids": [
+    295582
+   ],
+   "stance": "neutral",
+   "notable": 2,
+   "notes": "Also in block: 'Pigmeat Markum was always there. He had the run of the show.'"
+  },
+  {
+   "block_id": 295597,
+   "pull_quote": "We had our thing, and then whitey had his thing.",
+   "theme": [
+    "race",
+    "first_work"
+   ],
+   "period": "1940",
+   "summary": "She described the segregated Los Angeles entertainment scene: the Lincoln for Black audiences and white venues downtown.",
+   "prompted_by": "Herb Jeffries at the Lincoln",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "neutral",
+   "notable": 2,
+   "notes": "Full: 'That was it in 19 – whatever it is – 40. We had our thing, and then whitey had his thing.'"
+  },
+  {
+   "block_id": 295599,
+   "pull_quote": "Sometimes they would work downtown and then come to the Lincoln and do it. It was nice.",
+   "theme": [
+    "race",
+    "first_work"
+   ],
+   "period": "1940",
+   "summary": "She said performers would sometimes work the downtown theatres and then come to the Lincoln.",
+   "prompted_by": "downtown at the Million Dollar theatre",
+   "stands_alone": false,
+   "context_block_ids": [
+    295598
+   ],
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 295601,
+   "pull_quote": "He says he stole me out of the band.",
+   "theme": [
+    "big_bands",
+    "character"
+   ],
+   "period": "early 1940s",
+   "summary": "She reported Gerald Wilson's claim that he stole her out of Bardu Ali's band.",
+   "prompted_by": "Gerald Wilson",
+   "stands_alone": false,
+   "context_block_ids": [
+    295600
+   ],
+   "stance": "neutral",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295603,
+   "pull_quote": "I worked with him. I was saying 5 or 6, but he said 8 years. That’s a long time. We worked everywhere. We worked Chicago, New York, and everything. I was the copyist and sometime I would do the arrangements.",
+   "theme": [
+    "big_bands",
+    "arranging"
+   ],
+   "period": "1940s, Gerald Wilson band",
+   "summary": "She described her years in Gerald Wilson's band as copyist and sometime arranger, working Chicago, New York and elsewhere.",
+   "prompted_by": "Wilson saying he stole her out of the band",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295605,
+   "pull_quote": "He said he learned a lot. We just had a good thing going.",
+   "theme": [
+    "big_bands"
+   ],
+   "period": "1940s, Gerald Wilson band",
+   "summary": "She said the learning between her and Gerald Wilson went both ways.",
+   "prompted_by": "whether she learned a lot from Wilson",
+   "stands_alone": false,
+   "context_block_ids": [
+    295604
+   ],
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 295613,
+   "pull_quote": "I don’t think it’s jazz orientation. I’m going back to New York.",
+   "theme": [
+    "big_bands",
+    "character"
+   ],
+   "period": "1940s / 1996",
+   "summary": "She said California lacked jazz orientation and announced she was going back to New York.",
+   "prompted_by": "the band's success in New York vs California",
+   "stands_alone": false,
+   "context_block_ids": [
+    295612
+   ],
+   "stance": "mixed",
+   "notable": 2,
+   "notes": "Preceded by a transcriber summary in brackets."
+  },
+  {
+   "block_id": 295619,
+   "pull_quote": "We just had a good band, and we knew it. We knew we had a good band.",
+   "theme": [
+    "big_bands",
+    "character"
+   ],
+   "period": "1940s, Gerald Wilson band",
+   "summary": "She rejected the idea that competition with Lunceford drove the Wilson band: they simply had a good band and knew it.",
+   "prompted_by": "whether competition made them play so well",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "positive",
+   "notable": 3,
+   "notes": "Full block also: 'We didn't have no competition with nobody.' and 'Maybe we got a little over-pretentious or something.' She repeats it in 295621: 'No. We just had a good band, and we knew it. That's all. I would go out and sing and blow my horn.'"
+  },
+  {
+   "block_id": 295623,
+   "pull_quote": "Everywhere we went, because they would say, “Let the girl do something.” Gerald said, “Melba, write something up and do it.” So I did what he said.",
+   "theme": [
+    "big_bands",
+    "being_a_woman",
+    "arranging"
+   ],
+   "period": "1940s, Gerald Wilson band",
+   "summary": "She said audiences wanted the girl featured, so Gerald Wilson had her write a feature for herself.",
+   "prompted_by": "performing on the Apollo show",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "neutral",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295629,
+   "pull_quote": "Yeah, behind Lady Day. It was in the South somewhere.",
+   "theme": [
+    "the_road",
+    "big_bands"
+   ],
+   "period": "1940s",
+   "summary": "She recalled the band backing Billie Holiday on a Southern tour.",
+   "prompted_by": "Billie Holiday",
+   "stands_alone": false,
+   "context_block_ids": [
+    295627,
+    295628
+   ],
+   "stance": "neutral",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 295633,
+   "pull_quote": "But she left and we were stranded on the bus, and Gerald took all the money that we had and gave it to the fellows to get back home, and we just had enought to get us to Kansas City.",
+   "theme": [
+    "the_road",
+    "big_bands"
+   ],
+   "period": "1940s, Billie Holiday tour",
+   "summary": "She recalled the band being stranded on the bus in the South when the Billie Holiday tour collapsed, with Gerald Wilson giving the men money to get home.",
+   "prompted_by": "whether audiences didn't like Billie",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "negative",
+   "notable": 2,
+   "notes": "'enought' is the transcript's spelling."
+  },
+  {
+   "block_id": 295637,
+   "pull_quote": "Mainly, though, I would just stay in the background and play the parts, and saxophone and trumpet played the solos, but, like I said, the girl has to do something, so I had to do something once in a while.",
+   "theme": [
+    "being_a_woman",
+    "the_trombone"
+   ],
+   "period": "1940s, small groups",
+   "summary": "She said she mostly played section parts while saxophone and trumpet soloed, but as the girl she was expected to feature now and then.",
+   "prompted_by": "jamming all night with smaller groups",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "neutral",
+   "notable": 2,
+   "notes": "Block opens: 'Oh yeah. That was a mess.'"
+  },
+  {
+   "block_id": 295643,
+   "pull_quote": "Billy Eckstine was out front. He said, “…, where you been? We’ve been looking for you. Dizzy’s had the chair empty for a whole week.”",
+   "theme": [
+    "big_bands"
+   ],
+   "period": "late 1940s, first Gillespie band",
+   "summary": "She told how she found Gillespie's club by subway and learned from Billy Eckstine that Dizzy had held her chair empty for a week; she had no horn and had to borrow one and a uniform.",
+   "prompted_by": "going with Dizzy the first time",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "positive",
+   "notable": 2,
+   "notes": "Long anecdote; other good lines: 'I said, damn, I got to get to see Dizzy. I don't want to have to sit down here and do nothing.' and 'My mom sent my horn, and it worked out all right.'"
+  },
+  {
+   "block_id": 295645,
+   "pull_quote": "Nothing was scary, or nothing like that. It was just a drag.",
+   "theme": [
+    "big_bands",
+    "character"
+   ],
+   "period": "late 1940s",
+   "summary": "She said joining Gillespie without her own horn was not scary, just a drag.",
+   "prompted_by": "whether it was scary or exciting",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "negative",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295669,
+   "pull_quote": "Nobody. I was good at math and all that, so I said, I’m through with this road business.",
+   "theme": [
+    "leaving_music",
+    "character"
+   ],
+   "period": "late 1940s / early 1950s",
+   "summary": "She said she decided on her own to take the Board of Education exam, knowing she would pass, because she was through with the road.",
+   "prompted_by": "who encouraged her to take the exam",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "negative",
+   "notable": 2,
+   "notes": "Continues: 'I think I took it on my own. I knew I was going to pass. There's nothing new to me.'"
+  },
+  {
+   "block_id": 295677,
+   "pull_quote": "Then I quit that, and I went to playing again, and that didn’t – no, it’s not working. And so I went to work at the insurance company",
+   "theme": [
+    "leaving_music"
+   ],
+   "period": "early 1950s",
+   "summary": "She described quitting the Board of Education, trying music again, and then going to work for an insurance company.",
+   "prompted_by": "gigs during the Board of Education years",
+   "stands_alone": false,
+   "context_block_ids": [
+    295676
+   ],
+   "stance": "mixed",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 295681,
+   "pull_quote": "And I would go – on my lunch thing, I would go in my car and listen to some . . .",
+   "theme": [
+    "leaving_music"
+   ],
+   "period": "Golden State insurance years",
+   "summary": "She recalled spending her lunch breaks at the insurance company listening to music in her car.",
+   "prompted_by": "working at Golden State insurance",
+   "stands_alone": false,
+   "context_block_ids": [
+    295679
+   ],
+   "stance": "mixed",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295689,
+   "pull_quote": "That was the first time I had played without any music. Oh, Lordy. That was terrible.",
+   "theme": [
+    "the_trombone",
+    "studio_work"
+   ],
+   "period": "1947",
+   "summary": "She said the Dexter Gordon date was the first time she had played without written music, and it was terrible.",
+   "prompted_by": "Dexter Gordon's record session",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "negative",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295693,
+   "pull_quote": "No, I wasn’t unhappy. I just – one day I said no. I quit that. Just me and music again.",
+   "theme": [
+    "leaving_music",
+    "character"
+   ],
+   "period": "late 1940s / 1950s",
+   "summary": "She said she quit the insurance job one day, not out of unhappiness, and went back to music.",
+   "prompted_by": "whether she got unhappy at Golden State",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295695,
+   "pull_quote": "I went back to New York to stay.",
+   "theme": [
+    "big_bands"
+   ],
+   "period": "'49 per Bryant",
+   "summary": "She said that when Gillespie sent for her again she went back to New York to stay.",
+   "prompted_by": "Dizzy sending for her again",
+   "stands_alone": false,
+   "context_block_ids": [
+    295693,
+    295694
+   ],
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 295697,
+   "pull_quote": "The guys were cool, but the audience, said, “Girl, (murmur murmur).”",
+   "theme": [
+    "being_a_woman",
+    "big_bands"
+   ],
+   "period": "Gillespie band",
+   "summary": "She said the men in the band accepted her but audiences murmured at a girl on the bandstand.",
+   "prompted_by": "what kind of greeting she got",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "mixed",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295699,
+   "pull_quote": "Nobody had played no trombone. Nobody.",
+   "theme": [
+    "being_a_woman",
+    "the_trombone"
+   ],
+   "period": "Gillespie band",
+   "summary": "She said no woman had played trombone in such a band before her.",
+   "prompted_by": "the audience's reaction to a girl",
+   "stands_alone": false,
+   "context_block_ids": [
+    295697
+   ],
+   "stance": "neutral",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295701,
+   "pull_quote": "Gerald, he started it. “She wrote the arrangement. She plays, she sings, and all of that stuff.”",
+   "theme": [
+    "big_bands",
+    "being_a_woman"
+   ],
+   "period": "1940s-50s",
+   "summary": "She credited Gerald Wilson with introducing her to audiences as arranger, player and singer.",
+   "prompted_by": "Bryant calling her the innovator",
+   "stands_alone": false,
+   "context_block_ids": [
+    295700
+   ],
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 295705,
+   "pull_quote": "It’s just a man’s thing. They wouldn’t do that to me, but other girls, they would turn up their nose or something.",
+   "theme": [
+    "being_a_woman"
+   ],
+   "period": "1956 Gillespie band",
+   "summary": "She called the men's resentment of a woman in the band 'a man's thing,' saying they spared her but not other women.",
+   "prompted_by": "the men complaining Dizzy sent for a woman",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "negative",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295707,
+   "pull_quote": "He said, “Go on and take one of those arrangements out and see if they can play it.” Two or three bars later, he said, “Now who’s the …”",
+   "theme": [
+    "big_bands",
+    "being_a_woman",
+    "arranging"
+   ],
+   "period": "1956 Gillespie band",
+   "summary": "She recalled Gillespie silencing doubters by having the band read one of her arrangements.",
+   "prompted_by": "Dizzy's account of why he sent for her",
+   "stands_alone": false,
+   "context_block_ids": [
+    295706
+   ],
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295709,
+   "pull_quote": "He was so good. I was there until the band broke up.",
+   "theme": [
+    "big_bands"
+   ],
+   "period": "1956 onward, Gillespie band",
+   "summary": "She said Gillespie was so good and she stayed until the band broke up.",
+   "prompted_by": "Dizzy's faith in her",
+   "stands_alone": false,
+   "context_block_ids": [
+    295708
+   ],
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 295711,
+   "pull_quote": "It stopped. Not falling off. It stopped.",
+   "theme": [
+    "big_bands"
+   ],
+   "period": "end of Gillespie big band",
+   "summary": "She corrected Bryant: the band's work did not fall off, it stopped.",
+   "prompted_by": "whether the band's work started falling off",
+   "stands_alone": false,
+   "context_block_ids": [
+    295710
+   ],
+   "stance": "negative",
+   "notable": 2,
+   "notes": "Block continues into meeting Randy Weston."
+  },
+  {
+   "block_id": 295713,
+   "pull_quote": "It was a good thing. He took me to Jamaica. He was there visiting his relatives from there, and I was just hanging out.",
+   "theme": [
+    "randy_weston",
+    "jamaica"
+   ],
+   "period": "1970s",
+   "summary": "She said Randy Weston took her to Jamaica, where she was just hanging out at first.",
+   "prompted_by": "Randy Weston",
+   "stands_alone": false,
+   "context_block_ids": [
+    295712
+   ],
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 295717,
+   "pull_quote": "The students I got.",
+   "theme": [
+    "jamaica",
+    "teaching"
+   ],
+   "period": "1970s, Jamaica",
+   "summary": "She said that what she won over in Jamaica was the students.",
+   "prompted_by": "Bryant pressing about the schools",
+   "stands_alone": false,
+   "context_block_ids": [
+    295714,
+    295715
+   ],
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295721,
+   "pull_quote": "Because the leaders of the whole island dug me, but the school didn’t.",
+   "theme": [
+    "jamaica",
+    "teaching"
+   ],
+   "period": "1970s, Jamaica",
+   "summary": "She said Jamaica's leaders supported her but the school did not.",
+   "prompted_by": "how she managed it without the schools",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "mixed",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295725,
+   "pull_quote": "I came on out. But I had enough of it.",
+   "theme": [
+    "jamaica"
+   ],
+   "period": "late 1970s",
+   "summary": "She said she left Jamaica when its leadership changed, and had had enough.",
+   "prompted_by": "her five or six years in Jamaica",
+   "stands_alone": false,
+   "context_block_ids": [
+    295722,
+    295723
+   ],
+   "stance": "negative",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295729,
+   "pull_quote": "Oh, I hear from them all the time.",
+   "theme": [
+    "jamaica",
+    "teaching"
+   ],
+   "period": "1970s to 1996",
+   "summary": "She said she still heard from her Jamaican students all the time.",
+   "prompted_by": "whether she heard from her students",
+   "stands_alone": false,
+   "context_block_ids": [
+    295728
+   ],
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 295749,
+   "pull_quote": "I bought me an apartment and settled down.",
+   "theme": [
+    "character"
+   ],
+   "period": "c. 1979, New York",
+   "summary": "She said that back in New York she bought an apartment and settled down.",
+   "prompted_by": "what she did on returning to New York",
+   "stands_alone": false,
+   "context_block_ids": [
+    295748
+   ],
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 295755,
+   "pull_quote": "Good and bad and all of that stuff, and I was good and bad and all of that stuff.",
+   "theme": [
+    "character"
+   ],
+   "period": "her marriage",
+   "summary": "She described her husband, and herself, as good and bad, and said she had meant to leave him several times before she did.",
+   "prompted_by": "Bryant calling her husband a good guy",
+   "stands_alone": false,
+   "context_block_ids": [
+    295754
+   ],
+   "stance": "mixed",
+   "notable": 2,
+   "notes": "Continues: 'I guess I was getting ready to leave him a long time, maybe three or four times before I actually left him.'"
+  },
+  {
+   "block_id": 295759,
+   "pull_quote": "Two husbands. One of them didn’t last no time, because he was on some stuff or something, but my husband that I – I loved him.",
+   "theme": [
+    "character"
+   ],
+   "period": "her marriages",
+   "summary": "She said she had two husbands, one brief and one she loved.",
+   "prompted_by": "whether her husbands were musicians",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "mixed",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295761,
+   "pull_quote": "No. But you get tired or something. It don’t matter too much.",
+   "theme": [
+    "character"
+   ],
+   "period": "her marriage",
+   "summary": "She allowed that love was not hard to admit but that people tire of each other.",
+   "prompted_by": "Bryant: 'That wasn't hard to say, was it?'",
+   "stands_alone": false,
+   "context_block_ids": [
+    295759,
+    295760
+   ],
+   "stance": "mixed",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295763,
+   "pull_quote": "He cared, and then he didn’t care, and then I left him, and then he started up again.",
+   "theme": [
+    "character"
+   ],
+   "period": "her marriage",
+   "summary": "She summed up her husband's changing devotion.",
+   "prompted_by": "her husband calling to see how she was",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "mixed",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295765,
+   "pull_quote": "When I came out here he used to call me up all the time, and I’m sorry he’s gone.",
+   "theme": [
+    "character"
+   ],
+   "period": "1990s",
+   "summary": "She said her estranged husband kept calling her in Los Angeles and she was sorry he had died.",
+   "prompted_by": "whether he missed her",
+   "stands_alone": false,
+   "context_block_ids": [
+    295764
+   ],
+   "stance": "mixed",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 295769,
+   "pull_quote": "No. He was glad for my music.",
+   "theme": [
+    "character"
+   ],
+   "period": "her marriage",
+   "summary": "She said her husband did not resent her music but was glad of it.",
+   "prompted_by": "whether he resented her music",
+   "stands_alone": false,
+   "context_block_ids": [
+    295768
+   ],
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295771,
+   "pull_quote": "He took off all of his clothes. “You can’t do that.” I was trying to get him out of the room, and the baby’s mama come, and I couldn’t say nothing.",
+   "theme": [
+    "being_a_woman",
+    "the_road"
+   ],
+   "period": "on tour",
+   "summary": "She told of a bandmate stripping and entering her hotel room in Washington, and his wife arriving and blaming her.",
+   "prompted_by": "whether her husband came to see her play",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "negative",
+   "notable": 2,
+   "notes": "Long block; bracketed transcriber note at start. Pairs with 295773."
+  },
+  {
+   "block_id": 295773,
+   "pull_quote": "But anyway, that’s what girls have to go through.",
+   "theme": [
+    "being_a_woman",
+    "the_road"
+   ],
+   "period": "on tour",
+   "summary": "She concluded the story of being blamed for a bandmate's advance by saying that is what women have to go through.",
+   "prompted_by": "whether the wife believed her",
+   "stands_alone": false,
+   "context_block_ids": [
+    295771
+   ],
+   "stance": "negative",
+   "notable": 2,
+   "notes": "Also: 'I didn't talk to her no more. I tried to.'"
+  },
+  {
+   "block_id": 295777,
+   "pull_quote": "Len Sirrah – that’s the name of one of my tunes is his name backwards. It’s a nice tune too. I’m hoping to do that when I go back to New York.",
+   "theme": [
+    "composing"
+   ],
+   "period": "1996",
+   "summary": "She explained that her tune 'Len Sirrah' is her husband Nelson Harris's name backwards and that she hoped to do it in New York.",
+   "prompted_by": "her husband's name",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "positive",
+   "notable": 2,
+   "notes": "Block opens: 'Yeah. Nelson Harris.'"
+  },
+  {
+   "block_id": 295783,
+   "pull_quote": "We worked and worked all around New York and then we went to China. I don’t know what town now. But we went over there and then we came back and then I started weeding the girls out and putting some men in their places.",
+   "theme": [
+    "own_bands",
+    "being_a_woman"
+   ],
+   "period": "early 1980s",
+   "summary": "She described her women's group working around New York and touring China, after which she gradually replaced women with men.",
+   "prompted_by": "starting her own group in New York",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "neutral",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295787,
+   "pull_quote": "Melba Liston and Company, that was all the time. So whatever my company was, that was it",
+   "theme": [
+    "own_bands"
+   ],
+   "period": "1980s",
+   "summary": "She said her group was always called Melba Liston and Company, whoever was in it.",
+   "prompted_by": "starting another group for women and then adding men",
+   "stands_alone": false,
+   "context_block_ids": [
+    295786
+   ],
+   "stance": "neutral",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 295793,
+   "pull_quote": "No trumpets.",
+   "theme": [
+    "own_bands",
+    "character"
+   ],
+   "period": "1980s",
+   "summary": "She told trumpeter Bryant flatly that her group had no trumpets.",
+   "prompted_by": "whether trumpeter Jean Davis was in the group",
+   "stands_alone": false,
+   "context_block_ids": [
+    295792
+   ],
+   "stance": "neutral",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 295800,
+   "pull_quote": "We did, but they didn’t release it or something like that.",
+   "theme": [
+    "own_bands",
+    "money_and_credit"
+   ],
+   "period": "1980s",
+   "summary": "She said her small group recorded but the recordings were not released.",
+   "prompted_by": "whether her group recorded",
+   "stands_alone": false,
+   "context_block_ids": [
+    295799
+   ],
+   "stance": "negative",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 295808,
+   "pull_quote": "I haven’t done anything out here. I came out here when I had the stroke and everything.",
+   "theme": [
+    "stroke"
+   ],
+   "period": "after 1985, Los Angeles",
+   "summary": "She said she had done no work in Los Angeles, having come there after her stroke.",
+   "prompted_by": "Bryant never having heard the tune",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "negative",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295810,
+   "pull_quote": "I was conducting and stuff more than playing. I didn’t play very much at that time. When I was in Jamaica, I had two horns, but I wasn’t playing them. I just carried them around with me.",
+   "theme": [
+    "the_trombone",
+    "jamaica"
+   ],
+   "period": "1970s-1985",
+   "summary": "She said that before the stroke she was conducting more than playing, and in Jamaica carried two horns she did not play.",
+   "prompted_by": "whether she was playing up to the stroke",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "neutral",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295814,
+   "pull_quote": "That was just something.",
+   "theme": [
+    "character",
+    "studio_work"
+   ],
+   "period": "1950s, films",
+   "summary": "She shrugged off her film work as 'just something.'",
+   "prompted_by": "her movie work",
+   "stands_alone": false,
+   "context_block_ids": [
+    295813
+   ],
+   "stance": "neutral",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295816,
+   "pull_quote": "You make too much of these . . .",
+   "theme": [
+    "character"
+   ],
+   "period": "",
+   "summary": "She told Bryant she made too much of her film appearances.",
+   "prompted_by": "Bryant insisting the films were important",
+   "stands_alone": false,
+   "context_block_ids": [
+    295815
+   ],
+   "stance": "neutral",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295822,
+   "pull_quote": "I was her maid or something or other. I don’t see it on t.v. or nothing. I’m looking all the time. I’m looking for it.",
+   "theme": [
+    "studio_work",
+    "character"
+   ],
+   "period": "1950s, The Prodigal",
+   "summary": "She said she played Lana Turner's maid in The Prodigal and was always watching for it on television.",
+   "prompted_by": "The Prodigal with Lana Turner",
+   "stands_alone": false,
+   "context_block_ids": [
+    295821
+   ],
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 295824,
+   "pull_quote": "I want to see me.",
+   "theme": [
+    "character"
+   ],
+   "period": "1996",
+   "summary": "She said she watched for The Prodigal on television because she wanted to see herself.",
+   "prompted_by": "why she was looking for the film",
+   "stands_alone": false,
+   "context_block_ids": [
+    295822,
+    295823
+   ],
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295832,
+   "pull_quote": "I was Lana Turner’s old girl.",
+   "theme": [
+    "studio_work",
+    "character"
+   ],
+   "period": "1950s, The Prodigal",
+   "summary": "She summed up her film role as Lana Turner's maid.",
+   "prompted_by": "Bryant forgetting the film's details",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295836,
+   "pull_quote": "I thank him very much for sticking with me, because nobody else did.",
+   "theme": [
+    "randy_weston",
+    "stroke"
+   ],
+   "period": "after 1985",
+   "summary": "She credited Randy Weston with pulling her out of the stroke by continuing to have her write, saying no one else stuck with her.",
+   "prompted_by": "whether she did more work with Randy",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "mixed",
+   "notable": 3,
+   "notes": "Fuller: 'I wrote for him up until I had the stroke. After I had the stroke and got over a little bit, I'm writing for him again. I think he pulled me out of it – helped anyway.'"
+  },
+  {
+   "block_id": 295842,
+   "pull_quote": "He bought my first – the first computer that I had.",
+   "theme": [
+    "stroke"
+   ],
+   "period": "late 1980s",
+   "summary": "She said bassist Major Holley bought her first computer.",
+   "prompted_by": "Major Holley",
+   "stands_alone": false,
+   "context_block_ids": [
+    295841
+   ],
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 295848,
+   "pull_quote": "I had the stroke already. I don’t know if I was talking or not then. But he got me and we went downtown and bought the computer.",
+   "theme": [
+    "stroke"
+   ],
+   "period": "late 1980s",
+   "summary": "She recalled Major Holley taking her downtown to buy a computer after her stroke, when she may not yet have been talking.",
+   "prompted_by": "when Major Holley helped her buy the computer",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295854,
+   "pull_quote": "But other than that, I just loved the instrument. I didn’t need no inspiration.",
+   "theme": [
+    "the_trombone",
+    "learning"
+   ],
+   "period": "childhood",
+   "summary": "She said apart from hearing Tommy Dorsey on the radio she needed no trombone model: she simply loved the instrument.",
+   "prompted_by": "her main influence on the trombone",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "positive",
+   "notable": 3,
+   "notes": "Block opens: 'No. Tommy Dorsey was – I didn't know too many trombone players, but he was on the radio, and I listened to him.'"
+  },
+  {
+   "block_id": 295856,
+   "pull_quote": "I loved them, but I don’t have anybody – I do it all from my soul, and if it sounds like somebody, well it sounds like somebody. It’s my inspiration. It’s from my soul.",
+   "theme": [
+    "arranging"
+   ],
+   "period": "",
+   "summary": "She said that though she loved Ellington's arrangements she wrote entirely from her own soul.",
+   "prompted_by": "whether her arrangements are Ellington-inspired",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "positive",
+   "notable": 3,
+   "notes": ""
+  },
+  {
+   "block_id": 295864,
+   "pull_quote": "Not recently or in the last 20 years or something, but before then I think there was some kind of animosity until they got into my arrangements, and they’d say “oo” and they’d start it over again.",
+   "theme": [
+    "arranging",
+    "being_a_woman"
+   ],
+   "period": "before the 1970s",
+   "summary": "She said musicians once showed animosity toward her charts until they played a few bars, said 'oo,' and started over.",
+   "prompted_by": "problems with bands reading her writing",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "mixed",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295870,
+   "pull_quote": "Arrangers, we all friends. Ernie Wilkins and all of us real close. I write the soul music, more or less, and they write the swing and bop stuff.",
+   "theme": [
+    "arranging"
+   ],
+   "period": "",
+   "summary": "She said arrangers were all friends and that she wrote 'the soul music' while others wrote swing and bop.",
+   "prompted_by": "problems with other arrangers",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295876,
+   "pull_quote": "Yeah, I wrote for him, but I didn’t write no different. I just wrote from my soul. I just write what I write. If they like it, they like it.",
+   "theme": [
+    "arranging",
+    "character"
+   ],
+   "period": "",
+   "summary": "She said she wrote for Thelonious Monk as she wrote for anyone, from her soul, take it or leave it.",
+   "prompted_by": "whether Monk played her music",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "neutral",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295878,
+   "pull_quote": "It’s always something like a original or one of their tunes, and it’s a great honor – Monk.",
+   "theme": [
+    "arranging"
+   ],
+   "period": "",
+   "summary": "She said leaders asked her to arrange their own tunes and that writing for Monk was a great honor.",
+   "prompted_by": "Monk liking her writing",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 295895,
+   "pull_quote": "Monk is a piano player and he does things with the piano that nobody else does, and I have to leave spaces and stuff for him.",
+   "theme": [
+    "arranging"
+   ],
+   "period": "",
+   "summary": "She contrasted writing for Monk, for whom she left spaces, with writing for Mingus.",
+   "prompted_by": "how writing for Mingus differed from Monk",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "neutral",
+   "notable": 2,
+   "notes": "Also: 'Monk is Monk and Mingus is Mingus.' and 'Either you do or you don't for Mingus.'"
+  },
+  {
+   "block_id": 295897,
+   "pull_quote": "Anybody I write for, because I haven’t had no training, so I have to dig down and do it from there. All my things are challenging.",
+   "theme": [
+    "arranging",
+    "learning"
+   ],
+   "period": "",
+   "summary": "She said every writing job is a challenge because, having had no formal training, she must dig down for it.",
+   "prompted_by": "what was most challenging about writing for Mingus",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "neutral",
+   "notable": 3,
+   "notes": "Block opens: 'I write for everybody, and they're all challenging.'"
+  },
+  {
+   "block_id": 295899,
+   "pull_quote": "Sometimes I’m writing for bands that have criteria and then sometimes I’m free to write. Randy, I have all the freedom I want.",
+   "theme": [
+    "arranging",
+    "randy_weston"
+   ],
+   "period": "",
+   "summary": "She said some clients set criteria but with Randy Weston she had complete freedom.",
+   "prompted_by": "whether clients lay out what they want",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 295901,
+   "pull_quote": "Yeah, he gives me the song and the changes, and that’s all. But we’ve been together – what? – ’56 to ’96. How many is that? 40 years. He don’t tell me anything.",
+   "theme": [
+    "randy_weston",
+    "arranging"
+   ],
+   "period": "1956-1996",
+   "summary": "She said Randy Weston gives her only the song and the changes, after forty years together.",
+   "prompted_by": "what Randy's criteria are",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295903,
+   "pull_quote": "He says I write like he writes.",
+   "theme": [
+    "randy_weston",
+    "arranging"
+   ],
+   "period": "",
+   "summary": "She reported Randy Weston saying she writes like he does.",
+   "prompted_by": "Bryant: she already knows what he wants",
+   "stands_alone": false,
+   "context_block_ids": [
+    295902
+   ],
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 295905,
+   "pull_quote": "I think about it and think about it and think about it before I write.",
+   "theme": [
+    "arranging"
+   ],
+   "period": "",
+   "summary": "She described her method: long thought before writing.",
+   "prompted_by": "whether writing for Randy is a challenge",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "neutral",
+   "notable": 2,
+   "notes": "Continues about writing a piece for trumpet, trombone and strings for the woman who sent her a horn."
+  },
+  {
+   "block_id": 295911,
+   "pull_quote": "I just want to do that, because she was sending me the horn, so I got to send her something, so I’m sending her one of my compositions.",
+   "theme": [
+    "composing",
+    "stroke"
+   ],
+   "period": "1996",
+   "summary": "She said she was writing a composition for Susan Slaughter in return for the trombone she was sent.",
+   "prompted_by": "whether Slaughter sent her a layout",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 295915,
+   "pull_quote": "Just strings and trumpet and trombone. That’s the first I’ve written for that. I’ve written for trumpet and strings. I hadn’t written for trombone and strings before.",
+   "theme": [
+    "composing",
+    "arranging"
+   ],
+   "period": "1996",
+   "summary": "She said the new piece was her first for trombone with strings.",
+   "prompted_by": "the new piece",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 295917,
+   "pull_quote": "You’ve got to reach down on everything. I have to anywhere. I don’t know where to go until I reach down and find something.",
+   "theme": [
+    "arranging",
+    "composing"
+   ],
+   "period": "",
+   "summary": "She said she has to reach down into herself on everything she writes before she knows where to go.",
+   "prompted_by": "Bryant: 'You're really reaching down.'",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "neutral",
+   "notable": 3,
+   "notes": ""
+  },
+  {
+   "block_id": 295919,
+   "pull_quote": "He stayed over and met me when I finished the gig. He said, “I have to meet her.” We just hit it off right away.",
+   "theme": [
+    "randy_weston"
+   ],
+   "period": "1956, Birdland",
+   "summary": "She recounted meeting Randy Weston at Birdland while playing with Gillespie.",
+   "prompted_by": "how she met Randy",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 295921,
+   "pull_quote": "He brought Little Niles and all those things up to the house, and he said, “I think you should write these things for an album for me.” And I wrote them. I think it’s the best thing.",
+   "theme": [
+    "randy_weston",
+    "arranging"
+   ],
+   "period": "1956",
+   "summary": "She recalled Weston bringing Little Niles and other lead sheets to her and asking her to arrange an album, which she considered the best thing.",
+   "prompted_by": "whether she had heard of Randy",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "positive",
+   "notable": 2,
+   "notes": "Also: 'Oh yeah. I hear of everybody.'"
+  },
+  {
+   "block_id": 295925,
+   "pull_quote": "all the things with three horns or more, I wrote.",
+   "theme": [
+    "randy_weston",
+    "arranging"
+   ],
+   "period": "1956-1996",
+   "summary": "She said she arranged everything of Weston's with three or more horns.",
+   "prompted_by": "how many of Randy's CDs she wrote",
+   "stands_alone": false,
+   "context_block_ids": [
+    295924
+   ],
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 295937,
+   "pull_quote": "Randy pulled me out of the stroke, so I have to go with him.",
+   "theme": [
+    "randy_weston",
+    "stroke"
+   ],
+   "period": "1996",
+   "summary": "She said she owed her first loyalty in New York to Randy Weston, who pulled her out of the stroke.",
+   "prompted_by": "her future plans in New York",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295939,
+   "pull_quote": "I haven’t mad no money. So I could make some money now.",
+   "theme": [
+    "money_and_credit",
+    "character"
+   ],
+   "period": "1996",
+   "summary": "Asked whether she had fulfilled her dreams, she said she had made no money and could make some now.",
+   "prompted_by": "whether she has fulfilled her dreams and goals",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "mixed",
+   "notable": 2,
+   "notes": "'mad' is the transcript's spelling."
+  },
+  {
+   "block_id": 295941,
+   "pull_quote": "I don’t like the music today, the music that the youngsters are doing today. I’m an old-fashioned broad",
+   "theme": [
+    "music_today",
+    "character"
+   ],
+   "period": "1996",
+   "summary": "She said she did not like the young people's music and called herself an old-fashioned broad.",
+   "prompted_by": "going back to New York to make money",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "negative",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295945,
+   "pull_quote": "What is the fusion?",
+   "theme": [
+    "music_today",
+    "character"
+   ],
+   "period": "1996",
+   "summary": "She asked Bryant what fusion was.",
+   "prompted_by": "whether she liked fusion",
+   "stands_alone": false,
+   "context_block_ids": [
+    295944
+   ],
+   "stance": "neutral",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 295950,
+   "pull_quote": "It’s nothing there. Once in a while a person comes along and has the business and soul and everything, but ordinarily, youngsters don’t have nothing.",
+   "theme": [
+    "music_today"
+   ],
+   "period": "1996",
+   "summary": "She said today's young musicians mostly lack soul, with rare exceptions.",
+   "prompted_by": "whether today's music lacks soul",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "negative",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295954,
+   "pull_quote": "No. They just have to have some soul. That’s all.",
+   "theme": [
+    "music_today",
+    "teaching"
+   ],
+   "period": "1996",
+   "summary": "She said young players need not imitate the old masters; they just need soul.",
+   "prompted_by": "whether young players must imitate",
+   "stands_alone": false,
+   "context_block_ids": [
+    295953
+   ],
+   "stance": "neutral",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295956,
+   "pull_quote": "I don’t know. They have it or you don’t have it.",
+   "theme": [
+    "music_today"
+   ],
+   "period": "1996",
+   "summary": "She said soul cannot be acquired: you have it or you don't.",
+   "prompted_by": "how young players can get soul",
+   "stands_alone": false,
+   "context_block_ids": [
+    295955
+   ],
+   "stance": "neutral",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295967,
+   "pull_quote": "I can’t say all the musicians that came down – once in a while – and played for my kids and the school, and some of those got soul. It’s nothing I can put my finger on.",
+   "theme": [
+    "jamaica",
+    "teaching"
+   ],
+   "period": "1970s, Jamaica",
+   "summary": "She recalled Dexter Gordon, Elvin Jones and others coming to Jamaica to play for her students.",
+   "prompted_by": "Dexter Gordon",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "positive",
+   "notable": 1,
+   "notes": "Bracketed transcriber note inside block, before the quote."
+  },
+  {
+   "block_id": 295969,
+   "pull_quote": "I wrote and I directed. Maybe sometimes they were just coming along with their instruments.",
+   "theme": [
+    "teaching"
+   ],
+   "period": "1960s",
+   "summary": "She said she wrote for and directed youth orchestras in Pittsburgh, Washington and Philadelphia, helping beginners with chords and scales.",
+   "prompted_by": "the youth orchestras she helped found in the '60s",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "positive",
+   "notable": 1,
+   "notes": "Also: 'so I would help them out with chords and scales and stuff like that.'"
+  },
+  {
+   "block_id": 295975,
+   "pull_quote": "I know, but I had the girls first, and we went all over the East Coast, and we went to China and came back.",
+   "theme": [
+    "own_bands",
+    "being_a_woman"
+   ],
+   "period": "",
+   "summary": "She insisted her group started as an all-women band that toured the East Coast and China.",
+   "prompted_by": "the Melba and Her 'Bones record date",
+   "stands_alone": false,
+   "context_block_ids": [
+    295972,
+    295973,
+    295974
+   ],
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 295985,
+   "pull_quote": "I don’t know how I did them, but it was just me, and I don’t like them today. I don’t know if the tempos are wrong or something.",
+   "theme": [
+    "own_bands",
+    "studio_work"
+   ],
+   "period": "",
+   "summary": "She said she was dissatisfied with some tunes on her record, especially pop numbers she had to do.",
+   "prompted_by": "whether she was satisfied with the record",
+   "stands_alone": false,
+   "context_block_ids": [
+    295983
+   ],
+   "stance": "negative",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 295991,
+   "pull_quote": "I’m a woman. That’s that.",
+   "theme": [
+    "being_a_woman",
+    "money_and_credit"
+   ],
+   "period": "",
+   "summary": "Asked why no major label ever signed her, she answered that she was a woman, and also that she had no manager pushing her.",
+   "prompted_by": "why a major label never signed her",
+   "stands_alone": false,
+   "context_block_ids": [
+    295990
+   ],
+   "stance": "negative",
+   "notable": 3,
+   "notes": "Continues: 'I don't know. I don't have a manager that pushes me out there and all of that.'"
+  },
+  {
+   "block_id": 295995,
+   "pull_quote": "Nobody.",
+   "theme": [
+    "money_and_credit"
+   ],
+   "period": "",
+   "summary": "She said nobody had ever managed her.",
+   "prompted_by": "whether she ever had a manager",
+   "stands_alone": false,
+   "context_block_ids": [
+    295992,
+    295993
+   ],
+   "stance": "neutral",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 295997,
+   "pull_quote": "But maybe it was good, because I wouldn’t – I don’t know if I was ready for that.",
+   "theme": [
+    "money_and_credit",
+    "character"
+   ],
+   "period": "",
+   "summary": "She allowed that never having a manager or label contract might have been good, since she might not have been ready.",
+   "prompted_by": "never having a manager",
+   "stands_alone": false,
+   "context_block_ids": [
+    295990,
+    295996
+   ],
+   "stance": "mixed",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 295999,
+   "pull_quote": "Almost everywhere I got acceptance. My applause and everything was always great, over there and here and everywhere",
+   "theme": [
+    "being_a_woman",
+    "the_road"
+   ],
+   "period": "State Department tours, 1950s",
+   "summary": "She said she was accepted and applauded everywhere on tour, even where local women were restricted.",
+   "prompted_by": "whether she got more acceptance abroad as a woman",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "positive",
+   "notable": 1,
+   "notes": "Also: 'But I'm from the States. I'm always accepted, even though their women weren't allowed to.'"
+  },
+  {
+   "block_id": 296001,
+   "pull_quote": "I was talking about music. I didn’t talk to no women, nothing about no home life and all of that stuff. I didn’t even know about it. That was a shame, because I should have talked to them.",
+   "theme": [
+    "being_a_woman",
+    "the_road"
+   ],
+   "period": "State Department tours, 1950s",
+   "summary": "She regretted not talking with women in the countries she toured about their lives.",
+   "prompted_by": "whether local women talked to her about their restrictions",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "mixed",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 296005,
+   "pull_quote": "Oh yeah. Everywhere except here, the United States.",
+   "theme": [
+    "money_and_credit",
+    "the_road"
+   ],
+   "period": "",
+   "summary": "She said her reception was greater everywhere except the United States.",
+   "prompted_by": "whether her reception was greater abroad",
+   "stands_alone": false,
+   "context_block_ids": [
+    296004
+   ],
+   "stance": "negative",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 296021,
+   "pull_quote": "We weren’t no – I wasn’t doing any politics.",
+   "theme": [
+    "big_bands",
+    "the_road",
+    "character"
+   ],
+   "period": "1956 State Department tour",
+   "summary": "She denied any part in the politics of the State Department tour.",
+   "prompted_by": "whether she and Dizzy had to play politics",
+   "stands_alone": false,
+   "context_block_ids": [
+    296018
+   ],
+   "stance": "neutral",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 296023,
+   "pull_quote": "I didn’t know that Dizzy was doing everything that he was doing to keep us together and all that.",
+   "theme": [
+    "big_bands"
+   ],
+   "period": "1950s",
+   "summary": "She said she had not realized how much Gillespie did to keep the band together.",
+   "prompted_by": "Dizzy and politics",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 296025,
+   "pull_quote": "I mean, I played with all of them, so it was nothing for me to take a little bit of this and a little bit of that.",
+   "theme": [
+    "arranging",
+    "big_bands"
+   ],
+   "period": "1956 State Department tour",
+   "summary": "She said assembling a medley of Ellington, Basie and others for the tour was easy because she had played with all of them.",
+   "prompted_by": "the compilation she wrote for the tour",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "neutral",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 296031,
+   "pull_quote": "I did whatever they told me, and that was one of the things that they told me, and it was just another job for me to do. That’s all.",
+   "theme": [
+    "arranging",
+    "character"
+   ],
+   "period": "1956 State Department tour",
+   "summary": "She called the tour medley just another job she was told to do.",
+   "prompted_by": "why she was chosen to write it",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "neutral",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 296039,
+   "pull_quote": "I think we were – I was supposed to marry him, but he died over there in Canada or somewhere.",
+   "theme": [
+    "character"
+   ],
+   "period": "",
+   "summary": "She said she had been supposed to marry pianist Wynton Kelly before he died.",
+   "prompted_by": "Wynton Kelly",
+   "stands_alone": false,
+   "context_block_ids": [
+    296038
+   ],
+   "stance": "mixed",
+   "notable": 1,
+   "notes": "Block opens: 'Yeah. Wynton's a fine pianist. Oh dear.'"
+  },
+  {
+   "block_id": 296043,
+   "pull_quote": "No. Nobody gave me no problems. I didn’t have no problems, because they didn’t give me no problems.",
+   "theme": [
+    "studio_work",
+    "arranging"
+   ],
+   "period": "",
+   "summary": "She said none of the stars she wrote for, including Ray Charles, for whom she worked two or three years, gave her trouble.",
+   "prompted_by": "whether Dinah Washington gave her problems",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "positive",
+   "notable": 1,
+   "notes": "Also: 'I worked for him for two or three years'."
+  },
+  {
+   "block_id": 296055,
+   "pull_quote": "Sometimes.",
+   "theme": [
+    "arranging",
+    "character"
+   ],
+   "period": "1996",
+   "summary": "Asked if she got thrilled hearing her arrangements, she said 'Sometimes.'",
+   "prompted_by": "whether she is thrilled hearing her arrangements",
+   "stands_alone": false,
+   "context_block_ids": [
+    296054
+   ],
+   "stance": "neutral",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 296057,
+   "pull_quote": "I watch you getting thrilled, and then I get a thrill from that.",
+   "theme": [
+    "arranging",
+    "character"
+   ],
+   "period": "1996",
+   "summary": "She said she got her thrill from watching Bryant be thrilled by her arrangements.",
+   "prompted_by": "'Just sometimes?'",
+   "stands_alone": false,
+   "context_block_ids": [
+    296054,
+    296055,
+    296056
+   ],
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 296061,
+   "pull_quote": "I used to. Yeah. Now it’s that electric thing over there.",
+   "theme": [
+    "arranging",
+    "stroke"
+   ],
+   "period": "1996",
+   "summary": "She said she used to compose at the piano and now used an electric keyboard.",
+   "prompted_by": "whether she goes to the piano when writing",
+   "stands_alone": false,
+   "context_block_ids": [
+    296060
+   ],
+   "stance": "neutral",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 296071,
+   "pull_quote": "I still write like that.",
+   "theme": [
+    "arranging"
+   ],
+   "period": "1996",
+   "summary": "She said she still wrote with the dynamic shadings Bryant admired.",
+   "prompted_by": "her shadings as a lost art",
+   "stands_alone": false,
+   "context_block_ids": [
+    296068
+   ],
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 296075,
+   "pull_quote": "Oh, yeah. But that was the very end. I was busy trying to lay – tell them what the notes were and all of that. But they got it.",
+   "theme": [
+    "jamaica",
+    "teaching"
+   ],
+   "period": "1970s, Jamaica",
+   "summary": "She said she taught shadings to her Jamaican students only at the end, after the basics, but they got it.",
+   "prompted_by": "whether she taught shadings in Jamaica",
+   "stands_alone": false,
+   "context_block_ids": [
+    296074
+   ],
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 296077,
+   "pull_quote": "And go anywhere. No, you have to start from scratch.",
+   "theme": [
+    "teaching",
+    "learning"
+   ],
+   "period": "",
+   "summary": "She finished Bryant's teacher's saying: you can't start at the top and go anywhere; you start from scratch.",
+   "prompted_by": "Bryant's teacher's saying about starting at the top",
+   "stands_alone": false,
+   "context_block_ids": [
+    296076
+   ],
+   "stance": "neutral",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 296086,
+   "pull_quote": "I wrote it, so I decided it.",
+   "theme": [
+    "composing",
+    "character"
+   ],
+   "period": "1950s, You'll Be Sorry",
+   "summary": "She said she decided to sing her own tune because she wrote it.",
+   "prompted_by": "who decided she would sing You'll Be Sorry",
+   "stands_alone": false,
+   "context_block_ids": [
+    296085
+   ],
+   "stance": "neutral",
+   "notable": 2,
+   "notes": "Full: 'I don't know. I did. I don't know. I wrote it, so I decided it.'"
+  },
+  {
+   "block_id": 296102,
+   "pull_quote": "It was – when I was writing, I was writing those in matter of days. I can’t write like that no more.",
+   "theme": [
+    "arranging",
+    "stroke"
+   ],
+   "period": "1950s / 1996",
+   "summary": "She said she once wrote arrangements in days but could not anymore.",
+   "prompted_by": "whether it took long to write that arrangement",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "mixed",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 296104,
+   "pull_quote": "It’s still good.",
+   "theme": [
+    "arranging",
+    "character"
+   ],
+   "period": "1996",
+   "summary": "Hearing her Annie's Dance arrangement, she said it was still good.",
+   "prompted_by": "listening to Annie's Dance",
+   "stands_alone": false,
+   "context_block_ids": [
+    296103
+   ],
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 296126,
+   "pull_quote": "The same as I do now. You sit and think about it and think about it and then you start writing it.",
+   "theme": [
+    "arranging"
+   ],
+   "period": "",
+   "summary": "She described her method: think it through, then write, letting sections interplay as the arrangement leads.",
+   "prompted_by": "how she put Annie's Dance together",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "neutral",
+   "notable": 2,
+   "notes": "Also: 'But it's not a planned thing.'"
+  },
+  {
+   "block_id": 296130,
+   "pull_quote": "I write almost straight through and then I go over it and then no telling what happens.",
+   "theme": [
+    "arranging"
+   ],
+   "period": "",
+   "summary": "She said she writes nearly straight through and then revises, sometimes repeatedly.",
+   "prompted_by": "whether she writes straight through",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "neutral",
+   "notable": 1,
+   "notes": "Also: 'I've gone over it two or three times, and then each time I said, no, and I change it.'"
+  },
+  {
+   "block_id": 296154,
+   "pull_quote": "I got to be thinking about the notes, man. I got to be thinking about the notes – the notes, man.",
+   "theme": [
+    "the_trombone",
+    "character"
+   ],
+   "period": "1950s, My Reverie",
+   "summary": "She said that while playing she has to be thinking about the notes.",
+   "prompted_by": "Bryant insisting she had to be thinking about something",
+   "stands_alone": false,
+   "context_block_ids": [
+    296153
+   ],
+   "stance": "neutral",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 296156,
+   "pull_quote": "But blowing, I don’t think about nothing but the notes.",
+   "theme": [
+    "the_trombone"
+   ],
+   "period": "",
+   "summary": "She said that arranging she might think of something, but blowing she thinks of nothing but the notes.",
+   "prompted_by": "her ballad playing on My Reverie",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "neutral",
+   "notable": 3,
+   "notes": "Block opens: 'Maybe I was arranging, I thought about something. I don't know.' Earlier turns (296152, 296154): 'That's about the notes. That's about the notes. That's all.' / 'I got to be thinking about the notes, man.'"
+  },
+  {
+   "block_id": 296164,
+   "pull_quote": "Oh, boy. If I could do that that now.",
+   "theme": [
+    "stroke",
+    "the_trombone"
+   ],
+   "period": "1996",
+   "summary": "She wished she could play like that now.",
+   "prompted_by": "'You're one in a million.'",
+   "stands_alone": false,
+   "context_block_ids": [
+    296163
+   ],
+   "stance": "mixed",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 296168,
+   "pull_quote": "I’m going to blow it two or three years from now, I guess, or something, but I’m going to blow it.",
+   "theme": [
+    "stroke",
+    "the_trombone"
+   ],
+   "period": "1996",
+   "summary": "Asked if she missed playing, she vowed she would play again in two or three years.",
+   "prompted_by": "'Don't you miss it?'",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "positive",
+   "notable": 3,
+   "notes": "Next turn (296170): 'Yeah, that's a promise.'"
+  },
+  {
+   "block_id": 296172,
+   "pull_quote": "I’m blowing it every now and then, but I can’t get but two or three notes on the thing.",
+   "theme": [
+    "stroke",
+    "the_trombone"
+   ],
+   "period": "1996",
+   "summary": "She said she played now and then but could get only two or three notes.",
+   "prompted_by": "wanting to hear her again",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "mixed",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 296174,
+   "pull_quote": "I have this arm. I don’t know what to do with this. I tried to turn the thing around and blow it like Slide Hampton, and I can’t . . .",
+   "theme": [
+    "stroke",
+    "the_trombone"
+   ],
+   "period": "1996",
+   "summary": "She described trying to play left-handed like Slide Hampton because of her stroke-weakened arm.",
+   "prompted_by": "doing something magical with two or three notes",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "negative",
+   "notable": 2,
+   "notes": "Next turn (296176): 'No, man. The thing comes off. It just – I can't do nothing. Oh, man.'"
+  },
+  {
+   "block_id": 296208,
+   "pull_quote": "You always thinking who or where or something.",
+   "theme": [
+    "character"
+   ],
+   "period": "1996",
+   "summary": "She teased Bryant for always trying to place what a piece reminded her of.",
+   "prompted_by": "Bryant saying it reminded her of something",
+   "stands_alone": false,
+   "context_block_ids": [
+    296207
+   ],
+   "stance": "neutral",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 296222,
+   "pull_quote": "But it’s not that much different. It’s the same thing as far as I’m concerned.",
+   "theme": [
+    "arranging"
+   ],
+   "period": "1990s",
+   "summary": "She said her strings version of Little Niles was not that different from her original.",
+   "prompted_by": "the classical flavor of her strings Little Niles",
+   "stands_alone": false,
+   "context_block_ids": [
+    296219
+   ],
+   "stance": "neutral",
+   "notable": 1,
+   "notes": "Explains in 296236: 'The horn parts and the string parts are the same. The horns played what the strings are playing there.'"
+  },
+  {
+   "block_id": 296224,
+   "pull_quote": "Randy tells me how many choruses he’s going to take and where violins come in, but nothing else.",
+   "theme": [
+    "randy_weston",
+    "arranging"
+   ],
+   "period": "1990s",
+   "summary": "She said Weston told her only how many choruses he would take and where the violins came in.",
+   "prompted_by": "the strings Little Niles",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 296274,
+   "pull_quote": "So I’ve been writing for strings as long as I’ve been writing for horns.",
+   "theme": [
+    "arranging"
+   ],
+   "period": "1959 onward",
+   "summary": "She said she had been writing for strings, as on Gloria Lynne's 1959 record, as long as for horns.",
+   "prompted_by": "how long she has written for strings",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "neutral",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 296286,
+   "pull_quote": "Yeah. I guess so. Not really, but really.",
+   "theme": [
+    "arranging",
+    "character"
+   ],
+   "period": "",
+   "summary": "Asked whether writing for voice with strings differed from band writing, she said 'Not really, but really.'",
+   "prompted_by": "whether writing for voice and strings is different",
+   "stands_alone": false,
+   "context_block_ids": [
+    296285
+   ],
+   "stance": "neutral",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 296288,
+   "pull_quote": "A high voice or a low voice or a in-between voice and all of those things, but then you just go on and write.",
+   "theme": [
+    "arranging"
+   ],
+   "period": "",
+   "summary": "She said writing for a singer means considering the voice's range, then just writing.",
+   "prompted_by": "having to think about it",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "neutral",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 296294,
+   "pull_quote": "Yeah, and I was sick, and the day of the recording date, I was out of it, so I called Quincy [Jones] and he conducted for me, but all of the arrangements are mine – almost all of them.",
+   "theme": [
+    "studio_work",
+    "arranging"
+   ],
+   "period": "1959",
+   "summary": "She said she was sick on Gloria Lynne's recording date, so Quincy Jones conducted, but the arrangements were hers.",
+   "prompted_by": "whether Gloria Lynne approached her",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "neutral",
+   "notable": 1,
+   "notes": "Contains the short editorial expansion '[Jones]'; no alternative contiguous quote carries the point."
+  },
+  {
+   "block_id": 296302,
+   "pull_quote": "When I write for Dinah – uh. And when I write for Gloria – it’s oo.",
+   "theme": [
+    "arranging"
+   ],
+   "period": "",
+   "summary": "She characterized the difference between writing for Dinah Washington and Gloria Lynne with sounds: 'uh' and 'oo.'",
+   "prompted_by": "the difference between Dinah and Gloria",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "neutral",
+   "notable": 2,
+   "notes": "Also: 'Dinah – soul, soul, soul, but Gloria's soul too, but it's a different way.'"
+  },
+  {
+   "block_id": 296310,
+   "pull_quote": "I feel like it’s the song, not the singer, makes the difference.",
+   "theme": [
+    "arranging"
+   ],
+   "period": "",
+   "summary": "She concluded that the song, not the singer, determines how she writes.",
+   "prompted_by": "whether Dinah and Gloria would interpret differently",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "neutral",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 296338,
+   "pull_quote": "No. I just went on and did whatever they told me to do. But I would like to – I haven’t written for films – just films that doesn’t say anything.",
+   "theme": [
+    "character",
+    "studio_work"
+   ],
+   "period": "1996",
+   "summary": "She said she never set goals but would like to write for films.",
+   "prompted_by": "whether she set goals or reached them",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "neutral",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 296342,
+   "pull_quote": "It doesn’t matter if I do or if I don’t. I think maybe something in New York is waiting on me now.",
+   "theme": [
+    "character"
+   ],
+   "period": "1996",
+   "summary": "She said writing for film didn't matter much; something in New York was waiting for her.",
+   "prompted_by": "whether film scoring is her heart's goal",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 296350,
+   "pull_quote": "But I have to be the best that I can do. I don’t know if it’s the best.",
+   "theme": [
+    "character"
+   ],
+   "period": "",
+   "summary": "She said her standard was the best she could do, not being the best.",
+   "prompted_by": "Bryant insisting she knew she was the best",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "neutral",
+   "notable": 3,
+   "notes": ""
+  },
+  {
+   "block_id": 296352,
+   "pull_quote": "Study. Go to school and learn everything that you can in school, and don’t stop there. Get what you can out of school, jamming and everything. It’s about learning and about doing. It’s hard now. It’s still hard for girls",
+   "theme": [
+    "teaching",
+    "being_a_woman"
+   ],
+   "period": "1996",
+   "summary": "Asked for advice to young women musicians, she told them to study, learn everything they can, and keep learning by jamming, adding that it is still hard for girls.",
+   "prompted_by": "advice for young women musicians",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "neutral",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 296356,
+   "pull_quote": "But wherever they go to school, college and stuff, make them teach you as much as they know how. And go on, like we did at nighttime – go to other places and get some knowledge there.",
+   "theme": [
+    "teaching"
+   ],
+   "period": "1996",
+   "summary": "She advised students to make their schools teach them everything and to seek knowledge elsewhere at night, as her generation did.",
+   "prompted_by": "which school to recommend",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "neutral",
+   "notable": 1,
+   "notes": "Opens with transcriber '[cannot recall any school to recommend.]'."
+  },
+  {
+   "block_id": 296358,
+   "pull_quote": "Horn players, get someone to take a pattern off of.",
+   "theme": [
+    "teaching"
+   ],
+   "period": "1996",
+   "summary": "She advised young players to pattern themselves on an older musician they like.",
+   "prompted_by": "choosing a model",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "neutral",
+   "notable": 1,
+   "notes": "Also: 'Get someone that you like to have.'"
+  },
+  {
+   "block_id": 296367,
+   "pull_quote": "I don’t get around too much, and I wouldn’t get around if I was able to. I would be back in New York.",
+   "theme": [
+    "stroke",
+    "character"
+   ],
+   "period": "1996, Los Angeles",
+   "summary": "She said she rarely went out in Los Angeles and would rather be in New York.",
+   "prompted_by": "why West Coast kids don't seek role models",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "negative",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 296373,
+   "pull_quote": "Yeah. Back there. In the West Indies, St. Lucia, everywhere but here.",
+   "theme": [
+    "teaching",
+    "jamaica"
+   ],
+   "period": "",
+   "summary": "She said young people wanted to learn everywhere she taught except Los Angeles.",
+   "prompted_by": "the kids at the schools she helped organize wanting to learn",
+   "stands_alone": false,
+   "context_block_ids": [
+    296372
+   ],
+   "stance": "mixed",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 296375,
+   "pull_quote": "I’ve been here six, seven years or something. I’m going to go back there and get a new start or something.",
+   "theme": [
+    "stroke"
+   ],
+   "period": "1996",
+   "summary": "She said after six or seven years in Los Angeles she would return to New York for a new start.",
+   "prompted_by": "not sticking around to help the West Coast",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 296377,
+   "pull_quote": "I was afraid to go out and see everybody – anybody, until six months ago or something like that, because . . .",
+   "theme": [
+    "stroke"
+   ],
+   "period": "1996",
+   "summary": "She admitted that until about six months earlier she had been afraid to go out and see anyone after the stroke.",
+   "prompted_by": "overcoming the stroke",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "negative",
+   "notable": 2,
+   "notes": "Completed in 296379: 'I didn't want them to gloat over me or something.'"
+  },
+  {
+   "block_id": 296379,
+   "pull_quote": "I didn’t want them to gloat over me or something.",
+   "theme": [
+    "stroke"
+   ],
+   "period": "1996",
+   "summary": "She explained that she feared people would gloat over her condition.",
+   "prompted_by": "'You'd sit in this room.'",
+   "stands_alone": false,
+   "context_block_ids": [
+    296377
+   ],
+   "stance": "negative",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 296389,
+   "pull_quote": "Yeah, I got to get on up.",
+   "theme": [
+    "stroke",
+    "character"
+   ],
+   "period": "1996",
+   "summary": "She said she had to get up and keep going after the stroke.",
+   "prompted_by": "'farther on down the road'",
+   "stands_alone": false,
+   "context_block_ids": [
+    296388
+   ],
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 296391,
+   "pull_quote": "You don’t think. It’s a long time before you can think. You learn how to eat with . . .",
+   "theme": [
+    "stroke"
+   ],
+   "period": "after 1985",
+   "summary": "Asked what she thought after the stroke, she said for a long time one cannot think, and has to relearn how to eat.",
+   "prompted_by": "what she thought after her stroke",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "negative",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 296397,
+   "pull_quote": "Oh yeah, but Randy helped me to get started writing, and so I’m doing it. I’m not writing as fast and all of that as I . . .",
+   "theme": [
+    "stroke",
+    "randy_weston",
+    "arranging"
+   ],
+   "period": "1990s",
+   "summary": "She said her mother pushed her too, but Weston got her writing again, though slower than before.",
+   "prompted_by": "whether her mother pushed her",
+   "stands_alone": false,
+   "context_block_ids": [
+    296396
+   ],
+   "stance": "positive",
+   "notable": 1,
+   "notes": "Completed in 296399."
+  },
+  {
+   "block_id": 296399,
+   "pull_quote": "I used to, but maybe I’ll get that back in New York, but I don’t have to go as fast, anyway.",
+   "theme": [
+    "stroke",
+    "arranging"
+   ],
+   "period": "1996",
+   "summary": "She said she might regain her writing speed in New York, but she didn't need to go as fast anyway.",
+   "prompted_by": "'The quality is there though'",
+   "stands_alone": false,
+   "context_block_ids": [
+    296397
+   ],
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 296401,
+   "pull_quote": "No. The horn was stolen.",
+   "theme": [
+    "stroke",
+    "the_trombone"
+   ],
+   "period": "after 1985",
+   "summary": "She said she didn't think about not playing after the stroke because her horn had been stolen.",
+   "prompted_by": "what she thought about not being able to play",
+   "stands_alone": false,
+   "context_block_ids": [
+    296400
+   ],
+   "stance": "negative",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 296415,
+   "pull_quote": "She said, if you don’t do nothing else, but just sit up and look at it.",
+   "theme": [
+    "the_trombone",
+    "stroke"
+   ],
+   "period": "1996",
+   "summary": "She quoted Susan Slaughter, who sent her a new trombone, as saying she could at least look at it.",
+   "prompted_by": "the trombone Susan Slaughter sent",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 296417,
+   "pull_quote": "But I do play it – blow two or three notes on it now and then. But this arm here, I got to get going.",
+   "theme": [
+    "stroke",
+    "the_trombone"
+   ],
+   "period": "1996",
+   "summary": "She said she played two or three notes on the new horn now and then and had to get her arm going.",
+   "prompted_by": "the horn sitting like a mannequin in the window",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "mixed",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 296433,
+   "pull_quote": "I’m going to get somebody to – not teach me, but sit with me.",
+   "theme": [
+    "stroke",
+    "the_trombone"
+   ],
+   "period": "1996",
+   "summary": "She said she would find someone in New York, not to teach her but to sit with her, as she relearned the trombone.",
+   "prompted_by": "calling Janice Robinson in New York",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 296437,
+   "pull_quote": "Yeah, I guess so. Another phase of it, anyway.",
+   "theme": [
+    "stroke",
+    "character"
+   ],
+   "period": "1996",
+   "summary": "She agreed that New York would be another phase.",
+   "prompted_by": "her future beginning in New York",
+   "stands_alone": false,
+   "context_block_ids": [
+    296436
+   ],
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 296455,
+   "pull_quote": "You’ve got to get your things out all over the place, and maybe one or two people will do it, but you don’t – paying is not the – that’s not it.",
+   "theme": [
+    "money_and_credit",
+    "composing"
+   ],
+   "period": "1996",
+   "summary": "She said what matters is getting her music out widely, not payment.",
+   "prompted_by": "a copyist asking about pay",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "neutral",
+   "notable": 2,
+   "notes": "Continues in 296457: 'It's not the thing. It's getting them out as fast and varied.'"
+  },
+  {
+   "block_id": 296459,
+   "pull_quote": "I don’t think they want to. But anyway, I may be wrong.",
+   "theme": [
+    "being_a_woman",
+    "music_today"
+   ],
+   "period": "1996",
+   "summary": "She doubted young women want to understand what her generation went through, allowing she might be wrong.",
+   "prompted_by": "young girls not understanding",
+   "stands_alone": false,
+   "context_block_ids": [
+    296458
+   ],
+   "stance": "negative",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "block_id": 296463,
+   "pull_quote": "Now and then a girl comes along.",
+   "theme": [
+    "being_a_woman"
+   ],
+   "period": "1996",
+   "summary": "She said a good woman player comes along now and then.",
+   "prompted_by": "good women players",
+   "stands_alone": false,
+   "context_block_ids": [
+    296461
+   ],
+   "stance": "positive",
+   "notable": 1,
+   "notes": "Previous turn: 'There are some girls that are very good.'"
+  },
+  {
+   "block_id": 296477,
+   "pull_quote": "I don’t care about the – what do you call them? Peers or something. But my friends – all the guys are my friends. And the girls . . .",
+   "theme": [
+    "money_and_credit",
+    "character"
+   ],
+   "period": "",
+   "summary": "She said she did not care about peers or critics; all the musicians were her friends.",
+   "prompted_by": "peers vs. critics",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 296485,
+   "pull_quote": "they’re having a bitch of a time. We got to get something together for the girls.",
+   "theme": [
+    "being_a_woman"
+   ],
+   "period": "1996",
+   "summary": "She said women musicians were having a terrible time and that something had to be organized to get them out front.",
+   "prompted_by": "women players like Bu Pleasant and Fostina Dixon",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "mixed",
+   "notable": 2,
+   "notes": "Continues: 'I don't know how, but we got to get two or three girls here and two or three girls there ... that they're out front sometimes'."
+  },
+  {
+   "block_id": 296494,
+   "pull_quote": "If they’re going to study and do it, do it.",
+   "theme": [
+    "teaching"
+   ],
+   "period": "1996",
+   "summary": "Her last advice to young musicians: if you are going to do it, do it.",
+   "prompted_by": "last remarks for young musicians",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "neutral",
+   "notable": 2,
+   "notes": "Next turn (296496): 'And if not, don't do it.'"
+  },
+  {
+   "block_id": 296498,
+   "pull_quote": "That’s all I can say. Don’t get all hung up with nobody other than your music",
+   "theme": [
+    "teaching",
+    "being_a_woman"
+   ],
+   "period": "1996",
+   "summary": "She advised young musicians not to get hung up on anyone but their music.",
+   "prompted_by": "'Don't even go there.'",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "neutral",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "block_id": 296505,
+   "pull_quote": "I’m sorry that I couldn’t talk more.",
+   "theme": [
+    "stroke",
+    "character"
+   ],
+   "period": "1996",
+   "summary": "At the end of the interview she apologized that she could not talk more.",
+   "prompted_by": "Bryant's closing tribute",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "mixed",
+   "notable": 3,
+   "notes": ""
+  },
+  {
+   "block_id": 296510,
+   "pull_quote": "I think maybe this song will be my theme song all over – big band, little band, whatever – if I get everybody to play it like that.",
+   "theme": [
+    "composing"
+   ],
+   "period": "1996",
+   "summary": "She closed the interview with Ben Loves Lu, dedicated to her mother and her mother's husband, and said it might become her theme song.",
+   "prompted_by": "closing the interview",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "stance": "positive",
+   "notable": 2,
+   "notes": "Block also: 'And we'll close with a tune dedicated to my mom and her man, her husband, Ben Loves Lu.'"
+  }
+ ],
+ "timeline": [
+  {
+   "when": "January 13, 1926",
+   "sort_year": 1926,
+   "event": "Born in Kansas City, Missouri; grandparents lived in Kansas City, Kansas, and she grew up between the two.",
+   "block_ids": [
+    295459,
+    295466
+   ],
+   "stated_by": "liston",
+   "confirmed_by_liston": true,
+   "notes": "Date from the transcript header; birthplace in her own words."
+  },
+  {
+   "when": "childhood",
+   "sort_year": null,
+   "event": "Went to school in Kansas City, Kansas, staying with her grandfather during the week and her mother at weekends.",
+   "block_ids": [
+    295467
+   ],
+   "stated_by": "bryant",
+   "confirmed_by_liston": false,
+   "notes": "Partly a transcriber summary inside Bryant's turn; Liston does not respond directly."
+  },
+  {
+   "when": "childhood",
+   "sort_year": null,
+   "event": "Grew up with a player piano at home (the same piano she still owned in 1996); attended Unity church.",
+   "block_ids": [
+    295473,
+    295474,
+    295497
+   ],
+   "stated_by": "liston",
+   "confirmed_by_liston": true,
+   "notes": ""
+  },
+  {
+   "when": "childhood",
+   "sort_year": null,
+   "event": "Had a radio show in Kansas as a child performer ('I was a little star').",
+   "block_ids": [
+    295540,
+    295541
+   ],
+   "stated_by": "bryant",
+   "confirmed_by_liston": true,
+   "notes": ""
+  },
+  {
+   "when": "age 7",
+   "sort_year": 1933,
+   "event": "Saw a trombone and asked her mother to buy it that same day.",
+   "block_ids": [
+    295502,
+    295503
+   ],
+   "stated_by": "transcriber",
+   "confirmed_by_liston": true,
+   "notes": "Age from a transcriber summary of Bryant's question; Liston confirms the story by mentioning a tape of her mother describing it. Year derived from age 7."
+  },
+  {
+   "when": "about five months after getting the horn",
+   "sort_year": 1933,
+   "event": "Was playing Deep River and Rocking the Cradle of the Deep, learned from the radio; turned her head sideways to reach the far slide positions.",
+   "block_ids": [
+    295508,
+    295509,
+    295510,
+    295511
+   ],
+   "stated_by": "bryant",
+   "confirmed_by_liston": true,
+   "notes": "Year derived."
+  },
+  {
+   "when": "childhood, Kansas City",
+   "sort_year": null,
+   "event": "Took two or three lessons from a Kansas City teacher she disliked, then had her mother cancel him.",
+   "block_ids": [
+    295514,
+    295515
+   ],
+   "stated_by": "liston",
+   "confirmed_by_liston": true,
+   "notes": ""
+  },
+  {
+   "when": "1937",
+   "sort_year": 1937,
+   "event": "Moved to California (Los Angeles); grandmother and aunts went first, she and her mother followed four or five months later by train.",
+   "block_ids": [
+    295516,
+    295517,
+    295519,
+    296321,
+    296322
+   ],
+   "stated_by": "bryant",
+   "confirmed_by_liston": true,
+   "notes": ""
+  },
+  {
+   "when": "1937",
+   "sort_year": 1937,
+   "event": "Enrolled at McKinley Junior High School; tested for ninth grade but was placed in eighth because of her age.",
+   "block_ids": [
+    295520,
+    295521,
+    295522,
+    295523
+   ],
+   "stated_by": "bryant",
+   "confirmed_by_liston": true,
+   "notes": ""
+  },
+  {
+   "when": "junior high",
+   "sort_year": null,
+   "event": "Her school music teacher wanted to adopt her to send her to special schools; she refused to leave her mother.",
+   "block_ids": [
+    295532,
+    295533
+   ],
+   "stated_by": "liston",
+   "confirmed_by_liston": true,
+   "notes": ""
+  },
+  {
+   "when": "late 1930s",
+   "sort_year": null,
+   "event": "Met Minnie Hightower at school and joined Alma Hightower's youth band; practised at the Ross Snyder playground; played alongside Vi Redd and Alice Young.",
+   "block_ids": [
+    295544,
+    295545,
+    295547,
+    295548,
+    295549
+   ],
+   "stated_by": "liston",
+   "confirmed_by_liston": true,
+   "notes": ""
+  },
+  {
+   "when": "c. 1938",
+   "sort_year": 1938,
+   "event": "Travelled with Miss Hightower and the Melodic Dots in the back of a truck to play a fair—her first time on the road.",
+   "block_ids": [
+    295553,
+    295555,
+    295556,
+    295557
+   ],
+   "stated_by": "liston",
+   "confirmed_by_liston": true,
+   "notes": "Year proposed by Bryant; Liston answers 'Uh-huh'."
+  },
+  {
+   "when": "c. 1938",
+   "sort_year": 1938,
+   "event": "Photographed with the Hightower band (Minnie Hightower, Vi Redd, Buddy Redd and others).",
+   "block_ids": [
+    296319,
+    296320,
+    296321,
+    296322
+   ],
+   "stated_by": "liston",
+   "confirmed_by_liston": true,
+   "notes": "Liston: 'It was '38 or something like that.'"
+  },
+  {
+   "when": "high school",
+   "sort_year": null,
+   "event": "Attended Jefferson High School briefly and mainly Polytechnic High School, with Minnie Hightower.",
+   "block_ids": [
+    295673
+   ],
+   "stated_by": "transcriber",
+   "confirmed_by_liston": false,
+   "notes": "From a transcriber's bracketed summary."
+  },
+  {
+   "when": "1940",
+   "sort_year": 1940,
+   "event": "Herb Jeffries played the Lincoln; the Lincoln and the white downtown theatres were separate worlds.",
+   "block_ids": [
+    295596,
+    295597
+   ],
+   "stated_by": "liston",
+   "confirmed_by_liston": true,
+   "notes": "Liston says '19 – whatever it is – 40', which sits a little before the age-16 (1942) start at the Lincoln implied in 295571; the transcript's figures are recorded as given."
+  },
+  {
+   "when": "age 16",
+   "sort_year": 1942,
+   "event": "Left Hightower, joined the musicians' union and started working in the pit band at the Lincoln Theater.",
+   "block_ids": [
+    295571,
+    295572
+   ],
+   "stated_by": "liston",
+   "confirmed_by_liston": true,
+   "notes": "Year derived from her stated age of 16 (born 1926)."
+  },
+  {
+   "when": "Lincoln Theater years",
+   "sort_year": 1942,
+   "event": "Bandleader Bardu Ali had her write music for acts that arrived without charts—the start of her writing career; also performed skits with Pigmeat Markham.",
+   "block_ids": [
+    295574,
+    295575,
+    295577,
+    295582,
+    295583
+   ],
+   "stated_by": "liston",
+   "confirmed_by_liston": true,
+   "notes": "Year derived."
+  },
+  {
+   "when": "after a year or a year and a half at the Lincoln",
+   "sort_year": 1943,
+   "event": "Joined Gerald Wilson's band ('he stole me out of the band'); first job with him at Shepp's Playhouse; worked as copyist and sometime arranger.",
+   "block_ids": [
+    295595,
+    295600,
+    295601,
+    295603,
+    295606,
+    295607
+   ],
+   "stated_by": "liston",
+   "confirmed_by_liston": true,
+   "notes": "Year derived from 'a year or a year and a half' at the Lincoln."
+  },
+  {
+   "when": "1940s",
+   "sort_year": null,
+   "event": "Spent 5–6 years (Wilson says 8) with Gerald Wilson; played Chicago and New York, including a show with Jimmie Lunceford and the Apollo, where she sang and played features.",
+   "block_ids": [
+    295603,
+    295610,
+    295611,
+    295612,
+    295622,
+    295623
+   ],
+   "stated_by": "liston",
+   "confirmed_by_liston": true,
+   "notes": ""
+  },
+  {
+   "when": "1940s",
+   "sort_year": null,
+   "event": "Toured the South with the Wilson band behind Billie Holiday; the tour collapsed and the band was stranded, getting only as far as Kansas City.",
+   "block_ids": [
+    295627,
+    295628,
+    295629,
+    295630,
+    295633
+   ],
+   "stated_by": "liston",
+   "confirmed_by_liston": true,
+   "notes": ""
+  },
+  {
+   "when": "1940s",
+   "sort_year": null,
+   "event": "Recorded with Count Basie, according to Gerald Wilson.",
+   "block_ids": [
+    295640,
+    295641
+   ],
+   "stated_by": "bryant",
+   "confirmed_by_liston": false,
+   "notes": "Liston does not remember recording with Basie."
+  },
+  {
+   "when": "1947",
+   "sort_year": 1947,
+   "event": "Recorded with Dexter Gordon, a schoolmate—her first recording and first time playing without written music.",
+   "block_ids": [
+    295684,
+    295685,
+    295689,
+    295690,
+    295692
+   ],
+   "stated_by": "bryant",
+   "confirmed_by_liston": true,
+   "notes": "Year and 'first recording' stated by Bryant; Liston confirms the session."
+  },
+  {
+   "when": "late 1940s",
+   "sort_year": null,
+   "event": "Joined Dizzy Gillespie's big band in New York (with John Coltrane in it); Billy Eckstine told her Dizzy had held the chair empty a week; the band lasted five months and broke up.",
+   "block_ids": [
+    295642,
+    295643,
+    295648,
+    295649,
+    295656,
+    295657
+   ],
+   "stated_by": "liston",
+   "confirmed_by_liston": true,
+   "notes": ""
+  },
+  {
+   "when": "after the first Gillespie band",
+   "sort_year": null,
+   "event": "Returned to Los Angeles and Gerald Wilson.",
+   "block_ids": [
+    295658,
+    295659
+   ],
+   "stated_by": "liston",
+   "confirmed_by_liston": true,
+   "notes": ""
+  },
+  {
+   "when": "after leaving the road",
+   "sort_year": null,
+   "event": "Took the Board of Education exam on her own and worked there two or three years (clerical, night school), taking occasional gigs.",
+   "block_ids": [
+    295662,
+    295668,
+    295669,
+    295673,
+    295674,
+    295675
+   ],
+   "stated_by": "liston",
+   "confirmed_by_liston": true,
+   "notes": ""
+  },
+  {
+   "when": "after the Board of Education",
+   "sort_year": null,
+   "event": "Quit, tried playing again, then worked at the Golden State insurance company before quitting to return to music.",
+   "block_ids": [
+    295677,
+    295678,
+    295679,
+    295693
+   ],
+   "stated_by": "liston",
+   "confirmed_by_liston": true,
+   "notes": ""
+  },
+  {
+   "when": "'49",
+   "sort_year": 1949,
+   "event": "Dizzy Gillespie sent for her again; she went back to New York to stay.",
+   "block_ids": [
+    295693,
+    295694,
+    295695
+   ],
+   "stated_by": "bryant",
+   "confirmed_by_liston": true,
+   "notes": "Year given by Bryant ('I think '49'); elsewhere Bryant refers to 'the '56 band with Dizzy' (295704). Recorded as the transcript gives it."
+  },
+  {
+   "when": "'56",
+   "sort_year": 1956,
+   "event": "In Gillespie's '56 band; some band members resented a woman being sent for from the West Coast until they played her arrangement; stayed until the band broke up.",
+   "block_ids": [
+    295704,
+    295705,
+    295706,
+    295707,
+    295709,
+    295711
+   ],
+   "stated_by": "bryant",
+   "confirmed_by_liston": true,
+   "notes": ""
+  },
+  {
+   "when": "1956 (Gillespie band, Birdland)",
+   "sort_year": 1956,
+   "event": "Met Randy Weston at Birdland while playing with Gillespie; arranged his album with Little Niles—the start of a 40-year partnership ('56 to '96).",
+   "block_ids": [
+    295711,
+    295919,
+    295921,
+    295901,
+    296185,
+    296193
+   ],
+   "stated_by": "liston",
+   "confirmed_by_liston": true,
+   "notes": ""
+  },
+  {
+   "when": "Gillespie band years",
+   "sort_year": null,
+   "event": "State Department tours with Gillespie to the Middle East and South America (and the Far East); wrote a medley of Ellington, Basie and others for the tour; her Annie's Dance arrangement was well received.",
+   "block_ids": [
+    295998,
+    295999,
+    296016,
+    296017,
+    296024,
+    296025,
+    296031,
+    296091
+   ],
+   "stated_by": "bryant",
+   "confirmed_by_liston": true,
+   "notes": ""
+  },
+  {
+   "when": "1950s",
+   "sort_year": null,
+   "event": "Appeared in the films The Ten Commandments and The Prodigal (as Lana Turner's maid).",
+   "block_ids": [
+    295819,
+    295820,
+    295821,
+    295822,
+    295828,
+    295832
+   ],
+   "stated_by": "liston",
+   "confirmed_by_liston": true,
+   "notes": ""
+  },
+  {
+   "when": "1959",
+   "sort_year": 1959,
+   "event": "Arranged Gloria Lynne's album with strings, including her own songs Love, I've Found You and We Never Kissed; was sick on the recording date so Quincy Jones conducted.",
+   "block_ids": [
+    296273,
+    296283,
+    296294,
+    296295,
+    296303
+   ],
+   "stated_by": "bryant",
+   "confirmed_by_liston": true,
+   "notes": ""
+  },
+  {
+   "when": "",
+   "sort_year": null,
+   "event": "Worked for Ray Charles for two or three years.",
+   "block_ids": [
+    296043
+   ],
+   "stated_by": "liston",
+   "confirmed_by_liston": true,
+   "notes": ""
+  },
+  {
+   "when": "",
+   "sort_year": null,
+   "event": "Recorded as leader (Melba and Her 'Bones); recording arranged by Leonard Feather.",
+   "block_ids": [
+    295972,
+    295979,
+    295981
+   ],
+   "stated_by": "bryant",
+   "confirmed_by_liston": true,
+   "notes": ""
+  },
+  {
+   "when": "1960s",
+   "sort_year": 1964,
+   "event": "Helped establish youth orchestras—the Pittsburgh Jazz Orchestra (1964), the Harlem Back Street Tour Orchestra, Pratt Institute Youth in Action—writing and directing; also spent two or three years going to Philadelphia.",
+   "block_ids": [
+    295968,
+    295969
+   ],
+   "stated_by": "bryant",
+   "confirmed_by_liston": true,
+   "notes": ""
+  },
+  {
+   "when": "1973",
+   "sort_year": 1973,
+   "event": "Arranged Little Niles and Hi-Fly for Randy Weston's Tanjah.",
+   "block_ids": [
+    296241,
+    296267
+   ],
+   "stated_by": "bryant",
+   "confirmed_by_liston": false,
+   "notes": "Liston does not explicitly confirm the date."
+  },
+  {
+   "when": "1970s",
+   "sort_year": null,
+   "event": "Went to Jamaica with Randy Weston and taught there five or six years; left when the island's leadership changed.",
+   "block_ids": [
+    295713,
+    295722,
+    295723,
+    295725
+   ],
+   "stated_by": "liston",
+   "confirmed_by_liston": true,
+   "notes": ""
+  },
+  {
+   "when": "1975",
+   "sort_year": 1975,
+   "event": "Jamaica jazz festival, with Frank Foster and Dexter Gordon; she was carrying two horns but not playing.",
+   "block_ids": [
+    295810
+   ],
+   "stated_by": "liston",
+   "confirmed_by_liston": true,
+   "notes": ""
+  },
+  {
+   "when": "1979",
+   "sort_year": 1979,
+   "event": "Invited to the Women's Jazz Festival in Kansas City.",
+   "block_ids": [
+    295730,
+    295731
+   ],
+   "stated_by": "bryant",
+   "confirmed_by_liston": false,
+   "notes": "Liston does not remember the organisers' names; the confirmation is a transcriber summary."
+  },
+  {
+   "when": "after Jamaica",
+   "sort_year": 1979,
+   "event": "Went back to Jamaica to finish the school year, spent about two weeks in St. Lucia, then returned to New York and bought an apartment.",
+   "block_ids": [
+    295737,
+    295743,
+    295745,
+    295748,
+    295749
+   ],
+   "stated_by": "liston",
+   "confirmed_by_liston": true,
+   "notes": "'Was that still '79?' is Bryant's question; Liston does not answer it directly."
+  },
+  {
+   "when": "",
+   "sort_year": null,
+   "event": "Married Nelson Harris (her second husband); her tune Len Sirrah is his name backwards; they later separated.",
+   "block_ids": [
+    295752,
+    295753,
+    295759,
+    295777,
+    295779
+   ],
+   "stated_by": "liston",
+   "confirmed_by_liston": true,
+   "notes": ""
+  },
+  {
+   "when": "beginning of the '80s",
+   "sort_year": 1980,
+   "event": "Started her own all-women group in New York, toured the East Coast and China, then gradually replaced women with men (Melba Liston and Company, with Budd Johnson and Al Grey).",
+   "block_ids": [
+    295782,
+    295783,
+    295787,
+    295789,
+    295975
+   ],
+   "stated_by": "bryant",
+   "confirmed_by_liston": true,
+   "notes": ""
+  },
+  {
+   "when": "1985",
+   "sort_year": 1985,
+   "event": "Suffered a stroke, causing memory loss and difficulty speaking.",
+   "block_ids": [
+    295462
+   ],
+   "stated_by": "transcriber",
+   "confirmed_by_liston": false,
+   "notes": "Liston refers to 'the stroke' throughout but not to its year."
+  },
+  {
+   "when": "1987",
+   "sort_year": 1987,
+   "event": "Named an NEA Jazz Master.",
+   "block_ids": [
+    295458
+   ],
+   "stated_by": "transcriber",
+   "confirmed_by_liston": false,
+   "notes": "From the transcript header only."
+  },
+  {
+   "when": "'88 or so",
+   "sort_year": 1988,
+   "event": "Major Holley took her downtown and helped her buy her first computer.",
+   "block_ids": [
+    295842,
+    295845,
+    295846,
+    295848
+   ],
+   "stated_by": "liston",
+   "confirmed_by_liston": true,
+   "notes": "Year from Bryant ('When we were in New York—what? – '88 or something')."
+  },
+  {
+   "when": "",
+   "sort_year": null,
+   "event": "Her trombone was stolen.",
+   "block_ids": [
+    295843,
+    296401
+   ],
+   "stated_by": "liston",
+   "confirmed_by_liston": true,
+   "notes": ""
+  },
+  {
+   "when": "after the stroke",
+   "sort_year": null,
+   "event": "Moved to Los Angeles; continued writing only for Randy Weston.",
+   "block_ids": [
+    295808,
+    295836,
+    296439
+   ],
+   "stated_by": "liston",
+   "confirmed_by_liston": true,
+   "notes": ""
+  },
+  {
+   "when": "1996",
+   "sort_year": 1996,
+   "event": "Arranged Randy Weston's Earth Birth (strings; recorded in Montreal), unreleased at the time of the interview.",
+   "block_ids": [
+    296214,
+    296241,
+    296267
+   ],
+   "stated_by": "bryant",
+   "confirmed_by_liston": true,
+   "notes": ""
+  },
+  {
+   "when": "1996",
+   "sort_year": 1996,
+   "event": "Her husband died while visiting his mother in South Carolina, a few months before the interview.",
+   "block_ids": [
+    295753,
+    295781
+   ],
+   "stated_by": "liston",
+   "confirmed_by_liston": true,
+   "notes": ""
+  },
+  {
+   "when": "1996, about a month before the interview",
+   "sort_year": 1996,
+   "event": "Susan Slaughter of the International Women's Brass Conference sent her a new trombone.",
+   "block_ids": [
+    296405,
+    296407,
+    296410,
+    296411,
+    296412
+   ],
+   "stated_by": "liston",
+   "confirmed_by_liston": true,
+   "notes": ""
+  },
+  {
+   "when": "December 4–5, 1996",
+   "sort_year": 1996,
+   "event": "Interviewed by Clora Bryant at her home in Los Angeles for the Smithsonian Jazz Oral History Program.",
+   "block_ids": [
+    295465
+   ],
+   "stated_by": "bryant",
+   "confirmed_by_liston": false,
+   "notes": ""
+  },
+  {
+   "when": "Christmas 1996",
+   "sort_year": 1996,
+   "event": "Planned to return to New York for Christmas after six or seven years in Los Angeles.",
+   "block_ids": [
+    296375,
+    296465,
+    296467
+   ],
+   "stated_by": "liston",
+   "confirmed_by_liston": true,
+   "notes": ""
+  },
+  {
+   "when": "April 23, 1999",
+   "sort_year": 1999,
+   "event": "Died.",
+   "block_ids": [
+    295459
+   ],
+   "stated_by": "transcriber",
+   "confirmed_by_liston": false,
+   "notes": "From the transcript header only."
+  }
+ ]
+}

@@ -1,0 +1,334 @@
+{
+ "subject": "liston",
+ "qid": "Q274146",
+ "count": 8,
+ "continuation_blocks": 10,
+ "low_risk_blocks": 8,
+ "method": "From every interviewee block naming the subject, walk up to 6 blocks forward, keeping same-speaker (or unlabelled page-break) dialogue/prose turns of >=100 chars that contain a she/her/hers pronoun and do not name the subject again. Stops at a fresh subject mention or at a different named speaker saying more than 60 chars (shorter turns are interjections and are stepped over). Her own interview is excluded. `competing_names` lists other people named in the block who could own the pronoun -- other women especially -- and marks those blocks pronoun_risk=high. ALL of this is UNVERIFIED and must be classified before any of it is published.",
+ "items": [
+  {
+   "subject": "liston",
+   "qid": "Q274146",
+   "anchor": {
+    "block_id": 242103,
+    "speaker": "ABBEY LINCOLN",
+    "text": "Women don't have a history in jazz. That's just a lot of garbage the feminists have brought to us. Listen, women have the same history in jazz as they do in classical music. Does she -- is she the composer? Does she conduct the orchestra? She sings, just like they do in this form. If we depended on women to bring music, we'd be in trouble. They don't bring music. They bring babies. They become famous being married to a man. It's a rare woman, like Melba Liston, who comes to the music for the music. Rare. Hazel Scott.",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Abbey-Lincoln-Transcription-2020#b64-4"
+   },
+   "continuations": [
+    {
+     "block_id": 242105,
+     "page": 64,
+     "block": 6,
+     "speaker": "ABBEY LINCOLN",
+     "speaker_missing": false,
+     "text": "Because they're women and they make babies. A man doesn't make a child. He doesn't clone a human being. His work is all cut out for him. She makes the people and he makes the world that they come into. What's wrong with this? Why is it all of a sudden she wants to pretend that she's something that she's not? She doesn't build bridges. It's not because the men didn't let her build one. Her mind is not there. This is not who a woman is. I know, I'm a woman. Women do not think along these terms. It's a rare woman who does. Freud was a man. Everybody who's impacted on the world, on the outside world, it's the women who bring the men and women here and teach them what she knows. What kind of a woman brings a man who's a male chauvinist? What did she teach him when he's a child? She suckles him at her breast and she brings her own worst enemy here? Is this a man's fault or hers? I think we need to look at this. I'm tired of this feminist crap. How are you going to be a feminist and you bring men and women here? What about the boy? Doesn't his life mean anything? What's he going to do while you're being a feminist? What about being a humanist? What's wrong with that? No, I have no sympathy for them, I mean, and I think they're really taking disadvantage and the men who were called male chauvinists are really pushovers because he gives her anything she asks for. She doesn't make me feel safe walking around with her dress up",
+     "competing_names": [],
+     "pronoun_risk": "low",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Abbey-Lincoln-Transcription-2020#b64-6"
+    },
+    {
+     "block_id": 242106,
+     "page": 65,
+     "block": 0,
+     "speaker": "",
+     "speaker_missing": true,
+     "text": "just below her behind. What kind of a woman is this? Old women in their underwear they call tights. Really? Where's her dress? A man is made to look at a woman and become excited. He has to have an erection. There's a difference between men and women. She doesn't have to have anything to make the baby. She doesn't have to feel anything, but he has to have an erection. So, what is this? And she jumps on the man and pretends that she's hot in the first kiss. What happened to foreplay? What about the little girls who are coming through, who are being assaulted by men who don't know how to treat a girl anymore? In these movies that they make with them coming at each other with their mouths open in the heat of passion for the first kiss. Give me a break. These are a bunch of frigid people who don't feel anything. Otherwise they wouldn't approach a human being like that. I am female. There's nothing greater than being female, but I'm not greater than a man and a man is not greater than me. No, I'm not a feminist. She preempted the black movement, the feminist did. She got jobs that she never would have had before. The Secretary of State and the prosecuting attorney. When is it going to be my turn? It's two for her and none for me. The designers make clothes for women that they have no respect for. They don't even finish the garment anymore. They charge you an arm and a leg for something. You can see it in the style what these men think of these women and the men are the ones who design our clothes. Men design our clothes. I don't care what he does in this world. He dresses himself and he wears his clothes. I'm glad you gave me a chance to get that off.",
+     "competing_names": [],
+     "pronoun_risk": "low",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Abbey-Lincoln-Transcription-2020#b65-0"
+    }
+   ],
+   "src": {
+    "doc_id": "Abbey-Lincoln-Transcription-2020",
+    "block_id": 242103,
+    "page": 64,
+    "block": 4,
+    "collection": "si",
+    "title": "Abbey Lincoln — Smithsonian Jazz Oral History",
+    "interviewee": "Abbey Lincoln",
+    "interviewer": null,
+    "year": 2020,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Abbey-Lincoln-Transcription-2020#b64-4",
+    "source_url": "https://americanhistory.si.edu/sites/default/files/file-uploader/Abbey-Lincoln-Transcription-2020.pdf"
+   },
+   "status": "unevaluated_candidate"
+  },
+  {
+   "subject": "liston",
+   "qid": "Q274146",
+   "anchor": {
+    "block_id": 273095,
+    "speaker": "Wilson",
+    "text": "Yeah, okay. Paul Gonsalves is playing tenor. Al Gibson – Al Gibson, you know who Al was. Al played with Cab Calloway’s band. He was a fine um, baritone player. But Dizzy had played with Cab too you know, so he knew him from that. And that – that was us and oh yeah Jesse – Jesse Powell, another tenor player. That was that and then they had Melba Liston, they had, um Matthew Gee, another trombone player. Then they had – the trumpet section was Elmon Wright, that was Leo Wright’s son, Elmon Wright, and Willie Cook who played with Duke also, who was first with Earl Hines, by the way. And myself, that was the trumpet section and Dizzy of course playing everything. Then you had Al McKibbon on bass, John Lewis was on piano and Specs Wright was on drums. Man, that was some band, I’m telling you. This band was fright – it was frightening, it was frightening. And um of course then that’s when Dizzy went on – and we finished the tour and that’s when he broke up the band and got a small group. Because Dizzy, you know with a big band you can’t make an awful lot of money, you know what I mean? But with a small group, Dizzy Gillespie can make himself some money, which he should, he deserved it. He deserved it, and – knowing those guys was just unbelievable, you know.",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Gerald-Wilson_transcription#b16-4"
+   },
+   "continuations": [
+    {
+     "block_id": 273101,
+     "page": 17,
+     "block": 3,
+     "speaker": "Wilson",
+     "speaker_missing": false,
+     "text": "Oh I know Gil, oh yeah I knew Gil real well yeah Gil was – he was with Les Hite’s band. See Dizzy and – and Gil Fuller played with Les Hite’s band. So when – when Les Hite came back to California, Dizzy and Gil Fuller didn’t come back, but they had a whole book full of Gil’s arrangements, and that’s when I went and joined Les Hite’s band. Now, you’re gonna want to hear this now. This is about Snooky Young, he’s back on the scene now. Look here. Snooky Young comes out to join Lee Young, whose brother Lester Young is coming to join his brother on sax, and they’re all going to open up this club in Los Angeles with Billie Holliday. See, Snooky comes in, he rehearses with them, and so I’m with Les Hite’s band now, I’ve joined Les Hite’s band. Snooky comes up to our rehearsal, [laughs] Snooky says, “You know Gerald – you know Gerald I don’t like to play in them small groups, you know” I said, “You don’t?” He said, “Yeah, I like to play in big bands.” I said, “You want to play with Les Hite?” He said, “Yeah” See he didn’t even join – he didn’t even play with them. He came over to Les Hite’s band. [laughs] Les Hite’s man – he was like – Les Hite had been here in the ‘30s. I heard him in the ‘30s when I was – before I came to California. And he always had a good band. He played saxophone. And at this time he had a big tour all the way from Los Angeles on up. We went – we got on the train here and we stopped off in Fresno and Oakland, on into Oregon and into Washington state, on into Vancouver. We go on a good, good tour, and the lady that ran the band Ms. – what was her name – she owned a brewery called Strolls brewery. She was rich. And I mean at the end of the week, man they’re paying off – go see who’s making money, he’s drawing people. They all knew about him out here on the west coast. And we had a great tour with him, Snooky was with him. So we made this great tour with Les Hite. So we get back, and we get back here change the – Les Hite’s going to – disbanded his band. Benny carter called me, wanted me to – I knew Benny, I used to go see them rehearse when I was with Luceford. He had his band in New York, I’d go out – ‘cause I liked Benny, he played the trumpet, he played the sax – Benny called me, he said, “Hey Gerald I want you to join my band.” Meanwhile he had just finished doing Stormy Weather and all that stuff, you know. And I – so I said, “You know what, Benny?” I said, “I heard your band, and your band is a nice band, but,” I said, “You need a whole trumpet section.” So he said, “What you got in mind, Gerald?” And JJ Johnson was in the band, there were some great players in there – JJ Johnson – so I said, “you need a whole trumpet section,” he said, “Well what you got?” I said, “I can bring you a whole trumpet section.” I took the whole trumpet section out of Les Hite’s band, which was fabulous. We had four trumpet players that all could play, I mean they could all play. And I got to say, I take them all to Benny Carter’s band. And this is the time that Benny Carter heard his music like he’d never heard it before. We could play his hardest",
+     "competing_names": [
+      "Billie",
+      "Dizzy",
+      "Gerald"
+     ],
+     "pronoun_risk": "high",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Gerald-Wilson_transcription#b17-3"
+    }
+   ],
+   "src": {
+    "doc_id": "Gerald-Wilson_transcription",
+    "block_id": 273095,
+    "page": 16,
+    "block": 4,
+    "collection": "si",
+    "title": "Gerald Wilson — Smithsonian Jazz Oral History",
+    "interviewee": "Gerald Wilson",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Gerald-Wilson_transcription#b16-4",
+    "source_url": "https://amhistory.si.edu/jazz/Wilson-Gerald/Gerald-Wilson_transcription.pdf"
+   },
+   "status": "unevaluated_candidate"
+  },
+  {
+   "subject": "liston",
+   "qid": "Q274146",
+   "anchor": {
+    "block_id": 309837,
+    "speaker": null,
+    "text": "streets. So, for the recordings, I think it was 1959 at the Five Spot, a live date. It was Roy Haynes, Clifford Jones, Wilbur Little on bass, Coleman Hawkins on tenor saxophone and Kenny Durham on trumpet. Melba had written the arrangements but she often had problems of illness before she had the stroke. What happened was, the recording took place on a Monday night at the Five Spot, and there was no time for rehearsal. She was in the hospital in California, and by some miracle the music arrived the day of the recording. I passed out the music, no time to rehearse, but I had such great musicians that they played beautifully. The same thing happened in 1985 at the Montreal Jazz Festival. I had a ten-piece group of the great Benny Bailey, Sahib Shihab, TK Blue, Clyde Lucas on drums, Mohammad Bin Fata, the Gnawa playing African percussion, myself on piano, Woodward Little was on bass. Melba got sick in the hospital in California at that time so Hale Smith took her place as conductor. The music arrived in time for the tour and after we performed at the Montreal Jazz Festival, which should be coming out soon, it was a fantastic performance, all of us got on the telephone and we called Melba in California. So this is not the first time this has happened with Melba. Unfortunately, she has had problems with illness. But, her spiritual strength is so powerful.",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b4-0"
+   },
+   "continuations": [
+    {
+     "block_id": 309839,
+     "page": 4,
+     "block": 2,
+     "speaker": "Randy Weston",
+     "speaker_missing": false,
+     "text": "Well, “Khepera” is like an ancient Egyptian word that means “like to regenerate, to bring back out senses.” We become so involved with machines that we loose that human contact that we had before. And, for me, for art, for music human contact is important because no matter who come in contact with, sometimes you get a vibration, sometimes you get a message; sometimes you get in an argument or whatever. “Khepera” is a way saying that we have to bring that back, to regenerate, to clean ourselves and come back, to get back to human contact. So, I was very happy to have met a woman from China, her name was Min Xiao Fen. I met her in Atlanta, Georgia and she was working with a Senegalese named Mortiem. Mortiem had musicians from different parts of the world in his group and he had heard, performing with his group, as she played an instrument called a pipa. This instrument is 2,000 years old. It’s not Chinese but it was imported into China. She’s a master but I didn’t know her and I didn’t know anything about the instrument. I did a solo concert and she heard me play solo piano. She said, “I love your piece on the piano.” She said, “I’d like you to hear me.” So, it turned out she was living in Brooklyn, at that particular time, so she came by my house and she took out the pipa and she started to play. It was so beautiful I said, “We have to play together.” At the same time, Dr. Wayne Chandler had written a book called “Ancient Future” and in this book he describes how Africa and China had much contact together, 1000 years ago. He explains that some of the original Chinese dynasties were African dynasties in China. To illustrate that, he had photographs that he showed me of ancient Chinese masks, just like African people, you see. Min, I talked to Min about this, and she got excited because she knows this part of our history. So we went to the Guggenheim museum together and it was 5,000 years of Chinese history. We discovered the mask of",
+     "competing_names": [],
+     "pronoun_risk": "low",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b4-2"
+    }
+   ],
+   "src": {
+    "doc_id": "Randy-Weston-Transcription-2020_0",
+    "block_id": 309837,
+    "page": 4,
+    "block": 0,
+    "collection": "si",
+    "title": "Randy Weston — Smithsonian Jazz Oral History",
+    "interviewee": "Randy Weston",
+    "interviewer": null,
+    "year": 2020,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b4-0",
+    "source_url": "https://americanhistory.si.edu/sites/default/files/file-uploader/Randy-Weston-Transcription-2020_0.pdf"
+   },
+   "status": "unevaluated_candidate"
+  },
+  {
+   "subject": "liston",
+   "qid": "Q274146",
+   "anchor": {
+    "block_id": 367018,
+    "speaker": "W:",
+    "text": "Father Crowley and Father O'Connor talked to me, several priests. They also asked me to write a Mass, but Father Woods is the only one that really stuck with me until I really began praying, and Dizzy. Dizzy would send Melba, \"Go up there and see what Lou's doing. See how she's playing.\" Melba, I understand, would go back and say, \"Man, Lou played some chords and you ought to hear them. They're really great.\" He said, \"Well, get her out.\" Melba would come here and when he took me out to the Newport Jazz Festival, Melba arranged some things. He said, \"Those arrangements were really good.\" She said, \"I didn't do them. That was Lou's arrangement. I was in the room and I just sat",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=53571#b149-4"
+   },
+   "continuations": [
+    {
+     "block_id": 367020,
+     "page": 150,
+     "block": 1,
+     "speaker": null,
+     "speaker_missing": true,
+     "text": "down and took the music down.\" He said, \"What! Get her out here!\" He finally got me out to Newport where they were all wheeling like mad, like most of the priests did, to get me to write a Mass. Father O'Connor said, \"Well, I tell you, if you don't write a Mass just play it, play it on the piano, Mass.\" I guess I had gotten myself so holy fasting and doing so many things and suffering, till they thought perhaps the music would be good. Sometimes I'd fast 9 days and just drink water for 9 days. The first time I fasted I ate 9 apples a day and Father Crowley came to visit me. He said, \"It's a wonder you didn't turn into applesauce.\"",
+     "competing_names": [],
+     "pronoun_risk": "low",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=53571#b150-1"
+    }
+   ],
+   "src": {
+    "doc_id": "53571",
+    "block_id": 367018,
+    "page": 149,
+    "block": 4,
+    "collection": "rutgers",
+    "title": "53571_Mary Lou Williams oral history interview",
+    "interviewee": "Mary Lou Williams",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=53571#b149-4",
+    "source_url": "https://rucore.libraries.rutgers.edu/rutgers-lib/53571/"
+   },
+   "status": "unevaluated_candidate"
+  },
+  {
+   "subject": "liston",
+   "qid": "Q274146",
+   "anchor": {
+    "block_id": 271151,
+    "speaker": "Freeman",
+    "text": "Jazz music was so hard in the beginning, until you had very few ladies that were playing it. But I noticed back – Louis Armstrong had his wife playing piano. And the other lady who was with Andy Kirk, she’s been out here since the beginning of time almost. [Mary Lou Williams]. But that’s just two ladies. And then Melba [Liston] plays the trombone. I mean, ladies played the trombone during that era. So it’s always been some ladies in there, but they had to just be great, great, great, great, before the guys would accept them.",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Freeman_Von_Transcript#b31-8"
+   },
+   "continuations": [
+    {
+     "block_id": 271153,
+     "page": 31,
+     "block": 10,
+     "speaker": "Freeman",
+     "speaker_missing": false,
+     "text": "Oh yeah, alto. She’s great. But everybody – she was billed good, because everybody was waiting for her to sing, because she could sing great. But she played a great alto. So it’s always been ladies. Now, anytime I hear Ingrid [Jensen] play, I can’t believe her. That’s this lady . . .",
+     "competing_names": [],
+     "pronoun_risk": "low",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Freeman_Von_Transcript#b31-10"
+    },
+    {
+     "block_id": 271157,
+     "page": 32,
+     "block": 0,
+     "speaker": "Freeman",
+     "speaker_missing": false,
+     "text": "She plays with the [J?] or something like that. You say, how can anybody that fine be playing all that trumpet? It doesn’t – then Louis Jordan one time, he had a lady that wore high heels hitting high notes. She was tall and fine. It was so strange to see a woman say bam and hit those high notes.",
+     "competing_names": [],
+     "pronoun_risk": "low",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Freeman_Von_Transcript#b32-0"
+    }
+   ],
+   "src": {
+    "doc_id": "Freeman_Von_Transcript",
+    "block_id": 271151,
+    "page": 31,
+    "block": 8,
+    "collection": "si",
+    "title": "Von Freeman — Smithsonian Jazz Oral History",
+    "interviewee": "Von Freeman",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Freeman_Von_Transcript#b31-8",
+    "source_url": "https://amhistory.si.edu/jazz/Freeman-Von/Freeman_Von_Transcript.pdf"
+   },
+   "status": "unevaluated_candidate"
+  },
+  {
+   "subject": "liston",
+   "qid": "Q274146",
+   "anchor": {
+    "block_id": 216723,
+    "speaker": "BP",
+    "text": "Oh, she had a birthday two days ago, Melba Liston. Wonderful woman.",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275855#b7-10"
+   },
+   "continuations": [
+    {
+     "block_id": 216727,
+     "page": 7,
+     "block": 14,
+     "speaker": "BP",
+     "speaker_missing": false,
+     "text": "Yeah. She’s been here for about two or three years. She’s been wheelchair bound for a little while, but she and Randy are very close, and he really looks out — oh he’s a wonderful human being. When I was going through this dialysis, before I got a kidney © Fillius Jazz Archive -8-",
+     "competing_names": [
+      "Randy"
+     ],
+     "pronoun_risk": "high",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275855#b7-14"
+    }
+   ],
+   "src": {
+    "doc_id": "275855",
+    "block_id": 216723,
+    "page": 7,
+    "block": 10,
+    "collection": "hamilton",
+    "title": "Benny Powell interviewed by Monk Rowe, New York City, New York, January 16, 1999 [interview 2 of 2]",
+    "interviewee": "Benny Powell",
+    "interviewer": null,
+    "year": 1999,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275855#b7-10",
+    "source_url": "https://litsdigital.hamilton.edu/collections/object/benny-powell-interviewed-monk-rowe-new-york-city-new-york-january-16-1999"
+   },
+   "status": "unevaluated_candidate"
+  },
+  {
+   "subject": "liston",
+   "qid": "Q274146",
+   "anchor": {
+    "block_id": 458533,
+    "speaker": null,
+    "text": "I see you have a picture there with Melvin Liston.",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=67247#b221-2"
+   },
+   "continuations": [
+    {
+     "block_id": 458536,
+     "page": 221,
+     "block": 5,
+     "speaker": "JCH",
+     "speaker_missing": false,
+     "text": "(That boy) can play some trombone! She grabbed me Sunday afternoon, yeah, I've never seen her ... that's when they were giving a session down ...",
+     "competing_names": [],
+     "pronoun_risk": "low",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=67247#b221-5"
+    }
+   ],
+   "src": {
+    "doc_id": "67247",
+    "block_id": 458533,
+    "page": 221,
+    "block": 2,
+    "collection": "rutgers",
+    "title": "67247_J.C. Higginbotham oral history interview",
+    "interviewee": "J. C. Higginbotham",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=67247#b221-2",
+    "source_url": "https://rucore.libraries.rutgers.edu/rutgers-lib/67247/"
+   },
+   "status": "unevaluated_candidate"
+  },
+  {
+   "subject": "liston",
+   "qid": "Q274146",
+   "anchor": {
+    "block_id": 470105,
+    "speaker": "MS. WILLARD",
+    "text": "Since she later taught different instruments, apparently, right? She taught Vi and Melba (phone crossed out) did she always know horns also? You mentioned piano and drums, but if she taught saxophone and trombone--",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=67256#b201-4"
+   },
+   "continuations": [
+    {
+     "block_id": 470107,
+     "page": 201,
+     "block": 6,
+     "speaker": "MS. WILLARD",
+     "speaker_missing": false,
+     "text": "Did she also play those instruments which she taught? To the musicians we've mentioned? Later on, when she was a teacher?",
+     "competing_names": [],
+     "pronoun_risk": "low",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=67256#b201-6"
+    }
+   ],
+   "src": {
+    "doc_id": "67256",
+    "block_id": 470105,
+    "page": 201,
+    "block": 4,
+    "collection": "rutgers",
+    "title": "67256_Paul L. Howard oral history interview",
+    "interviewee": "Patricia Willard",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=67256#b201-4",
+    "source_url": "https://rucore.libraries.rutgers.edu/rutgers-lib/67256/"
+   },
+   "status": "unevaluated_candidate"
+  }
+ ]
+}

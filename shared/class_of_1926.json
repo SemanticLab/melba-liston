@@ -1,0 +1,1987 @@
+{
+ "subject": "liston",
+ "qid": "Q274146",
+ "generated_from": "linked_jazz.sqlite + this repo + ~/git/linked-jazz-coltrane-davis (read-only)",
+ "note": "Three jazz musicians born in 1926. All joins; nothing judged here except the she_said blocks, which come from her_words.json.",
+ "liston": {
+  "name": "Melba Liston",
+  "qid": "Q274146",
+  "born": "1926-01-13"
+ },
+ "others": {
+  "coltrane": {
+   "name": "John Coltrane",
+   "qid": "Q7346",
+   "born": "1926-09-23",
+   "she_said": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "basis": "her_assent",
+    "who_speaks_of_them": "bryant_only",
+    "summary": "Bryant said John Coltrane was in Dizzy Gillespie's band when Liston first joined it, and Liston agreed.",
+    "one_liner": "was in dizzy's band with him",
+    "her_quote": null,
+    "her_quote_url": null,
+    "bryant_quote": "Is that the band with John Coltrane in it?",
+    "bryant_quote_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b12-4",
+    "era": "first Dizzy Gillespie band stint",
+    "notable": 1,
+    "notes": "Liston's only response is 'Um-hmm.' (295649). 'Dizzy found a spot for him to go' in 295643 has an unclear 'him' - probably not Coltrane."
+   },
+   "on_her_records": true,
+   "albums_together": [
+    "Art Blakey Big Band",
+    "Soundtrack to a Coup d'Etat"
+   ],
+   "direct_edge": {
+    "weight": 3.0,
+    "n": 1,
+    "relations": [
+     {
+      "relation": "in music group with",
+      "count": 1,
+      "direction": "mutual"
+     }
+    ],
+    "evidence_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/ev/4a/4a9948f8c7199885.json"
+   },
+   "shared_neighbours": {
+    "count": 14,
+    "jaccard": 0.0362,
+    "her_neighbours": 123,
+    "his_neighbours": 278,
+    "top": [
+     {
+      "node_id": "wd:Q201500",
+      "label": "Gerald Wilson",
+      "qid": "Q201500",
+      "her_weight": 4.318,
+      "his_weight": 3.0
+     },
+     {
+      "node_id": "wd:Q1369035",
+      "label": "Slide Hampton",
+      "qid": "Q1369035",
+      "her_weight": 4.318,
+      "his_weight": 2.299
+     },
+     {
+      "node_id": "wd:Q121535",
+      "label": "Benny Golson",
+      "qid": "Q121535",
+      "her_weight": 3.0,
+      "his_weight": 3.0
+     },
+     {
+      "node_id": "wd:Q317161",
+      "label": "Wayne Shorter",
+      "qid": "Q317161",
+      "her_weight": 2.5,
+      "his_weight": 3.0
+     },
+     {
+      "node_id": "wd:Q275250",
+      "label": "Sam Jones",
+      "qid": "Q275250",
+      "her_weight": 2.5,
+      "his_weight": 3.0
+     },
+     {
+      "node_id": "wd:Q322308",
+      "label": "Teddy Edwards",
+      "qid": "Q322308",
+      "her_weight": 3.0,
+      "his_weight": 2.0
+     },
+     {
+      "node_id": "wd:Q357179",
+      "label": "Elvin Jones",
+      "qid": "Q357179",
+      "her_weight": 1.0,
+      "his_weight": 3.599
+     },
+     {
+      "node_id": "wd:Q1145565",
+      "label": "Curtis Fuller",
+      "qid": "Q1145565",
+      "her_weight": 2.5,
+      "his_weight": 2.0
+     },
+     {
+      "node_id": "wd:Q1173633",
+      "label": "David Baker",
+      "qid": "Q1173633",
+      "her_weight": 3.0,
+      "his_weight": 1.0
+     },
+     {
+      "node_id": "wd:Q599429",
+      "label": "Benny Powell",
+      "qid": "Q599429",
+      "her_weight": 3.193,
+      "his_weight": 0.4
+     },
+     {
+      "node_id": "wd:Q107432",
+      "label": "Charles Mingus",
+      "qid": "Q107432",
+      "her_weight": 2.5,
+      "his_weight": 1.0
+     },
+     {
+      "node_id": "wd:Q437117",
+      "label": "Toshiko Akiyoshi",
+      "qid": "Q437117",
+      "her_weight": 0.4,
+      "his_weight": 1.277
+     },
+     {
+      "node_id": "wd:Q489245",
+      "label": "Frank Foster",
+      "qid": "Q489245",
+      "her_weight": 0.4,
+      "his_weight": 1.277
+     },
+     {
+      "node_id": "wd:Q447907",
+      "label": "Hank Jones",
+      "qid": "Q447907",
+      "her_weight": 0.4,
+      "his_weight": 0.4
+     }
+    ]
+   },
+   "documents_naming_both": {
+    "count": 9,
+    "items": [
+     {
+      "doc_id": "275930",
+      "title": "Slide Hampton interviewed by Monk Rowe, West Orange, New Jersey, July 30, 2003",
+      "collection": "hamilton",
+      "interviewee": "Slide Hampton",
+      "year": 2003,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275930"
+     },
+     {
+      "doc_id": "61520",
+      "title": "61520_Teddy Edwards oral history interview",
+      "collection": "rutgers",
+      "interviewee": "Patricia Willard",
+      "year": null,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=61520"
+     },
+     {
+      "doc_id": "David N. Baker SI-NEA oral history (2)",
+      "title": "David N. Baker — Smithsonian Jazz Oral History",
+      "collection": "si",
+      "interviewee": "David N. Baker",
+      "year": null,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=David%20N.%20Baker%20SI-NEA%20oral%20history%20%282%29"
+     },
+     {
+      "doc_id": "Fuller_Curtis_Transcript",
+      "title": "Curtis Fuller — Smithsonian Jazz Oral History",
+      "collection": "si",
+      "interviewee": "Curtis Fuller",
+      "year": null,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Fuller_Curtis_Transcript"
+     },
+     {
+      "doc_id": "Gerald-Wilson_transcription",
+      "title": "Gerald Wilson — Smithsonian Jazz Oral History",
+      "collection": "si",
+      "interviewee": "Gerald Wilson",
+      "year": null,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Gerald-Wilson_transcription"
+     },
+     {
+      "doc_id": "Hampton_Slide_Transcript",
+      "title": "Slide Hampton — Smithsonian Jazz Oral History",
+      "collection": "si",
+      "interviewee": "Slide Hampton",
+      "year": null,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Hampton_Slide_Transcript"
+     },
+     {
+      "doc_id": "Hank_Jones_Transcript",
+      "title": "Jones Hank — Smithsonian Jazz Oral History",
+      "collection": "si",
+      "interviewee": "Jones Hank",
+      "year": null,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Hank_Jones_Transcript"
+     },
+     {
+      "doc_id": "Liston_Melba_Interview_Transcription",
+      "title": "Melba Liston — Smithsonian Jazz Oral History",
+      "collection": "si",
+      "interviewee": "Melba Liston",
+      "year": null,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription"
+     },
+     {
+      "doc_id": "Toshiko_Akiyoshi_Transcript",
+      "title": "Akiyoshi Toshiko — Smithsonian Jazz Oral History",
+      "collection": "si",
+      "interviewee": "Akiyoshi Toshiko",
+      "year": null,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Toshiko_Akiyoshi_Transcript"
+     }
+    ]
+   },
+   "shared_releases": {
+    "count": 1,
+    "items": [
+     {
+      "title": "Art Blakey Big Band",
+      "qid": "Q16242591",
+      "year": "1957",
+      "her_role": "sidewoman",
+      "her_credit": [
+       "trombone"
+      ],
+      "his_role": "sideman",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Art_Blakey_Big_Band"
+     }
+    ],
+    "available": true
+   },
+   "shared_roster": {
+    "count": 109,
+    "items": [
+     {
+      "name": "McCoy Tyner",
+      "qid": "Q318619",
+      "albums_with_her": 2,
+      "albums_with_him": 59,
+      "said_about_her": false,
+      "said_about_him": true,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Elvin Jones",
+      "qid": "Q357179",
+      "albums_with_her": 2,
+      "albums_with_him": 56,
+      "said_about_her": false,
+      "said_about_him": true,
+      "she_spoke_of_them": true
+     },
+     {
+      "name": "Paul Chambers",
+      "qid": "Q541659",
+      "albums_with_her": 3,
+      "albums_with_him": 53,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Art Taylor",
+      "qid": "Q705751",
+      "albums_with_her": 2,
+      "albums_with_him": 34,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Jimmy Cleveland",
+      "qid": "Q386883",
+      "albums_with_her": 24,
+      "albums_with_him": 3,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Jerome Richardson",
+      "qid": "Q720693",
+      "albums_with_her": 24,
+      "albums_with_him": 2,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Philly Joe Jones",
+      "qid": "Q709873",
+      "albums_with_her": 3,
+      "albums_with_him": 22,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Wynton Kelly",
+      "qid": "Q536415",
+      "albums_with_her": 12,
+      "albums_with_him": 13,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": true
+     },
+     {
+      "name": "Ernie Royal",
+      "qid": "Q491422",
+      "albums_with_her": 22,
+      "albums_with_him": 2,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Jimmy Cobb",
+      "qid": "Q499491",
+      "albums_with_her": 1,
+      "albums_with_him": 19,
+      "said_about_her": false,
+      "said_about_him": true,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Rudy Van Gelder",
+      "qid": "Q945681",
+      "albums_with_her": 6,
+      "albums_with_him": 14,
+      "said_about_her": false,
+      "said_about_him": true,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Donald Byrd",
+      "qid": "Q362764",
+      "albums_with_her": 2,
+      "albums_with_him": 17,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Reggie Workman",
+      "qid": "Q780037",
+      "albums_with_her": 2,
+      "albums_with_him": 17,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Eric Dolphy",
+      "qid": "Q367508",
+      "albums_with_her": 4,
+      "albums_with_him": 14,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Art Davis",
+      "qid": "Q705506",
+      "albums_with_her": 6,
+      "albums_with_him": 12,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Phil Woods",
+      "qid": "Q639345",
+      "albums_with_her": 16,
+      "albums_with_him": 1,
+      "said_about_her": false,
+      "said_about_him": true,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Pharoah Sanders",
+      "qid": "Q470617",
+      "albums_with_her": 1,
+      "albums_with_him": 16,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Freddie Hubbard",
+      "qid": "Q346762",
+      "albums_with_her": 6,
+      "albums_with_him": 11,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Julius Watkins",
+      "qid": "Q1357150",
+      "albums_with_her": 13,
+      "albums_with_him": 4,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Sahib Shihab",
+      "qid": "Q968887",
+      "albums_with_her": 13,
+      "albums_with_him": 4,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Curtis Fuller",
+      "qid": "Q1145565",
+      "albums_with_her": 6,
+      "albums_with_him": 10,
+      "said_about_her": true,
+      "said_about_him": true,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Kenny Burrell",
+      "qid": "Q255355",
+      "albums_with_her": 7,
+      "albums_with_him": 7,
+      "said_about_her": false,
+      "said_about_him": true,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Cannonball Adderley",
+      "qid": "Q110477",
+      "albums_with_her": 4,
+      "albums_with_him": 10,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Charlie Persip",
+      "qid": "Q1066973",
+      "albums_with_her": 13,
+      "albums_with_him": 1,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": true
+     },
+     {
+      "name": "Tommy Flanagan",
+      "qid": "Q498723",
+      "albums_with_her": 1,
+      "albums_with_him": 12,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Benny Golson",
+      "qid": "Q121535",
+      "albums_with_her": 11,
+      "albums_with_him": 1,
+      "said_about_her": false,
+      "said_about_him": true,
+      "she_spoke_of_them": true
+     },
+     {
+      "name": "Louis Hayes",
+      "qid": "Q330240",
+      "albums_with_her": 4,
+      "albums_with_him": 8,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Roy Haynes",
+      "qid": "Q448235",
+      "albums_with_her": 2,
+      "albums_with_him": 9,
+      "said_about_her": false,
+      "said_about_him": true,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Bill Evans",
+      "qid": "Q208205",
+      "albums_with_her": 1,
+      "albums_with_him": 9,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Jamil Nasser",
+      "qid": "Q354026",
+      "albums_with_her": 4,
+      "albums_with_him": 6,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Al Cohn",
+      "qid": "Q1382232",
+      "albums_with_her": 6,
+      "albums_with_him": 4,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Frank Rehak",
+      "qid": "Q1444006",
+      "albums_with_her": 6,
+      "albums_with_him": 4,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": true
+     },
+     {
+      "name": "Ray Copeland",
+      "qid": "Q356168",
+      "albums_with_her": 7,
+      "albums_with_him": 3,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": true
+     },
+     {
+      "name": "Britt Woodman",
+      "qid": "Q349342",
+      "albums_with_her": 8,
+      "albums_with_him": 2,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": true
+     },
+     {
+      "name": "Frank Wess",
+      "qid": "Q182792",
+      "albums_with_her": 7,
+      "albums_with_him": 2,
+      "said_about_her": false,
+      "said_about_him": true,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Hank Mobley",
+      "qid": "Q534842",
+      "albums_with_her": 1,
+      "albums_with_him": 8,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Thelonious Monk",
+      "qid": "Q109612",
+      "albums_with_her": 2,
+      "albums_with_him": 7,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": true
+     },
+     {
+      "name": "Tom Dowd",
+      "qid": "Q1341906",
+      "albums_with_her": 2,
+      "albums_with_him": 7,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Pepper Adams",
+      "qid": "Q552381",
+      "albums_with_her": 3,
+      "albums_with_him": 6,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Art Blakey",
+      "qid": "Q311715",
+      "albums_with_her": 4,
+      "albums_with_him": 5,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "James Buffington",
+      "qid": "Q1689321",
+      "albums_with_her": 5,
+      "albums_with_him": 4,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Hank Jones",
+      "qid": "Q447907",
+      "albums_with_her": 6,
+      "albums_with_him": 3,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Lee Morgan",
+      "qid": "Q362564",
+      "albums_with_her": 6,
+      "albums_with_him": 3,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Chuck Stewart",
+      "qid": "Q5115722",
+      "albums_with_her": 5,
+      "albums_with_him": 3,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Danny Bank",
+      "qid": "Q355970",
+      "albums_with_her": 7,
+      "albums_with_him": 1,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "George Duvivier",
+      "qid": "Q1370288",
+      "albums_with_her": 7,
+      "albums_with_him": 1,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Milt Hinton",
+      "qid": "Q491411",
+      "albums_with_her": 7,
+      "albums_with_him": 1,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Connie Kay",
+      "qid": "Q431520",
+      "albums_with_her": 3,
+      "albums_with_him": 4,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Idrees Sulieman",
+      "qid": "Q1656883",
+      "albums_with_her": 3,
+      "albums_with_him": 4,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Milt Jackson",
+      "qid": "Q435665",
+      "albums_with_her": 3,
+      "albums_with_him": 4,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Julian Priester",
+      "qid": "Q350574",
+      "albums_with_her": 4,
+      "albums_with_him": 3,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Gigi Gryce",
+      "qid": "Q563275",
+      "albums_with_her": 5,
+      "albums_with_him": 2,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Zoot Sims",
+      "qid": "Q12344256",
+      "albums_with_her": 5,
+      "albums_with_him": 2,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Willie Ruff",
+      "qid": "Q2581484",
+      "albums_with_her": 6,
+      "albums_with_him": 1,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Cedar Walton",
+      "qid": "Q246462",
+      "albums_with_her": 2,
+      "albums_with_him": 4,
+      "said_about_her": false,
+      "said_about_him": true,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Lee Friedlander",
+      "qid": "Q711391",
+      "albums_with_her": 1,
+      "albums_with_him": 5,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Alfred Lion",
+      "qid": "Q68260",
+      "albums_with_her": 2,
+      "albums_with_him": 4,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Francis Wolff",
+      "qid": "Q214355",
+      "albums_with_her": 2,
+      "albums_with_him": 4,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Bob Northern",
+      "qid": "Q2907783",
+      "albums_with_her": 4,
+      "albums_with_him": 2,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Creed Taylor",
+      "qid": "Q1139476",
+      "albums_with_her": 4,
+      "albums_with_him": 2,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Max Roach",
+      "qid": "Q175899",
+      "albums_with_her": 5,
+      "albums_with_him": 1,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Nat Hentoff",
+      "qid": "Q1371409",
+      "albums_with_her": 1,
+      "albums_with_him": 4,
+      "said_about_her": false,
+      "said_about_him": true,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Kenny Drew",
+      "qid": "Q721315",
+      "albums_with_her": 1,
+      "albums_with_him": 4,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Reid Miles",
+      "qid": "Q558597",
+      "albums_with_her": 1,
+      "albums_with_him": 4,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Bill Hardman",
+      "qid": "Q366699",
+      "albums_with_her": 2,
+      "albums_with_him": 3,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Ed Thigpen",
+      "qid": "Q521528",
+      "albums_with_her": 2,
+      "albums_with_him": 3,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Cecil Payne",
+      "qid": "Q485927",
+      "albums_with_her": 3,
+      "albums_with_him": 2,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Johnny Griffin",
+      "qid": "Q708439",
+      "albums_with_her": 3,
+      "albums_with_him": 2,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": true
+     },
+     {
+      "name": "Kenny Dorham",
+      "qid": "Q498729",
+      "albums_with_her": 3,
+      "albums_with_him": 2,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Wendell Marshall",
+      "qid": "Q1252565",
+      "albums_with_her": 3,
+      "albums_with_him": 2,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Joe Wilder",
+      "qid": "Q1691652",
+      "albums_with_her": 4,
+      "albums_with_him": 1,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Romeo Penque",
+      "qid": "Q111734787",
+      "albums_with_her": 4,
+      "albums_with_him": 1,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Ron Carter",
+      "qid": "Q434593",
+      "albums_with_her": 4,
+      "albums_with_him": 1,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Jackie McLean",
+      "qid": "Q920490",
+      "albums_with_her": 1,
+      "albums_with_him": 3,
+      "said_about_her": false,
+      "said_about_him": true,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Laurdine \"Pat\" Patrick",
+      "qid": "Q2056555",
+      "albums_with_her": 1,
+      "albums_with_him": 3,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Wilbur Ware",
+      "qid": "Q340063",
+      "albums_with_her": 1,
+      "albums_with_him": 3,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Sam Woodyard",
+      "qid": "Q358915",
+      "albums_with_her": 2,
+      "albums_with_him": 2,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Barry Galbraith",
+      "qid": "Q360049",
+      "albums_with_her": 3,
+      "albums_with_him": 1,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Ray Brown",
+      "qid": "Q354542",
+      "albums_with_her": 3,
+      "albums_with_him": 1,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Art Farmer",
+      "qid": "Q500464",
+      "albums_with_her": 1,
+      "albums_with_him": 2,
+      "said_about_her": false,
+      "said_about_him": true,
+      "she_spoke_of_them": false
+     }
+    ],
+    "available": true
+   }
+  },
+  "davis": {
+   "name": "Miles Davis",
+   "qid": "Q93341",
+   "born": "1926-05-26",
+   "she_said": null,
+   "on_her_records": false,
+   "albums_together": [],
+   "direct_edge": null,
+   "shared_neighbours": {
+    "count": 22,
+    "jaccard": 0.053,
+    "her_neighbours": 123,
+    "his_neighbours": 314,
+    "top": [
+     {
+      "node_id": "wd:Q1369035",
+      "label": "Slide Hampton",
+      "qid": "Q1369035",
+      "her_weight": 4.318,
+      "his_weight": 3.193
+     },
+     {
+      "node_id": "wd:Q201500",
+      "label": "Gerald Wilson",
+      "qid": "Q201500",
+      "her_weight": 4.318,
+      "his_weight": 2.299
+     },
+     {
+      "node_id": "wd:Q121535",
+      "label": "Benny Golson",
+      "qid": "Q121535",
+      "her_weight": 3.0,
+      "his_weight": 2.5
+     },
+     {
+      "node_id": "nm:john collins",
+      "label": "John Collins",
+      "qid": null,
+      "her_weight": 3.0,
+      "his_weight": 2.5
+     },
+     {
+      "node_id": "wd:Q107432",
+      "label": "Charles Mingus",
+      "qid": "Q107432",
+      "her_weight": 2.5,
+      "his_weight": 2.5
+     },
+     {
+      "node_id": "wd:Q1145565",
+      "label": "Curtis Fuller",
+      "qid": "Q1145565",
+      "her_weight": 2.5,
+      "his_weight": 2.5
+     },
+     {
+      "node_id": "wd:Q317161",
+      "label": "Wayne Shorter",
+      "qid": "Q317161",
+      "her_weight": 2.5,
+      "his_weight": 2.2
+     },
+     {
+      "node_id": "wd:Q275250",
+      "label": "Sam Jones",
+      "qid": "Q275250",
+      "her_weight": 2.5,
+      "his_weight": 2.2
+     },
+     {
+      "node_id": "wd:Q349082",
+      "label": "Budd Johnson",
+      "qid": "Q349082",
+      "her_weight": 3.0,
+      "his_weight": 1.0
+     },
+     {
+      "node_id": "wd:Q1173633",
+      "label": "David Baker",
+      "qid": "Q1173633",
+      "her_weight": 3.0,
+      "his_weight": 1.0
+     },
+     {
+      "node_id": "wd:Q322308",
+      "label": "Teddy Edwards",
+      "qid": "Q322308",
+      "her_weight": 3.0,
+      "his_weight": 1.0
+     },
+     {
+      "node_id": "wd:Q599429",
+      "label": "Benny Powell",
+      "qid": "Q599429",
+      "her_weight": 3.193,
+      "his_weight": 0.4
+     },
+     {
+      "node_id": "wd:Q357179",
+      "label": "Elvin Jones",
+      "qid": "Q357179",
+      "her_weight": 1.0,
+      "his_weight": 2.5
+     },
+     {
+      "node_id": "wd:Q432924",
+      "label": "Clark Terry",
+      "qid": "Q432924",
+      "her_weight": 1.2,
+      "his_weight": 2.0
+     },
+     {
+      "node_id": "wd:Q1433070",
+      "label": "Jeannie Cheatham",
+      "qid": "Q1433070",
+      "her_weight": 0.4,
+      "his_weight": 2.5
+     },
+     {
+      "node_id": "wd:Q437117",
+      "label": "Toshiko Akiyoshi",
+      "qid": "Q437117",
+      "her_weight": 0.4,
+      "his_weight": 2.5
+     },
+     {
+      "node_id": "wd:Q447907",
+      "label": "Hank Jones",
+      "qid": "Q447907",
+      "her_weight": 0.4,
+      "his_weight": 2.5
+     },
+     {
+      "node_id": "wd:Q281341",
+      "label": "Maxine Sullivan",
+      "qid": "Q281341",
+      "her_weight": 0.4,
+      "his_weight": 0.4
+     },
+     {
+      "node_id": "wd:Q2004076",
+      "label": "Snooky Young",
+      "qid": "Q2004076",
+      "her_weight": 0.4,
+      "his_weight": 0.4
+     },
+     {
+      "node_id": "wd:Q15485294",
+      "label": "Hayes Pillars",
+      "qid": "Q15485294",
+      "her_weight": 0.4,
+      "his_weight": 0.4
+     },
+     {
+      "node_id": "wd:Q489245",
+      "label": "Frank Foster",
+      "qid": "Q489245",
+      "her_weight": 0.4,
+      "his_weight": 0.4
+     },
+     {
+      "node_id": "wd:Q231071",
+      "label": "Abbey Lincoln",
+      "qid": "Q231071",
+      "her_weight": 0.4,
+      "his_weight": 0.4
+     }
+    ]
+   },
+   "documents_naming_both": {
+    "count": 13,
+    "items": [
+     {
+      "doc_id": "275855",
+      "title": "Benny Powell interviewed by Monk Rowe, New York City, New York, January 16, 1999 [interview 2 of 2]",
+      "collection": "hamilton",
+      "interviewee": "Benny Powell",
+      "year": 1999,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275855"
+     },
+     {
+      "doc_id": "275907",
+      "title": "Snooky Young and Gerald Wilson interviewed by Monk Rowe, Los Angeles, California, September 3, 1995",
+      "collection": "hamilton",
+      "interviewee": "Snooky Young and Gerald Wilson",
+      "year": 1995,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275907"
+     },
+     {
+      "doc_id": "275930",
+      "title": "Slide Hampton interviewed by Monk Rowe, West Orange, New Jersey, July 30, 2003",
+      "collection": "hamilton",
+      "interviewee": "Slide Hampton",
+      "year": 2003,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275930"
+     },
+     {
+      "doc_id": "61520",
+      "title": "61520_Teddy Edwards oral history interview",
+      "collection": "rutgers",
+      "interviewee": "Patricia Willard",
+      "year": null,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=61520"
+     },
+     {
+      "doc_id": "61529",
+      "title": "61529_Maxine Sullivan oral history interview",
+      "collection": "rutgers",
+      "interviewee": "Maxine Sullivan",
+      "year": null,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=61529"
+     },
+     {
+      "doc_id": "67426",
+      "title": "67426_Hayes Pillars oral history interview",
+      "collection": "rutgers",
+      "interviewee": "Hayes Pillars",
+      "year": null,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=67426"
+     },
+     {
+      "doc_id": "Abbey-Lincoln-Transcription-2020",
+      "title": "Abbey Lincoln — Smithsonian Jazz Oral History",
+      "collection": "si",
+      "interviewee": "Abbey Lincoln",
+      "year": 2020,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Abbey-Lincoln-Transcription-2020"
+     },
+     {
+      "doc_id": "David N. Baker SI-NEA oral history (2)",
+      "title": "David N. Baker — Smithsonian Jazz Oral History",
+      "collection": "si",
+      "interviewee": "David N. Baker",
+      "year": null,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=David%20N.%20Baker%20SI-NEA%20oral%20history%20%282%29"
+     },
+     {
+      "doc_id": "Fuller_Curtis_Transcript",
+      "title": "Curtis Fuller — Smithsonian Jazz Oral History",
+      "collection": "si",
+      "interviewee": "Curtis Fuller",
+      "year": null,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Fuller_Curtis_Transcript"
+     },
+     {
+      "doc_id": "Gerald-Wilson_transcription",
+      "title": "Gerald Wilson — Smithsonian Jazz Oral History",
+      "collection": "si",
+      "interviewee": "Gerald Wilson",
+      "year": null,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Gerald-Wilson_transcription"
+     },
+     {
+      "doc_id": "Hampton_Slide_Transcript",
+      "title": "Slide Hampton — Smithsonian Jazz Oral History",
+      "collection": "si",
+      "interviewee": "Slide Hampton",
+      "year": null,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Hampton_Slide_Transcript"
+     },
+     {
+      "doc_id": "Hank_Jones_Transcript",
+      "title": "Jones Hank — Smithsonian Jazz Oral History",
+      "collection": "si",
+      "interviewee": "Jones Hank",
+      "year": null,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Hank_Jones_Transcript"
+     },
+     {
+      "doc_id": "Toshiko_Akiyoshi_Transcript",
+      "title": "Akiyoshi Toshiko — Smithsonian Jazz Oral History",
+      "collection": "si",
+      "interviewee": "Akiyoshi Toshiko",
+      "year": null,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Toshiko_Akiyoshi_Transcript"
+     }
+    ]
+   },
+   "shared_releases": {
+    "count": 0,
+    "items": [],
+    "available": true
+   },
+   "shared_roster": {
+    "count": 112,
+    "items": [
+     {
+      "name": "Herbie Hancock",
+      "qid": "Q105875",
+      "albums_with_her": 1,
+      "albums_with_him": 41,
+      "said_about_her": false,
+      "said_about_him": true,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Paul Chambers",
+      "qid": "Q541659",
+      "albums_with_her": 3,
+      "albums_with_him": 35,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Ron Carter",
+      "qid": "Q434593",
+      "albums_with_her": 4,
+      "albums_with_him": 33,
+      "said_about_her": false,
+      "said_about_him": true,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Wayne Shorter",
+      "qid": "Q317161",
+      "albums_with_her": 1,
+      "albums_with_him": 33,
+      "said_about_her": false,
+      "said_about_him": true,
+      "she_spoke_of_them": true
+     },
+     {
+      "name": "Ernie Royal",
+      "qid": "Q491422",
+      "albums_with_her": 22,
+      "albums_with_him": 11,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Jimmy Cleveland",
+      "qid": "Q386883",
+      "albums_with_her": 24,
+      "albums_with_him": 7,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Jerome Richardson",
+      "qid": "Q720693",
+      "albums_with_her": 24,
+      "albums_with_him": 6,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "John Coltrane",
+      "qid": "Q7346",
+      "albums_with_her": 2,
+      "albums_with_him": 26,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": true
+     },
+     {
+      "name": "Wynton Kelly",
+      "qid": "Q536415",
+      "albums_with_her": 12,
+      "albums_with_him": 14,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": true
+     },
+     {
+      "name": "Jimmy Cobb",
+      "qid": "Q499491",
+      "albums_with_her": 1,
+      "albums_with_him": 24,
+      "said_about_her": false,
+      "said_about_him": true,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Philly Joe Jones",
+      "qid": "Q709873",
+      "albums_with_her": 3,
+      "albums_with_him": 21,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Cannonball Adderley",
+      "qid": "Q110477",
+      "albums_with_her": 4,
+      "albums_with_him": 19,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Al Foster",
+      "qid": "Q1341043",
+      "albums_with_her": 1,
+      "albums_with_him": 21,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Julius Watkins",
+      "qid": "Q1357150",
+      "albums_with_her": 13,
+      "albums_with_him": 7,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Art Blakey",
+      "qid": "Q311715",
+      "albums_with_her": 4,
+      "albums_with_him": 15,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "J. J. Johnson",
+      "qid": "Q504915",
+      "albums_with_her": 2,
+      "albums_with_him": 16,
+      "said_about_her": false,
+      "said_about_him": true,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Frank Rehak",
+      "qid": "Q1444006",
+      "albums_with_her": 6,
+      "albums_with_him": 11,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": true
+     },
+     {
+      "name": "Danny Bank",
+      "qid": "Q355970",
+      "albums_with_her": 7,
+      "albums_with_him": 9,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Bill Evans",
+      "qid": "Q208205",
+      "albums_with_her": 1,
+      "albums_with_him": 14,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Max Roach",
+      "qid": "Q175899",
+      "albums_with_her": 5,
+      "albums_with_him": 10,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Dizzy Gillespie",
+      "qid": "Q49575",
+      "albums_with_her": 8,
+      "albums_with_him": 6,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": true
+     },
+     {
+      "name": "Quentin Jackson",
+      "qid": "Q720707",
+      "albums_with_her": 13,
+      "albums_with_him": 1,
+      "said_about_her": true,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Quincy Jones",
+      "qid": "Q193645",
+      "albums_with_her": 11,
+      "albums_with_him": 2,
+      "said_about_her": false,
+      "said_about_him": true,
+      "she_spoke_of_them": true
+     },
+     {
+      "name": "Romeo Penque",
+      "qid": "Q111734787",
+      "albums_with_her": 4,
+      "albums_with_him": 9,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Budd Johnson",
+      "qid": "Q349082",
+      "albums_with_her": 10,
+      "albums_with_him": 2,
+      "said_about_her": false,
+      "said_about_him": true,
+      "she_spoke_of_them": true
+     },
+     {
+      "name": "Joe Zawinul",
+      "qid": "Q44767",
+      "albums_with_her": 1,
+      "albums_with_him": 11,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Willie Ruff",
+      "qid": "Q2581484",
+      "albums_with_her": 6,
+      "albums_with_him": 6,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Bernie Glow",
+      "qid": "Q826556",
+      "albums_with_her": 1,
+      "albums_with_him": 10,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Hank Mobley",
+      "qid": "Q534842",
+      "albums_with_her": 1,
+      "albums_with_him": 10,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Milt Jackson",
+      "qid": "Q435665",
+      "albums_with_her": 3,
+      "albums_with_him": 8,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Rudy Van Gelder",
+      "qid": "Q945681",
+      "albums_with_her": 6,
+      "albums_with_him": 5,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Thelonious Monk",
+      "qid": "Q109612",
+      "albums_with_her": 2,
+      "albums_with_him": 8,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": true
+     },
+     {
+      "name": "Zoot Sims",
+      "qid": "Q12344256",
+      "albums_with_her": 5,
+      "albums_with_him": 5,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Jerry Dodgion",
+      "qid": "Q1687811",
+      "albums_with_her": 9,
+      "albums_with_him": 1,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Oliver Nelson",
+      "qid": "Q720687",
+      "albums_with_her": 9,
+      "albums_with_him": 1,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": true
+     },
+     {
+      "name": "Jimmy Heath",
+      "qid": "Q711314",
+      "albums_with_her": 4,
+      "albums_with_him": 5,
+      "said_about_her": false,
+      "said_about_him": true,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "James Buffington",
+      "qid": "Q1689321",
+      "albums_with_her": 5,
+      "albums_with_him": 4,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Al Grey",
+      "qid": "Q715687",
+      "albums_with_her": 8,
+      "albums_with_him": 1,
+      "said_about_her": true,
+      "said_about_him": false,
+      "she_spoke_of_them": true
+     },
+     {
+      "name": "Britt Woodman",
+      "qid": "Q349342",
+      "albums_with_her": 8,
+      "albums_with_him": 1,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": true
+     },
+     {
+      "name": "Kenny Burrell",
+      "qid": "Q255355",
+      "albums_with_her": 7,
+      "albums_with_him": 1,
+      "said_about_her": false,
+      "said_about_him": true,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "James Moody",
+      "qid": "Q962310",
+      "albums_with_her": 5,
+      "albums_with_him": 3,
+      "said_about_her": false,
+      "said_about_him": true,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Hank Jones",
+      "qid": "Q447907",
+      "albums_with_her": 6,
+      "albums_with_him": 2,
+      "said_about_her": false,
+      "said_about_him": true,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Walter Bishop Jr.",
+      "qid": "Q933192",
+      "albums_with_her": 1,
+      "albums_with_him": 7,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Art Taylor",
+      "qid": "Q705751",
+      "albums_with_her": 2,
+      "albums_with_him": 6,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Chuck Stewart",
+      "qid": "Q5115722",
+      "albums_with_her": 5,
+      "albums_with_him": 3,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Al Cohn",
+      "qid": "Q1382232",
+      "albums_with_her": 6,
+      "albums_with_him": 2,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "George Duvivier",
+      "qid": "Q1370288",
+      "albums_with_her": 7,
+      "albums_with_him": 1,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Milt Hinton",
+      "qid": "Q491411",
+      "albums_with_her": 7,
+      "albums_with_him": 1,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Q29264362",
+      "qid": "Q29264362",
+      "albums_with_her": 7,
+      "albums_with_him": 1,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Jackie McLean",
+      "qid": "Q920490",
+      "albums_with_her": 1,
+      "albums_with_him": 6,
+      "said_about_her": false,
+      "said_about_him": true,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Elvin Jones",
+      "qid": "Q357179",
+      "albums_with_her": 2,
+      "albums_with_him": 5,
+      "said_about_her": false,
+      "said_about_him": true,
+      "she_spoke_of_them": true
+     },
+     {
+      "name": "Roy Haynes",
+      "qid": "Q448235",
+      "albums_with_her": 2,
+      "albums_with_him": 5,
+      "said_about_her": false,
+      "said_about_him": true,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Sam Jones",
+      "qid": "Q275250",
+      "albums_with_her": 5,
+      "albums_with_him": 2,
+      "said_about_her": false,
+      "said_about_him": true,
+      "she_spoke_of_them": true
+     },
+     {
+      "name": "Johnny Coles",
+      "qid": "Q338838",
+      "albums_with_her": 1,
+      "albums_with_him": 6,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Taft Jordan",
+      "qid": "Q962940",
+      "albums_with_her": 2,
+      "albums_with_him": 5,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Kai Winding",
+      "qid": "Q494976",
+      "albums_with_her": 3,
+      "albums_with_him": 4,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Charles Mingus",
+      "qid": "Q107432",
+      "albums_with_her": 2,
+      "albums_with_him": 4,
+      "said_about_her": false,
+      "said_about_him": true,
+      "she_spoke_of_them": true
+     },
+     {
+      "name": "Victor Feldman",
+      "qid": "Q719533",
+      "albums_with_her": 1,
+      "albums_with_him": 5,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Francis Wolff",
+      "qid": "Q214355",
+      "albums_with_her": 2,
+      "albums_with_him": 4,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Oscar Pettiford",
+      "qid": "Q497183",
+      "albums_with_her": 2,
+      "albums_with_him": 4,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Bennie Green",
+      "qid": "Q817875",
+      "albums_with_her": 3,
+      "albums_with_him": 3,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": true
+     },
+     {
+      "name": "Nelson Boyd",
+      "qid": "Q354046",
+      "albums_with_her": 4,
+      "albums_with_him": 2,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Richard Davis",
+      "qid": "Q716851",
+      "albums_with_her": 5,
+      "albums_with_him": 1,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Ray Brown",
+      "qid": "Q354542",
+      "albums_with_her": 3,
+      "albums_with_him": 2,
+      "said_about_her": false,
+      "said_about_him": true,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Jimmy Maxwell",
+      "qid": "Q1354567",
+      "albums_with_her": 4,
+      "albums_with_him": 1,
+      "said_about_her": false,
+      "said_about_him": true,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Gary Bartz",
+      "qid": "Q1494823",
+      "albums_with_her": 1,
+      "albums_with_him": 4,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Lucky Thompson",
+      "qid": "Q1349922",
+      "albums_with_her": 1,
+      "albums_with_him": 4,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Alfred Lion",
+      "qid": "Q68260",
+      "albums_with_her": 2,
+      "albums_with_him": 3,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Connie Kay",
+      "qid": "Q431520",
+      "albums_with_her": 3,
+      "albums_with_him": 2,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Dave Burns",
+      "qid": "Q1173137",
+      "albums_with_her": 4,
+      "albums_with_him": 1,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Ernie Henry",
+      "qid": "Q1356914",
+      "albums_with_her": 4,
+      "albums_with_him": 1,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": true
+     },
+     {
+      "name": "Thad Jones",
+      "qid": "Q539883",
+      "albums_with_her": 4,
+      "albums_with_him": 1,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Leonard Feather",
+      "qid": "Q1382271",
+      "albums_with_her": 1,
+      "albums_with_him": 3,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": true
+     },
+     {
+      "name": "Reid Miles",
+      "qid": "Q558597",
+      "albums_with_her": 1,
+      "albums_with_him": 3,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Benny Bailey",
+      "qid": "Q583913",
+      "albums_with_her": 3,
+      "albums_with_him": 1,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Cecil Payne",
+      "qid": "Q485927",
+      "albums_with_her": 3,
+      "albums_with_him": 1,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Earl Chapin",
+      "qid": "Q55082134",
+      "albums_with_her": 3,
+      "albums_with_him": 1,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Harry Lookofsky",
+      "qid": "Q5670719",
+      "albums_with_her": 3,
+      "albums_with_him": 1,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Idrees Sulieman",
+      "qid": "Q1656883",
+      "albums_with_her": 3,
+      "albums_with_him": 1,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     },
+     {
+      "name": "Kenny Dorham",
+      "qid": "Q498729",
+      "albums_with_her": 3,
+      "albums_with_him": 1,
+      "said_about_her": false,
+      "said_about_him": false,
+      "she_spoke_of_them": false
+     }
+    ],
+    "available": true
+   }
+  }
+ }
+}

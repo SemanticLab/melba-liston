@@ -1,0 +1,98 @@
+{
+ "subject": "liston",
+ "qid": "Q274146",
+ "judged_by": "claude-opus-5-5 subagent working to extract/RECOVERED_SPEC.md; whole set in one pass, with the surrounding transcript on both sides of every thread",
+ "source": "blocks recovered by build_answers.py + build_continuations.py that name-matching never captured",
+ "count": 2,
+ "method": "is_about_subject AND notable>=2 AND verbatim pull_quote; ranked by notable, subject_confidence, stance_strength",
+ "items": [
+  {
+   "block_id": 275466,
+   "subject": "liston",
+   "qid": "Q274146",
+   "source": "answer",
+   "anchor": {
+    "block_id": 275465,
+    "speaker": "Brower",
+    "text": "You were talking about the circumstances that led you to leave the Ferguson band and to go on to your assignment with Dizzy. We talked about that band. In that band, is that your first relationship with Melba Liston?"
+   },
+   "speaker": "Hampton",
+   "speaker_missing": false,
+   "text": "Yes it was. I didn’t know that she was as heavy musically as she was. I got in that band. I learned it real fast. Musically, she was heavy.",
+   "competing_names": [],
+   "pronoun_risk": null,
+   "is_about_subject": true,
+   "subject_confidence": "high",
+   "actually_about": "",
+   "mention_kind": "substantive_comment",
+   "stance": "positive",
+   "stance_strength": 3,
+   "content_type": [
+    "musical_assessment",
+    "working_relationship",
+    "personal_memory"
+   ],
+   "block_is_firsthand": true,
+   "quotes_the_subject": false,
+   "summary": "Hampton said he first worked with Liston in Dizzy Gillespie's band and quickly learned how musically heavy she was.",
+   "pull_quote": "I didn’t know that she was as heavy musically as she was. I got in that band. I learned it real fast. Musically, she was heavy.",
+   "notable": 2,
+   "notes": "Direct answer to 'is that your first relationship with Melba Liston?' in Gillespie's band.",
+   "quote_rejected_non_verbatim": false,
+   "judged_by": "opus_subagent",
+   "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Hampton_Slide_Transcript#b48-10",
+   "doc_id": "Hampton_Slide_Transcript",
+   "doc": {
+    "title": "Slide Hampton — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee": "Slide Hampton",
+    "interviewer": null
+   }
+  },
+  {
+   "block_id": 272798,
+   "subject": "liston",
+   "qid": "Q274146",
+   "source": "answer",
+   "anchor": {
+    "block_id": 272797,
+    "speaker": "Brower",
+    "text": "That isn't it is very important to Dr. Taylor, is the cultivation, or the equalization of the participation of women in this music. But, does that hearken back to may be the experience of Melba Liston and how important she was? Talk about that relationship"
+   },
+   "speaker": "Curtis Fuller",
+   "speaker_missing": false,
+   "text": "Oh yeah, that was a beautiful relationship. I've seen her sit on the bandstand and cry. And that organization actually had to women and it. Patty Bowen was on piano.",
+   "competing_names": [],
+   "pronoun_risk": null,
+   "is_about_subject": true,
+   "subject_confidence": "high",
+   "actually_about": "",
+   "mention_kind": "substantive_comment",
+   "stance": "positive",
+   "stance_strength": 2,
+   "content_type": [
+    "personal_memory",
+    "working_relationship",
+    "gender"
+   ],
+   "block_is_firsthand": true,
+   "quotes_the_subject": false,
+   "summary": "Fuller called his relationship with Liston in Quincy Jones's band a beautiful one and recalled seeing her sit on the bandstand and cry.",
+   "pull_quote": "Oh yeah, that was a beautiful relationship. I've seen her sit on the bandstand and cry.",
+   "notable": 2,
+   "notes": "'her' precedes the Patty Bowen mention and follows a question naming Liston; next block confirms the band is Quincy Jones's and names Melba. Why she cried is not explained -- use with care. 'had to women and it' is a garble of 'had two women in it'.",
+   "quote_rejected_non_verbatim": false,
+   "judged_by": "opus_subagent",
+   "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Fuller_Curtis_Transcript#b79-2",
+   "doc_id": "Fuller_Curtis_Transcript",
+   "doc": {
+    "title": "Curtis Fuller — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee": "Curtis Fuller",
+    "interviewer": null
+   }
+  }
+ ]
+}

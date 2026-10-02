@@ -1,0 +1,117 @@
+{
+ "self": {
+  "count": 173,
+  "by_notable": {
+   "3": 12,
+   "2": 105,
+   "1": 56
+  },
+  "by_theme": {
+   "character": 49,
+   "arranging": 41,
+   "stroke": 26,
+   "being_a_woman": 21,
+   "big_bands": 19,
+   "learning": 18,
+   "the_trombone": 17,
+   "teaching": 14,
+   "randy_weston": 11,
+   "the_road": 9,
+   "jamaica": 9,
+   "money_and_credit": 8,
+   "studio_work": 8,
+   "composing": 7,
+   "origins": 7,
+   "first_work": 6,
+   "own_bands": 6,
+   "music_today": 6,
+   "leaving_music": 4,
+   "race": 2
+  },
+  "stand_alone": 92,
+  "with_editorial_bracket": 1
+ },
+ "bryant": {
+  "count": 83,
+  "by_notable": {
+   "3": 8,
+   "2": 55,
+   "1": 20
+  },
+  "by_kind": {
+   "biographical_fact": 25,
+   "musical_assessment": 21,
+   "tribute": 16,
+   "praise": 8,
+   "shared_memory": 8,
+   "character_description": 5
+  },
+  "liston_response": {
+   "elaborates": 32,
+   "confirms": 17,
+   "deflects": 16,
+   "denies": 10,
+   "no_response": 8
+  }
+ },
+ "timeline": {
+  "count": 53,
+  "stated_by": {
+   "liston": 30,
+   "bryant": 18,
+   "transcriber": 5
+  },
+  "confirmed_by_liston": 44,
+  "undated": 22
+ },
+ "quotes_dropped_on_verification": {},
+ "categories": {
+  "count": 10,
+  "by_category": {
+   "beginnings": {
+    "liston": 18,
+    "bryant": 9
+   },
+   "big_bands": {
+    "liston": 18,
+    "bryant": 7
+   },
+   "being_a_woman": {
+    "liston": 15,
+    "bryant": 8
+   },
+   "the_trombone": {
+    "liston": 14,
+    "bryant": 9
+   },
+   "arranging": {
+    "liston": 32,
+    "bryant": 22
+   },
+   "life_offstage": {
+    "liston": 18,
+    "bryant": 3
+   },
+   "randy_weston": {
+    "liston": 10,
+    "bryant": 3
+   },
+   "teaching": {
+    "liston": 19,
+    "bryant": 3
+   },
+   "own_bands": {
+    "liston": 12,
+    "bryant": 7
+   },
+   "after_the_stroke": {
+    "liston": 17,
+    "bryant": 12
+   }
+  },
+  "two_readers_agreed": 253,
+  "adjudicated": 3,
+  "with_secondary": 37,
+  "uncategorised": 0
+ }
+}

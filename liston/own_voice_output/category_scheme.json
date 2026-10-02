@@ -1,0 +1,252 @@
+{
+ "categories": [
+  {
+   "key": "beginnings",
+   "label": "Beginnings",
+   "definition": "Her childhood and youth before she turned professional: family, Kansas City, the move to Los Angeles, school, the first trombone, and Alma Hightower's youth band.",
+   "includes": [
+    "birth, parents, grandparents, aunts, and the family's move west",
+    "the player piano, the radio and other music heard at home as a child",
+    "getting her first trombone, practising as a child, being too small for the far slide positions",
+    "her childhood ear for melody and her head for numbers",
+    "school, skipped grades, and teachers she had as a child or teenager (including a teacher who wanted to adopt her, and one she dropped)",
+    "a childhood radio show, church playing",
+    "Alma Hightower, the Melodic Dots, the girls in that band, what Hightower taught them, trips the youth band made",
+    "lines by Bryant about Hightower's regard for her or about Hightower's teaching as the root of her later skills"
+   ],
+   "excludes": [
+    "leaving Hightower at sixteen to join the union and play the Lincoln Theater: that is the start of her working life, so big_bands",
+    "how she began writing for the Lincoln Theater band: arranging",
+    "general sayings about how a young musician should learn, or her advice to students: teaching"
+   ],
+   "expected_liston": 18,
+   "expected_bryant": 9
+  },
+  {
+   "key": "big_bands",
+   "label": "The Big Bands",
+   "definition": "Her working life as a member of other leaders' bands, from the Lincoln Theater pit band through Gerald Wilson, Count Basie and Dizzy Gillespie, including touring with them and the State Department tours.",
+   "includes": [
+    "the Lincoln Theater: the pit band, stage skits with comedians, the acts and stars who passed through, Black Los Angeles entertainment versus the white theatres downtown",
+    "Gerald Wilson: how he took her into his band, her years and role there (copyist, section player), the band's quality and reputation, New York versus California",
+    "tours as a band member: backing Billie Holiday, being stranded, travelling by bus or truck as a working musician",
+    "Dizzy Gillespie as a leader: being sent for, joining the band, what he was like, his keeping the band together, the band breaking up",
+    "the State Department tours as events: politics, the leader's role, an assignment she was given as a job",
+    "recording with Basie or other leaders as a sideman (where her playing is not the point)"
+   ],
+   "excludes": [
+    "audience or bandmate reactions to her being a woman, and the men who resented a woman being sent for: being_a_woman",
+    "the music she wrote for these bands, when the writing itself is the point: arranging",
+    "her own solos, her sound, singing, or her first time playing without written music: the_trombone",
+    "quitting the road for day jobs: life_offstage",
+    "the Hightower youth band and its trips: beginnings"
+   ],
+   "expected_liston": 19,
+   "expected_bryant": 7
+  },
+  {
+   "key": "being_a_woman",
+   "label": "Being a Woman",
+   "definition": "Lines whose point is that she was a woman in a man's music: how audiences, bandmates, the business and other women treated her, and what women musicians face.",
+   "includes": [
+    "audiences murmuring at a girl on the bandstand; leaders featuring 'the girl' because audiences expected it",
+    "being the first woman trombonist people had seen; being called a pioneer or icebreaker",
+    "men in a band resenting a woman being hired, and the way she was proved to them",
+    "harassment by a bandmate on the road and being blamed for it",
+    "being told, or saying, that she never got a label contract because she was a woman",
+    "how women in other countries reacted to her on tour, and her acceptance or reception abroad as a woman",
+    "the hard time women musicians still have, younger women players, whether young women understand what her generation went through"
+   ],
+   "excludes": [
+    "general advice to young musicians (study, find a model, commit), even when addressed to girls: teaching, unless the line is chiefly about how hard it is for women",
+    "the history and personnel of her own all-women group as a band (where it toured, who replaced whom): own_bands",
+    "her marriages and husbands: life_offstage",
+    "Gillespie's character or the band's history where gender is not the point: big_bands"
+   ],
+   "expected_liston": 16,
+   "expected_bryant": 8
+  },
+  {
+   "key": "the_trombone",
+   "label": "The Trombone",
+   "definition": "Her own playing and performing as an adult: the instrument, her sound and solos, what she thinks about when she blows, singing her own numbers, and her struggle to play again after the stroke.",
+   "includes": [
+    "loving the instrument; trombone influences",
+    "her solos and sound on recordings, praise of her playing",
+    "what goes through her head when she plays",
+    "her first record date and playing without written music",
+    "conducting more than playing in later years; carrying horns she no longer played",
+    "singing her own songs, breath control, sounding like a singer",
+    "after the stroke: the stolen horn, the trombone sent to her as a gift, getting only two or three notes, her weak arm, trying to play left-handed, vowing to play again, wanting someone to sit with her while she relearns"
+   ],
+   "excludes": [
+    "her childhood trombone, its first purchase, and learning to play as a child: beginnings",
+    "the arrangement written around her solo: arranging",
+    "the stroke itself, recovery, and her writing after the stroke: after_the_stroke",
+    "a piece she is composing for the person who gave her the horn: arranging"
+   ],
+   "expected_liston": 14,
+   "expected_bryant": 9
+  },
+  {
+   "key": "arranging",
+   "label": "Arranging",
+   "definition": "Her writing: how she began, how she works, writing from the soul, writing for leaders, singers and strings, her compositions, and how she and others react to hearing her arrangements.",
+   "includes": [
+    "how she started writing at the Lincoln Theater and the start of her writing career",
+    "her method: thinking a long time first, writing straight through, revising, reaching down, editing",
+    "writing from her own soul rather than from models; being untrained",
+    "writing for Monk, Mingus, Dinah Washington, Gloria Lynne, Ray Charles and other stars; how they treated her",
+    "writing for strings, for voices, for unusual combinations; the song versus the singer",
+    "musicians' first resistance to her charts and then their delight; her friendships with other arrangers",
+    "specific arrangements and medleys she wrote, what makes them work (shadings, fill-ins, voicings), her range of styles",
+    "her compositions as music, new pieces in progress, a tune she hopes will become her theme",
+    "listening to her own arrangements during the interview: whether she is thrilled, whether they still hold up",
+    "the speed at which she used to write, the piano versus the electric keyboard"
+   ],
+   "excludes": [
+    "writing for Randy Weston when the relationship or his instructions are the point: randy_weston",
+    "credit, royalties, or uncredited work: own_bands",
+    "being told to write as a job duty in someone's band, or her role as copyist: big_bands",
+    "regaining her writing after the stroke: after_the_stroke",
+    "a tune discussed for its personal meaning (named for a husband): life_offstage",
+    "her trombone sound on her own arrangement: the_trombone"
+   ],
+   "expected_liston": 32,
+   "expected_bryant": 22
+  },
+  {
+   "key": "life_offstage",
+   "label": "Life Offstage",
+   "definition": "The parts of her life apart from making music: the years she left music for day jobs, her film roles, her marriages and loves, and home.",
+   "includes": [
+    "being tired of the road, taking the Board of Education exam, the insurance company job, and going back to music",
+    "her film appearances and her modesty about them",
+    "her husbands, love, separation, the husband who kept calling, being sorry he died, whether he minded her music",
+    "a man she was to marry who died",
+    "a tune named for her husband, when the name is the point",
+    "buying a home and settling down"
+   ],
+   "excludes": [
+    "a bandmate's harassment on tour: being_a_woman",
+    "life in Los Angeles after the stroke and plans to return to New York: after_the_stroke",
+    "friendships with musicians that bear on her work: the category of that work"
+   ],
+   "expected_liston": 18,
+   "expected_bryant": 3
+  },
+  {
+   "key": "randy_weston",
+   "label": "Randy Weston",
+   "definition": "Her forty-year partnership with the pianist Randy Weston: how they met, the albums she arranged for him, how they work together, and his standing by her.",
+   "includes": [
+    "meeting Weston, his asking her to arrange his tunes, the first album",
+    "how much of his recorded work she arranged",
+    "what he tells her, or does not tell her, when she writes for him; her freedom with him; their likeness of mind",
+    "Weston taking her to Jamaica",
+    "Weston pulling her out of the stroke and sticking with her, and her loyalty to him in return"
+   ],
+   "excludes": [
+    "the craft of a particular Weston arrangement (string voicings, how one version compares with another) when Weston is not the point: arranging",
+    "her work teaching in Jamaica once there: teaching",
+    "her own recovery and writing again after the stroke, where Weston is mentioned in passing: after_the_stroke"
+   ],
+   "expected_liston": 10,
+   "expected_bryant": 3
+  },
+  {
+   "key": "teaching",
+   "label": "Teaching the Young",
+   "definition": "Her work with young musicians and what she thinks of them: the youth orchestras, the Jamaica years, her advice to students, and her view of young players and music today.",
+   "includes": [
+    "the youth orchestras she helped found and directed",
+    "teaching in Jamaica: her students, the island's leaders and the school, leaving, hearing from students since, musicians who visited to play for them",
+    "what she taught and in what order",
+    "general maxims about learning from the ground up",
+    "advice to young musicians: study, make schools teach you, find a model, commit, focus on the music",
+    "where young people want to learn and where they do not",
+    "her opinion of today's music, fusion, and whether young players have soul"
+   ],
+   "excludes": [
+    "her own childhood teachers and Hightower: beginnings",
+    "how hard it still is for young women in particular, and younger women players: being_a_woman",
+    "how she got to Jamaica with Weston: randy_weston"
+   ],
+   "expected_liston": 19,
+   "expected_bryant": 3
+  },
+  {
+   "key": "own_bands",
+   "label": "Bandleader and Business",
+   "definition": "Her career under her own name and the business around it: her own groups and records, managers, labels, money, credit and recognition.",
+   "includes": [
+    "her own groups: the all-women group and how it began, its tours, replacing women with men, its name, its instrumentation, unreleased recordings",
+    "her own record dates as leader and what she thinks of them now",
+    "never having a manager or a major-label contract (apart from her answer that it was because she is a woman)",
+    "money: not having made any, hoping to, royalties, getting paid versus getting the music out",
+    "credit: work she did that was heard without her name, awards and tributes on the wall",
+    "peers versus critics"
+   ],
+   "excludes": [
+    "the reason 'because I'm a woman': being_a_woman",
+    "other leaders' bands: big_bands",
+    "the craft of arrangements she was or was not credited for: arranging"
+   ],
+   "expected_liston": 11,
+   "expected_bryant": 7
+  },
+  {
+   "key": "after_the_stroke",
+   "label": "After the Stroke",
+   "definition": "The 1985 stroke and the years to the interview: losing speech and thought, recovery, fear of being seen, friends who helped, writing again, life in Los Angeles, plans to return to New York, and taking stock of her life.",
+   "includes": [
+    "what the stroke did: not thinking, relearning how to eat, not talking",
+    "fear of going out and of people gloating; having to get up and keep going",
+    "friends who helped after the stroke (other than Weston as the subject)",
+    "writing again after the stroke, slower than before, hoping to regain speed",
+    "life in Los Angeles: doing no work there, not going out",
+    "plans and hopes for New York: a new start, another phase, people waiting for her there",
+    "taking stock: goals, whether she set any, being the best she can be, Bryant's praise of her attitude and her tributes to what Liston has meant to others",
+    "her apology at the end for not being able to talk more, and Bryant's answer"
+   ],
+   "excludes": [
+    "the trombone after the stroke (playing two or three notes, the stolen horn, the gifted horn, her arm): the_trombone",
+    "Weston pulling her out of the stroke, when Weston is the subject: randy_weston",
+    "money she hopes to make in New York: own_bands",
+    "her opinions of today's young musicians: teaching"
+   ],
+   "expected_liston": 16,
+   "expected_bryant": 12
+  }
+ ],
+ "order_rationale": "The page follows her life roughly in the order each subject begins: childhood, then the big bands she joined at sixteen, then the two things that ran through that whole career (being a woman in it, and the horn), then her writing, which became her main work. Life Offstage follows because her day jobs and films interrupted the band years. Randy Weston (from 1956) leads into the later chapters: teaching (1960s youth orchestras, 1970s Jamaica), her own bands and the business (her 1958 record and the 1980s groups), and finally the stroke and the day of the interview.",
+ "boundary_rules": [
+  "beginnings / big_bands: everything up to and including her time in the Hightower youth band is beginnings. The moment she leaves Hightower to join the union and play the Lincoln Theater is big_bands, because the line is about starting her working life.",
+  "beginnings / the_trombone: any line about the trombone as a child (getting it, practising it, reaching the positions) is beginnings. Adult playing is the_trombone.",
+  "beginnings / arranging: her childhood ear and number system for melodies is beginnings. Being asked to write for acts at the Lincoln Theater, and calling it the start of her writing career, is arranging.",
+  "beginnings / teaching: lines about Hightower, including Bryant tracing Liston's craft back to Hightower's teaching, go to beginnings. A general maxim about learning from scratch, or advice to students, goes to teaching.",
+  "big_bands / being_a_woman: if the line is about her being a woman (audiences reacting to a girl, leaders featuring 'the girl', men resenting that a woman was sent for, Gillespie silencing those men by having them read her chart, Wilson presenting her as a woman who wrote, played and sang), it goes to being_a_woman. If it is about the leader, the band, the tour or the work and gender is not mentioned or implied by the question, it goes to big_bands. Praise of Gillespie's faith in her goes to big_bands.",
+  "big_bands / being_a_woman on the State Department tours: how women abroad saw her, whether she talked to them, and her acceptance or reception abroad go to being_a_woman (that exchange is about her as a woman). Politics, Gillespie's role and her assignments on the tour go to big_bands.",
+  "big_bands / arranging: if the music she wrote is the point (its content, how it was made, how it sounds), arranging. If the point is her job in the band (copyist, 'they told me to write it, it was just another job'), big_bands.",
+  "big_bands / life_offstage: hardships while still on the road with a band (being stranded) go to big_bands. Deciding she was through with the road and taking a day job, and returning to music from it, go to life_offstage.",
+  "big_bands / the_trombone: her first record date and playing without written music go to the_trombone; Bryant passing on that she recorded with Basie goes to big_bands.",
+  "being_a_woman / teaching: advice to young players about studying and committing goes to teaching even when Bryant's question was about girls; a line whose main claim is that it is hard for women, or about women players coming along, goes to being_a_woman.",
+  "being_a_woman / own_bands: the all-women group's history (how it started, where it went, adding men, its name) goes to own_bands. Why no major label signed her: the answer 'I'm a woman' goes to being_a_woman; the lines about having no manager, or perhaps not being ready, go to own_bands.",
+  "being_a_woman / life_offstage: a bandmate's sexual advance on tour and being blamed for it goes to being_a_woman, even though it arose from a question about her husband.",
+  "the_trombone / after_the_stroke: anything about the horn after the stroke (the stolen horn, the horn she was sent, two or three notes, the arm, vowing to blow again, wishing she could play like that now) goes to the_trombone. The stroke's effects on body, speech, mind, writing and social life go to after_the_stroke.",
+  "the_trombone / arranging: on a recording where she both plays and arranged, praise of her solo or sound, or what she thinks of while blowing, goes to the_trombone; praise of the arrangement behind or around the solo goes to arranging. Singing her own song goes to the_trombone as her own performance.",
+  "arranging / randy_weston: if Weston is the subject (meeting him, what he asks of her, their forty years, how much she wrote for him, his saying she writes like him, her freedom with him), randy_weston. If the line is about craft in a piece for Weston (the strings version compared to the original, voicings) and Weston's role is not the point, arranging.",
+  "arranging / own_bands: credit, royalties and uncredited work go to own_bands even when the work in question is an arrangement. Her own leader record date and her verdict on it go to own_bands.",
+  "arranging / after_the_stroke: describing how fast she used to write is arranging; regaining speed or getting started writing again after the stroke is after_the_stroke.",
+  "arranging / life_offstage: a composition goes to arranging unless the line is about the personal meaning of its title (a husband's name), which goes to life_offstage.",
+  "arranging / big_bands on writing for stars: what writing for singers and stars was like, and whether they gave her trouble, is arranging; their bands as employers is not a separate subject here.",
+  "randy_weston / after_the_stroke: crediting Weston with pulling her out of the stroke, or thanking him for sticking with her, goes to randy_weston. Her own recovery, with Weston mentioned in passing as the one who got her writing again, goes to after_the_stroke.",
+  "randy_weston / teaching: Weston taking her to Jamaica goes to randy_weston; anything about her work and students in Jamaica goes to teaching.",
+  "teaching / after_the_stroke: views on today's music and young players, and where students want to learn, go to teaching. Remarks about her own life in Los Angeles now (not getting around, wanting to be in New York), even when prompted by talk of West Coast youth, go to after_the_stroke.",
+  "own_bands / after_the_stroke: money she has not made and hopes to make goes to own_bands. Her goals, her standard of doing the best she can, and Bryant's tributes go to after_the_stroke as taking stock. Awards on the wall go to own_bands as recognition. Her indifference to peers and critics goes to own_bands.",
+  "life_offstage / after_the_stroke: her husband calling her in Los Angeles and her sorrow at his death go to life_offstage; her Los Angeles life and plans go to after_the_stroke. Friends who helped her after the stroke go to after_the_stroke.",
+  "life_offstage / big_bands for California versus New York: a remark comparing the jazz scene in California and New York in the band years goes to big_bands, even if she jokes about going back to New York; a remark about moving back to New York now goes to after_the_stroke.",
+  "Listening-session lines: when Bryant plays her records during the interview, reactions to the writing go to arranging, reactions to the playing or singing go to the_trombone, and talk of royalties or credit goes to own_bands. Liston teasing Bryant about what a piece reminds her of goes to arranging."
+ ],
+ "notes": "Categorise the pull quote in its exchange: many of Liston's lines are a few words long and are about whatever Bryant just asked (read `before` and `prompted_by`). Liston's modesty, shrugs and deflections are not a subject: put each in the section of the thing she is shrugging off (her films, Hightower's praise, an arrangement, being the best). Bryant's lines go to the section of what she is speaking about, by the same rules. Racial segregation appears only in the Lincoln Theater years and goes to big_bands. Secondary categories are useful mainly for: Weston-and-stroke lines, State Department tour lines, the Gillespie hiring episode, the all-women group, and her writing speed before and after the stroke."
+}

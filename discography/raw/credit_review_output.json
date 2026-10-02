@@ -1,0 +1,69 @@
+{
+ "judged_by": "claude-opus-5-5",
+ "count": 7,
+ "items": [
+  {
+   "title": "Zodiac Suite",
+   "credited_on_this_release": "no",
+   "role": "mentioned",
+   "scope": "",
+   "evidence": "With the jazz arranger Melba Liston , Williams planned an arrangement of the suite for the pianist Thelonious Monk but the project never materialised.",
+   "reasoning": "The only mention is of a planned Monk arrangement of the suite that never materialised, not of this 1945 recording.",
+   "confidence": "high"
+  },
+  {
+   "title": "At Basin Street East (Billy Eckstine and Quincy Jones album)",
+   "credited_on_this_release": "unverified",
+   "role": "unknown",
+   "scope": "unspecified",
+   "evidence": "1961: At Basin Street East , Billy Eckstine / Quincy Jones",
+   "reasoning": "Her biography's discography lists it, but the album page does not mention her and its personnel lists only Eckstine and Jones, so neither presence nor role can be checked.",
+   "confidence": "medium"
+  },
+  {
+   "title": "Hub Cap (album)",
+   "credited_on_this_release": "yes",
+   "role": "arranger",
+   "scope": "one track: Cry Me Not",
+   "evidence": "The track \"Cry Me Not\", composed by Randy Weston for the session and arranged by Melba Liston , was considered by Hubbard to be \"the most interesting tune on the record\".",
+   "reasoning": "The album page says she arranged the track \"Cry Me Not\" for this session, although she is not in the Personnel list.",
+   "confidence": "high"
+  },
+  {
+   "title": "Mary Lou Williams (album)",
+   "credited_on_this_release": "unverified",
+   "role": "unknown",
+   "scope": "unspecified",
+   "evidence": "1964: Mary Lou Williams Presents Black Christ of the Andes , Mary Lou Williams",
+   "reasoning": "Her discography lists \"Mary Lou Williams Presents Black Christ of the Andes\", but this album page never mentions her and has no personnel, and the text does not confirm that the two titles are the same release.",
+   "confidence": "low"
+  },
+  {
+   "title": "When I'm Alone I Cry",
+   "credited_on_this_release": "yes",
+   "role": "arranger",
+   "scope": "unspecified (one of three arrangers on the backing tracks)",
+   "evidence": "The backing tracks were recorded by producer Clarence Paul in New York City and Chicago , using arrangers Jerome Richardson , Melba Liston , and Ernie Wilkins .",
+   "reasoning": "The album page names her as one of three arrangers on the backing tracks but does not say which tracks she arranged.",
+   "confidence": "high"
+  },
+  {
+   "title": "That Lovin' Feelin'",
+   "credited_on_this_release": "unverified",
+   "role": "unknown",
+   "scope": "unspecified",
+   "evidence": "1973: That Lovin' Feelin' , Junior Mance",
+   "reasoning": "Her discography lists it, but the album page does not mention her and its quartet personnel has no arranger credit; her bullet also says 1973, while the page gives 1972.",
+   "confidence": "low"
+  },
+  {
+   "title": "Khepera (album)",
+   "credited_on_this_release": "yes",
+   "role": "arranger",
+   "scope": "unspecified (\"help to arrange the music\")",
+   "evidence": "Melba Liston help to arrange the music.",
+   "reasoning": "The album page says she helped arrange the music, which makes her a co-arranger, but it does not say how far that went.",
+   "confidence": "high"
+  }
+ ]
+}

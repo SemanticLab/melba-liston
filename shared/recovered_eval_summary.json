@@ -1,0 +1,53 @@
+{
+ "judged_by": "claude-opus-5-5 subagent working to extract/RECOVERED_SPEC.md; whole set in one pass, with the surrounding transcript on both sides of every thread",
+ "thread_errors": 0,
+ "subjects": {
+  "liston": {
+   "judged": 22,
+   "awaiting_judgement": 0,
+   "about_subject": 5,
+   "validation_rate_pct": 22.7,
+   "rejected_not_about_subject": 17,
+   "by_source": {
+    "continuation": 10,
+    "answer": 12
+   },
+   "validation_rate_by_source": {
+    "answer": 25.0,
+    "continuation": 20.0
+   },
+   "validation_rate_by_pronoun_risk": {
+    "low": 12.5,
+    "high": 50.0,
+    "n/a": 25.0
+   },
+   "by_stance": {
+    "positive": 5
+   },
+   "by_mention_kind": {
+    "substantive_comment": 5,
+    "not_about_subject": 17
+   },
+   "by_notable": {
+    "1": 3,
+    "2": 2
+   },
+   "quotes_rejected_non_verbatim": 0,
+   "shortlist": 2,
+   "top_misattributions": {
+    "The Southway Hotel in Chicago": 1,
+    "Women and feminists in general (Abbey Lincoln's views on gender)": 1,
+    "Women, feminists, and fashion designers in general": 1,
+    "Vi Redd, then Ingrid Jensen": 1,
+    "Ingrid Jensen (trumpet), then an unnamed woman trumpeter with Louis Jordan": 1,
+    "The International Sweethearts of Rhythm": 1,
+    "Gil Fuller, Les Hite, Snooky Young, Benny Carter; 'the lady that ran the band' is the Les Hite band's owner": 1,
+    "Slide Hampton's own trombone-ensemble revival and J. J. Johnson": 1,
+    "Hank Jones's own recording output and a Japanese fan": 1,
+    "Quincy Jones's hiring of women in general (Liston and Patti Bown named together in the question)": 1,
+    "Women musicians generically ('Can she play?'), then Clora Bryant": 1,
+    "Younger women musicians (Ellen Seeling, Diva) inspired by Quincy Jones's band -- Liston and Patti Bown jointly": 1
+   }
+  }
+ }
+}

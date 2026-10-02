@@ -1,0 +1,888 @@
+{
+ "subject": "liston",
+ "chunk": 2,
+ "count": 34,
+ "chunk_top": [
+  296139,
+  295623,
+  296103
+ ],
+ "items": [
+  {
+   "block_id": 295457,
+   "is_about_subject": true,
+   "mention_kind": "archive_boilerplate",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [],
+   "relationship": "not_applicable",
+   "block_is_firsthand": false,
+   "topics": [
+    "title page"
+   ],
+   "summary": "",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Title-page header of the transcript. Input flagged ends_midsentence, but it is a header, not a page-break split."
+  },
+  {
+   "block_id": 295459,
+   "is_about_subject": true,
+   "mention_kind": "archive_boilerplate",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "biographical_fact"
+   ],
+   "relationship": "not_applicable",
+   "block_is_firsthand": false,
+   "topics": [
+    "front matter",
+    "dates"
+   ],
+   "summary": "",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Front-matter line giving her birth and death dates."
+  },
+  {
+   "block_id": 295462,
+   "is_about_subject": true,
+   "mention_kind": "archive_boilerplate",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "health",
+    "biographical_fact"
+   ],
+   "relationship": "not_applicable",
+   "block_is_firsthand": false,
+   "topics": [
+    "transcriber's note",
+    "1985 stroke"
+   ],
+   "summary": "",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Transcriber's note: interview from 1996, stroke in 1985, memory and speech loss. Useful framing for the whole document, but not speech."
+  },
+  {
+   "block_id": 295465,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "biographical_fact"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Kansas City",
+    "interview opening"
+   ],
+   "summary": "Asked where she was from, Liston answered that she was born in Kansas City, Missouri, with her grandparents across the line in Kansas City, Kansas.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Bryant's opening announcement and first question; the answer is in context_after (295466)."
+  },
+  {
+   "block_id": 295467,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "biographical_fact"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Kansas City",
+    "grandparents",
+    "childhood"
+   ],
+   "summary": "Bryant's leading statement about Liston staying with her grandparents during the week drew a mostly bracketed answer: her mother may have moved them west for lack of work in Kansas.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "medium",
+   "notes": "Name appears only in a transcriber's bracket, but Bryant's unbracketed \"You stayed...\" is a prompt addressed to Liston, so classified as interviewer_question rather than transcriber_summary. Answer (295468) is itself mostly bracketed."
+  },
+  {
+   "block_id": 295500,
+   "is_about_subject": true,
+   "mention_kind": "transcriber_summary",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "biographical_fact"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "childhood",
+    "early music"
+   ],
+   "summary": "The transcriber summarized Bryant asking about Liston starting music at age 3 or 4; Liston could not recall.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Entire block is a transcriber's bracket."
+  },
+  {
+   "block_id": 295502,
+   "is_about_subject": true,
+   "mention_kind": "transcriber_summary",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "biographical_fact"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "first trombone",
+    "age 7",
+    "mother"
+   ],
+   "summary": "The transcriber summarized that at age 7 Liston saw a trombone and asked her mother for it the same day; Liston answered that she has a tape of her mother talking about when she first got her horn.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Entire block is a transcriber's bracket; Liston's answer (295503) mentions a tape of her mother's voice, worth following up."
+  },
+  {
+   "block_id": 295506,
+   "is_about_subject": true,
+   "mention_kind": "transcriber_summary",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "childhood",
+    "friends"
+   ],
+   "summary": "The transcriber summarized Bryant asking about Liston's number method and her friends; Liston answered that she spent her time on the back porch with her grandfather playing trombone.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Entire block is a transcriber's bracket."
+  },
+  {
+   "block_id": 295508,
+   "is_about_subject": true,
+   "mention_kind": "transcriber_summary",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "biographical_fact"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Deep River",
+    "Rocking the Cradle of the Deep",
+    "childhood"
+   ],
+   "summary": "The transcriber noted Liston played Deep River and Rocking the Cradle of the Deep as a child; Liston said she heard them on the radio.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Entire block is a transcriber's bracket."
+  },
+  {
+   "block_id": 295510,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "biographical_fact",
+    "anecdote"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "trombone positions",
+    "childhood"
+   ],
+   "summary": "Prompted that as a child she could not reach sixth and seventh position, Liston finished Bryant's sentence: she managed it by turning her head sideways until she came to California.",
+   "pull_quote": null,
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Name only in the bracket; Bryant's unbracketed half-sentence is completed by Liston in 295511 (\"turning my head sideways\"). Target ends with \". . .\" because Liston finishes it, not because of a page break."
+  },
+  {
+   "block_id": 295514,
+   "is_about_subject": true,
+   "mention_kind": "transcriber_summary",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "biographical_fact"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Kansas City",
+    "music teacher"
+   ],
+   "summary": "The transcriber noted Liston disliked a Kansas City teacher; Liston said she told her mother to cancel him after two or three lessons.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Entire block is a transcriber's bracket."
+  },
+  {
+   "block_id": 295531,
+   "is_about_subject": true,
+   "mention_kind": "self_account",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "personal_memory"
+   ],
+   "relationship": "not_applicable",
+   "block_is_firsthand": true,
+   "topics": [
+    "McKinley Junior High",
+    "music teacher"
+   ],
+   "summary": "Liston recalled her Los Angeles junior high music teacher as a good all-round teacher who did not mess with her.",
+   "pull_quote": "He was good. He didn’t mess with me. He just was a good teacher for all around.",
+   "notable": 1,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "medium",
+   "notes": "Liston is the speaker; her name occurs only in the transcriber's bracket, but the block carries her own words, so self_account. Teacher's name is garbled/inaudible in 295529."
+  },
+  {
+   "block_id": 295552,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "biographical_fact"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Minnie Hightower",
+    "Vi Redd",
+    "Melodic Dots"
+   ],
+   "summary": "Asked about going to the fair, Liston recalled riding in the back of a truck with Miss Hightower's group, the Melodic Dots, her first time on the road.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "medium",
+   "notes": "Name only in the bracket (photograph of Liston and Vi Redd); Bryant's spoken part is a prompt. Answer in 295553-295555."
+  },
+  {
+   "block_id": 295567,
+   "is_about_subject": true,
+   "mention_kind": "self_account",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "personal_memory"
+   ],
+   "relationship": "not_applicable",
+   "block_is_firsthand": true,
+   "topics": [
+    "Alma Hightower",
+    "reading music"
+   ],
+   "summary": "Liston said Mrs. Hightower let her go out and play while she worked with the other kids, since Liston could already read music.",
+   "pull_quote": "But she didn’t teach, because I was reading all the time.",
+   "notable": 1,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "medium",
+   "notes": "Name occurs only in transcriber's brackets; Liston's own words present, so self_account. \"she\" = Mrs. Hightower."
+  },
+  {
+   "block_id": 295623,
+   "is_about_subject": true,
+   "mention_kind": "self_account",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "personal_memory",
+    "gender",
+    "arranging_composing",
+    "working_relationship"
+   ],
+   "relationship": "not_applicable",
+   "block_is_firsthand": true,
+   "topics": [
+    "Gerald Wilson band",
+    "Apollo",
+    "singing"
+   ],
+   "summary": "Liston recalled that on the road with Gerald Wilson's band audiences wanted \"the girl\" to do something, and Wilson told her, \"Melba, write something up and do it.\"",
+   "pull_quote": "Everywhere we went, because they would say, “Let the girl do something.” Gerald said, “Melba, write something up and do it.” So I did what he said.",
+   "notable": 3,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Reported speech by Gerald [Wilson] addressing her by name; \"Gerald\" identified as Wilson from 295692 context (recordings with Gerald Wilson). Preceding block: she sang and blew her horn on the show at the Apollo."
+  },
+  {
+   "block_id": 295633,
+   "is_about_subject": true,
+   "mention_kind": "self_account",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "personal_memory",
+    "anecdote",
+    "working_relationship"
+   ],
+   "relationship": "not_applicable",
+   "block_is_firsthand": true,
+   "topics": [
+    "Gerald Wilson band",
+    "Billie Holiday tour",
+    "stranded in the South"
+   ],
+   "summary": "Liston recalled that when Billie Holiday left the southern tour the band was stranded, and Gerald Wilson gave all the money to the men to get home, leaving her just enough to reach Kansas City.",
+   "pull_quote": "But she left and we were stranded on the bus, and Gerald took all the money that we had and gave it to the fellows to get back home, and we just had enought to get us to Kansas City.",
+   "notable": 2,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Name only in the closing transcriber bracket; Liston's own words. \"she\" = Billie Holiday (Lady Day), established in 295627-295632. \"enought\" is a transcript typo, quoted verbatim."
+  },
+  {
+   "block_id": 295656,
+   "is_about_subject": true,
+   "mention_kind": "transcriber_summary",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "biographical_fact"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Dizzy Gillespie big band",
+    "band breakup"
+   ],
+   "summary": "The transcriber noted the band stayed together five months; Liston said it broke up for lack of jobs and she came home to Gerald Wilson.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Entire block is a transcriber's bracket. The band is the late-1940s Gillespie band with Coltrane, per 295648."
+  },
+  {
+   "block_id": 295670,
+   "is_about_subject": true,
+   "mention_kind": "transcriber_summary",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Board of Education",
+    "mother"
+   ],
+   "summary": "The transcriber summarized Bryant asking how Liston's mother felt about her taking the Board of Education job; the answer is bracketed too.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Entire block is a transcriber's bracket."
+  },
+  {
+   "block_id": 295673,
+   "is_about_subject": true,
+   "mention_kind": "self_account",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "personal_memory",
+    "biographical_fact"
+   ],
+   "relationship": "not_applicable",
+   "block_is_firsthand": true,
+   "topics": [
+    "Board of Education",
+    "gigging"
+   ],
+   "summary": "Liston said that while working the Board of Education job she still took some gigs.",
+   "pull_quote": "I did take some gigs.",
+   "notable": 0,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "medium",
+   "notes": "Name only in transcriber brackets. Her remark \"because the thing was envy, I guess\" is unclear; the transcriber flags the passage as confusing."
+  },
+  {
+   "block_id": 295674,
+   "is_about_subject": true,
+   "mention_kind": "transcriber_summary",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "biographical_fact"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Board of Education",
+    "Golden State insurance"
+   ],
+   "summary": "The transcriber recorded that Liston worked at the Board of Education for about three years; she then went to work at an insurance company.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Entire block is a transcriber's bracket."
+  },
+  {
+   "block_id": 295690,
+   "is_about_subject": true,
+   "mention_kind": "peer_interviewer_testimony",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "subject",
+   "content_type": [
+    "musical_assessment",
+    "personal_memory"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Dexter Gordon session",
+    "1947",
+    "first recording"
+   ],
+   "summary": "After Liston called her first recording, a 1947 Dexter Gordon session, \"terrible\", Bryant reassured her that she sounded good.",
+   "pull_quote": "You sounded good.",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "medium",
+   "notes": "Name appears only in the bracketed question; the unbracketed \"You sounded good.\" answers Liston's \"That was terrible\" in 295689. Without that context it reads as nothing."
+  },
+  {
+   "block_id": 295692,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "biographical_fact"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Golden State insurance",
+    "return to music"
+   ],
+   "summary": "Asked whether she got unhappy at Golden State, Liston said she simply quit one day and went back to music, then Dizzy Gillespie sent for her again.",
+   "pull_quote": null,
+   "notable": 1,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Name only in the bracket; the answer in 295693 (\"Just me and music again.\") is the usable line."
+  },
+  {
+   "block_id": 295734,
+   "is_about_subject": true,
+   "mention_kind": "transcriber_summary",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Women's Jazz Festival",
+    "Kansas City 1979"
+   ],
+   "summary": "The transcriber summarized Bryant asking whether Liston performed at the Kansas City Women's Jazz Festival; the bracketed answer is no.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Entire block is a transcriber's bracket."
+  },
+  {
+   "block_id": 295741,
+   "is_about_subject": true,
+   "mention_kind": "self_account",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "personal_memory"
+   ],
+   "relationship": "not_applicable",
+   "block_is_firsthand": true,
+   "topics": [
+    "St. Lucia",
+    "Jamaica"
+   ],
+   "summary": "Liston recalled that in St. Lucia there was a symphony orchestra and her friend had family there.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "medium",
+   "notes": "Name only in the transcriber bracket; her own words are too thin to quote."
+  },
+  {
+   "block_id": 295771,
+   "is_about_subject": true,
+   "mention_kind": "self_account",
+   "quotes_the_subject": false,
+   "stance": "negative",
+   "stance_strength": 2,
+   "stance_target": "associates",
+   "content_type": [
+    "personal_memory",
+    "anecdote",
+    "gender"
+   ],
+   "relationship": "not_applicable",
+   "block_is_firsthand": true,
+   "topics": [
+    "harassment on the road",
+    "Washington"
+   ],
+   "summary": "Liston recalled a bandmate stripping and coming into her hotel room on a stop in Washington, and his wife blaming her and refusing to hear her side.",
+   "pull_quote": "I was trying to get him out of the room, and the baby’s mama come, and I couldn’t say nothing.",
+   "notable": 2,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "medium",
+   "notes": "Name only in transcriber bracket. Stance is her attitude toward the incident, not toward herself; stance_target arguably associates. Sensitive: unnamed bandmate and wife. Her summary line \"that's what girls have to go through\" is in 295773, not this block. Bandmate unidentified."
+  },
+  {
+   "block_id": 295853,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "influence"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Tommy Dorsey",
+    "influences",
+    "trombone"
+   ],
+   "summary": "Asked about her main trombone influence, Liston named Tommy Dorsey from the radio but said she just loved the instrument and did not need inspiration.",
+   "pull_quote": null,
+   "notable": 1,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Straight question addressing her by name; strong answer in 295854 (\"I just loved the instrument. I didn't need no inspiration.\") and 295856 (\"I do it all from my soul\")."
+  },
+  {
+   "block_id": 295857,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "arranging_composing"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Melba Liston and Her 'Bones",
+    "swing vs bebop"
+   ],
+   "summary": "Asked whether she wrote swing or bebop for her own groups, Liston answered \"Swing or something.\"",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Mentions the album title Melba Liston and Her 'Bones (trap 9) inside a question."
+  },
+  {
+   "block_id": 295949,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "historical_context"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "young musicians",
+    "soul"
+   ],
+   "summary": "Asked about young musicians' music, Liston said there is usually nothing there, though once in a while someone comes along with soul.",
+   "pull_quote": null,
+   "notable": 1,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Bryant states her own view of current music; the stance is about young players, not Liston. Answer in 295950."
+  },
+  {
+   "block_id": 295967,
+   "is_about_subject": true,
+   "mention_kind": "self_account",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "subject",
+   "content_type": [
+    "personal_memory",
+    "mentorship",
+    "legacy_influence"
+   ],
+   "relationship": "not_applicable",
+   "block_is_firsthand": true,
+   "topics": [
+    "Jamaica teaching",
+    "Dexter Gordon",
+    "Elvin Jones",
+    "soul"
+   ],
+   "summary": "Liston recalled Dexter Gordon and Elvin Jones coming to Jamaica to play for her students, and said soul is something she cannot put her finger on.",
+   "pull_quote": "I can’t say all the musicians that came down – once in a while – and played for my kids and the school, and some of those got soul. It’s nothing I can put my finger on. I don’t know what it is.",
+   "notable": 1,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "medium",
+   "notes": "Name only in the transcriber bracket. Garbled: she seems to conflate Dexter Gordon and Elvin Jones (\"he's married to a Japanese – Elvin Jones\"). Positive stance is toward the visiting musicians."
+  },
+  {
+   "block_id": 295969,
+   "is_about_subject": true,
+   "mention_kind": "self_account",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "mentorship",
+    "arranging_composing",
+    "personal_memory"
+   ],
+   "relationship": "not_applicable",
+   "block_is_firsthand": true,
+   "topics": [
+    "youth orchestras",
+    "Pittsburgh",
+    "Philadelphia",
+    "1960s"
+   ],
+   "summary": "Liston said she wrote for and directed 1960s youth groups, helping beginners with chords and scales, in Pittsburgh, Washington and Philadelphia.",
+   "pull_quote": "They were just starting on their instruments, so I would help them out with chords and scales and stuff like that.",
+   "notable": 1,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Name only in the transcriber bracket. Groups named by Bryant in 295968."
+  },
+  {
+   "block_id": 296054,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "subject",
+   "content_type": [
+    "arranging_composing",
+    "musical_assessment"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "If You Could See Me Now",
+    "Austin Cromer",
+    "listening session"
+   ],
+   "summary": "Bryant played Liston's If You Could See Me Now arrangement, called it great and asked if she gets thrilled; Liston said she gets her thrill from watching Bryant get thrilled.",
+   "pull_quote": null,
+   "notable": 1,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "medium",
+   "notes": "Borderline peer_interviewer_testimony: Bryant's praise (\"That was great.\") is brief and the block is mostly framing and questions. Liston's answer in 296057 (\"I watch you getting thrilled, and then I get a thrill from that.\") is a lovely line but not in this block."
+  },
+  {
+   "block_id": 296084,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "arranging_composing"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "You'll Be Sorry",
+    "Dizzy Gillespie big band",
+    "Charli Persip"
+   ],
+   "summary": "Bryant introduced You'll Be Sorry as featuring Liston singing her own song and arrangement; Liston said she wrote it, so she decided it, and Dizzy picked the tunes for the record.",
+   "pull_quote": null,
+   "notable": 1,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "First half praises Charli Persip, not Liston. Answer in 296086-296088."
+  },
+  {
+   "block_id": 296103,
+   "is_about_subject": true,
+   "mention_kind": "peer_interviewer_testimony",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "arranging_composing",
+    "musical_assessment"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Annie's Dance",
+    "Anitra's Dance",
+    "Dizzy Gillespie big band"
+   ],
+   "summary": "Bryant introduced Liston's Annie's Dance for Dizzy Gillespie's band, a play on Anitra's Dance, and after hearing it called it a really beautiful arrangement.",
+   "pull_quote": "That is really a beautiful arrangement on that.",
+   "notable": 2,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Third-person \"Melba's arrangements\" because Bryant is narrating for the tape. Liston answers \"It's still good.\""
+  },
+  {
+   "block_id": 296139,
+   "is_about_subject": true,
+   "mention_kind": "peer_interviewer_testimony",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 3,
+   "stance_target": "subject",
+   "content_type": [
+    "arranging_composing",
+    "musical_assessment",
+    "personal_memory"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "My Reverie",
+    "trombone sound",
+    "Dizzy Gillespie"
+   ],
+   "summary": "Bryant told Liston that her My Reverie, especially her haunting trombone sound and the writing behind it, is one of the most beautiful things she ever did, and so pretty it makes you want to cry.",
+   "pull_quote": "Hey that’s so pretty it makes you want to cry, Melba.",
+   "notable": 3,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Alternative longer pull quote (exact substring, starts mid-sentence): \"that is one of the most beautiful things you’ve ever done – especially the haunting sound that you get on your trombone and what you write behind what you’re doing.\" The bracketed \"[wah-wah sound]\" and \"[The music plays.]\" must stay out of any quote."
+  }
+ ]
+}

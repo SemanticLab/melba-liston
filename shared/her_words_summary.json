@@ -1,0 +1,75 @@
+{
+ "entries": 122,
+ "real_people": 106,
+ "not_people": 16,
+ "not_people_kinds": {
+  "company": 1,
+  "tune_title": 6,
+  "group_name": 2,
+  "other": 2,
+  "descriptor": 4,
+  "place": 1
+ },
+ "reader_added_people": 9,
+ "merged_duplicates": 5,
+ "chunks_missing": [],
+ "with_a_relation": 84,
+ "by_relation": {
+  "collaborated with": 23,
+  "none": 22,
+  "in music group with": 17,
+  "played under": 11,
+  "knows of": 10,
+  "acquaintance of": 9,
+  "played with": 4,
+  "has met": 4,
+  "friend of": 3,
+  "mentor of": 2,
+  "toured with": 1
+ },
+ "by_basis": {
+  "her_statement": 53,
+  "her_assent": 16,
+  "none": 16,
+  "transcriber_summary": 14,
+  "bryant_only": 7
+ },
+ "by_who_speaks": {
+  "both": 49,
+  "bryant_only": 27,
+  "liston": 17,
+  "transcriber_only": 13
+ },
+ "by_notable": {
+  "3": 17,
+  "2": 25,
+  "1": 43,
+  "0": 21
+ },
+ "by_tie": {
+  "unknown": 25,
+  "bandmate": 24,
+  "arranging_client": 14,
+  "sideman": 10,
+  "friend": 6,
+  "family": 6,
+  "bandleader": 5,
+  "school_friend": 4,
+  "heard_on_radio_or_record": 4,
+  "admired": 3,
+  "fellow_arranger": 3,
+  "younger_generation": 3,
+  "teacher": 2,
+  "romantic": 2,
+  "recording_staff": 2,
+  "interviewer": 1
+ },
+ "with_her_own_quote": 66,
+ "her_quotes_total": 156,
+ "reconciled_to_wikidata": 68,
+ "identity_rejected": 4,
+ "upstream_relation_wrong": 67,
+ "upstream_relation_judged": 113,
+ "upstream_relation_wrong_pct": 59.3,
+ "quotes_dropped_on_verification": {}
+}

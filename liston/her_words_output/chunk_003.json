@@ -1,0 +1,1148 @@
+{
+ "subject": "liston",
+ "chunk": 3,
+ "count": 30,
+ "chunk_top": [
+  104413,
+  104389,
+  104382
+ ],
+ "items": [
+  {
+   "person_id": 104400,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Ernie Wilkins",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "liston",
+   "basis": "her_statement",
+   "relation": "friend of",
+   "direction": "mutual",
+   "tie": [
+    "friend",
+    "fellow_arranger",
+    "bandmate"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 2,
+   "era": "1950s Gillespie band",
+   "summary": "Liston named Wilkins as one of the arrangers she was \"real close\" to, recalled him among the men in Gillespie's band on the State Department tour, and said she no longer heard his current writing.",
+   "one_liner": "fellow arranger and close friend",
+   "her_quote": "Arrangers, we all friends. Ernie Wilkins and all of us real close. I write the soul music, more or less, and they write the swing and bop stuff.",
+   "her_quote_block_id": 295870,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [
+    {
+     "block_id": 296029,
+     "quote": "I was the one – all the other guys – Ernie and – were there."
+    },
+    {
+     "block_id": 296073,
+     "quote": "I don’t hear Benny Golson’s and Randy – I mean Ernie’s – I don’t hear those things, so I don’t know whether they’re doing that or not."
+    }
+   ],
+   "topics": [
+    "arranging",
+    "Dizzy Gillespie band",
+    "State Department tour"
+   ],
+   "notable": 2,
+   "upstream_relation_ok": true,
+   "confidence": "high",
+   "notes": "In 296073 she slips from 'Randy' to 'Ernie' – Ernie Wilkins is the likely referent given the arranger context."
+  },
+  {
+   "person_id": 104389,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Thelonious Monk",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "both",
+   "basis": "her_statement",
+   "relation": "collaborated with",
+   "direction": "mutual",
+   "tie": [
+    "arranging_client"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 2,
+   "era": "",
+   "summary": "Liston said she wrote for Monk, called it a great honor, and explained that because he did things on the piano nobody else did she had to leave spaces in her writing for him.",
+   "one_liner": "wrote arrangements for him, leaving spaces",
+   "her_quote": "Monk is a piano player and he does things with the piano that nobody else does, and I have to leave spaces and stuff for him.",
+   "her_quote_block_id": 295895,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [
+    {
+     "block_id": 295876,
+     "quote": "Yeah, I wrote for him, but I didn’t write no different. I just wrote from my soul."
+    },
+    {
+     "block_id": 295878,
+     "quote": "It’s always something like a original or one of their tunes, and it’s a great honor – Monk."
+    },
+    {
+     "block_id": 295895,
+     "quote": "All the world difference. Monk is Monk and Mingus is Mingus."
+    },
+    {
+     "block_id": 296190,
+     "quote": "Randy likes Thelonious much."
+    }
+   ],
+   "topics": [
+    "arranging",
+    "piano",
+    "Randy Weston"
+   ],
+   "notable": 3,
+   "upstream_relation_ok": true,
+   "confidence": "high",
+   "notes": "Her first answer (295872) is odd: 'Right there for me all the time. What about him? I don't know nothing about him.' She also said she never played with him (295874). Upstream's evidence sentence was actually about Mingus, though its relation is right."
+  },
+  {
+   "person_id": 104428,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Diana Ross",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "both",
+   "basis": "bryant_only",
+   "relation": "collaborated with",
+   "direction": "mutual",
+   "tie": [
+    "arranging_client"
+   ],
+   "firsthand": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "era": "",
+   "summary": "Bryant asked about Liston's work with Diana Ross at Motown; Liston could not recall it and answered only generally that she never had problems with the singers she wrote for.",
+   "one_liner": "",
+   "her_quote": "I guess okay. I didn’t have no problem ever. Not with the singers and the instrumentalists that I wrote for.",
+   "her_quote_block_id": 295882,
+   "bryant_quote": "What about Diana Ross? How was she? That was at Motown?",
+   "bryant_quote_block_id": 295879,
+   "more_her_quotes": [],
+   "topics": [
+    "Motown"
+   ],
+   "notable": 0,
+   "upstream_relation_ok": false,
+   "confidence": "medium",
+   "notes": "Liston's reply to 'What about Diana Ross?' is a bracketed [cannot recall.]; her follow-up is generic about singers. The Motown work is Bryant's claim only."
+  },
+  {
+   "person_id": 104437,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "John",
+   "identity_ok": true,
+   "identity_note": "No QID; the surname is an inaudible '[?]' in the transcript and cannot be resolved from the text.",
+   "who_speaks_of_them": "both",
+   "basis": "her_statement",
+   "relation": "collaborated with",
+   "direction": "mutual",
+   "tie": [
+    "arranging_client"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 1,
+   "era": "",
+   "summary": "Liston said she had written for this John (surname inaudible) before her stroke, had tried to phone him outside New York, and that he had lost a son in an airplane crash.",
+   "one_liner": "wrote for him before her stroke",
+   "her_quote": "I wrote for him. I haven’t written for him since I had the stroke and all of that. I called him on the phone, but I couldn’t reach him up there, outside of New York.",
+   "her_quote_block_id": 295886,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [
+    {
+     "block_id": 295886,
+     "quote": "He’s – it’s always fine. He lost a boy in that big thing, the airplane crash."
+    },
+    {
+     "block_id": 295888,
+     "quote": "That was when I was trying to call him, but I didn’t reach him."
+    }
+   ],
+   "topics": [
+    "arranging",
+    "airplane crash"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": true,
+   "confidence": "medium",
+   "notes": "Name garbled: 'John [?]. All that music over there.' (Bryant, 295885). Bryant links the crash to the one that killed Wayne Shorter's wife (TWA 800, 1996). Identity of John unresolved; a human should check the recording. Upstream direction 'na' is wrong for collaborated with."
+  },
+  {
+   "person_id": 104478,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Wayne Shorter",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "bryant_only",
+   "basis": "none",
+   "relation": "none",
+   "direction": "na",
+   "tie": [],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "",
+   "summary": "Bryant mentioned Shorter only to identify an airplane crash (the one that killed his wife); Liston established no connection with him.",
+   "one_liner": "",
+   "her_quote": null,
+   "her_quote_block_id": null,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [],
+   "topics": [
+    "airplane crash"
+   ],
+   "notable": 0,
+   "upstream_relation_ok": false,
+   "confidence": "high",
+   "notes": "Upstream took Liston's 'I wrote for him' (about 'John') as about Shorter. Shorter appears only in Bryant's aside in 295887."
+  },
+  {
+   "person_id": 104385,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Charles Mingus",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "both",
+   "basis": "her_statement",
+   "relation": "collaborated with",
+   "direction": "mutual",
+   "tie": [
+    "arranging_client"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 1,
+   "era": "long ago, Los Angeles",
+   "summary": "Liston said she wrote one or two things for Mingus long ago, knew him out in Los Angeles, that he was \"all music\" with her, and that she left holes in her writing for him.",
+   "one_liner": "wrote one or two things for him",
+   "her_quote": "Mingus was all music with me, but I haven’t written for him in such a long, long time I can’t even remember how he was or anything. He was all right",
+   "her_quote_block_id": 295892,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [
+    {
+     "block_id": 295894,
+     "quote": "That was a long time ago. He did all his writing. Maybe one or two things I wrote for, but not many things."
+    },
+    {
+     "block_id": 295895,
+     "quote": "It’s altogether different for Mingus. Either you do or you don’t for Mingus."
+    },
+    {
+     "block_id": 295896,
+     "quote": "I write something and then I leave holes and stuff for him and then write something else to take it out, for Mingus."
+    },
+    {
+     "block_id": 295890,
+     "quote": "Not with me."
+    }
+   ],
+   "topics": [
+    "arranging",
+    "Los Angeles"
+   ],
+   "notable": 2,
+   "upstream_relation_ok": true,
+   "confidence": "high",
+   "notes": "Blocks 295894/295896 contain Watson's questions inside a Liston block; quotes exclude them. 'I can't remember anything negative about him' spans the page break (295895/295896), so it is not quoted whole."
+  },
+  {
+   "person_id": 104387,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Susan Slaughter",
+   "identity_ok": true,
+   "identity_note": "Q97065220 'American orchestral trumpeter' fits (Bryant: St. Louis Symphony first-chair trumpet, International Women's Brass Conference); the listed birth year 2000 is likely a century-precision date, not a real 2000 birth — worth checking.",
+   "who_speaks_of_them": "both",
+   "basis": "her_statement",
+   "relation": "acquaintance of",
+   "direction": "mutual",
+   "tie": [
+    "arranging_client"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 2,
+   "era": "1996",
+   "summary": "Liston said Susan Slaughter got her the trombone she now had, and that in return she was secretly writing her a composition for trumpet, trombone and strings.",
+   "one_liner": "was writing a piece for her",
+   "her_quote": "She don’t even know about it. I just want to do that, because she was sending me the horn, so I got to send her something, so I’m sending her one of my compositions.",
+   "her_quote_block_id": 295911,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [
+    {
+     "block_id": 296415,
+     "quote": "She said, if you don’t do nothing else, but just sit up and look at it."
+    },
+    {
+     "block_id": 296407,
+     "quote": "Right – got me this horn."
+    },
+    {
+     "block_id": 295915,
+     "quote": "Just strings and trumpet and trombone. That’s the first I’ve written for that."
+    }
+   ],
+   "topics": [
+    "trombone gift",
+    "strings",
+    "International Women's Brass Conference"
+   ],
+   "notable": 3,
+   "upstream_relation_ok": false,
+   "confidence": "high",
+   "notes": "Liston first refers to 'the trumpet player and trombone player that sent me the horn' (295905); Bryant supplies the name and Liston agrees. Bryant supplies the St. Louis Symphony/IWBC details. Upstream 'has met' with direction 'na' is not supported — no meeting is described."
+  },
+  {
+   "person_id": 104386,
+   "is_person": false,
+   "not_person_kind": "tune_title",
+   "name": "Little Niles",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "both",
+   "basis": "none",
+   "relation": "none",
+   "direction": "na",
+   "tie": [],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "",
+   "summary": "",
+   "one_liner": "",
+   "her_quote": null,
+   "her_quote_block_id": null,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [],
+   "topics": [],
+   "notable": 0,
+   "upstream_relation_ok": false,
+   "confidence": "high",
+   "notes": "Little Niles — Randy Weston tune (and album) that Liston arranged; discussed as music throughout."
+  },
+  {
+   "person_id": 104390,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Charli Persip",
+   "identity_ok": true,
+   "identity_note": "Wikidata spells it Charlie Persip; same drummer.",
+   "who_speaks_of_them": "both",
+   "basis": "her_statement",
+   "relation": "collaborated with",
+   "direction": "mutual",
+   "tie": [
+    "bandmate"
+   ],
+   "firsthand": true,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "1950s",
+   "summary": "Liston named Persip as probably the drummer on the Randy Weston album she arranged and played on, and agreed when Bryant asked whether he wanted her to write for his big band.",
+   "one_liner": "probably drummed on her Randy Weston album",
+   "her_quote": "And he and probably Charli Persip – can’t think of the bass player now. It’s a nice album.",
+   "her_quote_block_id": 295921,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [],
+   "topics": [
+    "Randy Weston",
+    "Dizzy Gillespie band",
+    "big band"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": true,
+   "confidence": "medium",
+   "notes": "Bryant also identifies him as drummer on Liston's Gillespie-band recordings (296084, 296105) and quotes his 'Gillespie University' line (296357); Liston only assents ('Yeah.' to the big-band question, 295935)."
+  },
+  {
+   "person_id": 104404,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Johnny Griffin",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "liston",
+   "basis": "her_statement",
+   "relation": "collaborated with",
+   "direction": "mutual",
+   "tie": [
+    "arranging_client"
+   ],
+   "firsthand": true,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "",
+   "summary": "Liston named Griffin as playing on the Randy Weston album she wrote, and listed \"Johnny Griffin\" among the things she had written before CDs.",
+   "one_liner": "recorded with him on Randy Weston's album",
+   "her_quote": "I’ve got a bunch of things. Johnny Griffin and all the things I wrote before CDs",
+   "her_quote_block_id": 295929,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [
+    {
+     "block_id": 295921,
+     "quote": "I’m on it. Johnny Griffin, and Ray Copeland."
+    }
+   ],
+   "topics": [
+    "Randy Weston",
+    "Little Niles album",
+    "records"
+   ],
+   "notable": 2,
+   "upstream_relation_ok": true,
+   "confidence": "medium",
+   "notes": "295929 implies she wrote for Griffin directly, but is terse; the arranging-client tie rests on that line."
+  },
+  {
+   "person_id": 104453,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Ray Copeland",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "liston",
+   "basis": "her_statement",
+   "relation": "collaborated with",
+   "direction": "mutual",
+   "tie": [
+    "bandmate"
+   ],
+   "firsthand": true,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "",
+   "summary": "Liston named Copeland among the players on the Randy Weston album she arranged and played on.",
+   "one_liner": "recorded with him on Randy Weston's album",
+   "her_quote": "It’s the best thing. I’m on it. Johnny Griffin, and Ray Copeland.",
+   "her_quote_block_id": 295921,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [],
+   "topics": [
+    "Randy Weston",
+    "Little Niles album"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": true,
+   "confidence": "high",
+   "notes": "Bryant's 'it didn't feature Ray' (296209), about a Weston 3/4 album track, very likely means Ray Copeland, but was folded into Ray Charles upstream."
+  },
+  {
+   "person_id": 104442,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Ben Webster",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "bryant_only",
+   "basis": "none",
+   "relation": "none",
+   "direction": "na",
+   "tie": [],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "",
+   "summary": "Bryant cited Webster only as an influence audible in David Sanchez's playing; Liston said nothing about him.",
+   "one_liner": "",
+   "her_quote": null,
+   "her_quote_block_id": null,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [],
+   "topics": [],
+   "notable": 0,
+   "upstream_relation_ok": false,
+   "confidence": "high",
+   "notes": "Mention is in Bryant's turn 295953 only."
+  },
+  {
+   "person_id": 104443,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "David Sanchez",
+   "identity_ok": true,
+   "identity_note": "Saxophonist David Sánchez (b. 1968) fits Bryant's description of a young player reaching back to Bird and Ben Webster.",
+   "who_speaks_of_them": "bryant_only",
+   "basis": "bryant_only",
+   "relation": "knows of",
+   "direction": "na",
+   "tie": [
+    "younger_generation"
+   ],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "1990s",
+   "summary": "Bryant said they had heard Sanchez and that he reached back to older players; Liston answered only that young players just have to have soul.",
+   "one_liner": "",
+   "her_quote": null,
+   "her_quote_block_id": null,
+   "bryant_quote": "But people like – we heard David Sanchez. He reached back to a lot of guys from Bird on up.",
+   "bryant_quote_block_id": 295953,
+   "more_her_quotes": [],
+   "topics": [
+    "young musicians"
+   ],
+   "notable": 0,
+   "upstream_relation_ok": true,
+   "confidence": "low",
+   "notes": "Liston's reply (295954) is about young players generally, not Sanchez."
+  },
+  {
+   "person_id": 104465,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Elvin Jones",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "liston",
+   "basis": "her_statement",
+   "relation": "acquaintance of",
+   "direction": "mutual",
+   "tie": [
+    "unknown"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 1,
+   "era": "1970s, Jamaica",
+   "summary": "Liston said Elvin Jones came down to Jamaica with his group while she was teaching there and played for her students.",
+   "one_liner": "brought his group to play for her students",
+   "her_quote": "He had a band then and he had a band now, and he’s married to a Japanese – Elvin Jones. Elvin came down with his group.",
+   "her_quote_block_id": 295967,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [
+    {
+     "block_id": 295967,
+     "quote": "I can’t say all the musicians that came down – once in a while – and played for my kids and the school, and some of those got soul."
+    }
+   ],
+   "topics": [
+    "Jamaica",
+    "teaching"
+   ],
+   "notable": 2,
+   "upstream_relation_ok": true,
+   "confidence": "high",
+   "notes": "The bracket before the quote says she was trying to recall a drummer's name; she arrives at Elvin Jones. The earlier 'He came down to Jamaica' in the same block is Dexter Gordon."
+  },
+  {
+   "person_id": 104426,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Benny Powell",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "bryant_only",
+   "basis": "bryant_only",
+   "relation": "collaborated with",
+   "direction": "mutual",
+   "tie": [
+    "sideman"
+   ],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "",
+   "summary": "Bryant said Powell was one of the trombonists on Liston's first 'Melba and her 'Bones' record date; Liston answered that she had girls first and did not confirm him.",
+   "one_liner": "",
+   "her_quote": null,
+   "her_quote_block_id": null,
+   "bryant_quote": "On your first one you had Bennie Green, Al Grey, Benny Powell.",
+   "bryant_quote_block_id": 295972,
+   "more_her_quotes": [],
+   "topics": [
+    "Melba and her 'Bones",
+    "trombones"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": false,
+   "confidence": "medium",
+   "notes": "Liston and Bryant talk past each other here (Bryant: record date; Liston: her all-girl group)."
+  },
+  {
+   "person_id": 104430,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Bennie Green",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "bryant_only",
+   "basis": "bryant_only",
+   "relation": "collaborated with",
+   "direction": "mutual",
+   "tie": [
+    "sideman"
+   ],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "",
+   "summary": "Bryant said Green was one of the trombonists on Liston's first 'Melba and her 'Bones' record date; Liston answered that she had girls first and did not confirm him.",
+   "one_liner": "",
+   "her_quote": null,
+   "her_quote_block_id": null,
+   "bryant_quote": "On your first one you had Bennie Green, Al Grey, Benny Powell.",
+   "bryant_quote_block_id": 295972,
+   "more_her_quotes": [],
+   "topics": [
+    "Melba and her 'Bones",
+    "trombones"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": true,
+   "confidence": "medium",
+   "notes": "Liston and Bryant talk past each other here (Bryant: record date; Liston: her all-girl group)."
+  },
+  {
+   "person_id": 104418,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Leonard Feather",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "both",
+   "basis": "her_statement",
+   "relation": "collaborated with",
+   "direction": "mutual",
+   "tie": [
+    "recording_staff"
+   ],
+   "firsthand": true,
+   "stance": "mixed",
+   "stance_strength": 1,
+   "era": "",
+   "summary": "Liston said Feather got her a record date, that she had to record one of his tunes, and that she was not satisfied with some of the results, which were never released.",
+   "one_liner": "got her a record date",
+   "her_quote": "He was the one that got me the record date, but the record company was",
+   "her_quote_block_id": 295981,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [
+    {
+     "block_id": 295979,
+     "quote": "oh, Leonard Feather. That’s who that – yeah, he was still around."
+    },
+    {
+     "block_id": 295983,
+     "quote": "No. Not – some of them. Some of the tunes. Some of them I didn’t – I had to do one of his things."
+    }
+   ],
+   "topics": [
+    "recording",
+    "unreleased record"
+   ],
+   "notable": 2,
+   "upstream_relation_ok": false,
+   "confidence": "medium",
+   "notes": "Which record date is unclear: Bryant asks about 'Melba and her 'Bones' but Liston is talking about her later group whose records 'they didn't put out'. 'One of his things' = presumably one of Feather's compositions."
+  },
+  {
+   "person_id": 104471,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Frank Rehak",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "bryant_only",
+   "basis": "her_assent",
+   "relation": "collaborated with",
+   "direction": "mutual",
+   "tie": [
+    "sideman"
+   ],
+   "firsthand": true,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "",
+   "summary": "Bryant said Rehak and Slide Hampton were in one of the trombone sections on Liston's Christmas-time record dates; Liston recalled it as \"a different Company altogether\".",
+   "one_liner": "played on one of her trombone record dates",
+   "her_quote": "Oh. That was a different Company altogether. I forgot about that.",
+   "her_quote_block_id": 295989,
+   "bryant_quote": "But you had two separate ’bone sections on two different record dates. One was around Christmas time – they both were around Christmas time – one around the 22nd, one around the 24th. One you had Slide Hampton, Frank Rehak.",
+   "bryant_quote_block_id": 295988,
+   "more_her_quotes": [],
+   "topics": [
+    "trombones",
+    "record date"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": false,
+   "confidence": "medium",
+   "notes": "Her quote acknowledges the session, not Rehak by name. Upstream 'in music group with' overstates a record date as a standing band."
+  },
+  {
+   "person_id": 104480,
+   "is_person": false,
+   "not_person_kind": "tune_title",
+   "name": "Anitra",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "both",
+   "basis": "none",
+   "relation": "none",
+   "direction": "na",
+   "tie": [],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "",
+   "summary": "",
+   "one_liner": "",
+   "her_quote": null,
+   "her_quote_block_id": null,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [],
+   "topics": [],
+   "notable": 0,
+   "upstream_relation_ok": false,
+   "confidence": "high",
+   "notes": "\"Anitra\" is from Anitra's Dance (Grieg), the basis of Liston's arrangement 'Annie's Dance' for Gillespie's band."
+  },
+  {
+   "person_id": 104482,
+   "is_person": false,
+   "not_person_kind": "tune_title",
+   "name": "Annie",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "both",
+   "basis": "none",
+   "relation": "none",
+   "direction": "na",
+   "tie": [],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "",
+   "summary": "",
+   "one_liner": "",
+   "her_quote": null,
+   "her_quote_block_id": null,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [],
+   "topics": [],
+   "notable": 0,
+   "upstream_relation_ok": false,
+   "confidence": "high",
+   "notes": "\"Annie\" is from 'Annie's Dance', Liston's arrangement of Anitra's Dance for Gillespie's band."
+  },
+  {
+   "person_id": 104451,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Duke Ellington",
+   "identity_ok": true,
+   "identity_note": "No upstream QID; 'Duke' (with Basie) is plainly Duke Ellington. Possible duplicate of an 'Ellington' entry in another chunk.",
+   "who_speaks_of_them": "both",
+   "basis": "her_statement",
+   "relation": "knows of",
+   "direction": "na",
+   "tie": [
+    "admired",
+    "heard_on_radio_or_record"
+   ],
+   "firsthand": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "era": "",
+   "summary": "Liston said she loved Ellington's arrangements but denied imitating anyone, and that she could excerpt Duke and Basie for the State Department tour because she had played with them or listened to them all the time.",
+   "one_liner": "loved his arrangements, but wrote from her soul",
+   "her_quote": "I loved them, but I don’t have anybody – I do it all from my soul, and if it sounds like somebody, well it sounds like somebody.",
+   "her_quote_block_id": 295856,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [
+    {
+     "block_id": 296025,
+     "quote": "I mean, I played with all of them, so it was nothing for me to take a little bit of this and a little bit of that."
+    },
+    {
+     "block_id": 296029,
+     "quote": "Yeah, or else I had listened to them all the time."
+    }
+   ],
+   "topics": [
+    "State Department tour",
+    "arranging",
+    "influence"
+   ],
+   "notable": 2,
+   "upstream_relation_ok": false,
+   "confidence": "medium",
+   "notes": "295856 answers Bryant's 'Do you like Ellington's arrangements' (block 295855, surface form 'Ellington', not in this item's mentions). 'I played with all of them' is general and she qualifies it in 296029, so 'played with' is not established for Ellington."
+  },
+  {
+   "person_id": 104405,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Benny Golson",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "both",
+   "basis": "her_assent",
+   "relation": "in music group with",
+   "direction": "mutual",
+   "tie": [
+    "bandmate",
+    "fellow_arranger"
+   ],
+   "firsthand": true,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "era": "1950s Gillespie band",
+   "summary": "Bryant asked whether Golson was in Gillespie's band on the State Department tour and Liston agreed; later she named him among arrangers whose current work she did not hear.",
+   "one_liner": "was in Gillespie's touring band with him",
+   "her_quote": "I don’t hear Benny Golson’s and Randy – I mean Ernie’s – I don’t hear those things, so I don’t know whether they’re doing that or not.",
+   "her_quote_block_id": 296073,
+   "bryant_quote": "Was Benny Golson there?",
+   "bryant_quote_block_id": 296030,
+   "more_her_quotes": [],
+   "topics": [
+    "Dizzy Gillespie band",
+    "State Department tour",
+    "arranging"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": true,
+   "confidence": "medium",
+   "notes": "Upstream relation is right but its rationale ('a band in Jamaica') is wrong — the context is the Gillespie State Department tour."
+  },
+  {
+   "person_id": 104413,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Wynton Kelly",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "both",
+   "basis": "her_statement",
+   "relation": "friend of",
+   "direction": "mutual",
+   "tie": [
+    "romantic"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 3,
+   "era": "",
+   "summary": "Liston called Kelly a fine pianist and said she had been supposed to marry him, but he died in Canada.",
+   "one_liner": "was supposed to marry him",
+   "her_quote": "Yeah. Wynton’s a fine pianist. Oh dear. I think we were – I was supposed to marry him, but he died over there in Canada or somewhere.",
+   "her_quote_block_id": 296039,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [],
+   "topics": [
+    "piano",
+    "engagement"
+   ],
+   "notable": 3,
+   "upstream_relation_ok": true,
+   "confidence": "high",
+   "notes": "Kelly died in Toronto (1971), consistent with 'Canada'. Bryant's question placed Kelly in the South American tour group; Liston's 'Yeah' may assent to that too, so 'bandmate' is plausible but not established. 'friend of' is the closest vocabulary term for a stated engagement."
+  },
+  {
+   "person_id": 104438,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Ernie Henry",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "bryant_only",
+   "basis": "her_assent",
+   "relation": "collaborated with",
+   "direction": "mutual",
+   "tie": [
+    "bandmate"
+   ],
+   "firsthand": true,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "1950s",
+   "summary": "Bryant said Liston made a record with alto saxophonist Ernie Henry; Liston answered \"Yeah\" and went on to talk about Wynton Kelly.",
+   "one_liner": "made a record with him",
+   "her_quote": null,
+   "her_quote_block_id": null,
+   "bryant_quote": "Ernie Henry. You did a record with Ernie Henry, right? Good alto player.",
+   "bryant_quote_block_id": 296038,
+   "more_her_quotes": [],
+   "topics": [
+    "recording"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": true,
+   "confidence": "medium",
+   "notes": "Her 'Yeah.' may answer the record question or the Wynton Kelly question; weak assent."
+  },
+  {
+   "person_id": 104382,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Dinah Washington",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "both",
+   "basis": "her_statement",
+   "relation": "collaborated with",
+   "direction": "mutual",
+   "tie": [
+    "arranging_client"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 2,
+   "era": "",
+   "summary": "Liston said she wrote for Dinah Washington, who gave her no problems, and contrasted her \"soul, soul, soul\" and choice of soul songs with Gloria Lynne's ballads.",
+   "one_liner": "wrote arrangements for her",
+   "her_quote": "Dinah – soul, soul, soul, but Gloria’s soul too, but it’s a different way. They come after me differently. I don’t know how to say it. When I write for Dinah – uh. And when I write for Gloria – it’s oo.",
+   "her_quote_block_id": 296302,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [
+    {
+     "block_id": 296304,
+     "quote": "The difference is who picks what songs. Dinah picks some soul songs."
+    },
+    {
+     "block_id": 296306,
+     "quote": "if I wrote for Dinah – one of those arrangements for Dinah, I would write the same way for Gloria Lynne, but she would sing it differently."
+    },
+    {
+     "block_id": 296041,
+     "quote": "No. Everybody – no problems. Nobody."
+    }
+   ],
+   "topics": [
+    "singers",
+    "arranging",
+    "Gloria Lynne"
+   ],
+   "notable": 3,
+   "upstream_relation_ok": true,
+   "confidence": "high",
+   "notes": "She could not recall a strings album with Washington (296292, bracketed). Upstream direction 'na' is wrong for collaborated with."
+  },
+  {
+   "person_id": 104384,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Ray Charles",
+   "identity_ok": false,
+   "identity_note": "QID Q544387 is right for Ray Charles, but the fold includes Bryant's 'it didn't feature Ray' (296209), which in the Randy Weston album context very likely means trumpeter Ray Copeland.",
+   "who_speaks_of_them": "both",
+   "basis": "her_statement",
+   "relation": "played under",
+   "direction": "other_leads",
+   "tie": [
+    "bandleader"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 3,
+   "era": "",
+   "summary": "Liston said she worked for Ray Charles for two or three years, rejected his reputation for giving women a hard time — he was \"just always nice\" — and noted a woman now played trombone in his band.",
+   "one_liner": "worked for him two or three years",
+   "her_quote": "They were saying, Ray Charles, turn off the lights and give this woman a fit and all that. I said, no. We were together – I worked for him for two or three years",
+   "her_quote_block_id": 296043,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [
+    {
+     "block_id": 296045,
+     "quote": "He was just always nice. So I don’t know about these other things."
+    },
+    {
+     "block_id": 296417,
+     "quote": "But it’s a girl with Ray Charles’s band now."
+    },
+    {
+     "block_id": 296425,
+     "quote": "He’s got three trombones."
+    }
+   ],
+   "topics": [
+    "women in jazz",
+    "trombone"
+   ],
+   "notable": 3,
+   "upstream_relation_ok": true,
+   "confidence": "high",
+   "notes": "She does not say in what capacity she worked for him; 'bandleader' tie is inferred from 'worked for him'. Upstream direction 'target' is not an allowed value."
+  },
+  {
+   "person_id": 104440,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Sam Jones",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "bryant_only",
+   "basis": "bryant_only",
+   "relation": "collaborated with",
+   "direction": "mutual",
+   "tie": [
+    "arranging_client"
+   ],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "",
+   "summary": "Bryant said Liston wrote for bassist Sam Jones; Liston could not recall it.",
+   "one_liner": "",
+   "her_quote": null,
+   "her_quote_block_id": null,
+   "bryant_quote": "You wrote for Sam Jones.",
+   "bryant_quote_block_id": 296052,
+   "more_her_quotes": [],
+   "topics": [
+    "arranging"
+   ],
+   "notable": 0,
+   "upstream_relation_ok": true,
+   "confidence": "low",
+   "notes": "Liston's reply is only the bracketed '[can't recall.]' (296053)."
+  },
+  {
+   "person_id": 104459,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Austin Cromer",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "bryant_only",
+   "basis": "her_assent",
+   "relation": "collaborated with",
+   "direction": "mutual",
+   "tie": [
+    "arranging_client",
+    "bandmate"
+   ],
+   "firsthand": true,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "1950s Gillespie band",
+   "summary": "Bryant played Austin Cromer singing Liston's arrangement of If You Could See Me Now with Gillespie's band; Liston confirmed she wrote it.",
+   "one_liner": "arranged If You Could See Me Now",
+   "her_quote": null,
+   "her_quote_block_id": null,
+   "bryant_quote": "Austin Cromer sings your arrangement of If You Could See Me Now.",
+   "bryant_quote_block_id": 296054,
+   "more_her_quotes": [],
+   "topics": [
+    "If You Could See Me Now",
+    "Dizzy Gillespie band"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": true,
+   "confidence": "medium",
+   "notes": "Asked who suggested the tune, Liston said 'I guess he did. I wrote it. I don't know. I don't think Dizzy had anything to do with it.' (296059) — 'he' may be Cromer, but the referent is unclear, so it is not used as her quote. The Gillespie-band context is inferred from 296058-296059."
+  },
+  {
+   "person_id": 104402,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Paul West",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "both",
+   "basis": "her_statement",
+   "relation": "collaborated with",
+   "direction": "mutual",
+   "tie": [
+    "bandmate"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 1,
+   "era": "1950s; 1990s",
+   "summary": "Liston said West played bass on the Gillespie records and later conducted the Montreal strings on the Randy Weston album she arranged, \"quite well\".",
+   "one_liner": "conducted her strings arrangements in Montreal",
+   "her_quote": "Yeah, but on that he was conducting. He was conducting quite well.",
+   "her_quote_block_id": 296218,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [
+    {
+     "block_id": 296216,
+     "quote": "The conductor. He was conducting. He was playing bass on the records that – with Dizzy he was playing bass"
+    },
+    {
+     "block_id": 296214,
+     "quote": "the record was done in Montreal and they were all Montreal strings, but Randy and bass and drums are from New York. Paul"
+    }
+   ],
+   "topics": [
+    "Montreal",
+    "strings",
+    "Randy Weston",
+    "Dizzy Gillespie band"
+   ],
+   "notable": 2,
+   "upstream_relation_ok": true,
+   "confidence": "high",
+   "notes": "Earlier (296064-296067) she was unsure whether West was the bassist on 'If You Could See Me Now' ('I think so... I forget'). Bryant supplies the surname in 296217."
+  },
+  {
+   "person_id": 104427,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Billy Mitchell",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "bryant_only",
+   "basis": "bryant_only",
+   "relation": "in music group with",
+   "direction": "mutual",
+   "tie": [
+    "bandmate"
+   ],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "1950s Gillespie band",
+   "summary": "Bryant noted that Billy Mitchell's saxophone entry was set up by Liston's arrangement on a Gillespie-band recording; Liston's \"Yeah\" answered a question about writing for drums, not about him.",
+   "one_liner": "",
+   "her_quote": null,
+   "her_quote_block_id": null,
+   "bryant_quote": "like when Billy Mitchell came in on that saxophone, you had set it up. He came in, and Dizzy.",
+   "bryant_quote_block_id": 296134,
+   "more_her_quotes": [],
+   "topics": [
+    "Dizzy Gillespie band",
+    "Annie's Dance"
+   ],
+   "notable": 0,
+   "upstream_relation_ok": true,
+   "confidence": "medium",
+   "notes": "Track is Annie's Dance per Bryant's lead-in (296103)."
+  }
+ ]
+}

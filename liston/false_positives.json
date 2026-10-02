@@ -1,0 +1,38 @@
+{
+ "subject": "liston",
+ "qid": "Q274146",
+ "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q274146",
+ "generated_from": "linked_jazz.sqlite + subagent evaluation pass",
+ "count": 1,
+ "method": "blocks the evaluators judged not to be about the subject; audit list for the upstream alias layer",
+ "items": [
+  {
+   "block_id": 240779,
+   "doc_id": "275907",
+   "speaker": "SY",
+   "text": "Well that band came about, there were a bunch of musicians in New York that was all mostly doing studio work. And so Thad and Mel come up with the idea. I don’t know exactly who came up with the idea, Conners, a guy names Conners, oh, I forget his name. He lives in — anyway, they got this idea of putting this band together and to get all the guys that wanted to just play for, you know, instead of just playing that studio music all the time. So that’s how that band formed. And we rehearsed any hour of the night. Any time, the guys would just show up because they wanted to play what Thad was writing and everything. And so finally they got a gig down at the Village Vanguard, and we did it every Monday night and so that’s where that band went right to that. But it was just guys that wanted to play. © Fillius Jazz Archive -17-",
+   "notes": "No mention of Liston in the target; the match is the surface form 'Mel' — this is Snooky Young on the Thad Jones–Mel Lewis Orchestra (Mel Lewis).",
+   "doc": {
+    "title": "Snooky Young and Gerald Wilson interviewed by Monk Rowe, Los Angeles, California, September 3, 1995",
+    "collection": "hamilton",
+    "year": 1995,
+    "interviewee_field": "Snooky Young and Gerald Wilson",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Snooky Young",
+      "qid": "Q2004076",
+      "node_key": "wd:Q2004076"
+     },
+     {
+      "label": "Gerald Wilson",
+      "qid": "Q201500",
+      "node_key": "wd:Q201500"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275907#b16-17"
+   },
+   "mention_source": "person_layer"
+  }
+ ]
+}

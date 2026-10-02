@@ -1,0 +1,1154 @@
+{
+ "subject": "liston",
+ "chunk": 1,
+ "count": 30,
+ "chunk_top": [
+  104380,
+  104377,
+  104376
+ ],
+ "items": [
+  {
+   "person_id": 104479,
+   "is_person": false,
+   "not_person_kind": "descriptor",
+   "name": "NEA Jazz Master",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "transcriber_only",
+   "basis": "none",
+   "relation": "none",
+   "direction": "na",
+   "tie": [],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "",
+   "summary": "",
+   "one_liner": "",
+   "her_quote": null,
+   "her_quote_block_id": null,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [],
+   "topics": [],
+   "notable": 0,
+   "upstream_relation_ok": false,
+   "confidence": "high",
+   "notes": "Not a person: the honorific 'NEA Jazz Master (1987)' from the transcript's front-matter note (block 295458), describing Liston herself."
+  },
+  {
+   "person_id": 104378,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Clora Bryant",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "both",
+   "basis": "her_assent",
+   "relation": "collaborated with",
+   "direction": "mutual",
+   "tie": [
+    "interviewer",
+    "arranging_client"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 1,
+   "era": "1990s",
+   "summary": "Clora Bryant conducted the interview; she said Liston had written five arrangements for her that still needed transcribing, and Liston replied that someone was already doing them.",
+   "one_liner": "wrote five arrangements for her",
+   "her_quote": "I watch you getting thrilled, and then I get a thrill from that.",
+   "her_quote_block_id": 296057,
+   "bryant_quote": "But you did five things for me that I haven’t been able to see. I’ve got to get that transcribed.",
+   "bryant_quote_block_id": 296442,
+   "more_her_quotes": [],
+   "topics": [
+    "interview",
+    "arrangements"
+   ],
+   "notable": 2,
+   "upstream_relation_ok": false,
+   "confidence": "medium",
+   "notes": "Upstream skipped her as host (relation null). Bryant also says (296504) 'Maybe in the last year we became bonded' – friendship is Bryant's statement only. Liston's reply about the five arrangements (296443) is '[?] is doing them', with an inaudible name."
+  },
+  {
+   "person_id": 104424,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Lucille Liston",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "both",
+   "basis": "her_statement",
+   "relation": "none",
+   "direction": "na",
+   "tie": [
+    "family"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 2,
+   "era": "childhood onward",
+   "summary": "Liston spoke of her mother often: she kept a tape of her mother talking about when she got her first horn, had her mother cancel an unliked teacher, refused adoption to stay with her mom, and closed the interview with a tune dedicated to her mother and stepfather.",
+   "one_liner": "her mother",
+   "her_quote": "I’ve got a record – I mean a tape with my mother’s voice on there, and she’s talking about when I first got my horn.",
+   "her_quote_block_id": 295503,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [
+    {
+     "block_id": 295533,
+     "quote": "Anyway, I told him, “No. I want to stay with my mom.”"
+    },
+    {
+     "block_id": 295643,
+     "quote": "My mom sent my horn, and it worked out all right."
+    },
+    {
+     "block_id": 296510,
+     "quote": "And we’ll close with a tune dedicated to my mom and her man, her husband, Ben Loves Lu."
+    },
+    {
+     "block_id": 295515,
+     "quote": "I told my mother to cancel him."
+    }
+   ],
+   "topics": [
+    "family",
+    "Kansas City",
+    "Ben Loves Lu"
+   ],
+   "notable": 2,
+   "upstream_relation_ok": true,
+   "confidence": "high",
+   "notes": "The name 'Lucille Liston' comes only from the transcriber's bracket in 295468; Liston herself always says 'my mother'/'my mom'. Upstream skipped as self/host (null), which matches relation none."
+  },
+  {
+   "person_id": 104433,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "John Clark",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "both",
+   "basis": "her_statement",
+   "relation": "none",
+   "direction": "na",
+   "tie": [
+    "family"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 1,
+   "era": "childhood, Kansas City",
+   "summary": "Liston's grandfather, named John Clark by the transcriber, was the one she spent her Kansas City childhood with, playing trombone on his back porch.",
+   "one_liner": "played trombone on her grandpa's back porch",
+   "her_quote": "I was with my grandpa on the back porch, playing the trombone.",
+   "her_quote_block_id": 295507,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [
+    {
+     "block_id": 295466,
+     "quote": "I was born in Kansas City, Missouri, and my grandparents lived in Kansas City, Kansas, so I was between both of them."
+    }
+   ],
+   "topics": [
+    "family",
+    "Kansas City",
+    "trombone"
+   ],
+   "notable": 2,
+   "upstream_relation_ok": false,
+   "confidence": "high",
+   "notes": "Name only in a transcriber bracket (295468). 'My pop's favorite was Cab Calloway' (295499) may also refer to him but 'pop' is ambiguous. Upstream 'knows of' is wrong: he is family."
+  },
+  {
+   "person_id": 104474,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Virginia Clark",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "both",
+   "basis": "her_statement",
+   "relation": "none",
+   "direction": "na",
+   "tie": [
+    "family"
+   ],
+   "firsthand": true,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "childhood",
+   "summary": "Liston's grandmother, named Virginia by the transcriber, moved to California with Liston's aunts some months before Liston and her mother followed.",
+   "one_liner": "her grandmother",
+   "her_quote": "My mom and me stayed over, and my grandma and my aunties moved out here.",
+   "her_quote_block_id": 295517,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [],
+   "topics": [
+    "family",
+    "move to California"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": false,
+   "confidence": "high",
+   "notes": "Name only in transcriber bracket 295468 ('Her grandparents were Virginia and John Clark'). Upstream 'knows of' wrong: family."
+  },
+  {
+   "person_id": 104491,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Thelma",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "both",
+   "basis": "her_assent",
+   "relation": "none",
+   "direction": "na",
+   "tie": [
+    "family"
+   ],
+   "firsthand": true,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "childhood",
+   "summary": "Liston said her aunties would dance while she pedalled the player piano, and agreed when Bryant asked whether Thelma did too.",
+   "one_liner": "her aunt, who danced to the player piano",
+   "her_quote": "Yeah, and my aunties would dance.",
+   "her_quote_block_id": 295478,
+   "bryant_quote": "Thelma too?",
+   "bryant_quote_block_id": 295479,
+   "more_her_quotes": [],
+   "topics": [
+    "family",
+    "player piano"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": false,
+   "confidence": "medium",
+   "notes": "That Thelma is an aunt is inferred from Bryant's follow-up 'Thelma too?' to the aunties line; never stated outright. Upstream 'knows of' wrong: family."
+  },
+  {
+   "person_id": 104379,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Matt Watson",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "both",
+   "basis": "her_statement",
+   "relation": "has met",
+   "direction": "mutual",
+   "tie": [
+    "recording_staff"
+   ],
+   "firsthand": true,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "1996",
+   "summary": "Matt Watson was the Smithsonian recording engineer present at the interview, who also put questions to Liston; at the end she asked his last name.",
+   "one_liner": "recorded and co-asked the 1996 interview",
+   "her_quote": "Oh. Matt Watson.",
+   "her_quote_block_id": 296508,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [],
+   "topics": [
+    "Smithsonian interview"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": false,
+   "confidence": "high",
+   "notes": "Watson's own questions are embedded inside Liston/Bryant blocks (e.g. 295495, 295894, 295896, 295956, 296507) - speaker segmentation error in the transcript."
+  },
+  {
+   "person_id": 104383,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Count Basie",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "both",
+   "basis": "her_statement",
+   "relation": "played with",
+   "direction": "mutual",
+   "tie": [
+    "unknown"
+   ],
+   "firsthand": true,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "1940s",
+   "summary": "Liston said her aunties loved Basie and, asked about a State Department tour medley drawing on Duke, Basie and others, said she had played with all of them; she could not recall the Basie recording Bryant said Gerald Wilson described.",
+   "one_liner": "her aunties loved his band",
+   "her_quote": "I mean, I played with all of them, so it was nothing for me to take a little bit of this and a little bit of that.",
+   "her_quote_block_id": 296025,
+   "bryant_quote": "Gerald said that you recorded with Basie and that the record is out now, on CD.",
+   "bryant_quote_block_id": 295640,
+   "more_her_quotes": [
+    {
+     "block_id": 295499,
+     "quote": "My auntie’s loved [Jimmie] Lunceford and Basie."
+    }
+   ],
+   "topics": [
+    "Basie band",
+    "State Department tour",
+    "Gerald Wilson"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": false,
+   "confidence": "low",
+   "notes": "'I played with all of them' answers a question about Duke, Basie 'and all those people' - general, not specific to Basie. Bryant (295638, 295640) says Liston and Gerald Wilson were with Basie and recorded with him; transcriber says Liston 'does not know about it or remember recording with Basie' (295641). A human may prefer 'knows of'."
+  },
+  {
+   "person_id": 104408,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Cab Calloway",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "liston",
+   "basis": "her_statement",
+   "relation": "knows of",
+   "direction": "na",
+   "tie": [
+    "heard_on_radio_or_record"
+   ],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "childhood",
+   "summary": "Liston recalled that Cab Calloway was her pop's favorite among the music heard at home in Kansas City.",
+   "one_liner": "her pop's favorite bandleader",
+   "her_quote": "My pop’s favorite was Cab Calloway.",
+   "her_quote_block_id": 295499,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [],
+   "topics": [
+    "Kansas City",
+    "childhood listening"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": true,
+   "confidence": "high",
+   "notes": "'Pop' is unexplained - possibly her grandfather, with whom she lived."
+  },
+  {
+   "person_id": 104376,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Miss Hightower (and daughter Minnie Hightower)",
+   "identity_ok": false,
+   "identity_note": "Two people folded together: Minnie Hightower, Liston's schoolmate and bandmate (later married Clifford Burden), and Minnie's mother 'Mrs./Miss Hightower', the teacher who led the Melodic Dots (bracket 296332: 'Minnie Hightower, her mother Miss Hightower'). Most mentions and all the substance concern the mother; this record describes her. Minnie should be split out.",
+   "who_speaks_of_them": "both",
+   "basis": "her_statement",
+   "relation": "mentor of",
+   "direction": "other_leads",
+   "tie": [
+    "teacher",
+    "bandleader",
+    "school_friend",
+    "bandmate"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 2,
+   "era": "c. 1938 until Liston was 16",
+   "summary": "Liston said Miss Hightower led the Melodic Dots youth band, taught them everything done on a stage, took them on her first trip on the road, and was 'nice to me' until Liston left at 16 to join the union and the Lincoln Theater.",
+   "one_liner": "learned stagecraft in her melodic dots",
+   "her_quote": "Everything. Everything dancers do. Everything horns do. Everything everybody did. We did dancing and – tap dancing and hula dancing. Did everything. Everything that was on the stage, she taught us",
+   "her_quote_block_id": 295559,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [
+    {
+     "block_id": 295571,
+     "quote": "She was nice to me. I stayed with her until 16 and I joined the union and started to work at the Lincoln Theater. I think she was kind of pissed off with me then. But anyway, that started me on the road to where I am now."
+    },
+    {
+     "block_id": 295555,
+     "quote": "Melodic Dots. Miss Hightower and the Melodic Dots. Oh dear."
+    },
+    {
+     "block_id": 295553,
+     "quote": "Miss Hightower and the truck driver was up in the front. We made it. I guess that was my first time on the road."
+    },
+    {
+     "block_id": 295583,
+     "quote": "But Miss Hightower taught us how to do that anyway, so it wasn’t no big thing."
+    }
+   ],
+   "topics": [
+    "Melodic Dots",
+    "Ross Snyder playground",
+    "Los Angeles",
+    "skits"
+   ],
+   "notable": 3,
+   "upstream_relation_ok": true,
+   "confidence": "high",
+   "notes": "Liston qualifies the teaching: 'Not harmony. Theory, yes. A little bit of it' (295563) and 'she didn't teach, because I was reading all the time' (295567). On Minnie herself Liston says only 'Yeah' to meeting her at school (295545), counts her among 'those three, we were close' (295549), and 'He and Minnie both dead, huh?' (296334, of Clifford Burden). 'Minnie [?Moore ?Morris]' in photo block 296312 may be a different Minnie. 295547 'I met her, and she was thrilled with my playing' is ambiguous between mother and daughter."
+  },
+  {
+   "person_id": 104391,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Vi Redd",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "both",
+   "basis": "her_statement",
+   "relation": "in music group with",
+   "direction": "mutual",
+   "tie": [
+    "bandmate",
+    "school_friend",
+    "friend"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 1,
+   "era": "late 1930s",
+   "summary": "Asked about the girls in Miss Hightower's band besides Minnie and Vi Redd, Liston added Alice Young and said the three of them were close and the only girls in the group.",
+   "one_liner": "was close with her in the melodic dots",
+   "her_quote": "Those three, we were close. I don’t think no other girls were in there at the time.",
+   "her_quote_block_id": 295549,
+   "bryant_quote": "Do you remember some of the people besides Minnie and Vi Redd?",
+   "bryant_quote_block_id": 295548,
+   "more_her_quotes": [],
+   "topics": [
+    "Melodic Dots",
+    "Los Angeles",
+    "photographs"
+   ],
+   "notable": 2,
+   "upstream_relation_ok": true,
+   "confidence": "high",
+   "notes": "Liston names 'Elvira' in a 1938 band photo (296316); Vi Redd's given name is Elvira, and Bryant's next line '[They identify Melba and Buddy Redd.] Elvira – Vi Redd's brother' (296319) is garbled - probably Elvira = Vi Redd, Buddy Redd = her brother. 'Elvira' is a separate person record (104411); check for merge. Upstream evidence wrongly placed the group in Kansas City; it was Los Angeles."
+  },
+  {
+   "person_id": 104388,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Alice Young",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "both",
+   "basis": "her_statement",
+   "relation": "in music group with",
+   "direction": "mutual",
+   "tie": [
+    "bandmate",
+    "school_friend",
+    "friend"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 1,
+   "era": "late 1930s – early 1940s",
+   "summary": "Liston named Alice Young as one of the three girls she was close to in Miss Hightower's band and the only Melodic Dots member who went with her to the Lincoln Theater.",
+   "one_liner": "went with her from melodic dots to lincoln",
+   "her_quote": "Alice Young. Those three, we were close.",
+   "her_quote_block_id": 295549,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [
+    {
+     "block_id": 295573,
+     "quote": "Alice Young. Her name’s Mrs. H[?(inaudible)] or something now. But she – nobody else."
+    }
+   ],
+   "topics": [
+    "Melodic Dots",
+    "Lincoln Theater"
+   ],
+   "notable": 2,
+   "upstream_relation_ok": true,
+   "confidence": "high",
+   "notes": "Bryant later says Alice was Lorenzo's pianist until he died; Liston: 'I didn't know that.' (296332). Her married name 'Mrs. H…' is inaudible; it is split out as a separate record (104476)."
+  },
+  {
+   "person_id": 104445,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Paul Robeson",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "liston",
+   "basis": "her_statement",
+   "relation": "knows of",
+   "direction": "na",
+   "tie": [
+    "admired"
+   ],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "late 1930s",
+   "summary": "Liston recalled, uncertainly, that Miss Hightower had the children do skits in the manner of Paul Robeson 'or somebody'.",
+   "one_liner": "skits in his manner, taught by miss hightower",
+   "her_quote": "I can’t remember who. Paul Robeson or somebody. She would take us through things like he did, or somebody like that.",
+   "her_quote_block_id": 295561,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [],
+   "topics": [
+    "Melodic Dots",
+    "skits"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": true,
+   "confidence": "medium",
+   "notes": "Tentative recollection ('or somebody'). 'admired' tie is loose - he was a model for the skits, not someone she says she admired."
+  },
+  {
+   "person_id": 104476,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Alice Young (married name 'Mrs. H…')",
+   "identity_ok": true,
+   "identity_note": "Not a separate person: 'Mrs. H[?(inaudible)]' is Liston's attempt at Alice Young's married name. Duplicate of person 104388.",
+   "who_speaks_of_them": "liston",
+   "basis": "her_statement",
+   "relation": "in music group with",
+   "direction": "mutual",
+   "tie": [
+    "bandmate",
+    "school_friend"
+   ],
+   "firsthand": true,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "early 1940s",
+   "summary": "Liston gave this partly inaudible married name for Alice Young, the Melodic Dots bandmate who went with her to the Lincoln Theater.",
+   "one_liner": "alice young's married name",
+   "her_quote": "Alice Young. Her name’s Mrs. H[?(inaudible)] or something now.",
+   "her_quote_block_id": 295573,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [],
+   "topics": [
+    "Melodic Dots",
+    "Lincoln Theater"
+   ],
+   "notable": 0,
+   "upstream_relation_ok": false,
+   "confidence": "high",
+   "notes": "Merge into Alice Young (104388). Upstream 'acquaintance of' understates it; she was a close bandmate."
+  },
+  {
+   "person_id": 104403,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Bardu Ali",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "both",
+   "basis": "her_statement",
+   "relation": "played under",
+   "direction": "other_leads",
+   "tie": [
+    "bandleader"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 1,
+   "era": "early 1940s, Lincoln Theater",
+   "summary": "Liston said Bardu Ali, leading the band at the Lincoln Theater, had her write music for acts that arrived without any - which she called the start of her writing career.",
+   "one_liner": "started her writing career in his band",
+   "her_quote": "I guess he thought I was from college or something, because the acts that would come in that didn’t have any music, he would say, “Girl, write the music for it,” and I would write it. So I started writing.",
+   "her_quote_block_id": 295575,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [
+    {
+     "block_id": 295577,
+     "quote": "I was writing for bands – 12, 13, 14, 15 pieces, something like that. That was the start of my writing career."
+    },
+    {
+     "block_id": 295579,
+     "quote": "Yeah, he did."
+    }
+   ],
+   "topics": [
+    "Lincoln Theater",
+    "first arrangements",
+    "Los Angeles"
+   ],
+   "notable": 3,
+   "upstream_relation_ok": false,
+   "confidence": "high",
+   "notes": "That Ali led the Lincoln band comes from context and the bracket 295610 ('bandmembers who came with Liston from Bardu Ali to Gerald Wilson'); Liston never says 'his band'. 295579 is her assent that he had been with Chick Webb - drop it if too thin. Upstream 'collaborated with' understates the leader relation."
+  },
+  {
+   "person_id": 104410,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Chick Webb",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "both",
+   "basis": "her_assent",
+   "relation": "knows of",
+   "direction": "na",
+   "tie": [
+    "unknown"
+   ],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "",
+   "summary": "Bryant said Bardu Ali had been with Chick Webb and Liston agreed; she could not recall whether they played Webb's music.",
+   "one_liner": "",
+   "her_quote": null,
+   "her_quote_block_id": null,
+   "bryant_quote": "Bardu had been with Chick Webb?",
+   "bryant_quote_block_id": 295578,
+   "more_her_quotes": [],
+   "topics": [
+    "Bardu Ali"
+   ],
+   "notable": 0,
+   "upstream_relation_ok": true,
+   "confidence": "medium",
+   "notes": "Only a second-hand fact about Bardu Ali; no relation of Liston's own to Webb. 'none' would also be defensible."
+  },
+  {
+   "person_id": 104401,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Pigmeat Markham",
+   "identity_ok": true,
+   "identity_note": "Transcript spells 'Markum'; this is the comedian Dewey 'Pigmeat' Markham. No upstream QID.",
+   "who_speaks_of_them": "both",
+   "basis": "her_statement",
+   "relation": "played with",
+   "direction": "mutual",
+   "tie": [
+    "unknown"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 2,
+   "era": "early 1940s, Lincoln Theater",
+   "summary": "Liston said Pigmeat Markham 'had the run of the show' at the Lincoln Theater, that she would go on and do his skits when he was busy elsewhere, and laughed recalling how he would come on after a serious act and 'really just do it up'.",
+   "one_liner": "did his skits at the lincoln theater",
+   "her_quote": "Pigmeat Markum was always there. He had the run of the show. When he had some skit to do that wasn’t around the action on the stage, I would go on and do them.",
+   "her_quote_block_id": 295583,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [
+    {
+     "block_id": 295585,
+     "quote": "Oh yeah. He would come on and do it afterwards. Oh dear. That was something else."
+    },
+    {
+     "block_id": 295587,
+     "quote": "Yeah, something like that. I don’t know how you could call it, but he would come on and really just do it up."
+    },
+    {
+     "block_id": 295591,
+     "quote": "Yeah, it was. And Dusty Fletcher. He and Dusty Fletcher had a run all the time."
+    }
+   ],
+   "topics": [
+    "Lincoln Theater",
+    "skits",
+    "comedy"
+   ],
+   "notable": 3,
+   "upstream_relation_ok": false,
+   "confidence": "high",
+   "notes": "Suspected misspelling Markum -> Markham. Relation is stage work in the same show rather than music; 'played with' chosen as closest; upstream 'collaborated with' implies making music together. 295591 answers Bryant's 'That must have been an education, working with him.'"
+  },
+  {
+   "person_id": 104422,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Dusty Fletcher",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "liston",
+   "basis": "her_statement",
+   "relation": "played with",
+   "direction": "mutual",
+   "tie": [
+    "unknown"
+   ],
+   "firsthand": true,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "early 1940s, Lincoln Theater",
+   "summary": "Recalling her education working at the Lincoln Theater, Liston added Dusty Fletcher, who with Pigmeat Markham 'had a run all the time'.",
+   "one_liner": "worked the lincoln theater stage with him",
+   "her_quote": "Yeah, it was. And Dusty Fletcher. He and Dusty Fletcher had a run all the time.",
+   "her_quote_block_id": 295591,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [],
+   "topics": [
+    "Lincoln Theater",
+    "comedy"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": false,
+   "confidence": "medium",
+   "notes": "Upstream evidence wrongly put this in Lucky Millinder's band; Millinder is only in Bryant's next question. Relation is inferred from 'working with him' context; could be downgraded to 'acquaintance of'."
+  },
+  {
+   "person_id": 104414,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Marl Young",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "bryant_only",
+   "basis": "transcriber_summary",
+   "relation": "acquaintance of",
+   "direction": "mutual",
+   "tie": [
+    "unknown"
+   ],
+   "firsthand": true,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "",
+   "summary": "Bryant asked about a singer who married Marl Young; the transcriber notes that Liston knew Marl but could not recall the singer's name.",
+   "one_liner": "",
+   "her_quote": null,
+   "her_quote_block_id": null,
+   "bryant_quote": "What’s the girl who was with Lucky Millinder, married Marl Young?",
+   "bryant_quote_block_id": 295592,
+   "more_her_quotes": [],
+   "topics": [
+    "Lincoln Theater"
+   ],
+   "notable": 0,
+   "upstream_relation_ok": false,
+   "confidence": "medium",
+   "notes": "Only evidence of acquaintance is the bracket '[knows Marl, but cannot recall the singer's name.]' (295593). QID Q17319102 (musician 1917-2009) fits Marl Young the Los Angeles pianist/arranger."
+  },
+  {
+   "person_id": 104446,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Joya Sherrill",
+   "identity_ok": true,
+   "identity_note": "Transcript spells 'Sherill'; the Ellington singer Joya Sherrill, matching Q453567.",
+   "who_speaks_of_them": "bryant_only",
+   "basis": "none",
+   "relation": "none",
+   "direction": "na",
+   "tie": [
+    "unknown"
+   ],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "",
+   "summary": "Bryant mentioned Joya Sherrill only to rule her out while trying to recall another singer; Liston said nothing about her.",
+   "one_liner": "",
+   "her_quote": null,
+   "her_quote_block_id": null,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [],
+   "topics": [],
+   "notable": 0,
+   "upstream_relation_ok": false,
+   "confidence": "high",
+   "notes": "Mentioned only in Bryant's 'Not Joya Sherill.' (295592)."
+  },
+  {
+   "person_id": 104464,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Lucky Millinder",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "bryant_only",
+   "basis": "none",
+   "relation": "none",
+   "direction": "na",
+   "tie": [
+    "unknown"
+   ],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "",
+   "summary": "Bryant mentioned Lucky Millinder only to identify a singer she was trying to recall; Liston said nothing about him.",
+   "one_liner": "",
+   "her_quote": null,
+   "her_quote_block_id": null,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [],
+   "topics": [],
+   "notable": 0,
+   "upstream_relation_ok": false,
+   "confidence": "high",
+   "notes": "Only in Bryant's question 295592."
+  },
+  {
+   "person_id": 104436,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Herb Jeffries",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "both",
+   "basis": "her_assent",
+   "relation": "played with",
+   "direction": "mutual",
+   "tie": [
+    "unknown"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 1,
+   "era": "1940, Lincoln Theater",
+   "summary": "When Bryant named Herb Jeffries among the performers who came through the Lincoln Theater, Liston agreed, placing it around 1940, when Black and white Los Angeles each 'had our thing'.",
+   "one_liner": "backed him at the lincoln theater",
+   "her_quote": "Yeah. That was it in 19 – whatever it is – 40. We had our thing, and then whitey had his thing.",
+   "her_quote_block_id": 295597,
+   "bryant_quote": "Herb Jeffries?",
+   "bryant_quote_block_id": 295596,
+   "more_her_quotes": [],
+   "topics": [
+    "Lincoln Theater",
+    "Central Avenue"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": false,
+   "confidence": "medium",
+   "notes": "Context: Liston has just said 'everybody came through there' (295595) about her time in the Lincoln pit band. That she played behind Jeffries is inferred; 'has met' or 'knows of' would be the conservative alternatives. one_liner may overstate."
+  },
+  {
+   "person_id": 104380,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Gerald Wilson",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "both",
+   "basis": "her_statement",
+   "relation": "played under",
+   "direction": "other_leads",
+   "tie": [
+    "bandleader"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 3,
+   "era": "1940s (she said 5 or 6 years, he said 8)",
+   "summary": "Liston said Gerald Wilson 'stole me out of the band', that she worked for him for years as copyist and sometime arranger across Chicago and New York, that he featured her singing and playing and told audiences she wrote the arrangements, and that he gave the band's money to the men when they were stranded on the Billie Holiday tour.",
+   "one_liner": "copyist and arranger in his band",
+   "her_quote": "So I guess he did. I worked with him. I was saying 5 or 6, but he said 8 years. That’s a long time. We worked everywhere. We worked Chicago, New York, and everything. I was the copyist and sometime I would do the arrangements.",
+   "her_quote_block_id": 295603,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [
+    {
+     "block_id": 295601,
+     "quote": "He says he stole me out of the band."
+    },
+    {
+     "block_id": 295623,
+     "quote": "Gerald said, “Melba, write something up and do it.” So I did what he said."
+    },
+    {
+     "block_id": 295701,
+     "quote": "Gerald, he started it. “She wrote the arrangement. She plays, she sings, and all of that stuff.”"
+    },
+    {
+     "block_id": 295605,
+     "quote": "Yeah, yeah. He said he learned a lot. We just had a good thing going."
+    }
+   ],
+   "topics": [
+    "Gerald Wilson Orchestra",
+    "Apollo",
+    "copyist",
+    "Billie Holiday tour"
+   ],
+   "notable": 3,
+   "upstream_relation_ok": false,
+   "confidence": "high",
+   "notes": "Also 295633: 'Gerald took all the money that we had and gave it to the fellows to get back home'. Bryant claims (295638-40) Liston and Wilson were with Basie and recorded with him; Liston could not recall. Upstream 'collaborated with' understates: he was her bandleader."
+  },
+  {
+   "person_id": 104447,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Jimmy Bunn",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "transcriber_only",
+   "basis": "transcriber_summary",
+   "relation": "in music group with",
+   "direction": "mutual",
+   "tie": [
+    "bandmate"
+   ],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "early 1940s",
+   "summary": "A transcriber's summary of Bryant's prompts lists Jimmy Bunn among the bandmembers who moved with Liston from Bardu Ali's band to Gerald Wilson's.",
+   "one_liner": "",
+   "her_quote": null,
+   "her_quote_block_id": null,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [],
+   "topics": [
+    "Bardu Ali",
+    "Gerald Wilson Orchestra"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": true,
+   "confidence": "medium",
+   "notes": "Bryant's turn 295610 is a transcriber summary: '[gives Liston prompts naming bandmembers who came with Liston from Bardu Ali to Gerald Wilson: Vernon Slater, Jimmy Bunn, Floyd Turner…]'. Liston's reply (also bracketed) does not confirm the names."
+  },
+  {
+   "person_id": 104450,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Floyd Turner",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "transcriber_only",
+   "basis": "transcriber_summary",
+   "relation": "in music group with",
+   "direction": "mutual",
+   "tie": [
+    "bandmate"
+   ],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "early 1940s",
+   "summary": "A transcriber's summary of Bryant's prompts lists Floyd Turner among the bandmembers who moved with Liston from Bardu Ali's band to Gerald Wilson's.",
+   "one_liner": "",
+   "her_quote": null,
+   "her_quote_block_id": null,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [],
+   "topics": [
+    "Bardu Ali",
+    "Gerald Wilson Orchestra"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": true,
+   "confidence": "medium",
+   "notes": "Bryant's turn 295610 is a transcriber summary: '[gives Liston prompts naming bandmembers who came with Liston from Bardu Ali to Gerald Wilson: Vernon Slater, Jimmy Bunn, Floyd Turner…]'. Liston's reply (also bracketed) does not confirm the names."
+  },
+  {
+   "person_id": 104454,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Vernon Slater",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "transcriber_only",
+   "basis": "transcriber_summary",
+   "relation": "in music group with",
+   "direction": "mutual",
+   "tie": [
+    "bandmate"
+   ],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "early 1940s",
+   "summary": "A transcriber's summary of Bryant's prompts lists Vernon Slater among the bandmembers who moved with Liston from Bardu Ali's band to Gerald Wilson's.",
+   "one_liner": "",
+   "her_quote": null,
+   "her_quote_block_id": null,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [],
+   "topics": [
+    "Bardu Ali",
+    "Gerald Wilson Orchestra"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": true,
+   "confidence": "medium",
+   "notes": "Bryant's turn 295610 is a transcriber summary: '[gives Liston prompts naming bandmembers who came with Liston from Bardu Ali to Gerald Wilson: Vernon Slater, Jimmy Bunn, Floyd Turner…]'. Liston's reply (also bracketed) does not confirm the names."
+  },
+  {
+   "person_id": 104398,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Jimmie Lunceford",
+   "identity_ok": false,
+   "identity_note": "Q1689291 (Jimmie Lunceford) is right for blocks 295499, 295612 and 295616, but the bare 'Jimmie' in 296492 ('Stacey Rowles. Jimmie's daughter.') is pianist Jimmie Rowles, Stacey Rowles's father - a different person folded in.",
+   "who_speaks_of_them": "both",
+   "basis": "her_statement",
+   "relation": "knows of",
+   "direction": "na",
+   "tie": [
+    "heard_on_radio_or_record"
+   ],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "childhood; 1940s",
+   "summary": "Liston recalled that her aunties loved Lunceford's band; Bryant also suggested Gerald Wilson's band followed Lunceford's on a New York show, which Liston did not take up, saying only 'we just had a good band'.",
+   "one_liner": "her aunties loved his band",
+   "her_quote": "My pop’s favorite was Cab Calloway. My auntie’s loved [Jimmie] Lunceford and Basie.",
+   "her_quote_block_id": 295499,
+   "bryant_quote": "Do you think by following Jimmie Lunceford, that’s why you guys played so good back there too?",
+   "bryant_quote_block_id": 295616,
+   "more_her_quotes": [],
+   "topics": [
+    "childhood listening",
+    "Gerald Wilson Orchestra"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": false,
+   "confidence": "medium",
+   "notes": "'[Jimmie]' in 295499 is an editorial expansion. The shared-show claim is in a transcriber bracket in Bryant's turn (295612: 'They played in the same show with Jimmie Lunceford'). Upstream 'played under' is wrong - she was never in his band. Wilson had played in Lunceford's band (outside knowledge), which may explain the link."
+  },
+  {
+   "person_id": 104377,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Dizzy Gillespie",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "both",
+   "basis": "her_statement",
+   "relation": "played under",
+   "direction": "other_leads",
+   "tie": [
+    "bandleader",
+    "arranging_client"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 3,
+   "era": "late 1940s; 1956 band to its break-up",
+   "summary": "Liston told how she arrived in New York to find Dizzy had kept her chair empty for a week, how he silenced the doubters in his 1956 band by having them play one of her arrangements, that 'he was so good', and that she only later realized how much he did to keep the band together.",
+   "one_liner": "trombonist and arranger in his big band",
+   "her_quote": "He said, “Go on and take one of those arrangements out and see if they can play it.” Two or three bars later, he said, “Now who’s the …”",
+   "her_quote_block_id": 295707,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [
+    {
+     "block_id": 295643,
+     "quote": "Billy Eckstine was out front. He said, “…, where you been? We’ve been looking for you. Dizzy’s had the chair empty for a whole week.”"
+    },
+    {
+     "block_id": 295709,
+     "quote": "He was so good. I was there until the band broke up."
+    },
+    {
+     "block_id": 296023,
+     "quote": "Dizzy, I guess, was doing it, but we didn’t see it. I didn’t know that Dizzy was doing everything that he was doing to keep us together and all that."
+    },
+    {
+     "block_id": 295703,
+     "quote": "Dizzy was the same. He followed up the same way. But the guys were cool."
+    }
+   ],
+   "topics": [
+    "Dizzy Gillespie big band",
+    "State Department tour",
+    "Birdland",
+    "Annie's Dance"
+   ],
+   "notable": 3,
+   "upstream_relation_ok": true,
+   "confidence": "high",
+   "notes": "Two stints: the first (with Coltrane in the band, ended after ~5 months, per bracket 295656) and the 1956 band (295704). Bryant dates a later call to '49 (295694). Liston met Randy Weston while playing with Dizzy at Birdland (295919). 'I don't think Dizzy had anything to do with it' (296059) is about who suggested a tune."
+  },
+  {
+   "person_id": 104392,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Billie Holiday",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "both",
+   "basis": "her_statement",
+   "relation": "toured with",
+   "direction": "mutual",
+   "tie": [
+    "unknown"
+   ],
+   "firsthand": true,
+   "stance": "neutral",
+   "stance_strength": 1,
+   "era": "1940s (Gerald Wilson years)",
+   "summary": "Liston recalled that the band she was in went on the road 'behind Lady Day' in the South, and that Holiday left and the band was stranded on the bus.",
+   "one_liner": "was stranded on tour behind her",
+   "her_quote": "I don’t know. But she left and we were stranded on the bus, and Gerald took all the money that we had and gave it to the fellows to get back home, and we just had enought to get us to Kansas City.",
+   "her_quote_block_id": 295633,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [
+    {
+     "block_id": 295629,
+     "quote": ". . . Yeah, behind Lady Day. It was in the South somewhere."
+    },
+    {
+     "block_id": 295627,
+     "quote": "We went to – I had a band that went to – Lady Day."
+    }
+   ],
+   "topics": [
+    "Gerald Wilson Orchestra",
+    "Southern tour",
+    "stranded"
+   ],
+   "notable": 2,
+   "upstream_relation_ok": true,
+   "confidence": "high",
+   "notes": "Bryant suggests South Carolina / Greens[boro?] (295630). Bryant later (296095-97) says Liston's singing on 'You'll Be Sorry' sounded like Billie Holiday; Liston: 'Oh yeah?' - not a relation. 'I had a band' in 295627 is loose phrasing; it was Gerald Wilson's band. Upstream 'played with' acceptable; 'toured with' is more precise."
+  },
+  {
+   "person_id": 104407,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "John Coltrane",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "bryant_only",
+   "basis": "her_assent",
+   "relation": "in music group with",
+   "direction": "mutual",
+   "tie": [
+    "bandmate"
+   ],
+   "firsthand": true,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "first Dizzy Gillespie band stint",
+   "summary": "Bryant said John Coltrane was in Dizzy Gillespie's band when Liston first joined it, and Liston agreed.",
+   "one_liner": "was in dizzy's band with him",
+   "her_quote": null,
+   "her_quote_block_id": null,
+   "bryant_quote": "Is that the band with John Coltrane in it?",
+   "bryant_quote_block_id": 295648,
+   "more_her_quotes": [],
+   "topics": [
+    "Dizzy Gillespie big band"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": true,
+   "confidence": "medium",
+   "notes": "Liston's only response is 'Um-hmm.' (295649). 'Dizzy found a spot for him to go' in 295643 has an unclear 'him' - probably not Coltrane."
+  }
+ ]
+}

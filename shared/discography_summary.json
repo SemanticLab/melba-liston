@@ -1,0 +1,72 @@
+{
+ "liston": {
+  "releases": 80,
+  "releases_with_article": 72,
+  "releases_listed_without_article": 8,
+  "from_her_discography_section": 63,
+  "found_only_by_backlink": 17,
+  "backlinked_releases_rejected_no_credit": 0,
+  "releases_where_she_is_only_mentioned": [
+   "Zodiac Suite"
+  ],
+  "by_kind": {
+   "album": 62,
+   "live": 8,
+   "compilation": 1,
+   "studio": 8,
+   "soundtrack": 1
+  },
+  "by_subject_role": {
+   "sidewoman": 49,
+   "composer": 9,
+   "arranger": 16,
+   "leader": 2,
+   "listed_unverified": 3,
+   "appears_on_screen": 1
+  },
+  "credit_found_in": {
+   "personnel": 57,
+   "tracks": 9,
+   "her_discography_list_only": 8,
+   "none": 3,
+   "prose": 3
+  },
+  "credited_as_arranger_or_conductor": 24,
+  "credited_as_composer": 18,
+  "credits_needing_review": [
+   "At Basin Street East (Billy Eckstine and Quincy Jones album)",
+   "Mary Lou Williams (album)",
+   "That Lovin' Feelin'"
+  ],
+  "unlinked_bullets_merged_into_articles": 3,
+  "credited_as_player": 41,
+  "credited_as_both": 7,
+  "total_credits": 1454,
+  "roster_size": 582,
+  "roster_with_qid": 416,
+  "roster_interviewed_in_corpus": 86,
+  "roster_who_spoke_about_subject": 10,
+  "musicians_who_played_and_spoke": 10,
+  "critics_producers_who_were_credited_and_spoke": 0,
+  "critics_producers_named": [],
+  "her_words_available": true,
+  "roster_she_spoke_of": 36,
+  "roster_both_directions": 5,
+  "roster_both_directions_named": [
+   "Abbey Lincoln",
+   "Al Grey",
+   "Benny Powell",
+   "Randy Weston",
+   "Slide Hampton"
+  ],
+  "quote_blocks_from_credited_people": 27,
+  "quote_blocks_from_musicians": 27,
+  "attribution_methods": {
+   "qid": 24,
+   "interviewee_name_match": 3
+  },
+  "unattributed_quote_blocks": {
+   "interviewee_not_on_roster_or_ambiguous": 11
+  }
+ }
+}

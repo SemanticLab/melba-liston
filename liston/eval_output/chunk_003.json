@@ -1,0 +1,914 @@
+{
+ "subject": "liston",
+ "chunk": 3,
+ "count": 34,
+ "chunk_top": [
+  296351,
+  296504,
+  296227
+ ],
+ "items": [
+  {
+   "block_id": 296141,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "subject",
+   "content_type": [
+    "musical_assessment",
+    "personal_memory"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "My Reverie",
+    "ballad playing"
+   ],
+   "summary": "Bryant pressed Liston on what she was thinking about when she played and wrote My Reverie; Liston insisted it was not about anything, that she just played whatever came to mind that particular time.",
+   "pull_quote": "When you are playing something like that, Melba, or you’re writing something, you’ve got to have – you’ve got to – either your old man was something or other.",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Bryant is teasing/pressing after praising My Reverie in 296139. Liston's answers (296142-296148) deny any story behind it: 'I played whatever... That particular time.'"
+  },
+  {
+   "block_id": 296151,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "musical_assessment"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "My Reverie",
+    "ballad playing"
+   ],
+   "summary": "Bryant urged Liston to 'fess up' about what inspired My Reverie, and Liston answered that it was about the notes, 'That’s about the notes. That’s all.'",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Target is a two-line prod; the value is Liston's answer in 296152/296154 ('I got to be thinking about the notes, man')."
+  },
+  {
+   "block_id": 296153,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "subject",
+   "content_type": [
+    "musical_assessment"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "My Reverie",
+    "ballad playing"
+   ],
+   "summary": "Bryant insisted anyone who played like that must be thinking about something, and Liston replied she had to be thinking about the notes, conceding only that when arranging she might think about something but when blowing she thought about nothing but the notes.",
+   "pull_quote": "Anybody plays like that, got to be thinking about something.",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Strong Liston self-account in the answer (296154, 296156): 'But blowing, I don’t think about nothing but the notes.'"
+  },
+  {
+   "block_id": 296159,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "subject",
+   "content_type": [
+    "musical_assessment",
+    "humor"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "My Reverie",
+    "trombone tone"
+   ],
+   "summary": "Bryant teased that something must have been 'goosing' Liston on the high notes of the tag of My Reverie; Liston said she did not know and was just thinking about the notes, after which Bryant called her one in a million.",
+   "pull_quote": "Something was goosing you.",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Contains transcriber bracket '[Bryant sings the trombone melody.]'; pull quote is outside it. Borderline peer_interviewer_testimony; kept as question since it is a prod for an answer."
+  },
+  {
+   "block_id": 296171,
+   "is_about_subject": true,
+   "mention_kind": "peer_interviewer_testimony",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "subject",
+   "content_type": [
+    "health",
+    "personal_memory"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "post-stroke playing",
+    "trombone"
+   ],
+   "summary": "Bryant told Liston she wanted to hear her play again, after Liston promised to blow the horn again in two or three years despite getting only two or three notes from it since her stroke.",
+   "pull_quote": "Because I want to hear you again Melba.",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Better Bryant line is in 296173 (no name): 'Those two or three notes, you can take them and do something magical with them.' Liston describes her sliding arm (296174-296178)."
+  },
+  {
+   "block_id": 296185,
+   "is_about_subject": true,
+   "mention_kind": "passing_reference",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "subject",
+   "content_type": [
+    "arranging_composing",
+    "biographical_fact"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Randy Weston",
+    "Little Niles"
+   ],
+   "summary": "Bryant introduced Liston's arrangement of Randy Weston's Little Niles (first recorded, she believed, in 1956) as another of the different styles in which Liston writes.",
+   "pull_quote": "It’s called Little Niles, and it’s Melba Liston’s arrangement of it, and this is another one of the styles and different ways that Melba writes.",
+   "notable": 1,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Program announcement for the listening session. Opening 'In less than in two years.' finishes the previous exchange about her recovery."
+  },
+  {
+   "block_id": 296203,
+   "is_about_subject": true,
+   "mention_kind": "passing_reference",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "biographical_fact",
+    "arranging_composing"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Randy Weston",
+    "strings album"
+   ],
+   "summary": "Bryant introduced an untitled Randy Weston tune featuring Liston; Liston said over the music that she was featured only 'that little bit. But it’s nice,' and then that she wrote the arrangement and it was recorded in Montreal with Montreal strings.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "medium",
+   "notes": "Title unknown to both speakers on tape (Bryant asks to 'cue Matt' later). Following blocks (296219) suggest this strings session is a version of Little Niles; identification of the track is uncertain."
+  },
+  {
+   "block_id": 296211,
+   "is_about_subject": true,
+   "mention_kind": "peer_interviewer_testimony",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "musical_assessment"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "trombone solo",
+    "Randy Weston",
+    "strings"
+   ],
+   "summary": "Bryant told Liston her solo on the Randy Weston strings track was beautiful, after Liston said she had written it herself; Liston went on to recall the recording in Montreal with Montreal strings, conducted by Paul West.",
+   "pull_quote": "Because that was a beautiful solo, Melba.",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "'I wrote it' (296210) is ambiguous between the solo and the arrangement."
+  },
+  {
+   "block_id": 296227,
+   "is_about_subject": true,
+   "mention_kind": "peer_interviewer_testimony",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 3,
+   "stance_target": "subject",
+   "content_type": [
+    "musical_assessment",
+    "arranging_composing",
+    "comparison"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Little Niles",
+    "string writing",
+    "Randy Weston"
+   ],
+   "summary": "Bryant praised Liston's string voicings on the Little Niles string version as the first she had heard of Liston writing for strings, saying many people try to write for strings without getting that sound; Liston had just said Weston told her only how many choruses he'd take and where the violins come in.",
+   "pull_quote": "And your voicings on those strings. That’s beautiful. It’s the first time I heard you write for strings, Melba. That’s beautiful. And I’ve heard a lot of people try to write for strings, and it doesn’t have that kind of sound.",
+   "notable": 2,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "'You sure knew what to do' answers Liston's 296224 remark about Weston's minimal instructions. Liston later corrects the premise: she had written for strings since Gloria Lynne in 1959 (296274)."
+  },
+  {
+   "block_id": 296233,
+   "is_about_subject": true,
+   "mention_kind": "peer_interviewer_testimony",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 3,
+   "stance_target": "subject",
+   "content_type": [
+    "musical_assessment",
+    "arranging_composing"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Little Niles",
+    "string writing"
+   ],
+   "summary": "Bryant called Liston's string treatment of Little Niles unique, different and 'bad' in the sense of very good, though Liston replied that she heard nothing different, since the horn parts and the string parts were the same.",
+   "pull_quote": "That treatment of Little Niles is very unique. It’s different and it’s good. It’s bad. It’s bad, Melba. Very good.",
+   "notable": 2,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Liston's modest disagreement (296234-296240) is a nice counterpoint. 'I’ve never it heard it done like that' is a transcript typo; left out of the quote."
+  },
+  {
+   "block_id": 296241,
+   "is_about_subject": true,
+   "mention_kind": "peer_interviewer_testimony",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "arranging_composing",
+    "musical_assessment",
+    "biographical_fact"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Little Niles",
+    "Earth Birth",
+    "Tanjah",
+    "Randy Weston"
+   ],
+   "summary": "Bryant explained that the string version of Little Niles came from Weston's then-unreleased CD Earth Birth with Liston's arrangement and 'out of sight' strings, then introduced a 1973 Liston arrangement from Tanjah.",
+   "pull_quote": "It’s called Earth Birth, and of course the arrangement was by Melba Liston and the strings were out of sight.",
+   "notable": 1,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Album spelled 'Tanjah' here and 'Tanyah' in 296281."
+  },
+  {
+   "block_id": 296267,
+   "is_about_subject": true,
+   "mention_kind": "passing_reference",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "arranging_composing",
+    "biographical_fact"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Hi-Fly",
+    "Earth Birth",
+    "Randy Weston",
+    "royalties"
+   ],
+   "summary": "Bryant remarked that Weston's re-recordings kept royalties coming and introduced a comparison of the 1973 Hi-Fly with the 1996 Hi-Fly in Liston's arrangement from Earth Birth.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Ends with a transcriber bracket summarizing a query about a trumpeter; the name 'Melba’s arrangement' is outside the bracket. Whether the 1973 Hi-Fly is also her arrangement is not stated here."
+  },
+  {
+   "block_id": 296269,
+   "is_about_subject": true,
+   "mention_kind": "peer_interviewer_testimony",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "musical_assessment",
+    "arranging_composing"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Hi-Fly",
+    "string writing",
+    "Earth Birth"
+   ],
+   "summary": "Bryant told Liston that her string writing on the 1996 Hi-Fly was a whole new dimension of her writing she had never heard, and Liston answered that she had been writing for strings as long as she had been writing for horns, back to Gloria Lynne in 1959.",
+   "pull_quote": "the strings is really a completely huge dimension to your writing that I’d never heard before, Melba.",
+   "notable": 2,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Pull quote begins mid-sentence (lowercase 'the'). Liston's reply in 296274, 'So I’ve been writing for strings as long as I’ve been writing for horns,' is a strong self-account worth surfacing."
+  },
+  {
+   "block_id": 296283,
+   "is_about_subject": true,
+   "mention_kind": "passing_reference",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "subject",
+   "content_type": [
+    "arranging_composing",
+    "biographical_fact"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Gloria Lynne",
+    "Love, I’ve Found You",
+    "1959"
+   ],
+   "summary": "Bryant introduced Love, I’ve Found You as a beautiful original ballad by Liston that Gloria Lynne sang in 1959, and Liston corrected the title to 'I’ve'.",
+   "pull_quote": "What we’re going to hear now is one of Melba’s original tunes, a beautiful ballad that she did – Gloria Lynne sang it in 1959.",
+   "notable": 1,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": ""
+  },
+  {
+   "block_id": 296285,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "subject",
+   "content_type": [
+    "arranging_composing"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Gloria Lynne",
+    "Love, I’ve Found You",
+    "writing for voice"
+   ],
+   "summary": "Asked whether writing for voice with strings differed from writing for band, Liston answered 'Yeah. I guess so. Not really, but really,' explaining that you consider a high, low or in-between voice and then just go on and write.",
+   "pull_quote": "But Melba, do you find it different to write for voice and for – with strings, or just regular instruments – just for band with strings?",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Summary is of Liston's answer (296286, 296288)."
+  },
+  {
+   "block_id": 296289,
+   "is_about_subject": true,
+   "mention_kind": "peer_interviewer_testimony",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "arranging_composing",
+    "musical_assessment"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Love, I’ve Found You",
+    "Gloria Lynne"
+   ],
+   "summary": "Bryant told Liston that Love, I’ve Found You was a beautiful tune, after Liston said that writing for a singer just means considering the voice and then going on and writing.",
+   "pull_quote": "That’s a beautiful tune, Melba.",
+   "notable": 1,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": ""
+  },
+  {
+   "block_id": 296303,
+   "is_about_subject": true,
+   "mention_kind": "passing_reference",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "subject",
+   "content_type": [
+    "arranging_composing",
+    "biographical_fact"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Gloria Lynne",
+    "Dinah Washington",
+    "We Never Kissed"
+   ],
+   "summary": "Bryant affirmed Liston's description of the difference between writing for Dinah Washington and Gloria Lynne ('When I write for Dinah – uh. And when I write for Gloria – it’s oo') and introduced another Liston original for Lynne with strings.",
+   "pull_quote": "Right now we’re going to listen to a tune by Gloria Lynne that Melba wrote – an original tune with strings.",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "'That tells the difference right there' responds to Liston's vivid line in 296302, which is the real gem here. The song title given by Bryant is corrected by a transcriber bracket ('[Actually We Never Kissed, What a Shame...]'); avoid quoting the title."
+  },
+  {
+   "block_id": 296311,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "personal_memory",
+    "biographical_fact",
+    "historical_context"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "childhood photographs",
+    "Los Angeles",
+    "Vi Redd",
+    "Minnie Hightower"
+   ],
+   "summary": "Shown childhood photographs she had never seen, Liston recognized everyone except the drummer and a tall saxophonist, naming herself, Minnie, Prince Harris and Elvira, and dating the picture to about 1938.",
+   "pull_quote": "We have some pictures here that Melba’s going to be looking at, from her childhood, that she’s never seen before.",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Opening sentence closes the Dinah/Gloria discussion. Identifications are partly in transcriber brackets (296316, 296318)."
+  },
+  {
+   "block_id": 296319,
+   "is_about_subject": true,
+   "mention_kind": "transcriber_summary",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "personal_memory",
+    "biographical_fact"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "childhood photographs",
+    "Buddy Redd",
+    "Vi Redd"
+   ],
+   "summary": "A transcriber's note recorded that Bryant and Liston identified Liston and Buddy Redd in the photograph, which Liston dated to about 1938.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "The only mention of her is inside the bracket '[They identify Melba and Buddy Redd.]'. 'Elvira – Vi Redd’s brother' is odd as transcribed (Buddy Redd is the brother); flag for a human."
+  },
+  {
+   "block_id": 296322,
+   "is_about_subject": true,
+   "mention_kind": "transcriber_summary",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "personal_memory",
+    "health"
+   ],
+   "relationship": "not_applicable",
+   "block_is_firsthand": false,
+   "topics": [
+    "childhood photographs"
+   ],
+   "summary": "Liston dated the photograph to about 1938; a transcriber's note recorded that she could not identify another man in it.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Speaker is Liston; her name appears only inside the transcriber bracket '[Liston fails to identify another man in the photo.]'."
+  },
+  {
+   "block_id": 296332,
+   "is_about_subject": true,
+   "mention_kind": "transcriber_summary",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "personal_memory",
+    "biographical_fact"
+   ],
+   "relationship": "not_applicable",
+   "block_is_firsthand": false,
+   "topics": [
+    "childhood photographs",
+    "Minnie Hightower",
+    "Vi Redd",
+    "Robert Ross"
+   ],
+   "summary": "A transcriber's note recorded that Liston and Bryant identified Minnie Hightower, her mother, Vi Redd and Liston in a second photograph.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Speaker is Liston ('I didn’t know that.'); every mention of her is inside the transcriber bracket."
+  },
+  {
+   "block_id": 296337,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "subject",
+   "content_type": [
+    "biographical_fact",
+    "character_description"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "goals",
+    "awards",
+    "film scoring"
+   ],
+   "summary": "Asked whether, looking at her many awards, she had reached the goals she set, Liston said she had set none and just did whatever they told her to do, but would like to write for a film that 'doesn’t say anything'.",
+   "pull_quote": "Melba, looking around the walls here and seeing some of the many things – many awards and tributes that people have given you, have you reached the goals that you set?",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Block also contains a long transcriber bracket (photo discussion, Bryant's book); the pull quote is outside it. Summary is of Liston's answer (296338-296342)."
+  },
+  {
+   "block_id": 296351,
+   "is_about_subject": true,
+   "mention_kind": "peer_interviewer_testimony",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 3,
+   "stance_target": "subject",
+   "content_type": [
+    "legacy_influence",
+    "influence",
+    "mentorship",
+    "gender"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "role model",
+    "women in jazz",
+    "advice to young musicians"
+   ],
+   "summary": "Bryant told Liston she had been the best and a guiding light for many people including Bryant herself, then asked her advice for young women musicians, to which Liston answered: study, learn everything you can in school and beyond, because it is still hard for girls.",
+   "pull_quote": "I’ll say for you: you have been the best, Melba. You’ve been a guiding light for a lot of people, including me",
+   "notable": 3,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Pull quote ends mid-sentence (continues ', and I want to ask you...'). Answers Liston's modest 'I have to be the best that I can do. I don’t know if it’s the best.' (296350)."
+  },
+  {
+   "block_id": 296368,
+   "is_about_subject": true,
+   "mention_kind": "passing_reference",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "biographical_fact"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "New York",
+    "Los Angeles"
+   ],
+   "summary": "Bryant remarked that Liston would not even be in Los Angeles if she could get around, after Liston said she would be back in New York.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": ""
+  },
+  {
+   "block_id": 296376,
+   "is_about_subject": true,
+   "mention_kind": "peer_interviewer_testimony",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "health",
+    "character_description"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "stroke recovery",
+    "New York return"
+   ],
+   "summary": "Bryant told Liston she had really overcome her stroke and would do even greater things back East where people recognize her, and Liston confided she had been afraid to see anybody until six months earlier because she did not want them to gloat over her.",
+   "pull_quote": "Because Melba you’ve really overcome the stroke that you had.",
+   "notable": 2,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Opens with Bryant quoting a song lyric. Liston's reply (296377, 296379) is a candid self-account about post-stroke isolation."
+  },
+  {
+   "block_id": 296398,
+   "is_about_subject": true,
+   "mention_kind": "peer_interviewer_testimony",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "arranging_composing",
+    "health"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "post-stroke writing",
+    "Randy Weston"
+   ],
+   "summary": "Bryant assured Liston that the quality of her writing was still there after Liston said Randy Weston had helped her start writing again after the stroke but that she was not writing as fast as she used to.",
+   "pull_quote": "The quality is there though, Melba.",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Liston's sentence is split around this interjection (296397/296399)."
+  },
+  {
+   "block_id": 296464,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "biographical_fact"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "New York return"
+   ],
+   "summary": "Asked when she was leaving Los Angeles, Liston said she hoped to be back in New York for Christmas but might not be.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Block also mentions Bryant's own young female students; contains a '[?]' transcriber mark."
+  },
+  {
+   "block_id": 296470,
+   "is_about_subject": true,
+   "mention_kind": "peer_interviewer_testimony",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "character_description",
+    "personal_memory"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "friendship",
+    "New York"
+   ],
+   "summary": "Bryant told Liston she had a big bunch of dedicated friends back East, counting herself among them.",
+   "pull_quote": "You have some dedicated friends back there, Melba. No jive.",
+   "notable": 1,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": ""
+  },
+  {
+   "block_id": 296472,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "character_description"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "peers vs critics",
+    "friendship"
+   ],
+   "summary": "Asked whether recognition from peers meant more than critical acclaim, Liston agreed 'Definitely' but then said she did not care about 'peers or something', only that all the guys and the girls were her friends.",
+   "pull_quote": "You know what to me, Melba, is people worry about having critical acclaim and all that kind of stuff, but to have my peers recognize me means more to me.",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "The evaluative content is about Bryant herself; summary is of Liston's answer (296473, 296477), which then turns to young women players."
+  },
+  {
+   "block_id": 296493,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "women_in_jazz",
+   "content_type": [
+    "gender",
+    "historical_context",
+    "mentorship"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "women in jazz",
+    "advice to young musicians",
+    "Los Angeles"
+   ],
+   "summary": "Bryant observed that there were few women players in Los Angeles when she and Liston came up and asked for last advice to young musicians; Liston answered that if they are going to study and do it, do it, and if not, don't, and not to get hung up on anybody other than their music.",
+   "pull_quote": "But really, Melba, it wasn’t that many when we were coming along either, out here.",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": true,
+   "confidence": "high",
+   "notes": "Input flag wrong: block begins mid-phrase ('Voyage' completes 'Maiden Voyage' from 296492 across the page break). Contains '[inaudible]' transcriber mark, not quoted. Liston's answer (296494-296500) is strong own-voice material."
+  },
+  {
+   "block_id": 296503,
+   "is_about_subject": true,
+   "mention_kind": "peer_interviewer_testimony",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 3,
+   "stance_target": "subject",
+   "content_type": [
+    "personal_memory",
+    "legacy_influence",
+    "gender"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Smithsonian interview",
+    "friendship",
+    "women in jazz"
+   ],
+   "summary": "Closing the interview, Bryant told Liston the two days had been fantastic, that she had long wanted a complete record made of her, and that Liston had been such a major part of her life.",
+   "pull_quote": "And I want to thank Smithsonian for giving me a chance to be the one to interview you, because you’ve been such a major part of my life, really",
+   "notable": 2,
+   "context_changed_reading": true,
+   "truncated_target": true,
+   "confidence": "high",
+   "notes": "Target ends mid-sentence ('your whole' / 'thing.') and continues in 296504. First half of the block is Bryant's advice to her own students about crushes and being female in the business, not about Liston. Pull quote ends at a comma (fragment)."
+  },
+  {
+   "block_id": 296504,
+   "is_about_subject": true,
+   "mention_kind": "peer_interviewer_testimony",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 3,
+   "stance_target": "subject",
+   "content_type": [
+    "personal_memory",
+    "legacy_influence",
+    "health",
+    "character_description"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "friendship",
+    "stroke recovery",
+    "Smithsonian interview"
+   ],
+   "summary": "Bryant told Liston she had admired her from afar for a long time, that they had bonded only in the past year though Bryant had felt bonded to her far longer, and that the interview was fantastic especially since her stroke.",
+   "pull_quote": "Then when I start to think about how much I have admired you from afar – because you really didn’t know how much until of late.",
+   "notable": 3,
+   "context_changed_reading": true,
+   "truncated_target": true,
+   "confidence": "high",
+   "notes": "Starts mid-sentence ('thing.' completes 'your whole thing' from 296503). Alternative quote: 'Maybe in the last year we became bonded, but I’ve been bonded to you a long time' (fragment). Liston's reply: 'I’m sorry that I couldn’t talk more.'"
+  },
+  {
+   "block_id": 296509,
+   "is_about_subject": true,
+   "mention_kind": "passing_reference",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "subject",
+   "content_type": [
+    "personal_memory"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Smithsonian interview",
+    "sign-off"
+   ],
+   "summary": "Bryant thanked Matt Watson and the Smithsonian and signed off the interview by thanking Liston by name.",
+   "pull_quote": "But this – my name is Clora Bryant, and I want to say thank you, Melba Liston.",
+   "notable": 1,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": ""
+  },
+  {
+   "block_id": 296511,
+   "is_about_subject": true,
+   "mention_kind": "passing_reference",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "subject",
+   "content_type": [
+    "personal_memory"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "sign-off",
+    "Ben Loves Lu"
+   ],
+   "summary": "Bryant bid Liston to stay well after Liston closed with Ben Loves Lu, dedicated to her mother and her mother's husband, which she said might become her theme song.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Liston's closing remark about Ben Loves Lu (296510) is the substantive content nearby."
+  }
+ ]
+}

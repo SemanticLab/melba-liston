@@ -1,0 +1,1098 @@
+{
+ "subject": "liston",
+ "chunk": 2,
+ "count": 30,
+ "chunk_top": [
+  104375,
+  104393,
+  104439
+ ],
+ "items": [
+  {
+   "person_id": 104468,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Billy Eckstine",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "liston",
+   "basis": "her_statement",
+   "relation": "has met",
+   "direction": "mutual",
+   "tie": [
+    "unknown"
+   ],
+   "firsthand": true,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "when she first joined Dizzy Gillespie's band in New York",
+   "summary": "Liston recalled that when she finally found the club to join Dizzy Gillespie's band, Billy Eckstine was standing out front and told her Dizzy had kept her chair empty for a whole week.",
+   "one_liner": "found him out front when she joined Dizzy",
+   "her_quote": "Right on the corner. Billy Eckstine was out front. He said, “…, where you been? We’ve been looking for you. Dizzy’s had the chair empty for a whole week.”",
+   "her_quote_block_id": 295643,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [],
+   "topics": [
+    "Dizzy Gillespie big band",
+    "New York",
+    "49th Street"
+   ],
+   "notable": 2,
+   "upstream_relation_ok": false,
+   "confidence": "high",
+   "notes": "Upstream called this 'in music group with'; the transcript only shows Eckstine greeting her outside the club—nothing says he was in the band. The '…' in his speech likely stands for an expletive."
+  },
+  {
+   "person_id": 104420,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Specs Wright",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "transcriber_only",
+   "basis": "transcriber_summary",
+   "relation": "in music group with",
+   "direction": "mutual",
+   "tie": [
+    "bandmate"
+   ],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "first Gillespie big band (the band with John Coltrane)",
+   "summary": "Specs Wright appears only in the transcriber's summary of Bryant naming members of the Dizzy Gillespie band Liston joined; Liston's reply (also summarised) does not mention him.",
+   "one_liner": "named as a bandmate in Dizzy's band",
+   "her_quote": null,
+   "her_quote_block_id": null,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [],
+   "topics": [
+    "Dizzy Gillespie big band"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": true,
+   "confidence": "medium",
+   "notes": "Only evidence is the bracketed roll-call in block 295652 (Bryant's prompt, summarised by the transcriber); Liston's bracketed reply (295653) says she cannot recall details and does not remember the other trombonists."
+  },
+  {
+   "person_id": 104423,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "John Collins",
+   "identity_ok": true,
+   "identity_note": "No upstream QID. In a Gillespie-band context this is presumably guitarist John Collins (1913–2001); the transcript gives nothing more.",
+   "who_speaks_of_them": "transcriber_only",
+   "basis": "transcriber_summary",
+   "relation": "in music group with",
+   "direction": "mutual",
+   "tie": [
+    "bandmate"
+   ],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "first Gillespie big band (the band with John Coltrane)",
+   "summary": "John Collins appears only in the transcriber's summary of Bryant naming members of the Dizzy Gillespie band Liston joined; Liston's reply (also summarised) does not mention him.",
+   "one_liner": "named as a bandmate in Dizzy's band",
+   "her_quote": null,
+   "her_quote_block_id": null,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [],
+   "topics": [
+    "Dizzy Gillespie big band"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": true,
+   "confidence": "medium",
+   "notes": "Only evidence is the bracketed roll-call in block 295652 (Bryant's prompt, summarised by the transcriber); Liston's bracketed reply (295653) says she cannot recall details and does not remember the other trombonists."
+  },
+  {
+   "person_id": 104429,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Willie Cook",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "transcriber_only",
+   "basis": "transcriber_summary",
+   "relation": "in music group with",
+   "direction": "mutual",
+   "tie": [
+    "bandmate"
+   ],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "first Gillespie big band (the band with John Coltrane)",
+   "summary": "Willie Cook appears only in the transcriber's summary of Bryant naming members of the Dizzy Gillespie band Liston joined; Liston's reply (also summarised) does not mention him.",
+   "one_liner": "named as a bandmate in Dizzy's band",
+   "her_quote": null,
+   "her_quote_block_id": null,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [],
+   "topics": [
+    "Dizzy Gillespie big band"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": true,
+   "confidence": "medium",
+   "notes": "Only evidence is the bracketed roll-call in block 295652 (Bryant's prompt, summarised by the transcriber); Liston's bracketed reply (295653) says she cannot recall details and does not remember the other trombonists."
+  },
+  {
+   "person_id": 104431,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Jimmie Heath",
+   "identity_ok": true,
+   "identity_note": "No upstream QID. Almost certainly saxophonist Jimmy Heath (1926–2020), spelled 'Jimmie' by the transcriber.",
+   "who_speaks_of_them": "transcriber_only",
+   "basis": "transcriber_summary",
+   "relation": "in music group with",
+   "direction": "mutual",
+   "tie": [
+    "bandmate"
+   ],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "first Gillespie big band (the band with John Coltrane)",
+   "summary": "Jimmie Heath appears only in the transcriber's summary of Bryant naming members of the Dizzy Gillespie band Liston joined; Liston's reply (also summarised) does not mention him.",
+   "one_liner": "named as a bandmate in Dizzy's band",
+   "her_quote": null,
+   "her_quote_block_id": null,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [],
+   "topics": [
+    "Dizzy Gillespie big band"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": true,
+   "confidence": "medium",
+   "notes": "Only evidence is the bracketed roll-call in block 295652 (Bryant's prompt, summarised by the transcriber); Liston's bracketed reply (295653) says she cannot recall details and does not remember the other trombonists. Spelling 'Jimmie Heath' is the transcript's; usual spelling is Jimmy Heath."
+  },
+  {
+   "person_id": 104441,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Al McKibbon",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "transcriber_only",
+   "basis": "transcriber_summary",
+   "relation": "in music group with",
+   "direction": "mutual",
+   "tie": [
+    "bandmate"
+   ],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "first Gillespie big band (the band with John Coltrane)",
+   "summary": "Al McKibbon appears only in the transcriber's summary of Bryant naming members of the Dizzy Gillespie band Liston joined; Liston's reply (also summarised) does not mention him.",
+   "one_liner": "named as a bandmate in Dizzy's band",
+   "her_quote": null,
+   "her_quote_block_id": null,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [],
+   "topics": [
+    "Dizzy Gillespie big band"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": true,
+   "confidence": "medium",
+   "notes": "Only evidence is the bracketed roll-call in block 295652 (Bryant's prompt, summarised by the transcriber); Liston's bracketed reply (295653) says she cannot recall details and does not remember the other trombonists."
+  },
+  {
+   "person_id": 104448,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "John Lewis",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "transcriber_only",
+   "basis": "transcriber_summary",
+   "relation": "in music group with",
+   "direction": "mutual",
+   "tie": [
+    "bandmate"
+   ],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "first Gillespie big band (the band with John Coltrane)",
+   "summary": "John Lewis appears only in the transcriber's summary of Bryant naming members of the Dizzy Gillespie band Liston joined; Liston's reply (also summarised) does not mention him.",
+   "one_liner": "named as a bandmate in Dizzy's band",
+   "her_quote": null,
+   "her_quote_block_id": null,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [],
+   "topics": [
+    "Dizzy Gillespie big band"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": true,
+   "confidence": "medium",
+   "notes": "Only evidence is the bracketed roll-call in block 295652 (Bryant's prompt, summarised by the transcriber); Liston's bracketed reply (295653) says she cannot recall details and does not remember the other trombonists. Upstream's 'Modern Jazz Quartet' framing has no basis in the transcript; the context is the Gillespie big band."
+  },
+  {
+   "person_id": 104412,
+   "is_person": false,
+   "not_person_kind": "company",
+   "name": "Adams",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "liston",
+   "basis": "none",
+   "relation": "none",
+   "direction": "na",
+   "tie": [],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "",
+   "summary": "",
+   "one_liner": "",
+   "her_quote": null,
+   "her_quote_block_id": null,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [],
+   "topics": [],
+   "notable": 0,
+   "upstream_relation_ok": false,
+   "confidence": "high",
+   "notes": "Not a person. Liston says she went to work 'at the insurance company, Adams . . .'; Bryant supplies 'Adams and Western? Golden State.' — i.e. Golden State (Mutual Life) insurance company, located at Adams and Western (a street intersection in Los Angeles). Liston worked there as a clerk before rejoining Gillespie."
+  },
+  {
+   "person_id": 104393,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Dexter Gordon",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "both",
+   "basis": "her_statement",
+   "relation": "collaborated with",
+   "direction": "mutual",
+   "tie": [
+    "school_friend",
+    "admired"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 3,
+   "era": "junior high school; 1947 recording; 1975 in Jamaica",
+   "summary": "Liston said she and Dexter Gordon were at junior high school together, that he talked her into playing on his record—her first time playing without written music—that his playing was 'everything good', and that he later came to Jamaica to play for her students.",
+   "one_liner": "was at junior high school with him",
+   "her_quote": "He and I were in school together. He was a bad, bad tenor player, all the time. He was breaking this record. I said, “I’m not – no, no.” He said, “Come on.”",
+   "her_quote_block_id": 295685,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [
+    {
+     "block_id": 295689,
+     "quote": "That was the first time I had played without any music. Oh, Lordy. That was terrible."
+    },
+    {
+     "block_id": 295965,
+     "quote": "Oh, dear me. Everything good."
+    },
+    {
+     "block_id": 295967,
+     "quote": "Yeah, junior high school. He came down to Jamaica when I was down there teaching and played for the kids."
+    },
+    {
+     "block_id": 295963,
+     "quote": "But Dexter and all of those people, they were going around soloing, piano and bass and stuff, and soloing, and they had it."
+    }
+   ],
+   "topics": [
+    "junior high school",
+    "1947 recording session",
+    "Jamaica",
+    "tenor saxophone"
+   ],
+   "notable": 3,
+   "upstream_relation_ok": false,
+   "confidence": "high",
+   "notes": "The 1947 date of the session comes from Bryant's bracketed prompt (295690), not from Liston. Also mentioned in 295810 ('Dexter came' to the 1975 Jamaica jazz festival)."
+  },
+  {
+   "person_id": 104463,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Lorraine",
+   "identity_ok": true,
+   "identity_note": "No upstream QID. Context (Bryant: 'Lorraine told him it was the band or her', about Dizzy's band) indicates Lorraine Gillespie, Dizzy Gillespie's wife, though the transcript gives only the first name.",
+   "who_speaks_of_them": "bryant_only",
+   "basis": "none",
+   "relation": "none",
+   "direction": "na",
+   "tie": [],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "",
+   "summary": "Bryant suggested Lorraine had told Dizzy 'it was the band or her' when work fell off; Liston did not take this up and said only that the work stopped.",
+   "one_liner": "",
+   "her_quote": null,
+   "her_quote_block_id": null,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [],
+   "topics": [
+    "Dizzy Gillespie big band"
+   ],
+   "notable": 0,
+   "upstream_relation_ok": false,
+   "confidence": "high",
+   "notes": "Mentioned only in Bryant's question (295710). Liston's reply ('It stopped. Not falling off. It stopped.') is about the band, not Lorraine."
+  },
+  {
+   "person_id": 104375,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Randy Weston",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "both",
+   "basis": "her_statement",
+   "relation": "collaborated with",
+   "direction": "mutual",
+   "tie": [
+    "arranging_client",
+    "friend"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 3,
+   "era": "1956–1996",
+   "summary": "Liston said she met Randy Weston while playing with Dizzy Gillespie at Birdland, arranged his music (including Little Niles) for some forty years with complete freedom, and credited him with pulling her through after her stroke when nobody else stuck with her.",
+   "one_liner": "arranged his music for 40 years",
+   "her_quote": "I’ve been writing for Randy. I’m still writing for Randy. I wrote for him up until I had the stroke. After I had the stroke and got over a little bit, I’m writing for him again. I think he pulled me out of it – helped anyway. I thank him very much for sticking with me, because nobody else did.",
+   "her_quote_block_id": 295836,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [
+    {
+     "block_id": 295919,
+     "quote": "He stayed over and met me when I finished the gig. He said, “I have to meet her.” We just hit it off right away."
+    },
+    {
+     "block_id": 295921,
+     "quote": "He brought Little Niles and all those things up to the house, and he said, “I think you should write these things for an album for me.” And I wrote them. I think it’s the best thing."
+    },
+    {
+     "block_id": 295901,
+     "quote": "But we’ve been together – what? – ’56 to ’96. How many is that? 40 years. He don’t tell me anything."
+    },
+    {
+     "block_id": 295903,
+     "quote": "He says I write like he writes."
+    }
+   ],
+   "topics": [
+    "Little Niles",
+    "Hi-Fly",
+    "Earth Birth",
+    "Jamaica"
+   ],
+   "notable": 3,
+   "upstream_relation_ok": true,
+   "confidence": "high",
+   "notes": "Many further Liston lines: 295713 ('He took me to Jamaica.'), 295899 ('Randy, I have all the freedom I want.'), 295937 ('Randy pulled me out of the stroke, so I have to go with him.'), 296190 ('Randy likes Thelonious much.'), 296393/296397 (helped her start writing again after the stroke). Bryant's narration of the recordings (Little Niles 1956/1973 Tanjah/Earth Birth, Hi-Fly) is hers, not Liston's."
+  },
+  {
+   "person_id": 104421,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Diane Gregg",
+   "identity_ok": true,
+   "identity_note": "No upstream QID. Probably Dianne Gregg, co-founder of the Women's Jazz Festival in Kansas City; transcript spelling is 'Diane Gregg'.",
+   "who_speaks_of_them": "transcriber_only",
+   "basis": "transcriber_summary",
+   "relation": "acquaintance of",
+   "direction": "mutual",
+   "tie": [
+    "unknown"
+   ],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "1979",
+   "summary": "Per the transcriber's summary, Bryant asked about Diane Gregg and Carole Kromer, who encouraged Liston to come to the Women's Jazz Festival in Kansas City in 1979; Liston did not remember their names.",
+   "one_liner": "urged her to come to Kansas City",
+   "her_quote": null,
+   "her_quote_block_id": null,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [],
+   "topics": [
+    "Women's Jazz Festival",
+    "Kansas City"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": false,
+   "confidence": "low",
+   "notes": "Only evidence is bracketed: Bryant's summarised question (295730) about Carole Kromer and Diane Gregg encouraging Liston to come to the Women's Jazz Festival in Kansas City in 1979, and the transcriber's summary of Liston's reply (295731): she does not remember their names; 'Two women were anxious for her to come to Kansas City.' (third person — transcriber, not Liston)."
+  },
+  {
+   "person_id": 104432,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Carole Kromer",
+   "identity_ok": true,
+   "identity_note": "No upstream QID. Very likely a mis-hearing of Carol Comer, singer/pianist and co-founder of the Women's Jazz Festival in Kansas City; transcript spells it 'Carole Kromer'.",
+   "who_speaks_of_them": "transcriber_only",
+   "basis": "transcriber_summary",
+   "relation": "acquaintance of",
+   "direction": "mutual",
+   "tie": [
+    "unknown"
+   ],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "1979",
+   "summary": "Per the transcriber's summary, Bryant asked about Carole Kromer and Diane Gregg, who encouraged Liston to come to the Women's Jazz Festival in Kansas City in 1979; Liston did not remember their names.",
+   "one_liner": "urged her to come to Kansas City",
+   "her_quote": null,
+   "her_quote_block_id": null,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [],
+   "topics": [
+    "Women's Jazz Festival",
+    "Kansas City"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": false,
+   "confidence": "low",
+   "notes": "Only evidence is bracketed: Bryant's summarised question (295730) about Carole Kromer and Diane Gregg encouraging Liston to come to the Women's Jazz Festival in Kansas City in 1979, and the transcriber's summary of Liston's reply (295731): she does not remember their names; 'Two women were anxious for her to come to Kansas City.' (third person — transcriber, not Liston). Suspected transcription error in the name: likely Carol Comer."
+  },
+  {
+   "person_id": 104439,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Nelson Harris",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "both",
+   "basis": "her_statement",
+   "relation": "none",
+   "direction": "na",
+   "tie": [
+    "family",
+    "romantic"
+   ],
+   "firsthand": true,
+   "stance": "mixed",
+   "stance_strength": 2,
+   "era": "after 1979, New York; died 1996",
+   "summary": "Liston named Nelson Harris as the husband she loved—a non-musician who was 'good and bad' and whom she left after several attempts, who kept calling and visiting her after the stroke, and whose name backwards gave her tune 'Len Sirrah'.",
+   "one_liner": "was married to him in New York",
+   "her_quote": "Two husbands. One of them didn’t last no time, because he was on some stuff or something, but my husband that I – I loved him.",
+   "her_quote_block_id": 295759,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [
+    {
+     "block_id": 295777,
+     "quote": "Yeah. Nelson Harris. Len Sirrah – that’s the name of one of my tunes is his name backwards. It’s a nice tune too."
+    },
+    {
+     "block_id": 295755,
+     "quote": "Good and bad and all of that stuff, and I was good and bad and all of that stuff. I guess I was getting ready to leave him a long time, maybe three or four times before I actually left him."
+    },
+    {
+     "block_id": 295765,
+     "quote": "He used to come and see me in New York there. When I came out here he used to call me up all the time, and I’m sorry he’s gone."
+    },
+    {
+     "block_id": 295769,
+     "quote": "No. He was glad for my music."
+    }
+   ],
+   "topics": [
+    "marriage",
+    "Len Sirrah",
+    "New York"
+   ],
+   "notable": 3,
+   "upstream_relation_ok": false,
+   "confidence": "high",
+   "notes": "Husband discussed by pronoun in 295753–295781 before Bryant asks his name (295776) and Liston gives it (295777). Kinship → relation 'none' per spec; described by tie. Upstream 'has met' is wrong. 'He just died a few months ago' (295753) — i.e. 1996. He was not a musician (295757)."
+  },
+  {
+   "person_id": 104462,
+   "is_person": false,
+   "not_person_kind": "tune_title",
+   "name": "Len Sirrah",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "liston",
+   "basis": "none",
+   "relation": "none",
+   "direction": "na",
+   "tie": [],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "",
+   "summary": "",
+   "one_liner": "",
+   "her_quote": null,
+   "her_quote_block_id": null,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [],
+   "topics": [],
+   "notable": 0,
+   "upstream_relation_ok": false,
+   "confidence": "high",
+   "notes": "Not a person: 'Len Sirrah' is a Liston tune, named with her husband Nelson Harris's name spelled backwards (295777)."
+  },
+  {
+   "person_id": 104473,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Bu Pleasant",
+   "identity_ok": true,
+   "identity_note": "No upstream QID. Same person as 'Bu' (295976) and 'Bu Pleasant – a saxophonist' (296481); if those surface forms appear as a separate person elsewhere they should be merged with this one.",
+   "who_speaks_of_them": "both",
+   "basis": "her_assent",
+   "relation": "played under",
+   "direction": "liston_leads",
+   "tie": [
+    "sideman"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 1,
+   "era": "early 1980s",
+   "summary": "Bryant recalled Liston's women's group with Bu Pleasant, and Liston agreed it was the group that toured the East Coast and China; she later named Bu Pleasant herself as a saxophonist among the women players she felt needed support.",
+   "one_liner": "had her on saxophone in her women's group",
+   "her_quote": "Bu Pleasant – a saxophonist.",
+   "her_quote_block_id": 296481,
+   "bryant_quote": "And what about the group that you had with Boo – Boo Pleasant, when you guys went to – Bermuda?",
+   "bryant_quote_block_id": 295782,
+   "more_her_quotes": [
+    {
+     "block_id": 296485,
+     "quote": "They’re – we got to get – they’re having a bitch of a time. We got to get something together for the girls."
+    }
+   ],
+   "topics": [
+    "Melba Liston and Company",
+    "women's group",
+    "China tour"
+   ],
+   "notable": 2,
+   "upstream_relation_ok": false,
+   "confidence": "medium",
+   "notes": "Bryant says Bermuda (295782); Liston answers that they worked around New York and went to China (295783). Liston's assent: 'Um-hmm.' to Bryant's 'Is that the one with Bu?' (295976–295977). Name is transcribed 'Boo – Boo Pleasant' / 'Bu'. The 296485 quote is about 'all them' — the women players including Bu Pleasant and Fostina Dixon."
+  },
+  {
+   "person_id": 104455,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Britt Woodman",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "bryant_only",
+   "basis": "bryant_only",
+   "relation": "played under",
+   "direction": "liston_leads",
+   "tie": [
+    "sideman"
+   ],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "1980s",
+   "summary": "Bryant said Liston began adding men such as Britt Woodman to her women's group; Liston's reply named the group and other players but not Woodman.",
+   "one_liner": "",
+   "her_quote": null,
+   "her_quote_block_id": null,
+   "bryant_quote": "But then you did start another group for girls, and then you started adding guys, like Britt Woodman.",
+   "bryant_quote_block_id": 295786,
+   "more_her_quotes": [],
+   "topics": [
+    "Melba Liston and Company"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": false,
+   "confidence": "low",
+   "notes": "Liston never confirms Woodman; her answer (295787) lists Larry, Budd Johnson, Al Grey. Relation is Bryant's claim only."
+  },
+  {
+   "person_id": 104461,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Larry",
+   "identity_ok": true,
+   "identity_note": "No upstream QID; surname never given.",
+   "who_speaks_of_them": "liston",
+   "basis": "her_statement",
+   "relation": "played under",
+   "direction": "liston_leads",
+   "tie": [
+    "sideman"
+   ],
+   "firsthand": true,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "1980s",
+   "summary": "Liston said that after her group had been 'girls all the way' she added Larry, an alto saxophonist, to Melba Liston and Company.",
+   "one_liner": "had him on alto in her company",
+   "her_quote": "So whatever my company was, that was it, but it was girls all the way and then I had Larry",
+   "her_quote_block_id": 295787,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [],
+   "topics": [
+    "Melba Liston and Company",
+    "alto saxophone"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": false,
+   "confidence": "medium",
+   "notes": "Instrument from the exchange: Bryant 'Saxophone player, right?' (295788), Liston 'Alto.' (295789). Sequence suggests Larry was the alto."
+  },
+  {
+   "person_id": 104477,
+   "is_person": false,
+   "not_person_kind": "descriptor",
+   "name": "Saxophone player",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "bryant_only",
+   "basis": "none",
+   "relation": "none",
+   "direction": "na",
+   "tie": [],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "",
+   "summary": "",
+   "one_liner": "",
+   "her_quote": null,
+   "her_quote_block_id": null,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [],
+   "topics": [],
+   "notable": 0,
+   "upstream_relation_ok": false,
+   "confidence": "high",
+   "notes": "Not a person: Bryant's question 'Saxophone player, right?' (295788) about Larry, the man Liston had just named; Liston answers 'Alto.'"
+  },
+  {
+   "person_id": 104394,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Al Grey",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "both",
+   "basis": "her_statement",
+   "relation": "played under",
+   "direction": "liston_leads",
+   "tie": [
+    "sideman"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 1,
+   "era": "1980s",
+   "summary": "Liston said Al Grey played trombone in her group Melba Liston and Company and had 'been everywhere I've been'.",
+   "one_liner": "had him on trombone in her group",
+   "her_quote": "Then I had trombone – Al Grey. He played trombone with me. He’d been everywhere I’ve been. He comes in there once in a while.",
+   "her_quote_block_id": 295789,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [],
+   "topics": [
+    "Melba Liston and Company",
+    "trombone"
+   ],
+   "notable": 2,
+   "upstream_relation_ok": false,
+   "confidence": "high",
+   "notes": "Also: Bryant asks if Al Grey came to Jamaica — Liston: 'No. He didn’t come down there.' (295812). Bryant lists him on the 'Melba and her ’Bones' record date (295972) but Liston deflects to her women's group. Bryant asks if she wrote for Al Grey (296440); Liston's answer ('Things that I did for me or somebody before.') is ambiguous."
+  },
+  {
+   "person_id": 104466,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Budd Johnson",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "liston",
+   "basis": "her_statement",
+   "relation": "played under",
+   "direction": "liston_leads",
+   "tie": [
+    "sideman"
+   ],
+   "firsthand": true,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "1980s",
+   "summary": "Liston named Budd Johnson as a later addition to Melba Liston and Company, apparently on tenor saxophone.",
+   "one_liner": "had him in her company",
+   "her_quote": "And then Budd Johnson.",
+   "her_quote_block_id": 295789,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [],
+   "topics": [
+    "Melba Liston and Company",
+    "tenor saxophone"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": false,
+   "confidence": "medium",
+   "notes": "Bare naming in her roster of the group (295789), followed by '[Liston cannot recall whom Johnson replaced.]'. That he was the tenor is inferred from 'So we had a tenor, an alto, and two ’bones' in the same block. Budd Johnson died 1984, so this would be early 1980s."
+  },
+  {
+   "person_id": 104395,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Colby",
+   "identity_ok": true,
+   "identity_note": "No upstream QID; surname never given.",
+   "who_speaks_of_them": "liston",
+   "basis": "her_statement",
+   "relation": "acquaintance of",
+   "direction": "mutual",
+   "tie": [
+    "unknown"
+   ],
+   "firsthand": true,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "1996",
+   "summary": "Liston said Colby was going to manage her return to New York, that they spoke weekly, and named Colby as the only manager she had had.",
+   "one_liner": "was to manage her return to New York",
+   "her_quote": "Colby, she going to be my – so we’re talking once a week or so now. She’s got everything going, but I told her, Randy and then other things",
+   "her_quote_block_id": 295937,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [
+    {
+     "block_id": 295993,
+     "quote": "Colby. That’s all."
+    }
+   ],
+   "topics": [
+    "management",
+    "return to New York"
+   ],
+   "notable": 2,
+   "upstream_relation_ok": true,
+   "confidence": "medium",
+   "notes": "Role is manager (no 'manager' tie in the vocabulary, so tie 'unknown'). 295993 answers Bryant's 'You never had a manager?' First mention (295791) is '[?Colby]' — uncertain transcription — where Liston says she talked to Colby about the bass player now playing upright."
+  },
+  {
+   "person_id": 104452,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Jean Davis",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "bryant_only",
+   "basis": "none",
+   "relation": "none",
+   "direction": "na",
+   "tie": [],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "",
+   "summary": "Bryant asked whether trumpeter Jean Davis was in Liston's group; Liston answered that the group had no trumpets.",
+   "one_liner": "",
+   "her_quote": null,
+   "her_quote_block_id": null,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [],
+   "topics": [
+    "Melba Liston and Company"
+   ],
+   "notable": 0,
+   "upstream_relation_ok": false,
+   "confidence": "high",
+   "notes": "Bryant's question (295792); Liston's 'No trumpets.' (295793) effectively denies Davis was in the group. No relation established."
+  },
+  {
+   "person_id": 104460,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Hale Smith",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "liston",
+   "basis": "her_statement",
+   "relation": "knows of",
+   "direction": "na",
+   "tie": [
+    "unknown"
+   ],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "",
+   "summary": "Liston mentioned Hale Smith, in a garbled remark, in connection with talk about one of her tunes on a radio tape she had played.",
+   "one_liner": "",
+   "her_quote": "Because Hale Smith – all of those things was talking about that tune that I did.",
+   "her_quote_block_id": 295806,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [],
+   "topics": [
+    "radio tape"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": true,
+   "confidence": "low",
+   "notes": "Sentence is garbled; it may mean Hale Smith spoke about her tune on the radio programme. The transcript does not establish their actual relationship (outside sources describe close collaboration, but that is not in the interview)."
+  },
+  {
+   "person_id": 104458,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Frank Foster",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "liston",
+   "basis": "her_statement",
+   "relation": "has met",
+   "direction": "mutual",
+   "tie": [
+    "unknown"
+   ],
+   "firsthand": true,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "1975, Jamaica",
+   "summary": "Liston recalled that Frank Foster was among the saxophonists at a 1975 jazz festival in Jamaica while she was teaching there.",
+   "one_liner": "was at her 1975 Jamaica jazz festival",
+   "her_quote": "They had a jazz festival or something like that. This was 1975. They had [Frank Foster]. Dexter came.",
+   "her_quote_block_id": 295810,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [],
+   "topics": [
+    "Jamaica",
+    "1975 jazz festival"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": false,
+   "confidence": "medium",
+   "notes": "The name '[Frank Foster]' is a bracketed editorial insertion — what Liston actually said there is unclear (possibly just 'Frank'). Check also 295838: 'My friends really are Frank and all of those. They’re arrangers too.' — that 'Frank' may well be Frank Foster (an arranger), which would make this 'friend of', but the transcript does not say which Frank."
+  },
+  {
+   "person_id": 104396,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Lana Turner",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "both",
+   "basis": "her_statement",
+   "relation": "has met",
+   "direction": "mutual",
+   "tie": [
+    "unknown"
+   ],
+   "firsthand": true,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "The Prodigal (film)",
+   "summary": "Liston said she appeared all through the Lana Turner film The Prodigal as Turner's maid—a non-musical role—and was still watching television hoping to see it.",
+   "one_liner": "played her maid in The Prodigal",
+   "her_quote": "I was Lana Turner’s old girl.",
+   "her_quote_block_id": 295832,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [
+    {
+     "block_id": 295822,
+     "quote": "Yeah. I was all through that. I was her maid or something or other. I don’t see it on t.v. or nothing. I’m looking all the time. I’m looking for it."
+    },
+    {
+     "block_id": 295830,
+     "quote": "I was her maid or something. No music. I was all through that one."
+    },
+    {
+     "block_id": 295824,
+     "quote": "I want to see me."
+    }
+   ],
+   "topics": [
+    "The Prodigal",
+    "film work",
+    "Hollywood"
+   ],
+   "notable": 3,
+   "upstream_relation_ok": false,
+   "confidence": "medium",
+   "notes": "Film title 'The Prodigal' is supplied by Bryant (295821); Liston confirms. Relation is co-appearance in a film (no tie term fits). Bryant had heard she played a lute/harp; Liston corrects: 'No. I’m her maid.' (295828)."
+  },
+  {
+   "person_id": 104406,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Major Holley",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "both",
+   "basis": "her_statement",
+   "relation": "friend of",
+   "direction": "mutual",
+   "tie": [
+    "friend"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 2,
+   "era": "after her stroke",
+   "summary": "Liston brought up bassist Major Holley herself when talking about the friends who stood by her, recalling that after her stroke he took her downtown and helped her pick out and buy her first computer.",
+   "one_liner": "helped her buy her first computer",
+   "her_quote": "He went with me and picked out my first computer.",
+   "her_quote_block_id": 295846,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [
+    {
+     "block_id": 295842,
+     "quote": "He bought my first – the first computer that I had."
+    },
+    {
+     "block_id": 295848,
+     "quote": "I had the stroke already. I don’t know if I was talking or not then. But he got me and we went downtown and bought the computer."
+    }
+   ],
+   "topics": [
+    "computer",
+    "after the stroke",
+    "New York"
+   ],
+   "notable": 3,
+   "upstream_relation_ok": true,
+   "confidence": "high",
+   "notes": "Bryant starts 'There was a bass player that . . .' and Liston supplies 'Major Holley?' (295840) — in the passage about who her real friends are (295837–295838). Bryant: 'You’re always talking about him. He talked about you the whole time' (295841)."
+  },
+  {
+   "person_id": 104456,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Jeannie Cheatham",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "bryant_only",
+   "basis": "none",
+   "relation": "none",
+   "direction": "na",
+   "tie": [],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "",
+   "summary": "Bryant mentioned that Major Holley had told her and Jeannie Cheatham about Liston's computer; no connection between Liston and Cheatham is stated.",
+   "one_liner": "",
+   "her_quote": null,
+   "her_quote_block_id": null,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [],
+   "topics": [],
+   "notable": 0,
+   "upstream_relation_ok": false,
+   "confidence": "high",
+   "notes": "Single mention in Bryant's turn (295847). Upstream 'knows of' is not supported."
+  },
+  {
+   "person_id": 104449,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Tommy Dorsey",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "liston",
+   "basis": "her_statement",
+   "relation": "knows of",
+   "direction": "na",
+   "tie": [
+    "heard_on_radio_or_record"
+   ],
+   "firsthand": false,
+   "stance": "neutral",
+   "stance_strength": 1,
+   "era": "childhood",
+   "summary": "Asked about her main influence on trombone, Liston named Tommy Dorsey as a trombonist she listened to on the radio, but said she simply loved the instrument and needed no inspiration.",
+   "one_liner": "heard him on the radio as a girl",
+   "her_quote": "Tommy Dorsey was – I didn’t know too many trombone players, but he was on the radio, and I listened to him. But other than that, I just loved the instrument. I didn’t need no inspiration.",
+   "her_quote_block_id": 295854,
+   "bryant_quote": null,
+   "bryant_quote_block_id": null,
+   "more_her_quotes": [],
+   "topics": [
+    "radio",
+    "trombone",
+    "early influences"
+   ],
+   "notable": 2,
+   "upstream_relation_ok": true,
+   "confidence": "medium",
+   "notes": "Named in answer to Bryant's question about her main influence (295853), so 'influenced by' (other_leads) is arguable; kept at 'knows of' because she explicitly disclaims needing inspiration."
+  },
+  {
+   "person_id": 104434,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Oliver Nelson",
+   "identity_ok": true,
+   "identity_note": "",
+   "who_speaks_of_them": "both",
+   "basis": "her_assent",
+   "relation": "collaborated with",
+   "direction": "mutual",
+   "tie": [
+    "fellow_arranger"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 2,
+   "era": "",
+   "summary": "Bryant asked about writing with Oliver Nelson and whether he loved her writing; Liston agreed and said she loved his, adding that arrangers were all friends.",
+   "one_liner": "admired his arranging, and he hers",
+   "her_quote": "Yeah, and I loved his.",
+   "her_quote_block_id": 295868,
+   "bryant_quote": "How was it when you wrote with Oliver Nelson? He’s a hell of an arranger too.",
+   "bryant_quote_block_id": 295865,
+   "more_her_quotes": [
+    {
+     "block_id": 295870,
+     "quote": "No, not with nobody. Arrangers, we all friends."
+    }
+   ],
+   "topics": [
+    "arranging"
+   ],
+   "notable": 2,
+   "upstream_relation_ok": true,
+   "confidence": "medium",
+   "notes": "Collaboration is presupposed in Bryant's question; Liston first says 'What?' (295866), then assents to mutual admiration (295868). She never describes working with him herself; a human may prefer 'acquaintance of'."
+  }
+ ]
+}

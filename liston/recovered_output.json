@@ -1,0 +1,510 @@
+{
+ "subject": "liston",
+ "judged_by": "claude-opus-5-5",
+ "threads": [
+  {
+   "key": "liston:answer:275969",
+   "kind": "answer",
+   "anchor_block_id": 275969,
+   "items": [
+    {
+     "block_id": 275971,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "Slide Hampton's own trombone-ensemble revival and J. J. Johnson",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": "Liston appears only in the previous (unjudged) block; this block moves to trombone ensembles and J. J."
+    }
+   ]
+  },
+  {
+   "key": "liston:answer:289013",
+   "kind": "answer",
+   "anchor_block_id": 289013,
+   "items": [
+    {
+     "block_id": 289015,
+     "is_about_subject": false,
+     "subject_confidence": "medium",
+     "actually_about": "Quincy Jones's hiring of women in general (Liston and Patti Bown named together in the question)",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": "Interviewer framing of a question about women in Jones's band; no statement specific to Liston."
+    },
+    {
+     "block_id": 289016,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "Women musicians generically ('Can she play?'), then Clora Bryant",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": "'she' is generic, then Clora Bryant (Sweethearts of Rhythm)."
+    }
+   ]
+  },
+  {
+   "key": "liston:answer:277029",
+   "kind": "answer",
+   "anchor_block_id": 277029,
+   "items": [
+    {
+     "block_id": 277032,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "Hank Jones's own recording output and a Japanese fan",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": "Jones does not recall the Milt Jackson date and never addresses Liston."
+    }
+   ]
+  },
+  {
+   "key": "liston:answer:272797",
+   "kind": "answer",
+   "anchor_block_id": 272797,
+   "items": [
+    {
+     "block_id": 272798,
+     "is_about_subject": true,
+     "subject_confidence": "high",
+     "actually_about": "",
+     "mention_kind": "substantive_comment",
+     "stance": "positive",
+     "stance_strength": 2,
+     "content_type": [
+      "personal_memory",
+      "working_relationship",
+      "gender"
+     ],
+     "block_is_firsthand": true,
+     "quotes_the_subject": false,
+     "summary": "Fuller called his relationship with Liston in Quincy Jones's band a beautiful one and recalled seeing her sit on the bandstand and cry.",
+     "pull_quote": "Oh yeah, that was a beautiful relationship. I've seen her sit on the bandstand and cry.",
+     "notable": 2,
+     "notes": "'her' precedes the Patty Bowen mention and follows a question naming Liston; next block confirms the band is Quincy Jones's and names Melba. Why she cried is not explained -- use with care. 'had to women and it' is a garble of 'had two women in it'."
+    }
+   ]
+  },
+  {
+   "key": "liston:answer:315135",
+   "kind": "answer",
+   "anchor_block_id": 315135,
+   "items": [
+    {
+     "block_id": 315137,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "Ray Charles (interviewer changes subject)",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": ""
+    }
+   ]
+  },
+  {
+   "key": "liston:answer:275465",
+   "kind": "answer",
+   "anchor_block_id": 275465,
+   "items": [
+    {
+     "block_id": 275466,
+     "is_about_subject": true,
+     "subject_confidence": "high",
+     "actually_about": "",
+     "mention_kind": "substantive_comment",
+     "stance": "positive",
+     "stance_strength": 3,
+     "content_type": [
+      "musical_assessment",
+      "working_relationship",
+      "personal_memory"
+     ],
+     "block_is_firsthand": true,
+     "quotes_the_subject": false,
+     "summary": "Hampton said he first worked with Liston in Dizzy Gillespie's band and quickly learned how musically heavy she was.",
+     "pull_quote": "I didn’t know that she was as heavy musically as she was. I got in that band. I learned it real fast. Musically, she was heavy.",
+     "notable": 2,
+     "notes": "Direct answer to 'is that your first relationship with Melba Liston?' in Gillespie's band."
+    }
+   ]
+  },
+  {
+   "key": "liston:answer:289017",
+   "kind": "answer",
+   "anchor_block_id": 289017,
+   "items": [
+    {
+     "block_id": 289021,
+     "is_about_subject": false,
+     "subject_confidence": "medium",
+     "actually_about": "Younger women musicians (Ellen Seeling, Diva) inspired by Quincy Jones's band -- Liston and Patti Bown jointly",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": "Interviewer paraphrase of legacy influence; immediately preceded by 'And Patti's tunes', so not specific to Liston. Arguably a shared legacy-influence item; reviewer may reconsider."
+    }
+   ]
+  },
+  {
+   "key": "liston:answer:272804",
+   "kind": "answer",
+   "anchor_block_id": 272804,
+   "items": [
+    {
+     "block_id": 272805,
+     "is_about_subject": true,
+     "subject_confidence": "high",
+     "actually_about": "",
+     "mention_kind": "substantive_comment",
+     "stance": "positive",
+     "stance_strength": 1,
+     "content_type": [
+      "personal_memory",
+      "working_relationship",
+      "biographical_fact"
+     ],
+     "block_is_firsthand": true,
+     "quotes_the_subject": false,
+     "summary": "Fuller said he loved every moment of working with Liston and that when he first met her he did not know Gerald Wilson was her husband.",
+     "pull_quote": "Oh, I loved every moment of it",
+     "notable": 1,
+     "notes": "Fuller's claim that Gerald Wilson was Liston's husband is his statement only; verify before presenting as fact (standard biographies describe Wilson as a bandleader/mentor she worked for)."
+    }
+   ]
+  },
+  {
+   "key": "liston:answer:231704",
+   "kind": "answer",
+   "anchor_block_id": 231704,
+   "items": [
+    {
+     "block_id": 231706,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "The Southway Hotel in Chicago",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": "Joe Williams's roommate story moves to the hotel; Liston only in the anchor."
+    }
+   ]
+  },
+  {
+   "key": "liston:answer:430822",
+   "kind": "answer",
+   "anchor_block_id": 430822,
+   "items": [
+    {
+     "block_id": 430825,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "Band personnel (Fred Standifer, Benny Bailey) in the Quincy Jones touring band",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": ""
+    }
+   ]
+  },
+  {
+   "key": "liston:answer:271162",
+   "kind": "answer",
+   "anchor_block_id": 271162,
+   "items": [
+    {
+     "block_id": 271163,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "The International Sweethearts of Rhythm",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": "Answer to 'any women besides Melba' is by definition about other women."
+    }
+   ]
+  },
+  {
+   "key": "liston:continuation:242103",
+   "kind": "continuation",
+   "anchor_block_id": 242103,
+   "items": [
+    {
+     "block_id": 242105,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "Women and feminists in general (Abbey Lincoln's views on gender)",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": "Generic 'she' = woman/feminist; Liston named only in anchor as a rare exception."
+    },
+    {
+     "block_id": 242106,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "Women, feminists, and fashion designers in general",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": "Generic 'she' = woman/feminist."
+    }
+   ]
+  },
+  {
+   "key": "liston:continuation:273095",
+   "kind": "continuation",
+   "anchor_block_id": 273095,
+   "items": [
+    {
+     "block_id": 273101,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "Gil Fuller, Les Hite, Snooky Young, Benny Carter; 'the lady that ran the band' is the Les Hite band's owner",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": "Gerald Wilson's own career story; competing names irrelevant to Liston."
+    }
+   ]
+  },
+  {
+   "key": "liston:continuation:309837",
+   "kind": "continuation",
+   "anchor_block_id": 309837,
+   "items": [
+    {
+     "block_id": 309839,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "Min Xiao Fen (pipa player) and the Khepera project",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": "'she' = Min Xiao Fen. The next (context) block says Melba did the Khepera arrangements, but this block does not mention her."
+    }
+   ]
+  },
+  {
+   "key": "liston:continuation:367018",
+   "kind": "continuation",
+   "anchor_block_id": 367018,
+   "items": [
+    {
+     "block_id": 367020,
+     "is_about_subject": false,
+     "subject_confidence": "medium",
+     "actually_about": "Mary Lou Williams herself (Dizzy getting her to Newport, priests, fasting)",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": "Opens with the tail of Liston's quoted line from the anchor ('...I just sat / down and took the music down.'). Any Liston quote should be built from the anchor plus that first clause, not from this block."
+    }
+   ]
+  },
+  {
+   "key": "liston:continuation:271151",
+   "kind": "continuation",
+   "anchor_block_id": 271151,
+   "items": [
+    {
+     "block_id": 271153,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "Vi Redd, then Ingrid Jensen",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": ""
+    },
+    {
+     "block_id": 271157,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "Ingrid Jensen (trumpet), then an unnamed woman trumpeter with Louis Jordan",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": "'Henson' in the prior question is a garble of Jensen."
+    }
+   ]
+  },
+  {
+   "key": "liston:continuation:216723",
+   "kind": "continuation",
+   "anchor_block_id": 216723,
+   "items": [
+    {
+     "block_id": 216727,
+     "is_about_subject": true,
+     "subject_confidence": "high",
+     "actually_about": "",
+     "mention_kind": "substantive_comment",
+     "stance": "positive",
+     "stance_strength": 1,
+     "content_type": [
+      "biographical_fact",
+      "health",
+      "working_relationship"
+     ],
+     "block_is_firsthand": true,
+     "quotes_the_subject": false,
+     "summary": "Powell said Liston had moved to New York two or three years earlier, had been wheelchair-bound for a while, and was very close to Randy Weston.",
+     "pull_quote": "She’s been here for about two or three years. She’s been wheelchair bound for a little while, but she and Randy are very close",
+     "notable": 1,
+     "notes": "First half about Liston; block then pivots to Randy Weston's kindness and Powell's dialysis. Ends with a page footer artefact."
+    }
+   ]
+  },
+  {
+   "key": "liston:continuation:458533",
+   "kind": "continuation",
+   "anchor_block_id": 458533,
+   "items": [
+    {
+     "block_id": 458536,
+     "is_about_subject": true,
+     "subject_confidence": "medium",
+     "actually_about": "",
+     "mention_kind": "substantive_comment",
+     "stance": "positive",
+     "stance_strength": 2,
+     "content_type": [
+      "musical_assessment",
+      "personal_memory"
+     ],
+     "block_is_firsthand": true,
+     "quotes_the_subject": false,
+     "summary": "Higginbotham praised Liston's trombone playing and recalled her grabbing him at a Sunday afternoon session.",
+     "pull_quote": "can play some trombone!",
+     "notable": 1,
+     "notes": "Interviewer interjected a question about Sweets Edison just before; 'trombone' and 'She' indicate Higginbotham is still on Liston, but '(That boy)' is an uncertain transcription. Anchor misnames her 'Melvin Liston'. Text is fragmentary."
+    }
+   ]
+  },
+  {
+   "key": "liston:continuation:470105",
+   "kind": "continuation",
+   "anchor_block_id": 470105,
+   "items": [
+    {
+     "block_id": 470107,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "The unnamed woman teacher who taught Vi Redd and Liston (not named in the given text; likely Alma Hightower)",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": "Liston appears only as one of the teacher's pupils."
+    }
+   ]
+  }
+ ]
+}

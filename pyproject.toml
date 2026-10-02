@@ -1,0 +1,12 @@
+[project]
+name = "liston-centennial-2026"
+version = "0.1.0"
+description = "Data layer for the Melba Liston (1926-1999) centennial: what jazz musicians said about her, and what she said about them, from the Linked Jazz 2026 oral-history corpus."
+requires-python = ">=3.14"
+dependencies = [
+    "beautifulsoup4",
+    "lxml",
+]
+
+[tool.uv]
+package = false

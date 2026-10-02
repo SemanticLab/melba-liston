@@ -1,0 +1,1314 @@
+{
+ "subject": "liston",
+ "chunk": 1,
+ "count": 50,
+ "chunk_top": [
+  275470,
+  309830,
+  242103
+ ],
+ "items": [
+  {
+   "block_id": 184154,
+   "is_about_subject": true,
+   "mention_kind": "list_item",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "associates",
+   "content_type": [
+    "personal_memory",
+    "historical_context"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Dizzy Gillespie big band",
+    "Count Basie"
+   ],
+   "summary": "Grey named Liston among the members of Dizzy Gillespie's 'tremendous' big band, all of whom he said became stars.",
+   "pull_quote": "But we had such a tremendous band that every one of those guys who came out of there are stars today, the ones that are left and all like that, and that was like Lee Morgan, Wynton Kelly, and Phil Woods and Melba Liston and Billy Mitchell, who I brought into Count Basie’s band see because Lockjaw left.",
+   "notable": 1,
+   "context_changed_reading": false,
+   "truncated_target": true,
+   "confidence": "high",
+   "notes": "One name in a roll-call of Gillespie bandmates; praise is for the band collectively. Target ends mid-sentence at a page break but the continuation (184155) is about Grey joining Basie, not her."
+  },
+  {
+   "block_id": 216721,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "working_relationship",
+    "arranging_composing"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Randy Weston band",
+    "arranging"
+   ],
+   "summary": "Powell said Liston was responsible for the arrangements in Randy Weston's band, which he described as sparse frameworks built around the solos.",
+   "pull_quote": "Melba Liston is responsible for the arrangements.",
+   "notable": 2,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "The band is Randy Weston's (named in 216727 and implied by 'Randy' in context_before); 'he' in the interviewer's question is Weston. Interview is January 1999, late in her life."
+  },
+  {
+   "block_id": 216723,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "character_description",
+    "biographical_fact",
+    "health"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Randy Weston",
+    "late life"
+   ],
+   "summary": "Powell noted Liston's recent birthday and called her a wonderful woman, adding that she now lived in New York, was wheelchair-bound, and was very close to Randy Weston.",
+   "pull_quote": "Oh, she had a birthday two days ago, Melba Liston. Wonderful woman.",
+   "notable": 2,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Following block 216727 adds she had been in New York two or three years and was wheelchair-bound, with Weston looking out for her; then 'he' shifts to Weston. Interview dated 16 January 1999 (her birthday 13 January fits 'two days ago' loosely)."
+  },
+  {
+   "block_id": 218220,
+   "is_about_subject": true,
+   "mention_kind": "passing_reference",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "biographical_fact",
+    "mentorship"
+   ],
+   "relationship": "unclear",
+   "block_is_firsthand": false,
+   "topics": [
+    "Alma Hightower",
+    "Los Angeles music education"
+   ],
+   "summary": "Redd listed Liston, alongside Dexter Gordon, as one of the pupils of her aunt Alma Hightower.",
+   "pull_quote": "Melba — Melba Liston, Dexter Gordon took lessons from Aunt Alma.",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "The rest of the block ('she was the greatest teacher', 'a phenomenal woman') is about Alma Hightower, not Liston — pronoun trap. No first-person contact with Liston shown in this window."
+  },
+  {
+   "block_id": 231704,
+   "is_about_subject": true,
+   "mention_kind": "passing_reference",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "personal_memory",
+    "anecdote"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Count Basie band",
+    "touring",
+    "St. Louis"
+   ],
+   "summary": "Joe Williams recalled that on the road with Basie he and Snooky Young shared a hotel bathroom with Liston, who had the adjoining room.",
+   "pull_quote": "Snooky and I were roommates and we shared a bathroom with Melba Liston, who had the next, she had like the adjoining door and the bathroom on her side and on our side.",
+   "notable": 1,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "medium",
+   "notes": "Speaker JW is singer Joe Williams, a co-interviewer of Clark Terry, telling his own memory — not an interviewer_question despite speaker_role 'interviewer'. Chronology worth a check: Williams says 'when I joined the Basie band'; human may want to verify the overlap with Liston."
+  },
+  {
+   "block_id": 240560,
+   "is_about_subject": true,
+   "mention_kind": "archive_boilerplate",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "biographical_fact"
+   ],
+   "relationship": "not_applicable",
+   "block_is_firsthand": false,
+   "topics": [
+    "Gerald Wilson big band"
+   ],
+   "summary": "",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Hamilton front-matter biography of Gerald Wilson stating his 1944-47 big band had Snooky Young and Melba Liston as notable members; not interview speech."
+  },
+  {
+   "block_id": 240779,
+   "is_about_subject": false,
+   "mention_kind": "false_positive",
+   "quotes_the_subject": false,
+   "stance": null,
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [],
+   "relationship": "not_applicable",
+   "block_is_firsthand": false,
+   "topics": [],
+   "summary": "",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "No mention of Liston in the target; the match is the surface form 'Mel' — this is Snooky Young on the Thad Jones–Mel Lewis Orchestra (Mel Lewis)."
+  },
+  {
+   "block_id": 185163,
+   "is_about_subject": true,
+   "mention_kind": "list_item",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "associates",
+   "content_type": [
+    "arranging_composing",
+    "personal_memory"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Dizzy Gillespie big band",
+    "arrangers"
+   ],
+   "summary": "Hampton listed Liston among the great arrangers (with Quincy Jones, Gillespie, Ernie Wilkins and Benny Golson) whose charts he played in Gillespie's band and learned harmonic resolution from.",
+   "pull_quote": "I remember when I played with the Dizzy Gillespie group and I was playing arrangements by Quincy Jones, by Dizzy himself, Ernie Wilkins, Melba Liston, Benny Golson.",
+   "notable": 1,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": ""
+  },
+  {
+   "block_id": 185313,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "associates",
+   "content_type": [
+    "personal_memory",
+    "arranging_composing",
+    "working_relationship"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Dizzy Gillespie big band",
+    "musical director"
+   ],
+   "summary": "Hampton recalled that when he joined Gillespie's band Liston was the musical director, and the band's arrangements were so good he did not dare write for it himself.",
+   "pull_quote": "And the band that I joined was the band with Lee Morgan, Benny Golson, Wynton Kelly, Melba Liston was the musical director, and they were playing so much music man, my head was just — they had my head spinning.",
+   "notable": 2,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "The praise ('arrangements were so good') is for the band's arrangers collectively, so stance_target is associates."
+  },
+  {
+   "block_id": 367018,
+   "is_about_subject": true,
+   "mention_kind": "quoted_speech",
+   "quotes_the_subject": true,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "anecdote",
+    "arranging_composing",
+    "hearsay",
+    "character_description"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Dizzy Gillespie",
+    "Newport Jazz Festival",
+    "Mary Lou Williams comeback"
+   ],
+   "summary": "Williams recounted that Gillespie sent Liston to check on her playing, that Liston reported back that 'Lou played some chords' worth hearing, and that when Gillespie praised arrangements for Newport Liston said they were Williams's own and she had only taken them down.",
+   "pull_quote": "Melba, I understand, would go back and say, \"Man, Lou played some chords and you ought to hear them. They're really great.\"",
+   "notable": 3,
+   "context_changed_reading": true,
+   "truncated_target": true,
+   "confidence": "high",
+   "notes": "fts_supplement 'Melba' — identity confirmed by the window: Melba working for Dizzy Gillespie, arranging for his band at Newport. Liston's reported words are relayed secondhand ('I understand'). Target ends mid-quote; continuation 367020 completes 'I was in the room and I just sat / down and took the music down.' — mandatory reading, and it shows Liston crediting Williams."
+  },
+  {
+   "block_id": 367027,
+   "is_about_subject": true,
+   "mention_kind": "passing_reference",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "subject",
+   "content_type": [
+    "personal_memory"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Mary Lou Williams comeback",
+    "Dizzy Gillespie"
+   ],
+   "summary": "Williams said Gillespie, Liston and other musicians were all trying to coax her back to performing.",
+   "pull_quote": "Dizzy called and Melba and all the musicians were trying to get me out.",
+   "notable": 1,
+   "context_changed_reading": false,
+   "truncated_target": true,
+   "confidence": "high",
+   "notes": "fts_supplement 'Melba' — same document and storyline as 367018 (Dizzy and Melba urging her comeback), so identity is high. Rest of block is about the Composer Room. Ends mid-sentence ('The bass player / and the drummer') — continuation irrelevant to her."
+  },
+  {
+   "block_id": 414223,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "subject",
+   "content_type": [
+    "personal_memory",
+    "arranging_composing",
+    "historical_context"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Gerald Wilson big band",
+    "Shepp's Playhouse",
+    "Central Avenue"
+   ],
+   "summary": "Edwards recalled hearing Gerald Wilson's band at Shepp's Playhouse, where Liston was writing for the band and playing trombone, and where he first met 'all of that gang'.",
+   "pull_quote": "Melba Liston was with the band. She was writing and playing her trombone with the band.",
+   "notable": 2,
+   "context_changed_reading": true,
+   "truncated_target": true,
+   "confidence": "high",
+   "notes": "Target starts mid-sentence; preceding block 414221 establishes it is Gerald Wilson's band at Shepp's Playhouse. Metadata error: interviewee_field says 'Patricia Willard' (she is the interviewer); the speaker is Teddy Edwards."
+  },
+  {
+   "block_id": 419819,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "biographical_fact",
+    "personal_memory"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Salute to Women in Jazz",
+    "Symphony Space",
+    "Ernie Wilkins big band"
+   ],
+   "summary": "Asked whether they remembered Liston, Hughes said she was back on the scene and living in Jamaica, Sullivan said Liston had done the 'Salute to Women in Jazz' concert with them at Symphony Space, and Campbell recalled seeing her play with Ernie Wilkins's big band at Carnegie Hall.",
+   "pull_quote": "Now, do you remember Melba Liston (phonetic spelling) the trombone player?",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Question asked by Mr. Campbell (a guest in the session, not Sullivan). Sullivan's answer ('the concert we did') implies she shared a bill with Liston, hence 'personally'. The pull quote contains the transcriber's '(phonetic spelling)' — use with care or drop."
+  },
+  {
+   "block_id": 430479,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "personal_memory",
+    "working_relationship",
+    "musical_assessment"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Atlantic City",
+    "Kim Weston",
+    "bandleading"
+   ],
+   "summary": "Jackson recalled playing in Atlantic City in a band Liston led for singer Kim Weston, and in the next breath called her 'a great trombonist, too'.",
+   "pull_quote": "So I went to Atlantic City and played with Melba Liston. She had a band up there, for Kim Weston.",
+   "notable": 2,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "The praise ('Yeah, a great trombonist, too.') is in the following block 430481, which does not name her and so is not its own item; Hinton adds 'and arranger'."
+  },
+  {
+   "block_id": 430483,
+   "is_about_subject": true,
+   "mention_kind": "passing_reference",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "personal_memory",
+    "working_relationship"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Kim Weston",
+    "Atlantic City"
+   ],
+   "summary": "Jackson repeated that Liston had the band for Kim Weston that he went up to play in.",
+   "pull_quote": "And Kim Weston, she -- so Melba had the band for Kim Weston.",
+   "notable": 0,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Repeats 430479; rest of block is about his operation and turning down the Americana Hotel."
+  },
+  {
+   "block_id": 430809,
+   "is_about_subject": true,
+   "mention_kind": "list_item",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "personal_memory"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Quincy Jones big band",
+    "Free and Easy",
+    "Europe 1959-60"
+   ],
+   "summary": "Jackson named Liston first in the trombone section of Quincy Jones's European touring band, with Jimmy Cleveland and Åke Persson.",
+   "pull_quote": "Well, the trumpets -- the trombones, rather, was Melba Liston, Jimmy Cleveland, and we picked up AAKE PERSSON Okie Pearson, a Swedish trombone player.",
+   "notable": 0,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "'A very good trombone player' in the next block refers to Persson, not Liston. 'AAKE PERSSON' is an editorial insertion in the transcript."
+  },
+  {
+   "block_id": 430822,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "personal_memory"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Quincy Jones big band"
+   ],
+   "summary": "Asked whether the trombones were just him and Liston, Jackson corrected Hinton that there were four, adding Jimmy Cleveland and Åke Persson.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Interviewer Milt Hinton's question; the answer adds nothing about Liston herself."
+  },
+  {
+   "block_id": 458533,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "musical_assessment",
+    "personal_memory"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "photograph",
+    "jam session"
+   ],
+   "summary": "Shown a photograph of himself with 'Melvin Liston', Higginbotham said 'She can play, too, boy' and that she could 'play some trombone', recalling that she grabbed him at a Sunday afternoon session.",
+   "pull_quote": "I see you have a picture there with Melvin Liston.",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "medium",
+   "notes": "fts_supplement 'Melvin Liston' — almost certainly a mistranscription of Melba Liston: Higginbotham answers with 'She can play, too' and '(That boy) can play some trombone!'. Identity confidence medium-high. The good line ('Oh, yeah. She can play, too, boy.') is in 458534, outside the target. Answer block 458536 is fragmentary."
+  },
+  {
+   "block_id": 467911,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "biographical_fact",
+    "mentorship"
+   ],
+   "relationship": "unclear",
+   "block_is_firsthand": false,
+   "topics": [
+    "Alma Hightower",
+    "Los Angeles"
+   ],
+   "summary": "Asked by Collette whether Liston was among Alma Hightower's pupils, Howard said 'Oh, Melba Liston?' and went on to name Vi Redd, without saying anything about her himself.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Questioner is Buddy Collette (a co-interviewer). Metadata error: interviewee_field says 'Patricia Willard'; the interviewee is Paul L. Howard."
+  },
+  {
+   "block_id": 467912,
+   "is_about_subject": true,
+   "mention_kind": "passing_reference",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "biographical_fact"
+   ],
+   "relationship": "unclear",
+   "block_is_firsthand": false,
+   "topics": [
+    "Alma Hightower"
+   ],
+   "summary": "Howard recognised Liston's name as one of the young musicians who came through Alma Hightower's band, offering nothing further.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Bare echo of Collette's prompt ('Oh, Melba Liston?')."
+  },
+  {
+   "block_id": 467923,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "biographical_fact"
+   ],
+   "relationship": "unclear",
+   "block_is_firsthand": false,
+   "topics": [
+    "Alma Hightower"
+   ],
+   "summary": "Collette prompted Howard that he remembered Liston, Vi Redd and 'that gang', and Howard simply said 'Yeah'.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Trap 4: assent only; the interviewee added nothing of his own. Questioner is Collette, not Willard."
+  },
+  {
+   "block_id": 470105,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "biographical_fact",
+    "mentorship"
+   ],
+   "relationship": "unclear",
+   "block_is_firsthand": false,
+   "topics": [
+    "Alma Hightower"
+   ],
+   "summary": "Willard asked whether Alma Hightower, who taught Vi Redd and Liston, also played horns; Howard answered only that Hightower played piano and drums and he could not remember more.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": false,
+   "truncated_target": true,
+   "confidence": "high",
+   "notes": "'She' throughout is Alma Hightower; Liston appears only as one of her pupils. '(phone crossed out)' is a transcriber note."
+  },
+  {
+   "block_id": 483122,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "personal_memory",
+    "musical_assessment"
+   ],
+   "relationship": "unclear",
+   "block_is_firsthand": false,
+   "topics": [
+    "Billy Eckstine band",
+    "Redd Foxx"
+   ],
+   "summary": "Prompted about 'the girl playing trombone' who came with Redd Foxx, Hayes Pillars said she played 'nice trombone' and went on to describe the Eckstine band she was in.",
+   "pull_quote": "And the girl playing trombone, too, that came in here, that came in here with Redd Foxx?",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "medium",
+   "notes": "Name is editorial: '[Melba Liston]-ed' was inserted by the Rutgers editor; the speakers never say her name. Questioner is C. Pillars (a family member prompting Hayes Pillars), not a formal interviewer. Input flagged ends-mid-sentence but the question is complete (it ends with the editorial tag); corrected to false. Answer 'She played trombone, nice trombone.' is in 483123."
+  },
+  {
+   "block_id": 242103,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "women_in_jazz",
+   "content_type": [
+    "gender",
+    "character_description"
+   ],
+   "relationship": "unclear",
+   "block_is_firsthand": false,
+   "topics": [
+    "women in jazz",
+    "feminism"
+   ],
+   "summary": "Lincoln, dismissing the idea of a women's history in jazz, singled Liston out as the rare woman who comes to the music for the music.",
+   "pull_quote": "It's a rare woman, like Melba Liston, who comes to the music for the music. Rare.",
+   "notable": 3,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "The evaluative frame is a sweeping generalisation about women; she is the exception. Display needs care — the surrounding block is strongly anti-feminist."
+  },
+  {
+   "block_id": 262096,
+   "is_about_subject": true,
+   "mention_kind": "list_item",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "associates",
+   "content_type": [
+    "personal_memory",
+    "anecdote",
+    "humor"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Quincy Jones big band",
+    "Europe 1960",
+    "trombone section"
+   ],
+   "summary": "Baker named Liston in the 'very, very good' trombone section of Quincy Jones's 1960 European band, joking that a bootleg album listed Fuller, Persson and Liston 'plus one other trombone' — himself.",
+   "pull_quote": "The trombone section was a very, very good section with Åke Persson playing lead, Melba Liston, Curtis Fuller, and myself.",
+   "notable": 1,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "The bootleg-credit joke is about Baker, not her."
+  },
+  {
+   "block_id": 271151,
+   "is_about_subject": true,
+   "mention_kind": "passing_reference",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "women_in_jazz",
+   "content_type": [
+    "gender",
+    "historical_context"
+   ],
+   "relationship": "secondhand",
+   "block_is_firsthand": false,
+   "topics": [
+    "women in jazz",
+    "trombone"
+   ],
+   "summary": "Freeman cited Liston playing trombone as one of the few early women in jazz, who he said had to be 'great, great, great, great' before men would accept them.",
+   "pull_quote": "And then Melba [Liston] plays the trombone.",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "fts_supplement 'Melba' — identity high: the transcriber expanded it as 'Melba [Liston]' and she is said to play trombone among early women in jazz. The surname is editorial (Smithsonian bracket). No first-person contact shown."
+  },
+  {
+   "block_id": 271162,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "women_in_jazz",
+   "content_type": [
+    "gender"
+   ],
+   "relationship": "secondhand",
+   "block_is_firsthand": false,
+   "topics": [
+    "women in jazz",
+    "big bands"
+   ],
+   "summary": "Asked about women besides Liston in the big bands, Freeman talked about the International Sweethearts of Rhythm, Valaida Snow and Tiny Davis, saying nothing more about her.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "fts_supplement 'Melba' — identity high: interviewer Coleman is following up Freeman's own 'Melba [Liston] plays the trombone' (271151) a few blocks earlier."
+  },
+  {
+   "block_id": 272797,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "women_in_jazz",
+   "content_type": [
+    "gender",
+    "personal_memory",
+    "working_relationship"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "women in jazz",
+    "Quincy Jones big band"
+   ],
+   "summary": "Asked about his relationship with Liston and her importance, Fuller called it 'a beautiful relationship' and said he had seen her sit on the bandstand and cry, in the Quincy Jones band that also had Patti Bown.",
+   "pull_quote": "But, does that hearken back to may be the experience of Melba Liston and how important she was?",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "medium",
+   "notes": "Interviewer is Brower. The answer in 272798 ('Oh yeah, that was a beautiful relationship. I've seen her sit on the bandstand and cry.') is the striking line but does not name her and is not an item; 'her' there most plausibly is Liston. Target lacks terminal punctuation but is not a page-break split; truncated set false."
+  },
+  {
+   "block_id": 272800,
+   "is_about_subject": true,
+   "mention_kind": "passing_reference",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "personal_memory"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Dizzy Gillespie big band",
+    "Quincy Jones big band"
+   ],
+   "summary": "Fuller confirmed he worked with Liston in Quincy Jones's band and said she had also been in Gillespie's band with him.",
+   "pull_quote": null,
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "medium",
+   "notes": "ASR/transcription garble: 'Dizzy’s bandwidth me' = 'Dizzy's band with me'. Pronoun trap: the rest of the block ('She was a good little girl and I was her hero') is about trombonist Janice Robinson, not Liston. No clean quotable sentence."
+  },
+  {
+   "block_id": 272804,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "personal_memory",
+    "mentorship"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Quincy Jones big band"
+   ],
+   "summary": "Asked whether working with Liston was a learning situation, Fuller said he loved every moment of it and that when he first met her he did not know Gerald Wilson was her husband.",
+   "pull_quote": "With Melba, was it a learning situation with you and her?",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Fuller's claim in 272805 that Gerald Wilson was her husband should be checked by a human before any use; it is his assertion, not verified here."
+  },
+  {
+   "block_id": 272807,
+   "is_about_subject": true,
+   "mention_kind": "passing_reference",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "personal_memory"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Quincy Jones big band"
+   ],
+   "summary": "After a long digression about Judy Garland, Fuller said he loved every moment he had with Liston and Patti Bown.",
+   "pull_quote": "But, I love every moment that I had with Melba, Patty Bowen and I have some young kids.",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Most of the block is about Judy Garland; the one Liston line is run-on (continues into his students), so the pull quote is an unclean sentence."
+  },
+  {
+   "block_id": 273095,
+   "is_about_subject": true,
+   "mention_kind": "list_item",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "associates",
+   "content_type": [
+    "personal_memory",
+    "historical_context"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Dizzy Gillespie big band 1950"
+   ],
+   "summary": "Wilson listed Liston in the trombone section of Gillespie's 1950 big band, which he called 'frightening'.",
+   "pull_quote": "That was that and then they had Melba Liston, they had, um Matthew Gee, another trombone player.",
+   "notable": 0,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Roll-call only; praise is for the band."
+  },
+  {
+   "block_id": 275385,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "personal_memory",
+    "mentorship",
+    "working_relationship"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Dizzy Gillespie big band",
+    "musical director"
+   ],
+   "summary": "Hampton recalled that Liston was musical director of Gillespie's big band when he joined, a band 'way over my head' where he was 'kicked and beat-up on' and taught a lot.",
+   "pull_quote": "Melba Liston was the musical director. I had to go there. I had to go there and get kicked, kicked and beat-up on. I did it. They taught me a lot in there.",
+   "notable": 2,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "'They taught me' is the band collectively, not her alone."
+  },
+  {
+   "block_id": 275397,
+   "is_about_subject": true,
+   "mention_kind": "list_item",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "subject",
+   "content_type": [
+    "personal_memory"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Dizzy Gillespie big band",
+    "trombone section"
+   ],
+   "summary": "Hampton named Liston in the trombone section of Gillespie's band with Chuck Connors and a 'Willie', calling them all very good players.",
+   "pull_quote": "It was Melba, and Chuck Connors, who played with Duke’s band, and another trombone player.",
+   "notable": 1,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": ""
+  },
+  {
+   "block_id": 275465,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "musical_assessment",
+    "personal_memory"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Dizzy Gillespie big band"
+   ],
+   "summary": "Asked whether Gillespie's band was his first contact with Liston, Hampton said yes, that he had not known how 'heavy' she was musically until he got in the band, and that she was its musical director and main arranger.",
+   "pull_quote": "In that band, is that your first relationship with Melba Liston?",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Answer in 275466/275468 ('Musically, she was heavy.'); her role elaborated in 275470, which is a separate item."
+  },
+  {
+   "block_id": 275470,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 3,
+   "stance_target": "subject",
+   "content_type": [
+    "musical_assessment",
+    "arranging_composing",
+    "comparison",
+    "working_relationship"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Dizzy Gillespie big band",
+    "musical director",
+    "arranging"
+   ],
+   "summary": "Hampton said Liston was the main arranger and real musical director of Gillespie's band, that she played very well and wrote 'music that weighs as much as this building', next to which the men's arrangements sounded like 'peep, peep, peep'.",
+   "pull_quote": "She played really good, and she wrote music that weighs as much as this building. That’s some of the heaviest music I ever heard. It was heavy. The men’s arrangements would sound little peep, peep, peep, around her.",
+   "notable": 3,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Pronoun trap: the middle sentences ('the principal trombone player was a woman... we all aspired to the things that she could do, Janice Robinson') are about Janice Robinson in the World of Trombones; 'Melba was the same way' returns to Liston, and the pull quote is after that. The opening 'She was the one that was the main arranger' answers Brower's question about Liston. Following block 275472: 'Dizzy treated her with a hell of a lot of respect. So everybody else had to.'"
+  },
+  {
+   "block_id": 275969,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "arranging_composing",
+    "working_relationship"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "World of Trombones",
+    "trombone choir"
+   ],
+   "summary": "Asked about trombone projects with Curtis Fuller and Liston that foreshadowed the World of Trombones, Hampton said that Liston, 'being the arranger that she was', was bound to write for a trombone choir, before turning to J. J. Johnson, Urbie Green and Al Grey.",
+   "pull_quote": "There’s lots of recordings – you did stuff with Curtis Fuller, you did stuff with Melba Liston – that foreshadow – announce the coming of the World of Trombones.",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": true,
+   "confidence": "high",
+   "notes": "Target ends mid-sentence ('what it was like to maintain'); answer is the next item, 275970."
+  },
+  {
+   "block_id": 275970,
+   "is_about_subject": true,
+   "mention_kind": "passing_reference",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "subject",
+   "content_type": [
+    "arranging_composing",
+    "musical_assessment"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "trombone choir",
+    "World of Trombones"
+   ],
+   "summary": "In a long account of trombone choirs, Hampton remarked that Liston, 'being the arranger that she was', was certain to write for one.",
+   "pull_quote": "Melba, being the arranger that she was, she definitely was going to write something for a trombone choir.",
+   "notable": 1,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "One sentence in a long block mainly about J. J. Johnson, Urbie Green and Al Grey."
+  },
+  {
+   "block_id": 277029,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "biographical_fact"
+   ],
+   "relationship": "unclear",
+   "block_is_firsthand": false,
+   "topics": [
+    "Milt Jackson",
+    "Tadd Dameron",
+    "recording session"
+   ],
+   "summary": "Brauer mentioned a Milt Jackson date involving Tadd Dameron and Liston; Jones said he could not begin to remember all his dates and said nothing about her.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Interviewer statement; answer adds nothing about Liston."
+  },
+  {
+   "block_id": 289013,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "women_in_jazz",
+   "content_type": [
+    "gender",
+    "historical_context"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Quincy Jones big band",
+    "women in jazz",
+    "Patti Bown"
+   ],
+   "summary": "Asked about featuring Patti Bown and Liston in his band years before it was fashionable, Jones said he never thought twice about it: 'Can she play? That's all I care.'",
+   "pull_quote": "I’m thinking now of Patti Bown. I’m thinking of Melba.",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "fts_supplement bare 'Melba' — identity high: paired with Patti Bown as women in Quincy Jones's band, and the follow-up 289017 has 'Melba writing' the Reverie arrangement for the Jones band. Interviewer is David Baker. Jones's answer is generic about women, not specific to her."
+  },
+  {
+   "block_id": 289017,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "women_in_jazz",
+   "content_type": [
+    "legacy_influence",
+    "gender",
+    "arranging_composing"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Quincy Jones big band",
+    "Reverie",
+    "Diva",
+    "women in jazz"
+   ],
+   "summary": "Baker said women musicians such as Ellen Seeling told him their first inspiration was seeing Liston writing for the Quincy Jones band, including her arrangement of 'Reverie'; Jones simply agreed ('Yeah. That's by Debussy, right?').",
+   "pull_quote": "When I talk to Ellen Seeling and those people, they tell me, the first time they saw it was when they saw the Quincy Jones band and they saw Melba writing – what is it? Reverie. That she had done the arrangement on.",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "fts_supplement bare 'Melba' — identity high (same exchange as 289013; arranger in the Quincy Jones band). The legacy claim is the interviewer's (Baker), relaying Seeling; Jones adds nothing of his own."
+  },
+  {
+   "block_id": 309824,
+   "is_about_subject": true,
+   "mention_kind": "passing_reference",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "arranging_composing",
+    "working_relationship"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Montreal Jazz Festival",
+    "Gnawa musicians",
+    "Randy Weston"
+   ],
+   "summary": "Weston noted in passing that Liston did all the arrangements for the African night of his Montreal Jazz Festival residency.",
+   "pull_quote": "Melba Liston did all the arrangements, by the way.",
+   "notable": 1,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "The interviewer in 309829 dates the residency to '97; check against the Weston discography."
+  },
+  {
+   "block_id": 309829,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "health",
+    "working_relationship"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Randy Weston partnership",
+    "stroke"
+   ],
+   "summary": "Asked how their long partnership continued after Liston was physically incapacitated, Weston credited her genius and spiritual strength and told how he pushed her to arrange again by computer after her stroke.",
+   "pull_quote": "How did your relationship overcome her physical issues? How did you continue to work with her?",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Interviewer Jenkins; the answer is the next item, 309830."
+  },
+  {
+   "block_id": 309830,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 3,
+   "stance_target": "subject",
+   "content_type": [
+    "anecdote",
+    "health",
+    "arranging_composing",
+    "character_description",
+    "working_relationship"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Spirit of Our Ancestors",
+    "stroke",
+    "Randy Weston partnership",
+    "computer arranging"
+   ],
+   "summary": "Weston said only Liston could arrange 'Spirit of Our Ancestors', recounting how, though paralyzed on one side and in a wheelchair after her stroke, she was goaded by him into the work and learned to write music by computer with her left hand.",
+   "pull_quote": "Then I realized that only Melba Liston could do this. She was in a wheelchair, she had been paralyzed on one side, and she can no longer play the trombone. I went to see her, and I insulted her as only musicians can do. I called her all kinds of names. I said to her, “You have to do these arrangements stroke or no stroke, handicap or no handicap,” you know? She cried a little bit, you know? But, it turned out her aunt Thelma was a computer specialist and Melba started studying the computer and how to write the music with her left hand.",
+   "notable": 3,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Long pull quote; a shorter cut is 'Then I realized that only Melba Liston could do this.' The insults are affectionate musicians' goading, but the anecdote includes her crying — handle with care on display."
+  },
+  {
+   "block_id": 309837,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "anecdote",
+    "health",
+    "arranging_composing",
+    "character_description"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Coleman Hawkins Five Spot 1959",
+    "Montreal Jazz Festival 1985",
+    "Hale Smith"
+   ],
+   "summary": "Weston recalled that Liston's arrangements for his 1959 Five Spot date with Coleman Hawkins and his 1985 Montreal concert arrived from her hospital bed in California just in time, and praised the power of her spiritual strength despite her illnesses.",
+   "pull_quote": "So this is not the first time this has happened with Melba. Unfortunately, she has had problems with illness. But, her spiritual strength is so powerful.",
+   "notable": 2,
+   "context_changed_reading": true,
+   "truncated_target": true,
+   "confidence": "high",
+   "notes": "Target starts mid-sentence ('streets.'); preceding block 309836 sets up the Hawkins date and 'It makes no difference where she was'. Dates given by Weston (1959; 1985 Montreal) are his recollection."
+  },
+  {
+   "block_id": 309840,
+   "is_about_subject": true,
+   "mention_kind": "passing_reference",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "arranging_composing"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Khepera",
+    "Randy Weston"
+   ],
+   "summary": "Weston mentioned that Liston did the arrangements for his 'Khepera' recording.",
+   "pull_quote": "Melba did the arrangements for that.",
+   "notable": 0,
+   "context_changed_reading": false,
+   "truncated_target": true,
+   "confidence": "high",
+   "notes": "Starts mid-sentence (page break); the block is about the China–Africa concept of Khepera."
+  },
+  {
+   "block_id": 315135,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "musical_assessment",
+    "gender"
+   ],
+   "relationship": "unclear",
+   "block_is_firsthand": false,
+   "topics": [
+    "women in jazz"
+   ],
+   "summary": "Asked about Liston in a run of name prompts, Horn called her a great jazz artist with a good band but said some instruments were beyond a woman's strength and the band left something to be desired.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "fts_supplement — identity high: Horn answers about a woman bandleader, and the transcript index lists 'Liston, Melba, 87'. Interviewer is Stitt; bare name prompt."
+  },
+  {
+   "block_id": 315136,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "mixed",
+   "stance_strength": 2,
+   "stance_target": "women_in_jazz",
+   "content_type": [
+    "musical_assessment",
+    "gender",
+    "criticism",
+    "personal_memory"
+   ],
+   "relationship": "unclear",
+   "block_is_firsthand": true,
+   "topics": [
+    "Melba Liston band",
+    "women instrumentalists"
+   ],
+   "summary": "Horn called Liston a great jazz artist whose band she had seen and liked, but said a woman lacks the strength for certain instruments, the band's woodwinds were weak and she disliked female drummers, so it left something to be desired.",
+   "pull_quote": "Melba, she was a great jazz artist. I told you I saw her. She had a good band.",
+   "notable": 2,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "fts_supplement 'Melba' — identity high: direct answer to 'Melba Liston?' (315135). Frank reservation: the criticism lands on her (all-women?) band and on women players generally, not on Liston personally. Horn saw her perform; no evidence they knew each other, so relationship 'unclear'. 'I told you I saw her' points to an earlier unrecorded/unseen mention."
+  },
+  {
+   "block_id": 315148,
+   "is_about_subject": true,
+   "mention_kind": "archive_boilerplate",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [],
+   "relationship": "not_applicable",
+   "block_is_firsthand": false,
+   "topics": [],
+   "summary": "",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "fts_supplement 'Liston, Melba' — back-matter index of the Shirley Horn transcript ('Liston, Melba, 87'). It is her (it points to the page of 315136), but it is not speech. Input flagged ends-mid-sentence; it is an index split across blocks, not a sentence — set false."
+  },
+  {
+   "block_id": 319297,
+   "is_about_subject": true,
+   "mention_kind": "passing_reference",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "personal_memory",
+    "historical_context"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Dizzy Gillespie big band",
+    "Boston",
+    "sitting in"
+   ],
+   "summary": "Akiyoshi recalled that Liston was playing trombone in Gillespie's big band when she sat in with it in Boston.",
+   "pull_quote": "So … but Diz had a big band in those days, and Phil Woods was, I think, lead alto, and uh, Melba Liston was playing trombone.",
+   "notable": 0,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "medium",
+   "notes": "Akiyoshi sat in with the band Liston was in, hence 'personally', but she says nothing about Liston herself; the story is about being called 'Bud Powell' and starting to write."
+  }
+ ]
+}

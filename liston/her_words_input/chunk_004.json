@@ -1,0 +1,782 @@
+{
+ "subject": "liston",
+ "chunk": 4,
+ "n_chunks": 4,
+ "count": 27,
+ "transcript": "liston/own_interview.txt",
+ "items": [
+  {
+   "person_id": 104475,
+   "as_named_in_interview": "Slide Hampton",
+   "surface_forms": [
+    "Slide Hampton"
+   ],
+   "upstream_identity": {
+    "qid": "Q1369035",
+    "name": "Slide Hampton",
+    "description": "American trombonist (1932–2021)",
+    "born": "1932",
+    "died": "2021"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    296174
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "I tried to turn the thing around and blow it like Slide Hampton",
+    "evidence_in_her_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104381,
+   "as_named_in_interview": "Gloria Lynne",
+   "surface_forms": [
+    "Gloria",
+    "Gloria Lynne"
+   ],
+   "upstream_identity": {
+    "qid": "Q1532096",
+    "name": "Gloria Lynne",
+    "description": "singer (1929–2013)",
+    "born": "1929",
+    "died": "2013"
+   },
+   "n_mentions": 8,
+   "mention_block_ids": [
+    296228,
+    296272,
+    296282,
+    296283,
+    296299,
+    296304,
+    296306,
+    296310
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "INTERVIEWEE: Gloria Lynne’s thing. ... INTERVIEWEE: The difference is who picks what songs. Dinah picks some soul songs. Gloria picks some . . .",
+    "evidence_in_her_own_words": "partial",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104487,
+   "as_named_in_interview": "Fife",
+   "surface_forms": [
+    "Fife"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Fife",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    296251
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "[INTERVIEWER] Fife? [INTERVIEWEE] It wasn’t none of those things.",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104444,
+   "as_named_in_interview": "Jon Faddis",
+   "surface_forms": [
+    "Jon Faddis"
+   ],
+   "upstream_identity": {
+    "qid": "Q1350269",
+    "name": "Jon Faddis",
+    "description": "American jazz trumpet player",
+    "born": "1953",
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    296253
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "[INTERVIEWER] ... Jon Faddis or somebody.",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104481,
+   "as_named_in_interview": "Pam",
+   "surface_forms": [
+    "Pam"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Pam",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    296264
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "collaborated on recordings of 'Pam's Waltz' and 'Little Niles'",
+    "confidence": 0.8,
+    "evidence": "But Pam’s Waltz and Little Niles, he goes – every time he record, we’ll do those things.",
+    "evidence_in_her_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104469,
+   "as_named_in_interview": "Tanyah",
+   "surface_forms": [
+    "Tanyah"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Tanyah",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    296281
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "INTERVIEWER mentions 'Tanyah' as the source of a track from 1973; INTERVIEWEE does not mention Tanyah, only redirects conversation to Randy and Gloria Lynne.",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104489,
+   "as_named_in_interview": "Morris",
+   "surface_forms": [
+    "Morris"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Morris",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    296312
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "has met",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "Everybody except the drummer, and I don’t know who the tall saxophonist is, but the rest of them I know. That’s me. Minnie – Minnie [?Moore ?Morris].",
+    "evidence_in_her_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104490,
+   "as_named_in_interview": "Moore",
+   "surface_forms": [
+    "Moore"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Moore",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    296312
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "has met",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "Everybody except the drummer, and I don’t know who the tall saxophonist is, but the rest of them I know. That’s me. Minnie – Minnie [?Moore ?Morris].",
+    "evidence_in_her_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104397,
+   "as_named_in_interview": "Prince Harris",
+   "surface_forms": [
+    "Prince",
+    "Prince Harris"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Prince Harris",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 3,
+   "mention_block_ids": [
+    296313,
+    296314,
+    296315
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "has met",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "[INTERVIEWER] That’s Prince. >> [INTERVIEWEE] Yeah, there’s Prince.",
+    "evidence_in_her_own_words": "partial",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104411,
+   "as_named_in_interview": "Elvira",
+   "surface_forms": [
+    "Elvira"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Elvira",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 2,
+   "mention_block_ids": [
+    296316,
+    296319
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "acquaintance of",
+    "direction": "na",
+    "proposed": "children of family friends",
+    "confidence": 0.9,
+    "evidence": "His mother and my mother used to be friends.",
+    "evidence_in_her_own_words": "paraphrase",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104483,
+   "as_named_in_interview": "His mother",
+   "surface_forms": [
+    "His mother"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "His mother",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    296318
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "acquaintance of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "His mother and my mother used to be friends.",
+    "evidence_in_her_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104467,
+   "as_named_in_interview": "Buddy Redd",
+   "surface_forms": [
+    "Buddy Redd"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Buddy Redd",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    296319
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "acquaintance of",
+    "direction": "mutual",
+    "proposed": "families were friends",
+    "confidence": 0.8,
+    "evidence": "His mother and my mother used to be friends.",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104417,
+   "as_named_in_interview": "Ross Snyder",
+   "surface_forms": [
+    "Ross Snyder"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Ross Snyder",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    296326
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "has met",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "This is Ross Snyder. ... I liked him.",
+    "evidence_in_her_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104419,
+   "as_named_in_interview": "Lorenzo",
+   "surface_forms": [
+    "Lorenzo"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Lorenzo",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    296327
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "has met",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "[INTERVIEWER] [identifies Lorenzo.] ... [INTERVIEWEE] Yeah, I know. I don’t know how he’s playing saxophone, because I know him as a trumpet player.",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104409,
+   "as_named_in_interview": "Robert Ross",
+   "surface_forms": [
+    "Robert Ross"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Robert Ross",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 2,
+   "mention_block_ids": [
+    296332,
+    296337
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "Liston thinks it is Robert Ross, but Bryant pulls out a photo of a different man whom she identifies as Ross.",
+    "evidence_in_her_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104415,
+   "as_named_in_interview": "Clifford, Jr.",
+   "surface_forms": [
+    "Clifford",
+    "Clifford, Jr."
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Clifford, Jr.",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 2,
+   "mention_block_ids": [
+    296337
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "The interviewee does not speak about Clifford, Jr. in this context; the mention is made by the interviewer identifying him as the son of the interviewee's ex-husband.",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104488,
+   "as_named_in_interview": "Horn players",
+   "surface_forms": [
+    "Horn players"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Horn players",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    296358
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 1.0,
+    "evidence": "Horn players, get someone to take a pattern off of.",
+    "evidence_in_her_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104486,
+   "as_named_in_interview": "Diva",
+   "surface_forms": [
+    "Diva"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Diva",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    296420
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "The interviewer mentions 'she was with Diva', but the interviewee (Melba Liston) does not confirm any personal connection to Diva, only responding to a question about a different musician.",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104416,
+   "as_named_in_interview": "Janice Robinson",
+   "surface_forms": [
+    "Janice Robinson"
+   ],
+   "upstream_identity": {
+    "qid": "Q28485945",
+    "name": "Janice Robinson",
+    "description": "American trombonist",
+    "born": "1951",
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    296426
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "arranger/keyboardist in Melba Liston's band",
+    "confidence": 0.9,
+    "evidence": "She was with me. She called me the other day.",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104435,
+   "as_named_in_interview": "Bu Pleasant",
+   "surface_forms": [
+    "Bu Pleasant"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Bu Pleasant",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    296481
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "Bu Pleasant – a saxophonist.",
+    "evidence_in_her_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104425,
+   "as_named_in_interview": "Wilene Martin",
+   "surface_forms": [
+    "Wilene Martin"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Wilene Martin",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    296482
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "[INTERVIEWER] Wilene Martin? [INTERVIEWEE] No, but she – all the . . .",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104457,
+   "as_named_in_interview": "Fostina Dixon",
+   "surface_forms": [
+    "Fostina Dixon"
+   ],
+   "upstream_identity": {
+    "qid": "Q24036299",
+    "name": "Fostina Dixon",
+    "description": "American jazz musician",
+    "born": "1956",
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    296484
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "[INTERVIEWER] Fostina Dixon. [INTERVIEWEE] Yeah. All them.",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104399,
+   "as_named_in_interview": "Teri Lyne Carrington",
+   "surface_forms": [
+    "Teri",
+    "Teri Lyne Carrington"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Teri Lyne Carrington",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 3,
+   "mention_block_ids": [
+    296488,
+    296490,
+    296492
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "[INTERVIEWER] Teri Lyne Carrington? [INTERVIEWEE] And who else? I know they got to get out and go back East.",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104470,
+   "as_named_in_interview": "Stacey Rowles",
+   "surface_forms": [
+    "Stacey Rowles"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Stacey Rowles",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    296492
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "The interviewer mentions 'Stacey Rowles' as a trumpet player in a list of local musicians; the interviewee does not respond with any personal anecdote or confirmation of a relationship.",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104472,
+   "as_named_in_interview": "Ann Patterson",
+   "surface_forms": [
+    "Ann Patterson"
+   ],
+   "upstream_identity": {
+    "qid": "Q30693860",
+    "name": "Ann Patterson",
+    "description": "American jazz saxophonist and bandleader (born 1946)",
+    "born": "1946",
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    296492
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "The interviewer mentions Ann Patterson as a bandleader ('what's-her name that has the big band? [Ann Patterson]'), and the interviewee does not provide any personal anecdote or confirmation of a direct relationship, only responding to a general question about young musicians.",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104485,
+   "as_named_in_interview": "Maiden",
+   "surface_forms": [
+    "Maiden"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Maiden",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    296492
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "The interviewer mentions 'Maiden Voyage' as a group name; the interviewee does not respond to this mention or discuss any personal connection to a person named Maiden.",
+    "evidence_in_her_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 104484,
+   "as_named_in_interview": "Ben Loves Lu",
+   "surface_forms": [
+    "Ben Loves Lu"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Ben Loves Lu",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    296510
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "friend of",
+    "direction": "na",
+    "proposed": "her husband",
+    "confidence": 0.95,
+    "evidence": "her man, her husband, Ben Loves Lu",
+    "evidence_in_her_own_words": "exact",
+    "skipped": null
+   }
+  }
+ ]
+}

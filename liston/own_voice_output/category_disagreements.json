@@ -1,0 +1,56 @@
+{
+ "count": 1,
+ "of": 256,
+ "by_pair": [
+  {
+   "pair": [
+    "arranging",
+    "randy_weston"
+   ],
+   "n": 1
+  }
+ ],
+ "scheme_problems": {
+  "a": [
+   "Friendships with musicians that do not bear on a body of work (Bryant on Major Holley 'talking about you the whole time') have no home: life_offstage excludes 'friendships with musicians that bear on her work', and nothing takes the ones that don't. I put the Holley lines in after_the_stroke because the exchange is about him buying her computer after the stroke (295841 low).",
+   "Reception abroad: the big_bands/being_a_woman State Department rule sends 'her acceptance or reception abroad' to being_a_woman, but the line 'Everywhere except here, the United States' (296005) has no gender in it and the follow-up is about jazz; read alone it is recognition (own_bands). The rule decides it but against the line's content.",
+   "Childhood trombone influence: the_trombone includes 'loving the instrument; trombone influences', while the beginnings/the_trombone rule sends any line about the trombone as a child to beginnings. 'I just loved the instrument' answering 'who was your influence when you started' (295854) sits on both.",
+   "Single lines that praise both her solo and her writing (Bryant on My Reverie, 296139): the the_trombone/arranging rule splits solo praise from arrangement praise but gives no tiebreak when one sentence does both.",
+   "Bryant's turn pointing at awards on the wall then asking about goals (296337): the pull quote is cut at the awards (own_bands as recognition) but the turn's question is the goals question (after_the_stroke). Which half governs depends on where the quote was cut.",
+   "Gillespie hiring episode: the rule sends 'men resenting a woman being sent for' and Gillespie having them read her chart to being_a_woman, but 'praise of Gillespie's faith in her' to big_bands. Bryant's 'he relished telling that story... the faith he had in you' (295708) is the punchline of the gender story and is sent the other way; Bryant's report that the men wanted the chair for friends (295706) is not gendered in itself.",
+   "Taking-stock answers that name a wish (writing for films, 296338) or money (295939) fall between after_the_stroke (goals) and arranging/own_bands; the rules handle money explicitly but not the film-scoring wish.",
+   "'Leaders featuring the girl' (being_a_woman) overlaps with lines whose bulk is about her job or playing in the band (295623, 295637); the rule turns on a phrase rather than the line's main subject.",
+   "295613 'I'm going back to New York': the rule sends it to big_bands as a CA-vs-NY band-years remark, but the sentence itself is about 1996 plans (after_the_stroke)."
+  ],
+  "b": [
+   "Friendship lines with no work subject: the includes cover friends who helped after the stroke, and the life_offstage excludes send 'friendships with musicians that bear on her work' to that work's category, but a line that is simply about a friend (Bryant on Major Holley talking about her all the time) has no home; I put it in after_the_stroke because Holley's help came after the stroke, at low confidence.",
+   "beginnings/the_trombone conflict on influences: the_trombone includes 'trombone influences' and 'loving the instrument', but the beginnings/the_trombone rule sends any line about the trombone as a child to beginnings. Her answer about her influence 'when you started' (Tommy Dorsey on the radio, 'I just loved the instrument') sits on both; I chose the_trombone with beginnings secondary.",
+   "The State Department rule sends 'her acceptance or reception abroad' to being_a_woman, but one reply ('Everywhere except here, the United States') is about her reception abroad in general, with no gender in it, and comes after the exchange about women has moved on. The rule's wording pulls it to being_a_woman while the definition ('lines whose point is that she was a woman') does not; I followed the rule at medium confidence.",
+   "The Gillespie hiring episode: the rule sends the men's resentment of 'a woman being sent for' to being_a_woman and 'praise of Gillespie's faith in her' to big_bands. Bryant's line giving Gillespie's reason (the men had friends they wanted in the chair) is part of that episode but names no gender; the two clauses of the rule pull opposite ways for it.",
+   "The State Department medley and Annie's Dance: the big_bands/arranging rule splits on 'the music is the point' versus 'the job', and the same exchange contains both (Bryant describing what the medley contained, Liston saying it was easy because she had played with them all, then 'just another job'). Expect the readers to split these lines.",
+   "Liston's 'I can't write like that no more' after describing writing arrangements 'in a matter of days': the arranging/after_the_stroke rule sends past speed to arranging and regaining speed to after_the_stroke; this line has both halves.",
+   "Bryant's 'Randy is your horn right now' combines the horn, the stroke and Weston; no rule addresses a line where all three are the point.",
+   "Awards on the wall: the own_bands/after_the_stroke rule puts awards in own_bands, but Bryant's line about the awards is the set-up for her goals question (taking stock, after_the_stroke).",
+   "Being sent for by Gillespie after the insurance job ('I went back to New York to stay'): the big_bands/life_offstage rule sends returning to music from a day job to life_offstage, but this return is joining Gillespie's band, which is big_bands."
+  ]
+ },
+ "items": [
+  {
+   "block_id": 295899,
+   "voice": "liston",
+   "pull_quote": "Sometimes I’m writing for bands that have criteria and then sometimes I’m free to write. Randy, I have all the freedom I want.",
+   "a": {
+    "category": "arranging",
+    "secondary": "randy_weston",
+    "confidence": "medium",
+    "reason": "Mostly about clients' criteria vs freedom in general (arranging); ends on her freedom with Randy, which the randy_weston rule names."
+   },
+   "b": {
+    "category": "randy_weston",
+    "secondary": "arranging",
+    "confidence": "medium",
+    "reason": "Most of the line is about clients' criteria in general (arranging), but it lands on her freedom with Weston, which the arranging/randy_weston rule names for randy_weston."
+   }
+  }
+ ]
+}

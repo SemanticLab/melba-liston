@@ -1,0 +1,142 @@
+{
+ "liston": {
+  "evaluated": 118,
+  "expected": 118,
+  "coverage_pct": 100.0,
+  "chunks_missing": [],
+  "dangling_chunk_top_refs": [],
+  "about_subject": 117,
+  "false_positives": 1,
+  "context_changed_reading": 52,
+  "context_changed_pct": 44.1,
+  "non_verbatim_quotes_dropped": 0,
+  "other_interviews": {
+   "evaluated": 50,
+   "about_subject": 49,
+   "documents": 24,
+   "by_mention_kind": {
+    "interviewer_question": 17,
+    "passing_reference": 12,
+    "substantive_comment": 11,
+    "list_item": 6,
+    "archive_boilerplate": 2,
+    "false_positive": 1,
+    "quoted_speech": 1
+   },
+   "by_stance": {
+    "neutral": 26,
+    "positive": 22,
+    "mixed": 1
+   },
+   "shortlist": 12
+  },
+  "own_interview": {
+   "evaluated": 68,
+   "by_mention_kind": {
+    "interviewer_question": 20,
+    "peer_interviewer_testimony": 16,
+    "transcriber_summary": 12,
+    "self_account": 9,
+    "passing_reference": 8,
+    "archive_boilerplate": 3
+   },
+   "shortlist": 9
+  },
+  "fts_supplement": {
+   "evaluated": 10,
+   "confirmed_as_her": 10
+  },
+  "by_mention_kind": {
+   "interviewer_question": 37,
+   "passing_reference": 20,
+   "peer_interviewer_testimony": 16,
+   "transcriber_summary": 12,
+   "substantive_comment": 11,
+   "self_account": 9,
+   "list_item": 6,
+   "archive_boilerplate": 5,
+   "false_positive": 1,
+   "quoted_speech": 1
+  },
+  "by_stance": {
+   "neutral": 65,
+   "positive": 50,
+   "mixed": 1,
+   "negative": 1
+  },
+  "by_notable": {
+   "1": 51,
+   "0": 43,
+   "2": 16,
+   "3": 8
+  },
+  "by_relationship": {
+   "personally": 89,
+   "not_applicable": 17,
+   "unclear": 10,
+   "secondhand": 2
+  },
+  "by_content_type": {
+   "personal_memory": 46,
+   "biographical_fact": 35,
+   "arranging_composing": 32,
+   "musical_assessment": 22,
+   "working_relationship": 13,
+   "gender": 13,
+   "character_description": 10,
+   "health": 10,
+   "historical_context": 9,
+   "mentorship": 9,
+   "anecdote": 8,
+   "legacy_influence": 5,
+   "humor": 2,
+   "comparison": 2,
+   "influence": 2,
+   "hearsay": 1,
+   "criticism": 1
+  },
+  "top_topics": {
+   "Dizzy Gillespie big band": 12,
+   "Randy Weston": 10,
+   "women in jazz": 10,
+   "Quincy Jones big band": 9,
+   "Alma Hightower": 6,
+   "childhood": 5,
+   "My Reverie": 5,
+   "Los Angeles": 4,
+   "Vi Redd": 4,
+   "Little Niles": 4,
+   "Gloria Lynne": 4,
+   "childhood photographs": 4,
+   "friendship": 4,
+   "musical director": 3,
+   "Dizzy Gillespie": 3,
+   "trombone": 3,
+   "Kansas City": 3,
+   "Minnie Hightower": 3,
+   "Board of Education": 3,
+   "ballad playing": 3,
+   "string writing": 3,
+   "Earth Birth": 3,
+   "Love, I’ve Found You": 3,
+   "Smithsonian interview": 3,
+   "arranging": 2,
+   "Gerald Wilson big band": 2,
+   "Mary Lou Williams comeback": 2,
+   "Atlantic City": 2,
+   "Kim Weston": 2,
+   "trombone section": 2,
+   "World of Trombones": 2,
+   "trombone choir": 2,
+   "Randy Weston partnership": 2,
+   "stroke": 2,
+   "mother": 2,
+   "music teacher": 2,
+   "Gerald Wilson band": 2,
+   "Golden State insurance": 2,
+   "soul": 2,
+   "Hi-Fly": 2
+  },
+  "shortlist_size": 21
+ }
+}

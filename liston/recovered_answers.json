@@ -1,0 +1,391 @@
+{
+ "subject": "liston",
+ "qid": "Q274146",
+ "count": 11,
+ "answer_blocks": 12,
+ "method": "For every interviewer-spoken block that mentions the subject, the next 4 blocks are collected, keeping dialogue/prose turns of >=80 chars that are NOT already attributed to the subject by the person layer, stopping when the interviewer speaks again. These are CANDIDATES: the answer to a question about the subject is usually but not always about the subject. Nothing here has been evaluated — treat as unverified until classified.",
+ "items": [
+  {
+   "subject": "liston",
+   "qid": "Q274146",
+   "question": {
+    "block_id": 275969,
+    "speaker": "Brower",
+    "text": "Talk about the – you’ve been involved in a lot of projects that feature trombones. There’s lots of recordings – you did stuff with Curtis Fuller, you did stuff with Melba Liston – that foreshadow – announce the coming of the World of Trombones. Give us the – how that idea was born, what you were thinking about in terms of the choices of the musicians that you got involved in that, and what it was like to maintain",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Hampton_Slide_Transcript#b97-4"
+   },
+   "answers": [
+    {
+     "block_id": 275971,
+     "page": 99,
+     "block": 0,
+     "speaker": "",
+     "text": "The people realized, from the fact that we were organizing the trombone ensembles, what the sound of the trombone was. Then more young people started to become interested in the trombone again. Although when I came back there were no trombone players in the schools, now you can find ten trombone players in a school, or 20 trombone players, and a lot of them are females, and they’re playing good. Thanks to J. J., because J. J. was the guy that really – he’s the guy that won the poll for the whole period of time that we – I mean, ’50s and the ’60s, J. J. won the poll, because he played so well.",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Hampton_Slide_Transcript#b99-0"
+    }
+   ],
+   "src": {
+    "doc_id": "Hampton_Slide_Transcript",
+    "block_id": 275969,
+    "page": 97,
+    "block": 4,
+    "collection": "si",
+    "title": "Slide Hampton — Smithsonian Jazz Oral History",
+    "interviewee": "Slide Hampton",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Hampton_Slide_Transcript#b97-4",
+    "source_url": "https://amhistory.si.edu/jazz/Hampton-Slide/Hampton_Slide_Transcript.pdf"
+   },
+   "status": "unevaluated_candidate"
+  },
+  {
+   "subject": "liston",
+   "qid": "Q274146",
+   "question": {
+    "block_id": 289013,
+    "speaker": "Baker",
+    "text": "Let me ask you something else, because another area that people don’t talk about, where you were taking chances before anybody else was doing that – I’m thinking now of Patti Bown. I’m thinking of Melba.",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Jones_Quincy_Transcript#b30-3"
+   },
+   "answers": [
+    {
+     "block_id": 289015,
+     "page": 30,
+     "block": 5,
+     "speaker": "Baker",
+     "text": "I’m thinking that you were using women in high-profile positions ten years before it became fashionable to do so.",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Jones_Quincy_Transcript#b30-5"
+    },
+    {
+     "block_id": 289016,
+     "page": 31,
+     "block": 0,
+     "speaker": "Jones",
+     "text": "I never even thought twice about it. Can she play? That’s all I care. Can she play? Clora Bryant I met when I was 12 years old. She was with Sweethearts of Rhythm. You know Clora? Trumpet player. 12 years old. Please. Can she play? That’s all. Whatever it is. I don’t care.",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Jones_Quincy_Transcript#b31-0"
+    }
+   ],
+   "src": {
+    "doc_id": "Jones_Quincy_Transcript",
+    "block_id": 289013,
+    "page": 30,
+    "block": 3,
+    "collection": "si",
+    "title": "Quincy Jones — Smithsonian Jazz Oral History",
+    "interviewee": "Quincy Jones",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Jones_Quincy_Transcript#b30-3",
+    "source_url": "https://amhistory.si.edu/jazz/Jones-Quincy/Jones_Quincy_Transcript.pdf"
+   },
+   "status": "unevaluated_candidate"
+  },
+  {
+   "subject": "liston",
+   "qid": "Q274146",
+   "question": {
+    "block_id": 277029,
+    "speaker": "Brauer",
+    "text": "There’s a date that Tad Dameron and Melba Liston were involved with.",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Hank_Jones_Transcript#b91-15"
+   },
+   "answers": [
+    {
+     "block_id": 277032,
+     "page": 92,
+     "block": 2,
+     "speaker": "Jones",
+     "text": "Wow. That goes back a ways. I tell you, I couldn't begin to remember all of the dates. I did so many dates. I was just talking to a guy from Japan, a man who has got to be my number one fan. He has got 550 albums that I have made and he said that he could get all of them because they are out-of-print.",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Hank_Jones_Transcript#b92-2"
+    }
+   ],
+   "src": {
+    "doc_id": "Hank_Jones_Transcript",
+    "block_id": 277029,
+    "page": 91,
+    "block": 15,
+    "collection": "si",
+    "title": "Jones Hank — Smithsonian Jazz Oral History",
+    "interviewee": "Jones Hank",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Hank_Jones_Transcript#b91-15",
+    "source_url": "https://amhistory.si.edu/jazz/Jones-Hank/Hank_Jones_Transcript.pdf"
+   },
+   "status": "unevaluated_candidate"
+  },
+  {
+   "subject": "liston",
+   "qid": "Q274146",
+   "question": {
+    "block_id": 272797,
+    "speaker": "Brower",
+    "text": "That isn't it is very important to Dr. Taylor, is the cultivation, or the equalization of the participation of women in this music. But, does that hearken back to may be the experience of Melba Liston and how important she was? Talk about that relationship",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Fuller_Curtis_Transcript#b79-1"
+   },
+   "answers": [
+    {
+     "block_id": 272798,
+     "page": 79,
+     "block": 2,
+     "speaker": "Curtis Fuller",
+     "text": "Oh yeah, that was a beautiful relationship. I've seen her sit on the bandstand and cry. And that organization actually had to women and it. Patty Bowen was on piano.",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Fuller_Curtis_Transcript#b79-2"
+    }
+   ],
+   "src": {
+    "doc_id": "Fuller_Curtis_Transcript",
+    "block_id": 272797,
+    "page": 79,
+    "block": 1,
+    "collection": "si",
+    "title": "Curtis Fuller — Smithsonian Jazz Oral History",
+    "interviewee": "Curtis Fuller",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Fuller_Curtis_Transcript#b79-1",
+    "source_url": "https://amhistory.si.edu/jazz/Fuller-Curtis/Fuller_Curtis_Transcript.pdf"
+   },
+   "status": "unevaluated_candidate"
+  },
+  {
+   "subject": "liston",
+   "qid": "Q274146",
+   "question": {
+    "block_id": 315135,
+    "speaker": "Stitt",
+    "text": "Melba Liston?",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Shirley_Horn_Interview_Transcription#b94-11"
+   },
+   "answers": [
+    {
+     "block_id": 315137,
+     "page": 95,
+     "block": 0,
+     "speaker": "Stitt",
+     "text": "Actually, we didn‘t talk about Ray Charles, and that was my thought, but it completely slipped my mind. I know you did the tribute album to him in 1993.",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Shirley_Horn_Interview_Transcription#b95-0"
+    }
+   ],
+   "src": {
+    "doc_id": "Shirley_Horn_Interview_Transcription",
+    "block_id": 315135,
+    "page": 94,
+    "block": 11,
+    "collection": "si",
+    "title": "Horn Shirley — Smithsonian Jazz Oral History",
+    "interviewee": "Horn Shirley",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Shirley_Horn_Interview_Transcription#b94-11",
+    "source_url": "https://amhistory.si.edu/jazz/Horn-Shirley/Shirley_Horn_Interview_Transcription.pdf"
+   },
+   "status": "unevaluated_candidate"
+  },
+  {
+   "subject": "liston",
+   "qid": "Q274146",
+   "question": {
+    "block_id": 275465,
+    "speaker": "Brower",
+    "text": "You were talking about the circumstances that led you to leave the Ferguson band and to go on to your assignment with Dizzy. We talked about that band. In that band, is that your first relationship with Melba Liston?",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Hampton_Slide_Transcript#b48-9"
+   },
+   "answers": [
+    {
+     "block_id": 275466,
+     "page": 48,
+     "block": 10,
+     "speaker": "Hampton",
+     "text": "Yes it was. I didn’t know that she was as heavy musically as she was. I got in that band. I learned it real fast. Musically, she was heavy.",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Hampton_Slide_Transcript#b48-10"
+    }
+   ],
+   "src": {
+    "doc_id": "Hampton_Slide_Transcript",
+    "block_id": 275465,
+    "page": 48,
+    "block": 9,
+    "collection": "si",
+    "title": "Slide Hampton — Smithsonian Jazz Oral History",
+    "interviewee": "Slide Hampton",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Hampton_Slide_Transcript#b48-9",
+    "source_url": "https://amhistory.si.edu/jazz/Hampton-Slide/Hampton_Slide_Transcript.pdf"
+   },
+   "status": "unevaluated_candidate"
+  },
+  {
+   "subject": "liston",
+   "qid": "Q274146",
+   "question": {
+    "block_id": 289017,
+    "speaker": "Baker",
+    "text": "It opened the door for Diva and so many of these other things. When I talk to Ellen Seeling and those people, they tell me, the first time they saw it was when they saw the Quincy Jones band and they saw Melba writing – what is it? Reverie. That she had done the arrangement on.",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Jones_Quincy_Transcript#b31-1"
+   },
+   "answers": [
+    {
+     "block_id": 289021,
+     "page": 31,
+     "block": 5,
+     "speaker": "Baker",
+     "text": "And all of a sudden they said, look, we don’t have to have an all-girl band unless we want to. We can play in any band.",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Jones_Quincy_Transcript#b31-5"
+    }
+   ],
+   "src": {
+    "doc_id": "Jones_Quincy_Transcript",
+    "block_id": 289017,
+    "page": 31,
+    "block": 1,
+    "collection": "si",
+    "title": "Quincy Jones — Smithsonian Jazz Oral History",
+    "interviewee": "Quincy Jones",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Jones_Quincy_Transcript#b31-1",
+    "source_url": "https://amhistory.si.edu/jazz/Jones-Quincy/Jones_Quincy_Transcript.pdf"
+   },
+   "status": "unevaluated_candidate"
+  },
+  {
+   "subject": "liston",
+   "qid": "Q274146",
+   "question": {
+    "block_id": 272804,
+    "speaker": "Brower",
+    "text": "With Melba, was it a learning situation with you and her?",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Fuller_Curtis_Transcript#b80-1"
+   },
+   "answers": [
+    {
+     "block_id": 272805,
+     "page": 80,
+     "block": 2,
+     "speaker": "Curtis Fuller",
+     "text": "Oh, I loved every moment of it because when I first met her I didn't know Gerald Wilson was her husband. Did you?",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Fuller_Curtis_Transcript#b80-2"
+    }
+   ],
+   "src": {
+    "doc_id": "Fuller_Curtis_Transcript",
+    "block_id": 272804,
+    "page": 80,
+    "block": 1,
+    "collection": "si",
+    "title": "Curtis Fuller — Smithsonian Jazz Oral History",
+    "interviewee": "Curtis Fuller",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Fuller_Curtis_Transcript#b80-1",
+    "source_url": "https://amhistory.si.edu/jazz/Fuller-Curtis/Fuller_Curtis_Transcript.pdf"
+   },
+   "status": "unevaluated_candidate"
+  },
+  {
+   "subject": "liston",
+   "qid": "Q274146",
+   "question": {
+    "block_id": 231704,
+    "speaker": "JW",
+    "text": "Roommates. Sonny Payne, when I joined the Basie band, because I had a lot of roommates. I had Snooky Young while we were in St. Louis. Snooky and I were roommates and we shared a bathroom with Melba Liston, who had the next, she had like the adjoining door and the bathroom on her side and on our side.",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275883#b12-7"
+   },
+   "answers": [
+    {
+     "block_id": 231706,
+     "page": 12,
+     "block": 9,
+     "speaker": "JW",
+     "text": "Oh, God, the Southway in Chicago. I mean when the Southway was really the Southway, it was all white.",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275883#b12-9"
+    }
+   ],
+   "src": {
+    "doc_id": "275883",
+    "block_id": 231704,
+    "page": 12,
+    "block": 7,
+    "collection": "hamilton",
+    "title": "Clark Terry interviewed by Joe Williams and Michael Woods, Clinton, New York, May 19, 1995",
+    "interviewee": "Clark Terry",
+    "interviewer": null,
+    "year": 1995,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275883#b12-7",
+    "source_url": "https://litsdigital.hamilton.edu/collections/object/clark-terry-interviewed-joe-williams-and-michael-woods-clinton-new-york-may-19"
+   },
+   "status": "unevaluated_candidate"
+  },
+  {
+   "subject": "liston",
+   "qid": "Q274146",
+   "question": {
+    "block_id": 430822,
+    "speaker": "MR. HINTON",
+    "text": "Just two trombones? You and Melba Liston?",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=61539#b399-5"
+   },
+   "answers": [
+    {
+     "block_id": 430825,
+     "page": 399,
+     "block": 8,
+     "speaker": "MR. JACKSON",
+     "text": "Uh-huh. And Fred Standifer was the trumpet player that doubled on saxophone. Benny Bailey.",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=61539#b399-8"
+    }
+   ],
+   "src": {
+    "doc_id": "61539",
+    "block_id": 430822,
+    "page": 399,
+    "block": 5,
+    "collection": "rutgers",
+    "title": "61539_Butter Jackson oral history interview",
+    "interviewee": "Quentin Jackson",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=61539#b399-5",
+    "source_url": "https://rucore.libraries.rutgers.edu/rutgers-lib/61539/"
+   },
+   "status": "unevaluated_candidate"
+  },
+  {
+   "subject": "liston",
+   "qid": "Q274146",
+   "question": {
+    "block_id": 271162,
+    "speaker": "Coleman",
+    "text": "Were there any women besides Melba in those big bands and stuff?",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Freeman_Von_Transcript#b32-5"
+   },
+   "answers": [
+    {
+     "block_id": 271163,
+     "page": 32,
+     "block": 6,
+     "speaker": "Freeman",
+     "text": "They always had the Sweethearts of Rhythm. That was a whole lady band, about 17 pieces.",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Freeman_Von_Transcript#b32-6"
+    }
+   ],
+   "src": {
+    "doc_id": "Freeman_Von_Transcript",
+    "block_id": 271162,
+    "page": 32,
+    "block": 5,
+    "collection": "si",
+    "title": "Von Freeman — Smithsonian Jazz Oral History",
+    "interviewee": "Von Freeman",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Freeman_Von_Transcript#b32-5",
+    "source_url": "https://amhistory.si.edu/jazz/Freeman-Von/Freeman_Von_Transcript.pdf"
+   },
+   "status": "unevaluated_candidate"
+  }
+ ]
+}
