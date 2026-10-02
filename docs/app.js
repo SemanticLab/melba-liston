@@ -17,6 +17,9 @@
     return n;
   };
   const ext = (attrs) => Object.assign({ target: '_blank', rel: 'noopener' }, attrs);
+  // the build stamps a hash of the data into the page so a stale cached copy is never used
+  const BUILD = (document.querySelector('meta[name="build"]') || {}).content || '';
+  const versioned = (url) => (BUILD ? `${url}?v=${BUILD}` : url);
 
   // a row of filter pills; `get` reads the current key, `set` stores a new one
   function pills(host, options, get, set) {
@@ -32,7 +35,7 @@
   // Every quote on the page opens here: the turns around it, read in place, with
   // a link to the archive's own copy. transcripts.json is fetched on first use.
   let transcripts = null;
-  const loadTranscripts = () => transcripts || (transcripts = fetch('transcripts.json').then((r) => {
+  const loadTranscripts = () => transcripts || (transcripts = fetch(versioned('transcripts.json')).then((r) => {
     if (!r.ok) throw new Error(r.status);
     return r.json();
   }));
@@ -366,7 +369,7 @@
       el('li', null, c.covers));
   }
 
-  fetch('data.json')
+  fetch(versioned('data.json'))
     .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
     .then((d) => {
       initPassage();

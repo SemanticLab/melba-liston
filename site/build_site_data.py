@@ -23,6 +23,7 @@ What the page shows, and from where:
                  URL -- the page links to the original, not to a reader.
 """
 
+import hashlib
 import json
 import os
 import re
@@ -361,6 +362,23 @@ def build_roster(disc, roster, images, release_index, cards, credits):
             "counts": {"said": n_said, "she": n_she}}
 
 
+def stamp_versions():
+    """semlab.io sits behind Cloudflare, which caches .css and .js for four hours
+    and tells browsers to do the same for everything. index.html is not cached at
+    the edge, so each asset URL in it carries a hash of the file: a changed file
+    is a new URL. app.js reads the data hash from the <meta name="build"> tag."""
+    h = lambda *names: hashlib.sha1(b"".join((OUT / n).read_bytes() for n in names)).hexdigest()[:10]
+    page = OUT / "index.html"
+    html = page.read_text(encoding="utf-8")
+    html, n1 = re.subn(r'href="style\.css(\?v=\w+)?"', f'href="style.css?v={h("style.css")}"', html)
+    html, n2 = re.subn(r'src="app\.js(\?v=\w+)?"', f'src="app.js?v={h("app.js")}"', html)
+    html, n3 = re.subn(r'<meta name="build" content="\w*">',
+                       f'<meta name="build" content="{h("data.json", "transcripts.json")}">', html)
+    if (n1, n2, n3) != (1, 1, 1):
+        sys.exit("index.html: could not stamp asset versions")
+    page.write_text(html, encoding="utf-8")
+
+
 def main():
     prof = load(D / "profile.json")["profile"]
     docs = load(D / "documents.json")
@@ -442,6 +460,8 @@ def main():
         json.dumps(transcripts, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     if "linked-jazz-2026-transcripts" in (OUT / "data.json").read_text(encoding="utf-8"):
         sys.exit("data.json still links to the transcript reader")
+
+    stamp_versions()
 
     print(f"docs/data.json  {os.path.getsize(OUT / 'data.json') // 1024} KB")
     print(f"docs/transcripts.json  {os.path.getsize(OUT / 'transcripts.json') // 1024} KB  "
